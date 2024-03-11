@@ -1,0 +1,15 @@
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\bin\Debug\net8.0\006-Convert-a-Number-to-a-String.exe
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\bin\Debug\net8.0\006-Convert-a-Number-to-a-String.deps.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\bin\Debug\net8.0\006-Convert-a-Number-to-a-String.runtimeconfig.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\bin\Debug\net8.0\006-Convert-a-Number-to-a-String.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\bin\Debug\net8.0\006-Convert-a-Number-to-a-String.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\obj\Debug\net8.0\006-Convert-a-Number-to-a-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\obj\Debug\net8.0\006-Convert-a-Number-to-a-String.AssemblyInfoInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\obj\Debug\net8.0\006-Convert-a-Number-to-a-String.AssemblyInfo.cs
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\obj\Debug\net8.0\006-Convert-a-Number-to-a-String.csproj.CoreCompileInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\obj\Debug\net8.0\006-Convert-a-Number-to-a-String.sourcelink.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\obj\Debug\net8.0\006-Convert-a-Number-to-a-String.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\obj\Debug\net8.0\refint\006-Convert-a-Number-to-a-String.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\obj\Debug\net8.0\006-Convert-a-Number-to-a-String.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\obj\Debug\net8.0\006-Convert-a-Number-to-a-String.genruntimeconfig.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\006-Convert-a-Number-to-a-String\obj\Debug\net8.0\ref\006-Convert-a-Number-to-a-String.dll
