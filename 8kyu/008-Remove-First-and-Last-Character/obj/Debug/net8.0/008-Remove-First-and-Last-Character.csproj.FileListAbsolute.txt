@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\bin\Debug\net8.0\008-Remove-First-and-Last-Character.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\bin\Debug\net8.0\008-Remove-First-and-Last-Character.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\bin\Debug\net8.0\008-Remove-First-and-Last-Character.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\bin\Debug\net8.0\008-Remove-First-and-Last-Character.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\bin\Debug\net8.0\008-Remove-First-and-Last-Character.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\obj\Debug\net8.0\008-Remove-First-and-Last-Character.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\obj\Debug\net8.0\008-Remove-First-and-Last-Character.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\obj\Debug\net8.0\008-Remove-First-and-Last-Character.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\obj\Debug\net8.0\008-Remove-First-and-Last-Character.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\obj\Debug\net8.0\008-Remove-First-and-Last-Character.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\obj\Debug\net8.0\008-Remove-First-and-Last-Character.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\obj\Debug\net8.0\refint\008-Remove-First-and-Last-Character.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\obj\Debug\net8.0\008-Remove-First-and-Last-Character.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\obj\Debug\net8.0\008-Remove-First-and-Last-Character.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\008-Remove-First-and-Last-Character\obj\Debug\net8.0\ref\008-Remove-First-and-Last-Character.dll
