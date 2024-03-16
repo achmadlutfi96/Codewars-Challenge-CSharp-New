@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("007-Opposite-number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0747b2ad02298064523f6d6a64183e0ea53e879")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a82013caf15c6a3872599306857d74a0dc1af4b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("007-Opposite-number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("007-Opposite-number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

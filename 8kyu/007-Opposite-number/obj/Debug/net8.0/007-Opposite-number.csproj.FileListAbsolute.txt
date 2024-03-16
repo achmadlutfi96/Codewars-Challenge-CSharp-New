@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\bin\Debug\net8.0\007-Opposite-number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\bin\Debug\net8.0\007-Opposite-number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\bin\Debug\net8.0\007-Opposite-number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\bin\Debug\net8.0\007-Opposite-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\bin\Debug\net8.0\007-Opposite-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\obj\Debug\net8.0\007-Opposite-number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\obj\Debug\net8.0\007-Opposite-number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\obj\Debug\net8.0\007-Opposite-number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\obj\Debug\net8.0\007-Opposite-number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\obj\Debug\net8.0\007-Opposite-number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\obj\Debug\net8.0\007-Opposite-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\obj\Debug\net8.0\refint\007-Opposite-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\obj\Debug\net8.0\007-Opposite-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\obj\Debug\net8.0\007-Opposite-number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\007-Opposite-number\obj\Debug\net8.0\ref\007-Opposite-number.dll
