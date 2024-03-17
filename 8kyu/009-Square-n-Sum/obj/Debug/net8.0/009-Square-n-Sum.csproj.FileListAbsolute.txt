@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\bin\Debug\net8.0\009-Square-n-Sum.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\bin\Debug\net8.0\009-Square-n-Sum.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\bin\Debug\net8.0\009-Square-n-Sum.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\bin\Debug\net8.0\009-Square-n-Sum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\bin\Debug\net8.0\009-Square-n-Sum.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\obj\Debug\net8.0\009-Square-n-Sum.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\obj\Debug\net8.0\009-Square-n-Sum.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\obj\Debug\net8.0\009-Square-n-Sum.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\obj\Debug\net8.0\009-Square-n-Sum.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\obj\Debug\net8.0\009-Square-n-Sum.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\obj\Debug\net8.0\009-Square-n-Sum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\obj\Debug\net8.0\refint\009-Square-n-Sum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\obj\Debug\net8.0\009-Square-n-Sum.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\obj\Debug\net8.0\009-Square-n-Sum.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\009-Square-n-Sum\obj\Debug\net8.0\ref\009-Square-n-Sum.dll
