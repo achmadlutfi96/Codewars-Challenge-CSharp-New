@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\bin\Debug\net8.0\010-String-repeat.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\bin\Debug\net8.0\010-String-repeat.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\bin\Debug\net8.0\010-String-repeat.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\bin\Debug\net8.0\010-String-repeat.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\bin\Debug\net8.0\010-String-repeat.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\obj\Debug\net8.0\010-String-repeat.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\obj\Debug\net8.0\010-String-repeat.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\obj\Debug\net8.0\010-String-repeat.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\obj\Debug\net8.0\010-String-repeat.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\obj\Debug\net8.0\010-String-repeat.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\obj\Debug\net8.0\010-String-repeat.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\obj\Debug\net8.0\refint\010-String-repeat.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\obj\Debug\net8.0\010-String-repeat.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\obj\Debug\net8.0\010-String-repeat.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\010-String-repeat\obj\Debug\net8.0\ref\010-String-repeat.dll
