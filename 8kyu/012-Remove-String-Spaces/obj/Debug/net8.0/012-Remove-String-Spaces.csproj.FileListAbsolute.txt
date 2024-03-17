@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\bin\Debug\net8.0\012-Remove-String-Spaces.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\bin\Debug\net8.0\012-Remove-String-Spaces.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\bin\Debug\net8.0\012-Remove-String-Spaces.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\bin\Debug\net8.0\012-Remove-String-Spaces.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\bin\Debug\net8.0\012-Remove-String-Spaces.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\obj\Debug\net8.0\012-Remove-String-Spaces.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\obj\Debug\net8.0\012-Remove-String-Spaces.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\obj\Debug\net8.0\012-Remove-String-Spaces.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\obj\Debug\net8.0\012-Remove-String-Spaces.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\obj\Debug\net8.0\012-Remove-String-Spaces.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\obj\Debug\net8.0\012-Remove-String-Spaces.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\obj\Debug\net8.0\refint\012-Remove-String-Spaces.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\obj\Debug\net8.0\012-Remove-String-Spaces.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\obj\Debug\net8.0\012-Remove-String-Spaces.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\012-Remove-String-Spaces\obj\Debug\net8.0\ref\012-Remove-String-Spaces.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012-Remove-String-Spaces", "012-Remove-String-Spaces.csproj", "{9873B2D3-50D1-4075-B2BB-A7F7D844D924}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9873B2D3-50D1-4075-B2BB-A7F7D844D924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9873B2D3-50D1-4075-B2BB-A7F7D844D924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9873B2D3-50D1-4075-B2BB-A7F7D844D924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9873B2D3-50D1-4075-B2BB-A7F7D844D924}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {928D1E7E-BFE2-4708-ABF5-E1698F889379}
+	EndGlobalSection
+EndGlobal
