@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\bin\Debug\net8.0\011-Grasshopper-Summation.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\bin\Debug\net8.0\011-Grasshopper-Summation.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\bin\Debug\net8.0\011-Grasshopper-Summation.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\bin\Debug\net8.0\011-Grasshopper-Summation.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\bin\Debug\net8.0\011-Grasshopper-Summation.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\obj\Debug\net8.0\011-Grasshopper-Summation.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\obj\Debug\net8.0\011-Grasshopper-Summation.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\obj\Debug\net8.0\011-Grasshopper-Summation.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\obj\Debug\net8.0\011-Grasshopper-Summation.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\obj\Debug\net8.0\011-Grasshopper-Summation.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\obj\Debug\net8.0\011-Grasshopper-Summation.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\obj\Debug\net8.0\refint\011-Grasshopper-Summation.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\obj\Debug\net8.0\011-Grasshopper-Summation.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\obj\Debug\net8.0\011-Grasshopper-Summation.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\011-Grasshopper-Summation\obj\Debug\net8.0\ref\011-Grasshopper-Summation.dll
