@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\bin\Debug\net8.0\014-Counting-sheep.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\bin\Debug\net8.0\014-Counting-sheep.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\bin\Debug\net8.0\014-Counting-sheep.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\bin\Debug\net8.0\014-Counting-sheep.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\bin\Debug\net8.0\014-Counting-sheep.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\obj\Debug\net8.0\014-Counting-sheep.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\obj\Debug\net8.0\014-Counting-sheep.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\obj\Debug\net8.0\014-Counting-sheep.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\obj\Debug\net8.0\014-Counting-sheep.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\obj\Debug\net8.0\014-Counting-sheep.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\obj\Debug\net8.0\014-Counting-sheep.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\obj\Debug\net8.0\refint\014-Counting-sheep.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\obj\Debug\net8.0\014-Counting-sheep.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\obj\Debug\net8.0\014-Counting-sheep.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\014-Counting-sheep\obj\Debug\net8.0\ref\014-Counting-sheep.dll

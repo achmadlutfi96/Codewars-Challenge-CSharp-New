@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "014-Counting-sheep/1.0.0": {
+        "runtime": {
+          "014-Counting-sheep.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "014-Counting-sheep/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
