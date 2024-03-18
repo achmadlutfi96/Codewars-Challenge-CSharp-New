@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\bin\Debug\net8.0\018-Keep-Hydrated.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\bin\Debug\net8.0\018-Keep-Hydrated.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\bin\Debug\net8.0\018-Keep-Hydrated.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\bin\Debug\net8.0\018-Keep-Hydrated.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\bin\Debug\net8.0\018-Keep-Hydrated.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\obj\Debug\net8.0\018-Keep-Hydrated.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\obj\Debug\net8.0\018-Keep-Hydrated.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\obj\Debug\net8.0\018-Keep-Hydrated.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\obj\Debug\net8.0\018-Keep-Hydrated.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\obj\Debug\net8.0\018-Keep-Hydrated.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\obj\Debug\net8.0\018-Keep-Hydrated.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\obj\Debug\net8.0\refint\018-Keep-Hydrated.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\obj\Debug\net8.0\018-Keep-Hydrated.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\obj\Debug\net8.0\018-Keep-Hydrated.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\018-Keep-Hydrated\obj\Debug\net8.0\ref\018-Keep-Hydrated.dll
