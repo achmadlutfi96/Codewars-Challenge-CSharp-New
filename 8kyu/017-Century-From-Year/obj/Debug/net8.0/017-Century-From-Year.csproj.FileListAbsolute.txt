@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\bin\Debug\net8.0\017-Century-From-Year.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\bin\Debug\net8.0\017-Century-From-Year.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\bin\Debug\net8.0\017-Century-From-Year.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\bin\Debug\net8.0\017-Century-From-Year.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\bin\Debug\net8.0\017-Century-From-Year.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\obj\Debug\net8.0\017-Century-From-Year.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\obj\Debug\net8.0\017-Century-From-Year.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\obj\Debug\net8.0\017-Century-From-Year.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\obj\Debug\net8.0\017-Century-From-Year.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\obj\Debug\net8.0\017-Century-From-Year.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\obj\Debug\net8.0\017-Century-From-Year.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\obj\Debug\net8.0\refint\017-Century-From-Year.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\obj\Debug\net8.0\017-Century-From-Year.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\obj\Debug\net8.0\017-Century-From-Year.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\017-Century-From-Year\obj\Debug\net8.0\ref\017-Century-From-Year.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "017-Century-From-Year/1.0.0": {
+        "runtime": {
+          "017-Century-From-Year.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "017-Century-From-Year/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
