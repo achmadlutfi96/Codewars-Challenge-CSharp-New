@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "016-Convert-a-String-to-a-Number/1.0.0": {
+        "runtime": {
+          "016-Convert-a-String-to-a-Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "016-Convert-a-String-to-a-Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
