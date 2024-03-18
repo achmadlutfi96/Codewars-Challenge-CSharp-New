@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "013-Find-the-smallest-integer-in-the-array/1.0.0": {
+        "runtime": {
+          "013-Find-the-smallest-integer-in-the-array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "013-Find-the-smallest-integer-in-the-array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

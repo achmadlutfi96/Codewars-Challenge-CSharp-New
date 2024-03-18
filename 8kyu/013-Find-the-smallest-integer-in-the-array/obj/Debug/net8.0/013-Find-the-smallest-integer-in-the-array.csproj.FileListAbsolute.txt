@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\bin\Debug\net8.0\013-Find-the-smallest-integer-in-the-array.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\bin\Debug\net8.0\013-Find-the-smallest-integer-in-the-array.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\bin\Debug\net8.0\013-Find-the-smallest-integer-in-the-array.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\bin\Debug\net8.0\013-Find-the-smallest-integer-in-the-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\bin\Debug\net8.0\013-Find-the-smallest-integer-in-the-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\obj\Debug\net8.0\013-Find-the-smallest-integer-in-the-array.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\obj\Debug\net8.0\013-Find-the-smallest-integer-in-the-array.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\obj\Debug\net8.0\013-Find-the-smallest-integer-in-the-array.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\obj\Debug\net8.0\013-Find-the-smallest-integer-in-the-array.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\obj\Debug\net8.0\013-Find-the-smallest-integer-in-the-array.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\obj\Debug\net8.0\013-Find-the-smallest-integer-in-the-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\obj\Debug\net8.0\refint\013-Find-the-smallest-integer-in-the-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\obj\Debug\net8.0\013-Find-the-smallest-integer-in-the-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\obj\Debug\net8.0\013-Find-the-smallest-integer-in-the-array.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\013-Find-the-smallest-integer-in-the-array\obj\Debug\net8.0\ref\013-Find-the-smallest-integer-in-the-array.dll
