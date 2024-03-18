@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\bin\Debug\net8.0\019-Abbreviate-a-Two-Word-Name.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\bin\Debug\net8.0\019-Abbreviate-a-Two-Word-Name.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\bin\Debug\net8.0\019-Abbreviate-a-Two-Word-Name.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\bin\Debug\net8.0\019-Abbreviate-a-Two-Word-Name.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\bin\Debug\net8.0\019-Abbreviate-a-Two-Word-Name.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\obj\Debug\net8.0\019-Abbreviate-a-Two-Word-Name.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\obj\Debug\net8.0\019-Abbreviate-a-Two-Word-Name.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\obj\Debug\net8.0\019-Abbreviate-a-Two-Word-Name.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\obj\Debug\net8.0\019-Abbreviate-a-Two-Word-Name.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\obj\Debug\net8.0\019-Abbreviate-a-Two-Word-Name.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\obj\Debug\net8.0\019-Abbreviate-a-Two-Word-Name.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\obj\Debug\net8.0\refint\019-Abbreviate-a-Two-Word-Name.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\obj\Debug\net8.0\019-Abbreviate-a-Two-Word-Name.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\obj\Debug\net8.0\019-Abbreviate-a-Two-Word-Name.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\019-Abbreviate-a-Two-Word-Name\obj\Debug\net8.0\ref\019-Abbreviate-a-Two-Word-Name.dll

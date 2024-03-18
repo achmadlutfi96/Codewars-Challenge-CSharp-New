@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "019-Abbreviate-a-Two-Word-Name/1.0.0": {
+        "runtime": {
+          "019-Abbreviate-a-Two-Word-Name.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "019-Abbreviate-a-Two-Word-Name/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
