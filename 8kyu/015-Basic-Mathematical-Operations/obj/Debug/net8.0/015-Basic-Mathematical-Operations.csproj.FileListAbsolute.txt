@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\bin\Debug\net8.0\015-Basic-Mathematical-Operations.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\bin\Debug\net8.0\015-Basic-Mathematical-Operations.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\bin\Debug\net8.0\015-Basic-Mathematical-Operations.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\bin\Debug\net8.0\015-Basic-Mathematical-Operations.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\bin\Debug\net8.0\015-Basic-Mathematical-Operations.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\obj\Debug\net8.0\015-Basic-Mathematical-Operations.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\obj\Debug\net8.0\015-Basic-Mathematical-Operations.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\obj\Debug\net8.0\015-Basic-Mathematical-Operations.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\obj\Debug\net8.0\015-Basic-Mathematical-Operations.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\obj\Debug\net8.0\015-Basic-Mathematical-Operations.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\obj\Debug\net8.0\015-Basic-Mathematical-Operations.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\obj\Debug\net8.0\refint\015-Basic-Mathematical-Operations.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\obj\Debug\net8.0\015-Basic-Mathematical-Operations.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\obj\Debug\net8.0\015-Basic-Mathematical-Operations.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\015-Basic-Mathematical-Operations\obj\Debug\net8.0\ref\015-Basic-Mathematical-Operations.dll
