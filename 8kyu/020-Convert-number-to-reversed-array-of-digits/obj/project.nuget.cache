@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i4ACK0tjg2J0KXqVqIwZtUULBycmViVt2PZCCuv0Rctql+t96oQYLx9+eXvY31sAEqki1Z5yILs7uu6XbSvVdQ==",
+  "dgSpecHash": "uiqoENxNc0G0N2tJxKEWrb4DL19C9l+T2jI1f19KSO52HWGlMU5e50vn8j4/iaL8DmfwATdIEx8ddDEufqyW1w==",
   "success": true,
-  "projectFilePath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\020-Convert-number-to-reversed-array-of-digits\\020-Convert-number-to-reversed-array-of-digits.csproj",
+  "projectFilePath": "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\020-Convert-number-to-reversed-array-of-digits\\020-Convert-number-to-reversed-array-of-digits.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

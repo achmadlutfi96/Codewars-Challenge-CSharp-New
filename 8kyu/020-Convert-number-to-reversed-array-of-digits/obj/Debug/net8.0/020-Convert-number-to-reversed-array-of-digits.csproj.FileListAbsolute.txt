@@ -1,0 +1,15 @@
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\bin\Debug\net8.0\020-Convert-number-to-reversed-array-of-digits.exe
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\bin\Debug\net8.0\020-Convert-number-to-reversed-array-of-digits.deps.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\bin\Debug\net8.0\020-Convert-number-to-reversed-array-of-digits.runtimeconfig.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\bin\Debug\net8.0\020-Convert-number-to-reversed-array-of-digits.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\bin\Debug\net8.0\020-Convert-number-to-reversed-array-of-digits.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\obj\Debug\net8.0\020-Convert-number-to-reversed-array-of-digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\obj\Debug\net8.0\020-Convert-number-to-reversed-array-of-digits.AssemblyInfoInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\obj\Debug\net8.0\020-Convert-number-to-reversed-array-of-digits.AssemblyInfo.cs
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\obj\Debug\net8.0\020-Convert-number-to-reversed-array-of-digits.csproj.CoreCompileInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\obj\Debug\net8.0\020-Convert-number-to-reversed-array-of-digits.sourcelink.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\obj\Debug\net8.0\020-Convert-number-to-reversed-array-of-digits.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\obj\Debug\net8.0\refint\020-Convert-number-to-reversed-array-of-digits.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\obj\Debug\net8.0\020-Convert-number-to-reversed-array-of-digits.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\obj\Debug\net8.0\020-Convert-number-to-reversed-array-of-digits.genruntimeconfig.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\020-Convert-number-to-reversed-array-of-digits\obj\Debug\net8.0\ref\020-Convert-number-to-reversed-array-of-digits.dll
