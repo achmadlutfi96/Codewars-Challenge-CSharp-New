@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\bin\Debug\net8.0\024-A-Needle-in-the-Haystack.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\bin\Debug\net8.0\024-A-Needle-in-the-Haystack.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\bin\Debug\net8.0\024-A-Needle-in-the-Haystack.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\bin\Debug\net8.0\024-A-Needle-in-the-Haystack.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\bin\Debug\net8.0\024-A-Needle-in-the-Haystack.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\obj\Debug\net8.0\024-A-Needle-in-the-Haystack.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\obj\Debug\net8.0\024-A-Needle-in-the-Haystack.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\obj\Debug\net8.0\024-A-Needle-in-the-Haystack.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\obj\Debug\net8.0\024-A-Needle-in-the-Haystack.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\obj\Debug\net8.0\024-A-Needle-in-the-Haystack.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\obj\Debug\net8.0\024-A-Needle-in-the-Haystack.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\obj\Debug\net8.0\refint\024-A-Needle-in-the-Haystack.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\obj\Debug\net8.0\024-A-Needle-in-the-Haystack.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\obj\Debug\net8.0\024-A-Needle-in-the-Haystack.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\024-A-Needle-in-the-Haystack\obj\Debug\net8.0\ref\024-A-Needle-in-the-Haystack.dll
