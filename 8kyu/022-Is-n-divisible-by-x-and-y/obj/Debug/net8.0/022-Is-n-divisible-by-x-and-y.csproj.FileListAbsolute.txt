@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\bin\Debug\net8.0\022-Is-n-divisible-by-x-and-y.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\bin\Debug\net8.0\022-Is-n-divisible-by-x-and-y.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\bin\Debug\net8.0\022-Is-n-divisible-by-x-and-y.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\bin\Debug\net8.0\022-Is-n-divisible-by-x-and-y.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\bin\Debug\net8.0\022-Is-n-divisible-by-x-and-y.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\obj\Debug\net8.0\022-Is-n-divisible-by-x-and-y.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\obj\Debug\net8.0\022-Is-n-divisible-by-x-and-y.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\obj\Debug\net8.0\022-Is-n-divisible-by-x-and-y.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\obj\Debug\net8.0\022-Is-n-divisible-by-x-and-y.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\obj\Debug\net8.0\022-Is-n-divisible-by-x-and-y.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\obj\Debug\net8.0\022-Is-n-divisible-by-x-and-y.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\obj\Debug\net8.0\refint\022-Is-n-divisible-by-x-and-y.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\obj\Debug\net8.0\022-Is-n-divisible-by-x-and-y.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\obj\Debug\net8.0\022-Is-n-divisible-by-x-and-y.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\022-Is-n-divisible-by-x-and-y\obj\Debug\net8.0\ref\022-Is-n-divisible-by-x-and-y.dll
