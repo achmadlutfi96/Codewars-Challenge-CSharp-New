@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\bin\Debug\net8.0\025-Opposites-Attract.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\bin\Debug\net8.0\025-Opposites-Attract.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\bin\Debug\net8.0\025-Opposites-Attract.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\bin\Debug\net8.0\025-Opposites-Attract.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\bin\Debug\net8.0\025-Opposites-Attract.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\obj\Debug\net8.0\025-Opposites-Attract.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\obj\Debug\net8.0\025-Opposites-Attract.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\obj\Debug\net8.0\025-Opposites-Attract.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\obj\Debug\net8.0\025-Opposites-Attract.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\obj\Debug\net8.0\025-Opposites-Attract.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\obj\Debug\net8.0\025-Opposites-Attract.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\obj\Debug\net8.0\refint\025-Opposites-Attract.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\obj\Debug\net8.0\025-Opposites-Attract.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\obj\Debug\net8.0\025-Opposites-Attract.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\025-Opposites-Attract\obj\Debug\net8.0\ref\025-Opposites-Attract.dll
