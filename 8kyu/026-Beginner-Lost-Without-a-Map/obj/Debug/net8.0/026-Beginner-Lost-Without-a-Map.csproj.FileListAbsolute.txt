@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\bin\Debug\net8.0\026-Beginner-Lost-Without-a-Map.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\bin\Debug\net8.0\026-Beginner-Lost-Without-a-Map.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\bin\Debug\net8.0\026-Beginner-Lost-Without-a-Map.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\bin\Debug\net8.0\026-Beginner-Lost-Without-a-Map.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\bin\Debug\net8.0\026-Beginner-Lost-Without-a-Map.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\obj\Debug\net8.0\026-Beginner-Lost-Without-a-Map.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\obj\Debug\net8.0\026-Beginner-Lost-Without-a-Map.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\obj\Debug\net8.0\026-Beginner-Lost-Without-a-Map.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\obj\Debug\net8.0\026-Beginner-Lost-Without-a-Map.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\obj\Debug\net8.0\026-Beginner-Lost-Without-a-Map.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\obj\Debug\net8.0\026-Beginner-Lost-Without-a-Map.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\obj\Debug\net8.0\refint\026-Beginner-Lost-Without-a-Map.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\obj\Debug\net8.0\026-Beginner-Lost-Without-a-Map.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\obj\Debug\net8.0\026-Beginner-Lost-Without-a-Map.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\026-Beginner-Lost-Without-a-Map\obj\Debug\net8.0\ref\026-Beginner-Lost-Without-a-Map.dll
