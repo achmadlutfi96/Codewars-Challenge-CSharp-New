@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\bin\Debug\net8.0\027-Beginner-Series-1-School-Paperwork.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\bin\Debug\net8.0\027-Beginner-Series-1-School-Paperwork.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\bin\Debug\net8.0\027-Beginner-Series-1-School-Paperwork.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\bin\Debug\net8.0\027-Beginner-Series-1-School-Paperwork.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\bin\Debug\net8.0\027-Beginner-Series-1-School-Paperwork.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\obj\Debug\net8.0\027-Beginner-Series-1-School-Paperwork.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\obj\Debug\net8.0\027-Beginner-Series-1-School-Paperwork.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\obj\Debug\net8.0\027-Beginner-Series-1-School-Paperwork.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\obj\Debug\net8.0\027-Beginner-Series-1-School-Paperwork.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\obj\Debug\net8.0\027-Beginner-Series-1-School-Paperwork.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\obj\Debug\net8.0\027-Beginner-Series-1-School-Paperwork.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\obj\Debug\net8.0\refint\027-Beginner-Series-1-School-Paperwork.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\obj\Debug\net8.0\027-Beginner-Series-1-School-Paperwork.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\obj\Debug\net8.0\027-Beginner-Series-1-School-Paperwork.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\027-Beginner-Series-1-School-Paperwork\obj\Debug\net8.0\ref\027-Beginner-Series-1-School-Paperwork.dll

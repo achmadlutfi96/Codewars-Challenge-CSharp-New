@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "027-Beginner-Series-1-School-Paperwork/1.0.0": {
+        "runtime": {
+          "027-Beginner-Series-1-School-Paperwork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "027-Beginner-Series-1-School-Paperwork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
