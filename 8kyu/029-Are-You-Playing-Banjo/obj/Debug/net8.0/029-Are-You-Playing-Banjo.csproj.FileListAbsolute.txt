@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\bin\Debug\net8.0\029-Are-You-Playing-Banjo.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\bin\Debug\net8.0\029-Are-You-Playing-Banjo.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\bin\Debug\net8.0\029-Are-You-Playing-Banjo.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\bin\Debug\net8.0\029-Are-You-Playing-Banjo.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\bin\Debug\net8.0\029-Are-You-Playing-Banjo.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\obj\Debug\net8.0\029-Are-You-Playing-Banjo.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\obj\Debug\net8.0\029-Are-You-Playing-Banjo.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\obj\Debug\net8.0\029-Are-You-Playing-Banjo.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\obj\Debug\net8.0\029-Are-You-Playing-Banjo.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\obj\Debug\net8.0\029-Are-You-Playing-Banjo.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\obj\Debug\net8.0\029-Are-You-Playing-Banjo.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\obj\Debug\net8.0\refint\029-Are-You-Playing-Banjo.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\obj\Debug\net8.0\029-Are-You-Playing-Banjo.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\obj\Debug\net8.0\029-Are-You-Playing-Banjo.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\029-Are-You-Playing-Banjo\obj\Debug\net8.0\ref\029-Are-You-Playing-Banjo.dll

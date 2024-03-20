@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "029-Are-You-Playing-Banjo/1.0.0": {
+        "runtime": {
+          "029-Are-You-Playing-Banjo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "029-Are-You-Playing-Banjo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
