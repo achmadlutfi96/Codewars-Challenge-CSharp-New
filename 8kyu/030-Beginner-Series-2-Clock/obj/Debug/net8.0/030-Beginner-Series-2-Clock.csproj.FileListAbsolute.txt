@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\bin\Debug\net8.0\030-Beginner-Series-2-Clock.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\bin\Debug\net8.0\030-Beginner-Series-2-Clock.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\bin\Debug\net8.0\030-Beginner-Series-2-Clock.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\bin\Debug\net8.0\030-Beginner-Series-2-Clock.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\bin\Debug\net8.0\030-Beginner-Series-2-Clock.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\obj\Debug\net8.0\030-Beginner-Series-2-Clock.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\obj\Debug\net8.0\030-Beginner-Series-2-Clock.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\obj\Debug\net8.0\030-Beginner-Series-2-Clock.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\obj\Debug\net8.0\030-Beginner-Series-2-Clock.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\obj\Debug\net8.0\030-Beginner-Series-2-Clock.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\obj\Debug\net8.0\030-Beginner-Series-2-Clock.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\obj\Debug\net8.0\refint\030-Beginner-Series-2-Clock.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\obj\Debug\net8.0\030-Beginner-Series-2-Clock.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\obj\Debug\net8.0\030-Beginner-Series-2-Clock.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\030-Beginner-Series-2-Clock\obj\Debug\net8.0\ref\030-Beginner-Series-2-Clock.dll
