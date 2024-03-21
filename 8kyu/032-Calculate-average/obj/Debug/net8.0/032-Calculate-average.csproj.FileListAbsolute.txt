@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\bin\Debug\net8.0\032-Calculate-average.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\bin\Debug\net8.0\032-Calculate-average.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\bin\Debug\net8.0\032-Calculate-average.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\bin\Debug\net8.0\032-Calculate-average.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\bin\Debug\net8.0\032-Calculate-average.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\obj\Debug\net8.0\032-Calculate-average.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\obj\Debug\net8.0\032-Calculate-average.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\obj\Debug\net8.0\032-Calculate-average.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\obj\Debug\net8.0\032-Calculate-average.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\obj\Debug\net8.0\032-Calculate-average.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\obj\Debug\net8.0\032-Calculate-average.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\obj\Debug\net8.0\refint\032-Calculate-average.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\obj\Debug\net8.0\032-Calculate-average.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\obj\Debug\net8.0\032-Calculate-average.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\032-Calculate-average\obj\Debug\net8.0\ref\032-Calculate-average.dll
