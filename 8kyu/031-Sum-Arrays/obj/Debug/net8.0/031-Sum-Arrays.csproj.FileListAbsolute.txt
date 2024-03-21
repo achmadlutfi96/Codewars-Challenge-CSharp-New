@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\bin\Debug\net8.0\031-Sum-Arrays.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\bin\Debug\net8.0\031-Sum-Arrays.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\bin\Debug\net8.0\031-Sum-Arrays.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\bin\Debug\net8.0\031-Sum-Arrays.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\bin\Debug\net8.0\031-Sum-Arrays.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\obj\Debug\net8.0\031-Sum-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\obj\Debug\net8.0\031-Sum-Arrays.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\obj\Debug\net8.0\031-Sum-Arrays.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\obj\Debug\net8.0\031-Sum-Arrays.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\obj\Debug\net8.0\031-Sum-Arrays.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\obj\Debug\net8.0\031-Sum-Arrays.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\obj\Debug\net8.0\refint\031-Sum-Arrays.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\obj\Debug\net8.0\031-Sum-Arrays.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\obj\Debug\net8.0\031-Sum-Arrays.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\031-Sum-Arrays\obj\Debug\net8.0\ref\031-Sum-Arrays.dll
