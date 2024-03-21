@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\bin\Debug\net8.0\034-Invert-values.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\bin\Debug\net8.0\034-Invert-values.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\bin\Debug\net8.0\034-Invert-values.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\bin\Debug\net8.0\034-Invert-values.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\bin\Debug\net8.0\034-Invert-values.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\obj\Debug\net8.0\034-Invert-values.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\obj\Debug\net8.0\034-Invert-values.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\obj\Debug\net8.0\034-Invert-values.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\obj\Debug\net8.0\034-Invert-values.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\obj\Debug\net8.0\034-Invert-values.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\obj\Debug\net8.0\034-Invert-values.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\obj\Debug\net8.0\refint\034-Invert-values.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\obj\Debug\net8.0\034-Invert-values.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\obj\Debug\net8.0\034-Invert-values.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\034-Invert-values\obj\Debug\net8.0\ref\034-Invert-values.dll
