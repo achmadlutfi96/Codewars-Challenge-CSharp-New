@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\bin\Debug\net8.0\035-Simple-multiplication.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\bin\Debug\net8.0\035-Simple-multiplication.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\bin\Debug\net8.0\035-Simple-multiplication.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\bin\Debug\net8.0\035-Simple-multiplication.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\bin\Debug\net8.0\035-Simple-multiplication.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\obj\Debug\net8.0\035-Simple-multiplication.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\obj\Debug\net8.0\035-Simple-multiplication.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\obj\Debug\net8.0\035-Simple-multiplication.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\obj\Debug\net8.0\035-Simple-multiplication.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\obj\Debug\net8.0\035-Simple-multiplication.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\obj\Debug\net8.0\035-Simple-multiplication.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\obj\Debug\net8.0\refint\035-Simple-multiplication.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\obj\Debug\net8.0\035-Simple-multiplication.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\obj\Debug\net8.0\035-Simple-multiplication.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\035-Simple-multiplication\obj\Debug\net8.0\ref\035-Simple-multiplication.dll
