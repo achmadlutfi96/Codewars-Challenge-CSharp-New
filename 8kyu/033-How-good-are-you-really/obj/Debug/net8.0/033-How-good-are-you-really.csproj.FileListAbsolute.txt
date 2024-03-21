@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\bin\Debug\net8.0\033-How-good-are-you-really.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\bin\Debug\net8.0\033-How-good-are-you-really.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\bin\Debug\net8.0\033-How-good-are-you-really.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\bin\Debug\net8.0\033-How-good-are-you-really.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\bin\Debug\net8.0\033-How-good-are-you-really.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\obj\Debug\net8.0\033-How-good-are-you-really.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\obj\Debug\net8.0\033-How-good-are-you-really.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\obj\Debug\net8.0\033-How-good-are-you-really.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\obj\Debug\net8.0\033-How-good-are-you-really.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\obj\Debug\net8.0\033-How-good-are-you-really.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\obj\Debug\net8.0\033-How-good-are-you-really.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\obj\Debug\net8.0\refint\033-How-good-are-you-really.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\obj\Debug\net8.0\033-How-good-are-you-really.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\obj\Debug\net8.0\033-How-good-are-you-really.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\033-How-good-are-you-really\obj\Debug\net8.0\ref\033-How-good-are-you-really.dll
