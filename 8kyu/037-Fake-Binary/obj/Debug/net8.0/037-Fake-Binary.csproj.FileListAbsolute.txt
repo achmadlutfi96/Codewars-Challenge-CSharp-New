@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\bin\Debug\net8.0\037-Fake-Binary.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\bin\Debug\net8.0\037-Fake-Binary.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\bin\Debug\net8.0\037-Fake-Binary.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\bin\Debug\net8.0\037-Fake-Binary.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\bin\Debug\net8.0\037-Fake-Binary.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\obj\Debug\net8.0\037-Fake-Binary.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\obj\Debug\net8.0\037-Fake-Binary.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\obj\Debug\net8.0\037-Fake-Binary.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\obj\Debug\net8.0\037-Fake-Binary.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\obj\Debug\net8.0\037-Fake-Binary.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\obj\Debug\net8.0\037-Fake-Binary.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\obj\Debug\net8.0\refint\037-Fake-Binary.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\obj\Debug\net8.0\037-Fake-Binary.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\obj\Debug\net8.0\037-Fake-Binary.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\037-Fake-Binary\obj\Debug\net8.0\ref\037-Fake-Binary.dll
