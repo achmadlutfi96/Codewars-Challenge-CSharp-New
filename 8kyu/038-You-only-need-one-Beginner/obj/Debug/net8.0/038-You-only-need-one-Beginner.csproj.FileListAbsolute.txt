@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\bin\Debug\net8.0\038-You-only-need-one-Beginner.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\bin\Debug\net8.0\038-You-only-need-one-Beginner.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\bin\Debug\net8.0\038-You-only-need-one-Beginner.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\bin\Debug\net8.0\038-You-only-need-one-Beginner.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\bin\Debug\net8.0\038-You-only-need-one-Beginner.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\obj\Debug\net8.0\038-You-only-need-one-Beginner.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\obj\Debug\net8.0\038-You-only-need-one-Beginner.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\obj\Debug\net8.0\038-You-only-need-one-Beginner.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\obj\Debug\net8.0\038-You-only-need-one-Beginner.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\obj\Debug\net8.0\038-You-only-need-one-Beginner.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\obj\Debug\net8.0\038-You-only-need-one-Beginner.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\obj\Debug\net8.0\refint\038-You-only-need-one-Beginner.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\obj\Debug\net8.0\038-You-only-need-one-Beginner.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\obj\Debug\net8.0\038-You-only-need-one-Beginner.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\038-You-only-need-one-Beginner\obj\Debug\net8.0\ref\038-You-only-need-one-Beginner.dll
