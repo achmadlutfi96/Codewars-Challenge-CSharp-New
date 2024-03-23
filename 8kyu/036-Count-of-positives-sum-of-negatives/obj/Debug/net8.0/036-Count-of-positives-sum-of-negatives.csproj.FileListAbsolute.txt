@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\bin\Debug\net8.0\036-Count-of-positives-sum-of-negatives.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\bin\Debug\net8.0\036-Count-of-positives-sum-of-negatives.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\bin\Debug\net8.0\036-Count-of-positives-sum-of-negatives.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\bin\Debug\net8.0\036-Count-of-positives-sum-of-negatives.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\bin\Debug\net8.0\036-Count-of-positives-sum-of-negatives.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\obj\Debug\net8.0\036-Count-of-positives-sum-of-negatives.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\obj\Debug\net8.0\036-Count-of-positives-sum-of-negatives.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\obj\Debug\net8.0\036-Count-of-positives-sum-of-negatives.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\obj\Debug\net8.0\036-Count-of-positives-sum-of-negatives.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\obj\Debug\net8.0\036-Count-of-positives-sum-of-negatives.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\obj\Debug\net8.0\036-Count-of-positives-sum-of-negatives.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\obj\Debug\net8.0\refint\036-Count-of-positives-sum-of-negatives.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\obj\Debug\net8.0\036-Count-of-positives-sum-of-negatives.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\obj\Debug\net8.0\036-Count-of-positives-sum-of-negatives.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\036-Count-of-positives-sum-of-negatives\obj\Debug\net8.0\ref\036-Count-of-positives-sum-of-negatives.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "036-Count-of-positives-sum-of-negatives", "036-Count-of-positives-sum-of-negatives.csproj", "{8C4C7FCC-AF0E-479B-B7EB-284FE4144BF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C4C7FCC-AF0E-479B-B7EB-284FE4144BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4C7FCC-AF0E-479B-B7EB-284FE4144BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4C7FCC-AF0E-479B-B7EB-284FE4144BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4C7FCC-AF0E-479B-B7EB-284FE4144BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55E189A1-5F5E-4F0F-9C9C-56B126E6BAB3}
+	EndGlobalSection
+EndGlobal

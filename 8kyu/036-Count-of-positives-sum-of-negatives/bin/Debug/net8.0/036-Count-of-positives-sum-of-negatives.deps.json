@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "036-Count-of-positives-sum-of-negatives/1.0.0": {
+        "runtime": {
+          "036-Count-of-positives-sum-of-negatives.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "036-Count-of-positives-sum-of-negatives/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
