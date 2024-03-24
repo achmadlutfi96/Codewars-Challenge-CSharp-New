@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\bin\Debug\net8.0\042-Reversed-sequence.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\bin\Debug\net8.0\042-Reversed-sequence.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\bin\Debug\net8.0\042-Reversed-sequence.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\bin\Debug\net8.0\042-Reversed-sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\bin\Debug\net8.0\042-Reversed-sequence.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\obj\Debug\net8.0\042-Reversed-sequence.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\obj\Debug\net8.0\042-Reversed-sequence.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\obj\Debug\net8.0\042-Reversed-sequence.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\obj\Debug\net8.0\042-Reversed-sequence.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\obj\Debug\net8.0\042-Reversed-sequence.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\obj\Debug\net8.0\042-Reversed-sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\obj\Debug\net8.0\refint\042-Reversed-sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\obj\Debug\net8.0\042-Reversed-sequence.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\obj\Debug\net8.0\042-Reversed-sequence.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\042-Reversed-sequence\obj\Debug\net8.0\ref\042-Reversed-sequence.dll
