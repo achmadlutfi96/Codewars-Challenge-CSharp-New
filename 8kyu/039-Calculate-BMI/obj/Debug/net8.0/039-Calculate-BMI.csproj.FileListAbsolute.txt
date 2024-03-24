@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\bin\Debug\net8.0\039-Calculate-BMI.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\bin\Debug\net8.0\039-Calculate-BMI.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\bin\Debug\net8.0\039-Calculate-BMI.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\bin\Debug\net8.0\039-Calculate-BMI.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\bin\Debug\net8.0\039-Calculate-BMI.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\obj\Debug\net8.0\039-Calculate-BMI.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\obj\Debug\net8.0\039-Calculate-BMI.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\obj\Debug\net8.0\039-Calculate-BMI.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\obj\Debug\net8.0\039-Calculate-BMI.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\obj\Debug\net8.0\039-Calculate-BMI.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\obj\Debug\net8.0\039-Calculate-BMI.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\obj\Debug\net8.0\refint\039-Calculate-BMI.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\obj\Debug\net8.0\039-Calculate-BMI.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\obj\Debug\net8.0\039-Calculate-BMI.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\039-Calculate-BMI\obj\Debug\net8.0\ref\039-Calculate-BMI.dll
