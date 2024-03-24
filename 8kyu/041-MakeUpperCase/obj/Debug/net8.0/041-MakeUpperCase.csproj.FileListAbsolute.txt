@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\bin\Debug\net8.0\041-MakeUpperCase.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\bin\Debug\net8.0\041-MakeUpperCase.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\bin\Debug\net8.0\041-MakeUpperCase.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\bin\Debug\net8.0\041-MakeUpperCase.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\bin\Debug\net8.0\041-MakeUpperCase.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\obj\Debug\net8.0\041-MakeUpperCase.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\obj\Debug\net8.0\041-MakeUpperCase.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\obj\Debug\net8.0\041-MakeUpperCase.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\obj\Debug\net8.0\041-MakeUpperCase.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\obj\Debug\net8.0\041-MakeUpperCase.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\obj\Debug\net8.0\041-MakeUpperCase.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\obj\Debug\net8.0\refint\041-MakeUpperCase.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\obj\Debug\net8.0\041-MakeUpperCase.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\obj\Debug\net8.0\041-MakeUpperCase.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\041-MakeUpperCase\obj\Debug\net8.0\ref\041-MakeUpperCase.dll
