@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "040-Beginner-Reduce-but-Grow/1.0.0": {
+        "runtime": {
+          "040-Beginner-Reduce-but-Grow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "040-Beginner-Reduce-but-Grow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

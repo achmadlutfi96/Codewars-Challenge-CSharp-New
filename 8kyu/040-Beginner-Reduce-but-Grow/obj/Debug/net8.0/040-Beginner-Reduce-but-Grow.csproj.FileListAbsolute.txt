@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\bin\Debug\net8.0\040-Beginner-Reduce-but-Grow.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\bin\Debug\net8.0\040-Beginner-Reduce-but-Grow.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\bin\Debug\net8.0\040-Beginner-Reduce-but-Grow.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\bin\Debug\net8.0\040-Beginner-Reduce-but-Grow.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\bin\Debug\net8.0\040-Beginner-Reduce-but-Grow.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\obj\Debug\net8.0\040-Beginner-Reduce-but-Grow.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\obj\Debug\net8.0\040-Beginner-Reduce-but-Grow.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\obj\Debug\net8.0\040-Beginner-Reduce-but-Grow.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\obj\Debug\net8.0\040-Beginner-Reduce-but-Grow.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\obj\Debug\net8.0\040-Beginner-Reduce-but-Grow.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\obj\Debug\net8.0\040-Beginner-Reduce-but-Grow.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\obj\Debug\net8.0\refint\040-Beginner-Reduce-but-Grow.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\obj\Debug\net8.0\040-Beginner-Reduce-but-Grow.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\obj\Debug\net8.0\040-Beginner-Reduce-but-Grow.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\040-Beginner-Reduce-but-Grow\obj\Debug\net8.0\ref\040-Beginner-Reduce-but-Grow.dll
