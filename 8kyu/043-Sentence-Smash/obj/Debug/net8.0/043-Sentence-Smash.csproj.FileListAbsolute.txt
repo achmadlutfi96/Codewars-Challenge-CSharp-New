@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\bin\Debug\net8.0\043-Sentence-Smash.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\bin\Debug\net8.0\043-Sentence-Smash.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\bin\Debug\net8.0\043-Sentence-Smash.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\bin\Debug\net8.0\043-Sentence-Smash.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\bin\Debug\net8.0\043-Sentence-Smash.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\obj\Debug\net8.0\043-Sentence-Smash.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\obj\Debug\net8.0\043-Sentence-Smash.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\obj\Debug\net8.0\043-Sentence-Smash.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\obj\Debug\net8.0\043-Sentence-Smash.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\obj\Debug\net8.0\043-Sentence-Smash.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\obj\Debug\net8.0\043-Sentence-Smash.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\obj\Debug\net8.0\refint\043-Sentence-Smash.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\obj\Debug\net8.0\043-Sentence-Smash.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\obj\Debug\net8.0\043-Sentence-Smash.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\043-Sentence-Smash\obj\Debug\net8.0\ref\043-Sentence-Smash.dll
