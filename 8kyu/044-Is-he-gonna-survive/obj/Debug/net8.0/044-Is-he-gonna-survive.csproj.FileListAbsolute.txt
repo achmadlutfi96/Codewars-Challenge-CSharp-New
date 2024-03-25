@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\bin\Debug\net8.0\044-Is-he-gonna-survive.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\bin\Debug\net8.0\044-Is-he-gonna-survive.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\bin\Debug\net8.0\044-Is-he-gonna-survive.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\bin\Debug\net8.0\044-Is-he-gonna-survive.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\bin\Debug\net8.0\044-Is-he-gonna-survive.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\obj\Debug\net8.0\044-Is-he-gonna-survive.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\obj\Debug\net8.0\044-Is-he-gonna-survive.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\obj\Debug\net8.0\044-Is-he-gonna-survive.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\obj\Debug\net8.0\044-Is-he-gonna-survive.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\obj\Debug\net8.0\044-Is-he-gonna-survive.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\obj\Debug\net8.0\044-Is-he-gonna-survive.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\obj\Debug\net8.0\refint\044-Is-he-gonna-survive.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\obj\Debug\net8.0\044-Is-he-gonna-survive.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\obj\Debug\net8.0\044-Is-he-gonna-survive.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\044-Is-he-gonna-survive\obj\Debug\net8.0\ref\044-Is-he-gonna-survive.dll
