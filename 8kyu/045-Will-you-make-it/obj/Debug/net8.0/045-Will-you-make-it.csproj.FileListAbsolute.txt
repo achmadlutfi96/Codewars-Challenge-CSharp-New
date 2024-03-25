@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\bin\Debug\net8.0\045-Will-you-make-it.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\bin\Debug\net8.0\045-Will-you-make-it.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\bin\Debug\net8.0\045-Will-you-make-it.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\bin\Debug\net8.0\045-Will-you-make-it.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\bin\Debug\net8.0\045-Will-you-make-it.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\obj\Debug\net8.0\045-Will-you-make-it.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\obj\Debug\net8.0\045-Will-you-make-it.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\obj\Debug\net8.0\045-Will-you-make-it.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\obj\Debug\net8.0\045-Will-you-make-it.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\obj\Debug\net8.0\045-Will-you-make-it.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\obj\Debug\net8.0\045-Will-you-make-it.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\obj\Debug\net8.0\refint\045-Will-you-make-it.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\obj\Debug\net8.0\045-Will-you-make-it.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\obj\Debug\net8.0\045-Will-you-make-it.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\045-Will-you-make-it\obj\Debug\net8.0\ref\045-Will-you-make-it.dll
