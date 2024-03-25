@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\obj\Debug\net8.0\047-Count-by-X.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\obj\Debug\net8.0\047-Count-by-X.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\obj\Debug\net8.0\047-Count-by-X.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\obj\Debug\net8.0\047-Count-by-X.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\obj\Debug\net8.0\047-Count-by-X.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\bin\Debug\net8.0\047-Count-by-X.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\bin\Debug\net8.0\047-Count-by-X.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\bin\Debug\net8.0\047-Count-by-X.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\bin\Debug\net8.0\047-Count-by-X.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\bin\Debug\net8.0\047-Count-by-X.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\obj\Debug\net8.0\047-Count-by-X.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\obj\Debug\net8.0\refint\047-Count-by-X.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\obj\Debug\net8.0\047-Count-by-X.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\obj\Debug\net8.0\047-Count-by-X.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\047-Count-by-X\obj\Debug\net8.0\ref\047-Count-by-X.dll
