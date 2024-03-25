@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\bin\Debug\net8.0\049-If-you-cant-sleep-just-count-sheep.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\bin\Debug\net8.0\049-If-you-cant-sleep-just-count-sheep.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\bin\Debug\net8.0\049-If-you-cant-sleep-just-count-sheep.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\bin\Debug\net8.0\049-If-you-cant-sleep-just-count-sheep.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\bin\Debug\net8.0\049-If-you-cant-sleep-just-count-sheep.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\obj\Debug\net8.0\049-If-you-cant-sleep-just-count-sheep.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\obj\Debug\net8.0\049-If-you-cant-sleep-just-count-sheep.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\obj\Debug\net8.0\049-If-you-cant-sleep-just-count-sheep.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\obj\Debug\net8.0\049-If-you-cant-sleep-just-count-sheep.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\obj\Debug\net8.0\049-If-you-cant-sleep-just-count-sheep.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\obj\Debug\net8.0\049-If-you-cant-sleep-just-count-sheep.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\obj\Debug\net8.0\refint\049-If-you-cant-sleep-just-count-sheep.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\obj\Debug\net8.0\049-If-you-cant-sleep-just-count-sheep.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\obj\Debug\net8.0\049-If-you-cant-sleep-just-count-sheep.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\049-If-you-cant-sleep-just-count-sheep\obj\Debug\net8.0\ref\049-If-you-cant-sleep-just-count-sheep.dll
