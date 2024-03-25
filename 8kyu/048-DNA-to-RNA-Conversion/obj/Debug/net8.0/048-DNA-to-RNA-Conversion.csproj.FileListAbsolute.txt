@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\bin\Debug\net8.0\048-DNA-to-RNA-Conversion.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\bin\Debug\net8.0\048-DNA-to-RNA-Conversion.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\bin\Debug\net8.0\048-DNA-to-RNA-Conversion.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\bin\Debug\net8.0\048-DNA-to-RNA-Conversion.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\bin\Debug\net8.0\048-DNA-to-RNA-Conversion.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\obj\Debug\net8.0\048-DNA-to-RNA-Conversion.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\obj\Debug\net8.0\048-DNA-to-RNA-Conversion.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\obj\Debug\net8.0\048-DNA-to-RNA-Conversion.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\obj\Debug\net8.0\048-DNA-to-RNA-Conversion.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\obj\Debug\net8.0\048-DNA-to-RNA-Conversion.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\obj\Debug\net8.0\048-DNA-to-RNA-Conversion.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\obj\Debug\net8.0\refint\048-DNA-to-RNA-Conversion.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\obj\Debug\net8.0\048-DNA-to-RNA-Conversion.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\obj\Debug\net8.0\048-DNA-to-RNA-Conversion.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\048-DNA-to-RNA-Conversion\obj\Debug\net8.0\ref\048-DNA-to-RNA-Conversion.dll
