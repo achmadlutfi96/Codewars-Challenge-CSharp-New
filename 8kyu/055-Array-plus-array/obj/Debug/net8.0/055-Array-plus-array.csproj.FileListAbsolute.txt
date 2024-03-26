@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\bin\Debug\net8.0\055-Array-plus-array.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\bin\Debug\net8.0\055-Array-plus-array.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\bin\Debug\net8.0\055-Array-plus-array.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\bin\Debug\net8.0\055-Array-plus-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\bin\Debug\net8.0\055-Array-plus-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\obj\Debug\net8.0\055-Array-plus-array.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\obj\Debug\net8.0\055-Array-plus-array.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\obj\Debug\net8.0\055-Array-plus-array.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\obj\Debug\net8.0\055-Array-plus-array.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\obj\Debug\net8.0\055-Array-plus-array.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\obj\Debug\net8.0\055-Array-plus-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\obj\Debug\net8.0\refint\055-Array-plus-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\obj\Debug\net8.0\055-Array-plus-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\obj\Debug\net8.0\055-Array-plus-array.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\055-Array-plus-array\obj\Debug\net8.0\ref\055-Array-plus-array.dll
