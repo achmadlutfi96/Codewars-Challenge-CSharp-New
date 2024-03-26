@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\bin\Debug\net8.0\051-Reversed-Words.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\bin\Debug\net8.0\051-Reversed-Words.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\bin\Debug\net8.0\051-Reversed-Words.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\bin\Debug\net8.0\051-Reversed-Words.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\bin\Debug\net8.0\051-Reversed-Words.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\obj\Debug\net8.0\051-Reversed-Words.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\obj\Debug\net8.0\051-Reversed-Words.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\obj\Debug\net8.0\051-Reversed-Words.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\obj\Debug\net8.0\051-Reversed-Words.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\obj\Debug\net8.0\051-Reversed-Words.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\obj\Debug\net8.0\051-Reversed-Words.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\obj\Debug\net8.0\refint\051-Reversed-Words.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\obj\Debug\net8.0\051-Reversed-Words.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\obj\Debug\net8.0\051-Reversed-Words.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\051-Reversed-Words\obj\Debug\net8.0\ref\051-Reversed-Words.dll
