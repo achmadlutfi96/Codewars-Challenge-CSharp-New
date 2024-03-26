@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\bin\Debug\net8.0\052-Find-Maximum-and-Minimum-Values-of-a-List.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\bin\Debug\net8.0\052-Find-Maximum-and-Minimum-Values-of-a-List.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\bin\Debug\net8.0\052-Find-Maximum-and-Minimum-Values-of-a-List.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\bin\Debug\net8.0\052-Find-Maximum-and-Minimum-Values-of-a-List.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\bin\Debug\net8.0\052-Find-Maximum-and-Minimum-Values-of-a-List.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\obj\Debug\net8.0\052-Find-Maximum-and-Minimum-Values-of-a-List.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\obj\Debug\net8.0\052-Find-Maximum-and-Minimum-Values-of-a-List.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\obj\Debug\net8.0\052-Find-Maximum-and-Minimum-Values-of-a-List.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\obj\Debug\net8.0\052-Find-Maximum-and-Minimum-Values-of-a-List.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\obj\Debug\net8.0\052-Find-Maximum-and-Minimum-Values-of-a-List.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\obj\Debug\net8.0\052-Find-Maximum-and-Minimum-Values-of-a-List.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\obj\Debug\net8.0\refint\052-Find-Maximum-and-Minimum-Values-of-a-List.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\obj\Debug\net8.0\052-Find-Maximum-and-Minimum-Values-of-a-List.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\obj\Debug\net8.0\052-Find-Maximum-and-Minimum-Values-of-a-List.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\052-Find-Maximum-and-Minimum-Values-of-a-List\obj\Debug\net8.0\ref\052-Find-Maximum-and-Minimum-Values-of-a-List.dll

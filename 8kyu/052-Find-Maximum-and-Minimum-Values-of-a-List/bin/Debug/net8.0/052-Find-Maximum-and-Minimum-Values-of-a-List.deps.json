@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "052-Find-Maximum-and-Minimum-Values-of-a-List/1.0.0": {
+        "runtime": {
+          "052-Find-Maximum-and-Minimum-Values-of-a-List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "052-Find-Maximum-and-Minimum-Values-of-a-List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
