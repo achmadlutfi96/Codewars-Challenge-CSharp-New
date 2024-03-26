@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\bin\Debug\net8.0\053-Convert-a-string-to-an-array.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\bin\Debug\net8.0\053-Convert-a-string-to-an-array.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\bin\Debug\net8.0\053-Convert-a-string-to-an-array.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\bin\Debug\net8.0\053-Convert-a-string-to-an-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\bin\Debug\net8.0\053-Convert-a-string-to-an-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\obj\Debug\net8.0\053-Convert-a-string-to-an-array.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\obj\Debug\net8.0\053-Convert-a-string-to-an-array.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\obj\Debug\net8.0\053-Convert-a-string-to-an-array.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\obj\Debug\net8.0\053-Convert-a-string-to-an-array.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\obj\Debug\net8.0\053-Convert-a-string-to-an-array.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\obj\Debug\net8.0\053-Convert-a-string-to-an-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\obj\Debug\net8.0\refint\053-Convert-a-string-to-an-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\obj\Debug\net8.0\053-Convert-a-string-to-an-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\obj\Debug\net8.0\053-Convert-a-string-to-an-array.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\053-Convert-a-string-to-an-array\obj\Debug\net8.0\ref\053-Convert-a-string-to-an-array.dll
