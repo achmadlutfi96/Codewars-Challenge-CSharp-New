@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\bin\Debug\net8.0\054-Rock-Paper-Scissors.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\bin\Debug\net8.0\054-Rock-Paper-Scissors.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\bin\Debug\net8.0\054-Rock-Paper-Scissors.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\bin\Debug\net8.0\054-Rock-Paper-Scissors.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\bin\Debug\net8.0\054-Rock-Paper-Scissors.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\obj\Debug\net8.0\054-Rock-Paper-Scissors.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\obj\Debug\net8.0\054-Rock-Paper-Scissors.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\obj\Debug\net8.0\054-Rock-Paper-Scissors.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\obj\Debug\net8.0\054-Rock-Paper-Scissors.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\obj\Debug\net8.0\054-Rock-Paper-Scissors.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\obj\Debug\net8.0\054-Rock-Paper-Scissors.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\obj\Debug\net8.0\refint\054-Rock-Paper-Scissors.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\obj\Debug\net8.0\054-Rock-Paper-Scissors.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\obj\Debug\net8.0\054-Rock-Paper-Scissors.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\054-Rock-Paper-Scissors\obj\Debug\net8.0\ref\054-Rock-Paper-Scissors.dll
