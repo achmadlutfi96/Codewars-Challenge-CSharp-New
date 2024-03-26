@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\bin\Debug\net8.0\056-Total-amount-of-points.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\bin\Debug\net8.0\056-Total-amount-of-points.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\bin\Debug\net8.0\056-Total-amount-of-points.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\bin\Debug\net8.0\056-Total-amount-of-points.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\bin\Debug\net8.0\056-Total-amount-of-points.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\obj\Debug\net8.0\056-Total-amount-of-points.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\obj\Debug\net8.0\056-Total-amount-of-points.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\obj\Debug\net8.0\056-Total-amount-of-points.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\obj\Debug\net8.0\056-Total-amount-of-points.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\obj\Debug\net8.0\056-Total-amount-of-points.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\obj\Debug\net8.0\056-Total-amount-of-points.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\obj\Debug\net8.0\refint\056-Total-amount-of-points.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\obj\Debug\net8.0\056-Total-amount-of-points.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\obj\Debug\net8.0\056-Total-amount-of-points.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\056-Total-amount-of-points\obj\Debug\net8.0\ref\056-Total-amount-of-points.dll
