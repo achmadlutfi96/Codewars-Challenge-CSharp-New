@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\bin\Debug\net8.0\058-Sum-without-highest-and-lowest-number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\bin\Debug\net8.0\058-Sum-without-highest-and-lowest-number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\bin\Debug\net8.0\058-Sum-without-highest-and-lowest-number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\bin\Debug\net8.0\058-Sum-without-highest-and-lowest-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\bin\Debug\net8.0\058-Sum-without-highest-and-lowest-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\obj\Debug\net8.0\058-Sum-without-highest-and-lowest-number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\obj\Debug\net8.0\058-Sum-without-highest-and-lowest-number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\obj\Debug\net8.0\058-Sum-without-highest-and-lowest-number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\obj\Debug\net8.0\058-Sum-without-highest-and-lowest-number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\obj\Debug\net8.0\058-Sum-without-highest-and-lowest-number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\obj\Debug\net8.0\058-Sum-without-highest-and-lowest-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\obj\Debug\net8.0\refint\058-Sum-without-highest-and-lowest-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\obj\Debug\net8.0\058-Sum-without-highest-and-lowest-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\obj\Debug\net8.0\058-Sum-without-highest-and-lowest-number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\058-Sum-without-highest-and-lowest-number\obj\Debug\net8.0\ref\058-Sum-without-highest-and-lowest-number.dll
