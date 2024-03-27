@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\bin\Debug\net8.0\057-Grasshopper-Grade-book.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\bin\Debug\net8.0\057-Grasshopper-Grade-book.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\bin\Debug\net8.0\057-Grasshopper-Grade-book.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\bin\Debug\net8.0\057-Grasshopper-Grade-book.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\bin\Debug\net8.0\057-Grasshopper-Grade-book.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\obj\Debug\net8.0\057-Grasshopper-Grade-book.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\obj\Debug\net8.0\057-Grasshopper-Grade-book.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\obj\Debug\net8.0\057-Grasshopper-Grade-book.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\obj\Debug\net8.0\057-Grasshopper-Grade-book.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\obj\Debug\net8.0\057-Grasshopper-Grade-book.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\obj\Debug\net8.0\057-Grasshopper-Grade-book.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\obj\Debug\net8.0\refint\057-Grasshopper-Grade-book.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\obj\Debug\net8.0\057-Grasshopper-Grade-book.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\obj\Debug\net8.0\057-Grasshopper-Grade-book.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\057-Grasshopper-Grade-book\obj\Debug\net8.0\ref\057-Grasshopper-Grade-book.dll
