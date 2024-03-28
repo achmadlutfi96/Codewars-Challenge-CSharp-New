@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\bin\Debug\net8.0\064-The-Feast-of-Many-Beasts.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\bin\Debug\net8.0\064-The-Feast-of-Many-Beasts.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\bin\Debug\net8.0\064-The-Feast-of-Many-Beasts.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\bin\Debug\net8.0\064-The-Feast-of-Many-Beasts.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\bin\Debug\net8.0\064-The-Feast-of-Many-Beasts.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\obj\Debug\net8.0\064-The-Feast-of-Many-Beasts.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\obj\Debug\net8.0\064-The-Feast-of-Many-Beasts.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\obj\Debug\net8.0\064-The-Feast-of-Many-Beasts.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\obj\Debug\net8.0\064-The-Feast-of-Many-Beasts.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\obj\Debug\net8.0\064-The-Feast-of-Many-Beasts.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\obj\Debug\net8.0\064-The-Feast-of-Many-Beasts.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\obj\Debug\net8.0\refint\064-The-Feast-of-Many-Beasts.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\obj\Debug\net8.0\064-The-Feast-of-Many-Beasts.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\obj\Debug\net8.0\064-The-Feast-of-Many-Beasts.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\064-The-Feast-of-Many-Beasts\obj\Debug\net8.0\ref\064-The-Feast-of-Many-Beasts.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "064-The-Feast-of-Many-Beasts/1.0.0": {
+        "runtime": {
+          "064-The-Feast-of-Many-Beasts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "064-The-Feast-of-Many-Beasts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
