@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\bin\Debug\net8.0\062-Sum-Mixed-Array.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\bin\Debug\net8.0\062-Sum-Mixed-Array.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\bin\Debug\net8.0\062-Sum-Mixed-Array.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\bin\Debug\net8.0\062-Sum-Mixed-Array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\bin\Debug\net8.0\062-Sum-Mixed-Array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\obj\Debug\net8.0\062-Sum-Mixed-Array.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\obj\Debug\net8.0\062-Sum-Mixed-Array.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\obj\Debug\net8.0\062-Sum-Mixed-Array.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\obj\Debug\net8.0\062-Sum-Mixed-Array.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\obj\Debug\net8.0\062-Sum-Mixed-Array.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\obj\Debug\net8.0\062-Sum-Mixed-Array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\obj\Debug\net8.0\refint\062-Sum-Mixed-Array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\obj\Debug\net8.0\062-Sum-Mixed-Array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\obj\Debug\net8.0\062-Sum-Mixed-Array.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\062-Sum-Mixed-Array\obj\Debug\net8.0\ref\062-Sum-Mixed-Array.dll

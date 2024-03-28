@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "062-Sum-Mixed-Array/1.0.0": {
+        "runtime": {
+          "062-Sum-Mixed-Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "062-Sum-Mixed-Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
