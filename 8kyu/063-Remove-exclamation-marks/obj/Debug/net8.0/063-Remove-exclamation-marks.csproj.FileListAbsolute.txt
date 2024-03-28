@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\bin\Debug\net8.0\063-Remove-exclamation-marks.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\bin\Debug\net8.0\063-Remove-exclamation-marks.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\bin\Debug\net8.0\063-Remove-exclamation-marks.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\bin\Debug\net8.0\063-Remove-exclamation-marks.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\bin\Debug\net8.0\063-Remove-exclamation-marks.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\obj\Debug\net8.0\063-Remove-exclamation-marks.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\obj\Debug\net8.0\063-Remove-exclamation-marks.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\obj\Debug\net8.0\063-Remove-exclamation-marks.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\obj\Debug\net8.0\063-Remove-exclamation-marks.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\obj\Debug\net8.0\063-Remove-exclamation-marks.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\obj\Debug\net8.0\063-Remove-exclamation-marks.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\obj\Debug\net8.0\refint\063-Remove-exclamation-marks.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\obj\Debug\net8.0\063-Remove-exclamation-marks.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\obj\Debug\net8.0\063-Remove-exclamation-marks.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\063-Remove-exclamation-marks\obj\Debug\net8.0\ref\063-Remove-exclamation-marks.dll
