@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\bin\Debug\net8.0\061-Grasshopper-Personalized-Message.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\bin\Debug\net8.0\061-Grasshopper-Personalized-Message.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\bin\Debug\net8.0\061-Grasshopper-Personalized-Message.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\bin\Debug\net8.0\061-Grasshopper-Personalized-Message.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\bin\Debug\net8.0\061-Grasshopper-Personalized-Message.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\obj\Debug\net8.0\061-Grasshopper-Personalized-Message.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\obj\Debug\net8.0\061-Grasshopper-Personalized-Message.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\obj\Debug\net8.0\061-Grasshopper-Personalized-Message.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\obj\Debug\net8.0\061-Grasshopper-Personalized-Message.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\obj\Debug\net8.0\061-Grasshopper-Personalized-Message.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\obj\Debug\net8.0\061-Grasshopper-Personalized-Message.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\obj\Debug\net8.0\refint\061-Grasshopper-Personalized-Message.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\obj\Debug\net8.0\061-Grasshopper-Personalized-Message.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\obj\Debug\net8.0\061-Grasshopper-Personalized-Message.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\061-Grasshopper-Personalized-Message\obj\Debug\net8.0\ref\061-Grasshopper-Personalized-Message.dll
