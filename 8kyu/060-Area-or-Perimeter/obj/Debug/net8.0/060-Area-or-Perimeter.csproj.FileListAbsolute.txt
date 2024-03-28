@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\bin\Debug\net8.0\060-Area-or-Perimeter.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\bin\Debug\net8.0\060-Area-or-Perimeter.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\bin\Debug\net8.0\060-Area-or-Perimeter.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\bin\Debug\net8.0\060-Area-or-Perimeter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\bin\Debug\net8.0\060-Area-or-Perimeter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\obj\Debug\net8.0\060-Area-or-Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\obj\Debug\net8.0\060-Area-or-Perimeter.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\obj\Debug\net8.0\060-Area-or-Perimeter.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\obj\Debug\net8.0\060-Area-or-Perimeter.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\obj\Debug\net8.0\060-Area-or-Perimeter.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\obj\Debug\net8.0\060-Area-or-Perimeter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\obj\Debug\net8.0\refint\060-Area-or-Perimeter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\obj\Debug\net8.0\060-Area-or-Perimeter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\obj\Debug\net8.0\060-Area-or-Perimeter.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\060-Area-or-Perimeter\obj\Debug\net8.0\ref\060-Area-or-Perimeter.dll
