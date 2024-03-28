@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\bin\Debug\net8.0\059-Get-the-mean-of-an-array.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\bin\Debug\net8.0\059-Get-the-mean-of-an-array.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\bin\Debug\net8.0\059-Get-the-mean-of-an-array.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\bin\Debug\net8.0\059-Get-the-mean-of-an-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\bin\Debug\net8.0\059-Get-the-mean-of-an-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\obj\Debug\net8.0\059-Get-the-mean-of-an-array.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\obj\Debug\net8.0\059-Get-the-mean-of-an-array.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\obj\Debug\net8.0\059-Get-the-mean-of-an-array.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\obj\Debug\net8.0\059-Get-the-mean-of-an-array.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\obj\Debug\net8.0\059-Get-the-mean-of-an-array.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\obj\Debug\net8.0\059-Get-the-mean-of-an-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\obj\Debug\net8.0\refint\059-Get-the-mean-of-an-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\obj\Debug\net8.0\059-Get-the-mean-of-an-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\obj\Debug\net8.0\059-Get-the-mean-of-an-array.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\059-Get-the-mean-of-an-array\obj\Debug\net8.0\ref\059-Get-the-mean-of-an-array.dll
