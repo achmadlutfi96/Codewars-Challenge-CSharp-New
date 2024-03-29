@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\bin\Debug\net8.0\069-L1-Set-Alarm.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\bin\Debug\net8.0\069-L1-Set-Alarm.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\bin\Debug\net8.0\069-L1-Set-Alarm.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\bin\Debug\net8.0\069-L1-Set-Alarm.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\bin\Debug\net8.0\069-L1-Set-Alarm.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\obj\Debug\net8.0\069-L1-Set-Alarm.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\obj\Debug\net8.0\069-L1-Set-Alarm.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\obj\Debug\net8.0\069-L1-Set-Alarm.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\obj\Debug\net8.0\069-L1-Set-Alarm.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\obj\Debug\net8.0\069-L1-Set-Alarm.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\obj\Debug\net8.0\069-L1-Set-Alarm.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\obj\Debug\net8.0\refint\069-L1-Set-Alarm.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\obj\Debug\net8.0\069-L1-Set-Alarm.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\obj\Debug\net8.0\069-L1-Set-Alarm.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\069-L1-Set-Alarm\obj\Debug\net8.0\ref\069-L1-Set-Alarm.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "069-L1-Set-Alarm/1.0.0": {
+        "runtime": {
+          "069-L1-Set-Alarm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "069-L1-Set-Alarm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
