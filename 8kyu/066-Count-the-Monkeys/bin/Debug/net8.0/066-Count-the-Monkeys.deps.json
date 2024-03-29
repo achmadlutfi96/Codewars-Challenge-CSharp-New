@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "066-Count-the-Monkeys/1.0.0": {
+        "runtime": {
+          "066-Count-the-Monkeys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "066-Count-the-Monkeys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

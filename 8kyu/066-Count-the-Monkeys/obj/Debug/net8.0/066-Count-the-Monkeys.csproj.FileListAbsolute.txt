@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\bin\Debug\net8.0\066-Count-the-Monkeys.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\bin\Debug\net8.0\066-Count-the-Monkeys.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\bin\Debug\net8.0\066-Count-the-Monkeys.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\bin\Debug\net8.0\066-Count-the-Monkeys.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\bin\Debug\net8.0\066-Count-the-Monkeys.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\obj\Debug\net8.0\066-Count-the-Monkeys.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\obj\Debug\net8.0\066-Count-the-Monkeys.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\obj\Debug\net8.0\066-Count-the-Monkeys.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\obj\Debug\net8.0\066-Count-the-Monkeys.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\obj\Debug\net8.0\066-Count-the-Monkeys.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\obj\Debug\net8.0\066-Count-the-Monkeys.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\obj\Debug\net8.0\refint\066-Count-the-Monkeys.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\obj\Debug\net8.0\066-Count-the-Monkeys.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\obj\Debug\net8.0\066-Count-the-Monkeys.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\066-Count-the-Monkeys\obj\Debug\net8.0\ref\066-Count-the-Monkeys.dll
