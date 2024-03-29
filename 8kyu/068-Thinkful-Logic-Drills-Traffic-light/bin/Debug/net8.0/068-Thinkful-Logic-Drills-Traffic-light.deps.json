@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "068-Thinkful-Logic-Drills-Traffic-light/1.0.0": {
+        "runtime": {
+          "068-Thinkful-Logic-Drills-Traffic-light.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "068-Thinkful-Logic-Drills-Traffic-light/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

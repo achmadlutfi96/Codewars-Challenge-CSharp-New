@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\bin\Debug\net8.0\068-Thinkful-Logic-Drills-Traffic-light.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\bin\Debug\net8.0\068-Thinkful-Logic-Drills-Traffic-light.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\bin\Debug\net8.0\068-Thinkful-Logic-Drills-Traffic-light.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\bin\Debug\net8.0\068-Thinkful-Logic-Drills-Traffic-light.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\bin\Debug\net8.0\068-Thinkful-Logic-Drills-Traffic-light.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\obj\Debug\net8.0\068-Thinkful-Logic-Drills-Traffic-light.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\obj\Debug\net8.0\068-Thinkful-Logic-Drills-Traffic-light.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\obj\Debug\net8.0\068-Thinkful-Logic-Drills-Traffic-light.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\obj\Debug\net8.0\068-Thinkful-Logic-Drills-Traffic-light.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\obj\Debug\net8.0\068-Thinkful-Logic-Drills-Traffic-light.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\obj\Debug\net8.0\068-Thinkful-Logic-Drills-Traffic-light.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\obj\Debug\net8.0\refint\068-Thinkful-Logic-Drills-Traffic-light.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\obj\Debug\net8.0\068-Thinkful-Logic-Drills-Traffic-light.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\obj\Debug\net8.0\068-Thinkful-Logic-Drills-Traffic-light.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\068-Thinkful-Logic-Drills-Traffic-light\obj\Debug\net8.0\ref\068-Thinkful-Logic-Drills-Traffic-light.dll
