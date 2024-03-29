@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\bin\Debug\net8.0\070-Do-I-get-a-bonus.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\bin\Debug\net8.0\070-Do-I-get-a-bonus.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\bin\Debug\net8.0\070-Do-I-get-a-bonus.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\bin\Debug\net8.0\070-Do-I-get-a-bonus.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\bin\Debug\net8.0\070-Do-I-get-a-bonus.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\obj\Debug\net8.0\070-Do-I-get-a-bonus.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\obj\Debug\net8.0\070-Do-I-get-a-bonus.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\obj\Debug\net8.0\070-Do-I-get-a-bonus.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\obj\Debug\net8.0\070-Do-I-get-a-bonus.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\obj\Debug\net8.0\070-Do-I-get-a-bonus.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\obj\Debug\net8.0\070-Do-I-get-a-bonus.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\obj\Debug\net8.0\refint\070-Do-I-get-a-bonus.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\obj\Debug\net8.0\070-Do-I-get-a-bonus.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\obj\Debug\net8.0\070-Do-I-get-a-bonus.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\070-Do-I-get-a-bonus\obj\Debug\net8.0\ref\070-Do-I-get-a-bonus.dll

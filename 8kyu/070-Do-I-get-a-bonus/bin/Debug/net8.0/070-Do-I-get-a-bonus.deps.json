@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "070-Do-I-get-a-bonus/1.0.0": {
+        "runtime": {
+          "070-Do-I-get-a-bonus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "070-Do-I-get-a-bonus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
