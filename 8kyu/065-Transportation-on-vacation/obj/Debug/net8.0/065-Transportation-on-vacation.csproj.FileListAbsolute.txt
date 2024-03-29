@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\bin\Debug\net8.0\065-Transportation-on-vacation.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\bin\Debug\net8.0\065-Transportation-on-vacation.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\bin\Debug\net8.0\065-Transportation-on-vacation.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\bin\Debug\net8.0\065-Transportation-on-vacation.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\bin\Debug\net8.0\065-Transportation-on-vacation.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\obj\Debug\net8.0\065-Transportation-on-vacation.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\obj\Debug\net8.0\065-Transportation-on-vacation.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\obj\Debug\net8.0\065-Transportation-on-vacation.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\obj\Debug\net8.0\065-Transportation-on-vacation.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\obj\Debug\net8.0\065-Transportation-on-vacation.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\obj\Debug\net8.0\065-Transportation-on-vacation.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\obj\Debug\net8.0\refint\065-Transportation-on-vacation.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\obj\Debug\net8.0\065-Transportation-on-vacation.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\obj\Debug\net8.0\065-Transportation-on-vacation.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\065-Transportation-on-vacation\obj\Debug\net8.0\ref\065-Transportation-on-vacation.dll
