@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\bin\Debug\net8.0\067-Double-Char.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\bin\Debug\net8.0\067-Double-Char.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\bin\Debug\net8.0\067-Double-Char.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\bin\Debug\net8.0\067-Double-Char.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\bin\Debug\net8.0\067-Double-Char.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\obj\Debug\net8.0\067-Double-Char.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\obj\Debug\net8.0\067-Double-Char.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\obj\Debug\net8.0\067-Double-Char.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\obj\Debug\net8.0\067-Double-Char.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\obj\Debug\net8.0\067-Double-Char.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\obj\Debug\net8.0\067-Double-Char.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\obj\Debug\net8.0\refint\067-Double-Char.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\obj\Debug\net8.0\067-Double-Char.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\obj\Debug\net8.0\067-Double-Char.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\067-Double-Char\obj\Debug\net8.0\ref\067-Double-Char.dll
