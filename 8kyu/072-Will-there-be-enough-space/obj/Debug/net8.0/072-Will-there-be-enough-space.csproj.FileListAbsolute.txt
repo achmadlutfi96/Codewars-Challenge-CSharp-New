@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\bin\Debug\net8.0\072-Will-there-be-enough-space.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\bin\Debug\net8.0\072-Will-there-be-enough-space.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\bin\Debug\net8.0\072-Will-there-be-enough-space.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\bin\Debug\net8.0\072-Will-there-be-enough-space.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\bin\Debug\net8.0\072-Will-there-be-enough-space.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\obj\Debug\net8.0\072-Will-there-be-enough-space.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\obj\Debug\net8.0\072-Will-there-be-enough-space.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\obj\Debug\net8.0\072-Will-there-be-enough-space.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\obj\Debug\net8.0\072-Will-there-be-enough-space.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\obj\Debug\net8.0\072-Will-there-be-enough-space.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\obj\Debug\net8.0\072-Will-there-be-enough-space.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\obj\Debug\net8.0\refint\072-Will-there-be-enough-space.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\obj\Debug\net8.0\072-Will-there-be-enough-space.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\obj\Debug\net8.0\072-Will-there-be-enough-space.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\072-Will-there-be-enough-space\obj\Debug\net8.0\ref\072-Will-there-be-enough-space.dll
