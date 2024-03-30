@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "073-Third-Angle-of-a-Triangle/1.0.0": {
+        "runtime": {
+          "073-Third-Angle-of-a-Triangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "073-Third-Angle-of-a-Triangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

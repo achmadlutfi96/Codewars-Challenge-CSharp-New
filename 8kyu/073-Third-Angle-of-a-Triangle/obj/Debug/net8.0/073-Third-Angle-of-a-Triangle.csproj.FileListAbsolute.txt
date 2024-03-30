@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\bin\Debug\net8.0\073-Third-Angle-of-a-Triangle.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\bin\Debug\net8.0\073-Third-Angle-of-a-Triangle.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\bin\Debug\net8.0\073-Third-Angle-of-a-Triangle.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\bin\Debug\net8.0\073-Third-Angle-of-a-Triangle.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\bin\Debug\net8.0\073-Third-Angle-of-a-Triangle.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\obj\Debug\net8.0\073-Third-Angle-of-a-Triangle.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\obj\Debug\net8.0\073-Third-Angle-of-a-Triangle.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\obj\Debug\net8.0\073-Third-Angle-of-a-Triangle.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\obj\Debug\net8.0\073-Third-Angle-of-a-Triangle.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\obj\Debug\net8.0\073-Third-Angle-of-a-Triangle.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\obj\Debug\net8.0\073-Third-Angle-of-a-Triangle.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\obj\Debug\net8.0\refint\073-Third-Angle-of-a-Triangle.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\obj\Debug\net8.0\073-Third-Angle-of-a-Triangle.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\obj\Debug\net8.0\073-Third-Angle-of-a-Triangle.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\073-Third-Angle-of-a-Triangle\obj\Debug\net8.0\ref\073-Third-Angle-of-a-Triangle.dll
