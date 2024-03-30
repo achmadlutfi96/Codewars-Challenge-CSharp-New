@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\bin\Debug\net8.0\071-Removing-Elements.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\bin\Debug\net8.0\071-Removing-Elements.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\bin\Debug\net8.0\071-Removing-Elements.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\bin\Debug\net8.0\071-Removing-Elements.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\bin\Debug\net8.0\071-Removing-Elements.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\obj\Debug\net8.0\071-Removing-Elements.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\obj\Debug\net8.0\071-Removing-Elements.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\obj\Debug\net8.0\071-Removing-Elements.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\obj\Debug\net8.0\071-Removing-Elements.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\obj\Debug\net8.0\071-Removing-Elements.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\obj\Debug\net8.0\071-Removing-Elements.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\obj\Debug\net8.0\refint\071-Removing-Elements.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\obj\Debug\net8.0\071-Removing-Elements.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\obj\Debug\net8.0\071-Removing-Elements.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\071-Removing-Elements\obj\Debug\net8.0\ref\071-Removing-Elements.dll
