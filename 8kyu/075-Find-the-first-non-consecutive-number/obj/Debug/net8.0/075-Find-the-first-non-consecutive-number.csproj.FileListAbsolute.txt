@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\bin\Debug\net8.0\075-Find-the-first-non-consecutive-number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\bin\Debug\net8.0\075-Find-the-first-non-consecutive-number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\bin\Debug\net8.0\075-Find-the-first-non-consecutive-number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\bin\Debug\net8.0\075-Find-the-first-non-consecutive-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\bin\Debug\net8.0\075-Find-the-first-non-consecutive-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\obj\Debug\net8.0\075-Find-the-first-non-consecutive-number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\obj\Debug\net8.0\075-Find-the-first-non-consecutive-number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\obj\Debug\net8.0\075-Find-the-first-non-consecutive-number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\obj\Debug\net8.0\075-Find-the-first-non-consecutive-number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\obj\Debug\net8.0\075-Find-the-first-non-consecutive-number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\obj\Debug\net8.0\075-Find-the-first-non-consecutive-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\obj\Debug\net8.0\refint\075-Find-the-first-non-consecutive-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\obj\Debug\net8.0\075-Find-the-first-non-consecutive-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\obj\Debug\net8.0\075-Find-the-first-non-consecutive-number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\075-Find-the-first-non-consecutive-number\obj\Debug\net8.0\ref\075-Find-the-first-non-consecutive-number.dll
