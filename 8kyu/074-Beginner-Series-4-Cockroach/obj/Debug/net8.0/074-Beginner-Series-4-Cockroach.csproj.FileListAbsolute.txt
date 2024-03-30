@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\bin\Debug\net8.0\074-Beginner-Series-4-Cockroach.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\bin\Debug\net8.0\074-Beginner-Series-4-Cockroach.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\bin\Debug\net8.0\074-Beginner-Series-4-Cockroach.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\bin\Debug\net8.0\074-Beginner-Series-4-Cockroach.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\bin\Debug\net8.0\074-Beginner-Series-4-Cockroach.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\obj\Debug\net8.0\074-Beginner-Series-4-Cockroach.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\obj\Debug\net8.0\074-Beginner-Series-4-Cockroach.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\obj\Debug\net8.0\074-Beginner-Series-4-Cockroach.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\obj\Debug\net8.0\074-Beginner-Series-4-Cockroach.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\obj\Debug\net8.0\074-Beginner-Series-4-Cockroach.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\obj\Debug\net8.0\074-Beginner-Series-4-Cockroach.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\obj\Debug\net8.0\refint\074-Beginner-Series-4-Cockroach.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\obj\Debug\net8.0\074-Beginner-Series-4-Cockroach.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\obj\Debug\net8.0\074-Beginner-Series-4-Cockroach.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\074-Beginner-Series-4-Cockroach\obj\Debug\net8.0\ref\074-Beginner-Series-4-Cockroach.dll
