@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "076-Twice-as-old/1.0.0": {
+        "runtime": {
+          "076-Twice-as-old.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "076-Twice-as-old/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
