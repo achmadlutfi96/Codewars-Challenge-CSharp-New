@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "077-Grasshopper-Check-for-factor/1.0.0": {
+        "runtime": {
+          "077-Grasshopper-Check-for-factor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "077-Grasshopper-Check-for-factor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

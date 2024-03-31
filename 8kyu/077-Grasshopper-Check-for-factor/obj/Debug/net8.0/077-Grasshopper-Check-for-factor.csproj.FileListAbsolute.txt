@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\bin\Debug\net8.0\077-Grasshopper-Check-for-factor.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\bin\Debug\net8.0\077-Grasshopper-Check-for-factor.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\bin\Debug\net8.0\077-Grasshopper-Check-for-factor.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\bin\Debug\net8.0\077-Grasshopper-Check-for-factor.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\bin\Debug\net8.0\077-Grasshopper-Check-for-factor.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\obj\Debug\net8.0\077-Grasshopper-Check-for-factor.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\obj\Debug\net8.0\077-Grasshopper-Check-for-factor.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\obj\Debug\net8.0\077-Grasshopper-Check-for-factor.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\obj\Debug\net8.0\077-Grasshopper-Check-for-factor.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\obj\Debug\net8.0\077-Grasshopper-Check-for-factor.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\obj\Debug\net8.0\077-Grasshopper-Check-for-factor.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\obj\Debug\net8.0\refint\077-Grasshopper-Check-for-factor.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\obj\Debug\net8.0\077-Grasshopper-Check-for-factor.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\obj\Debug\net8.0\077-Grasshopper-Check-for-factor.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\077-Grasshopper-Check-for-factor\obj\Debug\net8.0\ref\077-Grasshopper-Check-for-factor.dll
