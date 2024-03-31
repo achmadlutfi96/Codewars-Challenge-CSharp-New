@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\bin\Debug\net8.0\080-All-Star-Code-Challenge-18.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\bin\Debug\net8.0\080-All-Star-Code-Challenge-18.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\bin\Debug\net8.0\080-All-Star-Code-Challenge-18.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\bin\Debug\net8.0\080-All-Star-Code-Challenge-18.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\bin\Debug\net8.0\080-All-Star-Code-Challenge-18.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\obj\Debug\net8.0\080-All-Star-Code-Challenge-18.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\obj\Debug\net8.0\080-All-Star-Code-Challenge-18.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\obj\Debug\net8.0\080-All-Star-Code-Challenge-18.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\obj\Debug\net8.0\080-All-Star-Code-Challenge-18.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\obj\Debug\net8.0\080-All-Star-Code-Challenge-18.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\obj\Debug\net8.0\080-All-Star-Code-Challenge-18.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\obj\Debug\net8.0\refint\080-All-Star-Code-Challenge-18.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\obj\Debug\net8.0\080-All-Star-Code-Challenge-18.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\obj\Debug\net8.0\080-All-Star-Code-Challenge-18.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\080-All-Star-Code-Challenge-18\obj\Debug\net8.0\ref\080-All-Star-Code-Challenge-18.dll
