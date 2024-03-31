@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\bin\Debug\net8.0\078-Keep-up-the-hoop.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\bin\Debug\net8.0\078-Keep-up-the-hoop.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\bin\Debug\net8.0\078-Keep-up-the-hoop.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\bin\Debug\net8.0\078-Keep-up-the-hoop.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\bin\Debug\net8.0\078-Keep-up-the-hoop.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\obj\Debug\net8.0\078-Keep-up-the-hoop.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\obj\Debug\net8.0\078-Keep-up-the-hoop.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\obj\Debug\net8.0\078-Keep-up-the-hoop.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\obj\Debug\net8.0\078-Keep-up-the-hoop.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\obj\Debug\net8.0\078-Keep-up-the-hoop.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\obj\Debug\net8.0\078-Keep-up-the-hoop.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\obj\Debug\net8.0\refint\078-Keep-up-the-hoop.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\obj\Debug\net8.0\078-Keep-up-the-hoop.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\obj\Debug\net8.0\078-Keep-up-the-hoop.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\078-Keep-up-the-hoop\obj\Debug\net8.0\ref\078-Keep-up-the-hoop.dll
