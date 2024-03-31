@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\bin\Debug\net8.0\082-Switch-it-Up.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\bin\Debug\net8.0\082-Switch-it-Up.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\bin\Debug\net8.0\082-Switch-it-Up.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\bin\Debug\net8.0\082-Switch-it-Up.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\bin\Debug\net8.0\082-Switch-it-Up.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\obj\Debug\net8.0\082-Switch-it-Up.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\obj\Debug\net8.0\082-Switch-it-Up.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\obj\Debug\net8.0\082-Switch-it-Up.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\obj\Debug\net8.0\082-Switch-it-Up.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\obj\Debug\net8.0\082-Switch-it-Up.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\obj\Debug\net8.0\082-Switch-it-Up.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\obj\Debug\net8.0\refint\082-Switch-it-Up.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\obj\Debug\net8.0\082-Switch-it-Up.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\obj\Debug\net8.0\082-Switch-it-Up.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\082-Switch-it-Up\obj\Debug\net8.0\ref\082-Switch-it-Up.dll
