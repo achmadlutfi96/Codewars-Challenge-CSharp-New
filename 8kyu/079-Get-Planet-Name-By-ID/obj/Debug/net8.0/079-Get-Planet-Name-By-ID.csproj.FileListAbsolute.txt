@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\obj\Debug\net8.0\079-Get-Planet-Name-By-ID.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\obj\Debug\net8.0\079-Get-Planet-Name-By-ID.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\obj\Debug\net8.0\079-Get-Planet-Name-By-ID.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\obj\Debug\net8.0\079-Get-Planet-Name-By-ID.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\obj\Debug\net8.0\079-Get-Planet-Name-By-ID.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\bin\Debug\net8.0\079-Get-Planet-Name-By-ID.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\bin\Debug\net8.0\079-Get-Planet-Name-By-ID.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\bin\Debug\net8.0\079-Get-Planet-Name-By-ID.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\bin\Debug\net8.0\079-Get-Planet-Name-By-ID.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\bin\Debug\net8.0\079-Get-Planet-Name-By-ID.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\obj\Debug\net8.0\079-Get-Planet-Name-By-ID.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\obj\Debug\net8.0\refint\079-Get-Planet-Name-By-ID.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\obj\Debug\net8.0\079-Get-Planet-Name-By-ID.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\obj\Debug\net8.0\079-Get-Planet-Name-By-ID.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\079-Get-Planet-Name-By-ID\obj\Debug\net8.0\ref\079-Get-Planet-Name-By-ID.dll
