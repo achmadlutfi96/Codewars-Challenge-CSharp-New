@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\bin\Debug\net8.0\081-Volume-of-a-Cuboid.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\bin\Debug\net8.0\081-Volume-of-a-Cuboid.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\bin\Debug\net8.0\081-Volume-of-a-Cuboid.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\bin\Debug\net8.0\081-Volume-of-a-Cuboid.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\bin\Debug\net8.0\081-Volume-of-a-Cuboid.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\obj\Debug\net8.0\081-Volume-of-a-Cuboid.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\obj\Debug\net8.0\081-Volume-of-a-Cuboid.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\obj\Debug\net8.0\081-Volume-of-a-Cuboid.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\obj\Debug\net8.0\081-Volume-of-a-Cuboid.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\obj\Debug\net8.0\081-Volume-of-a-Cuboid.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\obj\Debug\net8.0\081-Volume-of-a-Cuboid.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\obj\Debug\net8.0\refint\081-Volume-of-a-Cuboid.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\obj\Debug\net8.0\081-Volume-of-a-Cuboid.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\obj\Debug\net8.0\081-Volume-of-a-Cuboid.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\081-Volume-of-a-Cuboid\obj\Debug\net8.0\ref\081-Volume-of-a-Cuboid.dll
