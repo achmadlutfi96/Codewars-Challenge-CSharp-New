@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\bin\Debug\net8.0\084-Parse-nice-int-from-char-problem.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\bin\Debug\net8.0\084-Parse-nice-int-from-char-problem.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\bin\Debug\net8.0\084-Parse-nice-int-from-char-problem.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\bin\Debug\net8.0\084-Parse-nice-int-from-char-problem.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\bin\Debug\net8.0\084-Parse-nice-int-from-char-problem.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\obj\Debug\net8.0\084-Parse-nice-int-from-char-problem.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\obj\Debug\net8.0\084-Parse-nice-int-from-char-problem.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\obj\Debug\net8.0\084-Parse-nice-int-from-char-problem.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\obj\Debug\net8.0\084-Parse-nice-int-from-char-problem.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\obj\Debug\net8.0\084-Parse-nice-int-from-char-problem.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\obj\Debug\net8.0\084-Parse-nice-int-from-char-problem.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\obj\Debug\net8.0\refint\084-Parse-nice-int-from-char-problem.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\obj\Debug\net8.0\084-Parse-nice-int-from-char-problem.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\obj\Debug\net8.0\084-Parse-nice-int-from-char-problem.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\084-Parse-nice-int-from-char-problem\obj\Debug\net8.0\ref\084-Parse-nice-int-from-char-problem.dll
