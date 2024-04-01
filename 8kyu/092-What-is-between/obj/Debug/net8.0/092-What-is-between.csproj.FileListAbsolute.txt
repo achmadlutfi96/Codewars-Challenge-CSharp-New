@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\bin\Debug\net8.0\092-What-is-between.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\bin\Debug\net8.0\092-What-is-between.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\bin\Debug\net8.0\092-What-is-between.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\bin\Debug\net8.0\092-What-is-between.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\bin\Debug\net8.0\092-What-is-between.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\obj\Debug\net8.0\092-What-is-between.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\obj\Debug\net8.0\092-What-is-between.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\obj\Debug\net8.0\092-What-is-between.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\obj\Debug\net8.0\092-What-is-between.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\obj\Debug\net8.0\092-What-is-between.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\obj\Debug\net8.0\092-What-is-between.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\obj\Debug\net8.0\refint\092-What-is-between.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\obj\Debug\net8.0\092-What-is-between.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\obj\Debug\net8.0\092-What-is-between.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\092-What-is-between\obj\Debug\net8.0\ref\092-What-is-between.dll
