@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "090-Sum-The-Strings/1.0.0": {
+        "runtime": {
+          "090-Sum-The-Strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "090-Sum-The-Strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
