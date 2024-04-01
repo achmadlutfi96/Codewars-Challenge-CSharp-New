@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\bin\Debug\net8.0\086-Is-it-even.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\bin\Debug\net8.0\086-Is-it-even.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\bin\Debug\net8.0\086-Is-it-even.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\bin\Debug\net8.0\086-Is-it-even.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\bin\Debug\net8.0\086-Is-it-even.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\obj\Debug\net8.0\086-Is-it-even.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\obj\Debug\net8.0\086-Is-it-even.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\obj\Debug\net8.0\086-Is-it-even.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\obj\Debug\net8.0\086-Is-it-even.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\obj\Debug\net8.0\086-Is-it-even.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\obj\Debug\net8.0\086-Is-it-even.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\obj\Debug\net8.0\refint\086-Is-it-even.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\obj\Debug\net8.0\086-Is-it-even.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\obj\Debug\net8.0\086-Is-it-even.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\086-Is-it-even\obj\Debug\net8.0\ref\086-Is-it-even.dll

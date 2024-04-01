@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "086-Is-it-even/1.0.0": {
+        "runtime": {
+          "086-Is-it-even.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "086-Is-it-even/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
