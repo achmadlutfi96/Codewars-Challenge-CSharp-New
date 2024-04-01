@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\bin\Debug\net8.0\085-Cat-years-Dog-years.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\bin\Debug\net8.0\085-Cat-years-Dog-years.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\bin\Debug\net8.0\085-Cat-years-Dog-years.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\bin\Debug\net8.0\085-Cat-years-Dog-years.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\bin\Debug\net8.0\085-Cat-years-Dog-years.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\obj\Debug\net8.0\085-Cat-years-Dog-years.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\obj\Debug\net8.0\085-Cat-years-Dog-years.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\obj\Debug\net8.0\085-Cat-years-Dog-years.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\obj\Debug\net8.0\085-Cat-years-Dog-years.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\obj\Debug\net8.0\085-Cat-years-Dog-years.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\obj\Debug\net8.0\085-Cat-years-Dog-years.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\obj\Debug\net8.0\refint\085-Cat-years-Dog-years.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\obj\Debug\net8.0\085-Cat-years-Dog-years.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\obj\Debug\net8.0\085-Cat-years-Dog-years.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\085-Cat-years-Dog-years\obj\Debug\net8.0\ref\085-Cat-years-Dog-years.dll
