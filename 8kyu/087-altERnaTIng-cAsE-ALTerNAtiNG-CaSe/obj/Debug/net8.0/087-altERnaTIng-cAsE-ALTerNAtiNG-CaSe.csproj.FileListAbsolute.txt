@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\bin\Debug\net8.0\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\bin\Debug\net8.0\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\bin\Debug\net8.0\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\bin\Debug\net8.0\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\bin\Debug\net8.0\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\obj\Debug\net8.0\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\obj\Debug\net8.0\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\obj\Debug\net8.0\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\obj\Debug\net8.0\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\obj\Debug\net8.0\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\obj\Debug\net8.0\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\obj\Debug\net8.0\refint\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\obj\Debug\net8.0\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\obj\Debug\net8.0\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe\obj\Debug\net8.0\ref\087-altERnaTIng-cAsE-ALTerNAtiNG-CaSe.dll
