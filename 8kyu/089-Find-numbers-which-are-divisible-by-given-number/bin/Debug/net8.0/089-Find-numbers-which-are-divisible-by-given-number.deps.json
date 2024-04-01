@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "089-Find-numbers-which-are-divisible-by-given-number/1.0.0": {
+        "runtime": {
+          "089-Find-numbers-which-are-divisible-by-given-number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "089-Find-numbers-which-are-divisible-by-given-number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

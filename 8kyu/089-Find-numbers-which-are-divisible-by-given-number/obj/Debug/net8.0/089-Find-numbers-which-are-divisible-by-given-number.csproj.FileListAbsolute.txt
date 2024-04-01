@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\bin\Debug\net8.0\089-Find-numbers-which-are-divisible-by-given-number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\bin\Debug\net8.0\089-Find-numbers-which-are-divisible-by-given-number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\bin\Debug\net8.0\089-Find-numbers-which-are-divisible-by-given-number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\bin\Debug\net8.0\089-Find-numbers-which-are-divisible-by-given-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\bin\Debug\net8.0\089-Find-numbers-which-are-divisible-by-given-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\obj\Debug\net8.0\089-Find-numbers-which-are-divisible-by-given-number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\obj\Debug\net8.0\089-Find-numbers-which-are-divisible-by-given-number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\obj\Debug\net8.0\089-Find-numbers-which-are-divisible-by-given-number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\obj\Debug\net8.0\089-Find-numbers-which-are-divisible-by-given-number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\obj\Debug\net8.0\089-Find-numbers-which-are-divisible-by-given-number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\obj\Debug\net8.0\089-Find-numbers-which-are-divisible-by-given-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\obj\Debug\net8.0\refint\089-Find-numbers-which-are-divisible-by-given-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\obj\Debug\net8.0\089-Find-numbers-which-are-divisible-by-given-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\obj\Debug\net8.0\089-Find-numbers-which-are-divisible-by-given-number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\089-Find-numbers-which-are-divisible-by-given-number\obj\Debug\net8.0\ref\089-Find-numbers-which-are-divisible-by-given-number.dll
