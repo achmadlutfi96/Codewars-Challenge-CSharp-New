@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\bin\Debug\net8.0\095-Difference-of-Volumes-of-Cuboids.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\bin\Debug\net8.0\095-Difference-of-Volumes-of-Cuboids.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\bin\Debug\net8.0\095-Difference-of-Volumes-of-Cuboids.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\bin\Debug\net8.0\095-Difference-of-Volumes-of-Cuboids.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\bin\Debug\net8.0\095-Difference-of-Volumes-of-Cuboids.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\obj\Debug\net8.0\095-Difference-of-Volumes-of-Cuboids.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\obj\Debug\net8.0\095-Difference-of-Volumes-of-Cuboids.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\obj\Debug\net8.0\095-Difference-of-Volumes-of-Cuboids.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\obj\Debug\net8.0\095-Difference-of-Volumes-of-Cuboids.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\obj\Debug\net8.0\095-Difference-of-Volumes-of-Cuboids.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\obj\Debug\net8.0\095-Difference-of-Volumes-of-Cuboids.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\obj\Debug\net8.0\refint\095-Difference-of-Volumes-of-Cuboids.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\obj\Debug\net8.0\095-Difference-of-Volumes-of-Cuboids.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\obj\Debug\net8.0\095-Difference-of-Volumes-of-Cuboids.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\095-Difference-of-Volumes-of-Cuboids\obj\Debug\net8.0\ref\095-Difference-of-Volumes-of-Cuboids.dll
