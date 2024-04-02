@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\bin\Debug\net8.0\099-Sort-and-Star.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\bin\Debug\net8.0\099-Sort-and-Star.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\bin\Debug\net8.0\099-Sort-and-Star.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\bin\Debug\net8.0\099-Sort-and-Star.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\bin\Debug\net8.0\099-Sort-and-Star.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\obj\Debug\net8.0\099-Sort-and-Star.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\obj\Debug\net8.0\099-Sort-and-Star.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\obj\Debug\net8.0\099-Sort-and-Star.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\obj\Debug\net8.0\099-Sort-and-Star.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\obj\Debug\net8.0\099-Sort-and-Star.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\obj\Debug\net8.0\099-Sort-and-Star.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\obj\Debug\net8.0\refint\099-Sort-and-Star.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\obj\Debug\net8.0\099-Sort-and-Star.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\obj\Debug\net8.0\099-Sort-and-Star.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\099-Sort-and-Star\obj\Debug\net8.0\ref\099-Sort-and-Star.dll
