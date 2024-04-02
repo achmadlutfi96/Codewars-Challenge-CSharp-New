@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\bin\Debug\net8.0\100-To-square-root-or-not-to-square-root.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\bin\Debug\net8.0\100-To-square-root-or-not-to-square-root.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\bin\Debug\net8.0\100-To-square-root-or-not-to-square-root.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\bin\Debug\net8.0\100-To-square-root-or-not-to-square-root.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\bin\Debug\net8.0\100-To-square-root-or-not-to-square-root.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\obj\Debug\net8.0\100-To-square-root-or-not-to-square-root.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\obj\Debug\net8.0\100-To-square-root-or-not-to-square-root.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\obj\Debug\net8.0\100-To-square-root-or-not-to-square-root.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\obj\Debug\net8.0\100-To-square-root-or-not-to-square-root.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\obj\Debug\net8.0\100-To-square-root-or-not-to-square-root.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\obj\Debug\net8.0\100-To-square-root-or-not-to-square-root.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\obj\Debug\net8.0\refint\100-To-square-root-or-not-to-square-root.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\obj\Debug\net8.0\100-To-square-root-or-not-to-square-root.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\obj\Debug\net8.0\100-To-square-root-or-not-to-square-root.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\100-To-square-root-or-not-to-square-root\obj\Debug\net8.0\ref\100-To-square-root-or-not-to-square-root.dll
