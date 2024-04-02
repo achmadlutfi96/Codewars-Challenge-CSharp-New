@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\bin\Debug\net8.0\097-Students-Final-Grade.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\bin\Debug\net8.0\097-Students-Final-Grade.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\bin\Debug\net8.0\097-Students-Final-Grade.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\bin\Debug\net8.0\097-Students-Final-Grade.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\bin\Debug\net8.0\097-Students-Final-Grade.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\obj\Debug\net8.0\097-Students-Final-Grade.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\obj\Debug\net8.0\097-Students-Final-Grade.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\obj\Debug\net8.0\097-Students-Final-Grade.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\obj\Debug\net8.0\097-Students-Final-Grade.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\obj\Debug\net8.0\097-Students-Final-Grade.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\obj\Debug\net8.0\097-Students-Final-Grade.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\obj\Debug\net8.0\refint\097-Students-Final-Grade.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\obj\Debug\net8.0\097-Students-Final-Grade.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\obj\Debug\net8.0\097-Students-Final-Grade.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\097-Students-Final-Grade\obj\Debug\net8.0\ref\097-Students-Final-Grade.dll
