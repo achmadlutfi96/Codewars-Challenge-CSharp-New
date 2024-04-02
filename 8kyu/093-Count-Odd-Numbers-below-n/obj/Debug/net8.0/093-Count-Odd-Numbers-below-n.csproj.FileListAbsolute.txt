@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\bin\Debug\net8.0\093-Count-Odd-Numbers-below-n.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\bin\Debug\net8.0\093-Count-Odd-Numbers-below-n.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\bin\Debug\net8.0\093-Count-Odd-Numbers-below-n.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\bin\Debug\net8.0\093-Count-Odd-Numbers-below-n.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\bin\Debug\net8.0\093-Count-Odd-Numbers-below-n.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\obj\Debug\net8.0\093-Count-Odd-Numbers-below-n.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\obj\Debug\net8.0\093-Count-Odd-Numbers-below-n.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\obj\Debug\net8.0\093-Count-Odd-Numbers-below-n.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\obj\Debug\net8.0\093-Count-Odd-Numbers-below-n.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\obj\Debug\net8.0\093-Count-Odd-Numbers-below-n.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\obj\Debug\net8.0\093-Count-Odd-Numbers-below-n.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\obj\Debug\net8.0\refint\093-Count-Odd-Numbers-below-n.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\obj\Debug\net8.0\093-Count-Odd-Numbers-below-n.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\obj\Debug\net8.0\093-Count-Odd-Numbers-below-n.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\093-Count-Odd-Numbers-below-n\obj\Debug\net8.0\ref\093-Count-Odd-Numbers-below-n.dll
