@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\bin\Debug\net8.0\098-Grasshopper-Debug-sayHello.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\bin\Debug\net8.0\098-Grasshopper-Debug-sayHello.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\bin\Debug\net8.0\098-Grasshopper-Debug-sayHello.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\bin\Debug\net8.0\098-Grasshopper-Debug-sayHello.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\bin\Debug\net8.0\098-Grasshopper-Debug-sayHello.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\obj\Debug\net8.0\098-Grasshopper-Debug-sayHello.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\obj\Debug\net8.0\098-Grasshopper-Debug-sayHello.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\obj\Debug\net8.0\098-Grasshopper-Debug-sayHello.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\obj\Debug\net8.0\098-Grasshopper-Debug-sayHello.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\obj\Debug\net8.0\098-Grasshopper-Debug-sayHello.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\obj\Debug\net8.0\098-Grasshopper-Debug-sayHello.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\obj\Debug\net8.0\refint\098-Grasshopper-Debug-sayHello.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\obj\Debug\net8.0\098-Grasshopper-Debug-sayHello.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\obj\Debug\net8.0\098-Grasshopper-Debug-sayHello.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\098-Grasshopper-Debug-sayHello\obj\Debug\net8.0\ref\098-Grasshopper-Debug-sayHello.dll

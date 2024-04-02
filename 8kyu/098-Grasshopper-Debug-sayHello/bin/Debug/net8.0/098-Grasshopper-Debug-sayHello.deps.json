@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "098-Grasshopper-Debug-sayHello/1.0.0": {
+        "runtime": {
+          "098-Grasshopper-Debug-sayHello.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "098-Grasshopper-Debug-sayHello/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
