@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\bin\Debug\net8.0\094-I-love-you-a-little-a-lot-passionately-not-at-all.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\bin\Debug\net8.0\094-I-love-you-a-little-a-lot-passionately-not-at-all.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\bin\Debug\net8.0\094-I-love-you-a-little-a-lot-passionately-not-at-all.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\bin\Debug\net8.0\094-I-love-you-a-little-a-lot-passionately-not-at-all.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\bin\Debug\net8.0\094-I-love-you-a-little-a-lot-passionately-not-at-all.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\obj\Debug\net8.0\094-I-love-you-a-little-a-lot-passionately-not-at-all.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\obj\Debug\net8.0\094-I-love-you-a-little-a-lot-passionately-not-at-all.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\obj\Debug\net8.0\094-I-love-you-a-little-a-lot-passionately-not-at-all.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\obj\Debug\net8.0\094-I-love-you-a-little-a-lot-passionately-not-at-all.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\obj\Debug\net8.0\094-I-love-you-a-little-a-lot-passionately-not-at-all.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\obj\Debug\net8.0\094-I-love-you-a-little-a-lot-passionately-not-at-all.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\obj\Debug\net8.0\refint\094-I-love-you-a-little-a-lot-passionately-not-at-all.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\obj\Debug\net8.0\094-I-love-you-a-little-a-lot-passionately-not-at-all.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\obj\Debug\net8.0\094-I-love-you-a-little-a-lot-passionately-not-at-all.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\094-I-love-you-a-little-a-lot-passionately-not-at-all\obj\Debug\net8.0\ref\094-I-love-you-a-little-a-lot-passionately-not-at-all.dll

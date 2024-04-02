@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "094-I-love-you-a-little-a-lot-passionately-not-at-all/1.0.0": {
+        "runtime": {
+          "094-I-love-you-a-little-a-lot-passionately-not-at-all.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "094-I-love-you-a-little-a-lot-passionately-not-at-all/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
