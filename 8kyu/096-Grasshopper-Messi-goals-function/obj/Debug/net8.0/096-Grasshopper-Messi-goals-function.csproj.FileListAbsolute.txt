@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\bin\Debug\net8.0\096-Grasshopper-Messi-goals-function.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\bin\Debug\net8.0\096-Grasshopper-Messi-goals-function.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\bin\Debug\net8.0\096-Grasshopper-Messi-goals-function.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\bin\Debug\net8.0\096-Grasshopper-Messi-goals-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\bin\Debug\net8.0\096-Grasshopper-Messi-goals-function.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\obj\Debug\net8.0\096-Grasshopper-Messi-goals-function.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\obj\Debug\net8.0\096-Grasshopper-Messi-goals-function.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\obj\Debug\net8.0\096-Grasshopper-Messi-goals-function.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\obj\Debug\net8.0\096-Grasshopper-Messi-goals-function.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\obj\Debug\net8.0\096-Grasshopper-Messi-goals-function.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\obj\Debug\net8.0\096-Grasshopper-Messi-goals-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\obj\Debug\net8.0\refint\096-Grasshopper-Messi-goals-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\obj\Debug\net8.0\096-Grasshopper-Messi-goals-function.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\obj\Debug\net8.0\096-Grasshopper-Messi-goals-function.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\096-Grasshopper-Messi-goals-function\obj\Debug\net8.0\ref\096-Grasshopper-Messi-goals-function.dll
