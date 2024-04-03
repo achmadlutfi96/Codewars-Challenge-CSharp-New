@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\bin\Debug\net8.0\108-Expressions-Matter.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\bin\Debug\net8.0\108-Expressions-Matter.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\bin\Debug\net8.0\108-Expressions-Matter.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\bin\Debug\net8.0\108-Expressions-Matter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\bin\Debug\net8.0\108-Expressions-Matter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\obj\Debug\net8.0\108-Expressions-Matter.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\obj\Debug\net8.0\108-Expressions-Matter.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\obj\Debug\net8.0\108-Expressions-Matter.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\obj\Debug\net8.0\108-Expressions-Matter.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\obj\Debug\net8.0\108-Expressions-Matter.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\obj\Debug\net8.0\108-Expressions-Matter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\obj\Debug\net8.0\refint\108-Expressions-Matter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\obj\Debug\net8.0\108-Expressions-Matter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\obj\Debug\net8.0\108-Expressions-Matter.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\108-Expressions-Matter\obj\Debug\net8.0\ref\108-Expressions-Matter.dll
