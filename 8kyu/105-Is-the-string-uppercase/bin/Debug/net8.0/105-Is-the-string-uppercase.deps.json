@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "105-Is-the-string-uppercase/1.0.0": {
+        "runtime": {
+          "105-Is-the-string-uppercase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "105-Is-the-string-uppercase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

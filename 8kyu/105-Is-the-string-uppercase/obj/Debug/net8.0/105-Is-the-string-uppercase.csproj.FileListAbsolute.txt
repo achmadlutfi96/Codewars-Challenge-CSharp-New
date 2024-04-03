@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\bin\Debug\net8.0\105-Is-the-string-uppercase.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\bin\Debug\net8.0\105-Is-the-string-uppercase.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\bin\Debug\net8.0\105-Is-the-string-uppercase.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\bin\Debug\net8.0\105-Is-the-string-uppercase.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\bin\Debug\net8.0\105-Is-the-string-uppercase.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\obj\Debug\net8.0\105-Is-the-string-uppercase.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\obj\Debug\net8.0\105-Is-the-string-uppercase.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\obj\Debug\net8.0\105-Is-the-string-uppercase.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\obj\Debug\net8.0\105-Is-the-string-uppercase.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\obj\Debug\net8.0\105-Is-the-string-uppercase.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\obj\Debug\net8.0\105-Is-the-string-uppercase.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\obj\Debug\net8.0\refint\105-Is-the-string-uppercase.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\obj\Debug\net8.0\105-Is-the-string-uppercase.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\obj\Debug\net8.0\105-Is-the-string-uppercase.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\105-Is-the-string-uppercase\obj\Debug\net8.0\ref\105-Is-the-string-uppercase.dll
