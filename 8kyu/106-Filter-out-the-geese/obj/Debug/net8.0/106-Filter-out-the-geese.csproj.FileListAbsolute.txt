@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\bin\Debug\net8.0\106-Filter-out-the-geese.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\bin\Debug\net8.0\106-Filter-out-the-geese.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\bin\Debug\net8.0\106-Filter-out-the-geese.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\bin\Debug\net8.0\106-Filter-out-the-geese.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\bin\Debug\net8.0\106-Filter-out-the-geese.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\obj\Debug\net8.0\106-Filter-out-the-geese.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\obj\Debug\net8.0\106-Filter-out-the-geese.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\obj\Debug\net8.0\106-Filter-out-the-geese.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\obj\Debug\net8.0\106-Filter-out-the-geese.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\obj\Debug\net8.0\106-Filter-out-the-geese.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\obj\Debug\net8.0\106-Filter-out-the-geese.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\obj\Debug\net8.0\refint\106-Filter-out-the-geese.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\obj\Debug\net8.0\106-Filter-out-the-geese.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\obj\Debug\net8.0\106-Filter-out-the-geese.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\106-Filter-out-the-geese\obj\Debug\net8.0\ref\106-Filter-out-the-geese.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "106-Filter-out-the-geese/1.0.0": {
+        "runtime": {
+          "106-Filter-out-the-geese.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "106-Filter-out-the-geese/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
