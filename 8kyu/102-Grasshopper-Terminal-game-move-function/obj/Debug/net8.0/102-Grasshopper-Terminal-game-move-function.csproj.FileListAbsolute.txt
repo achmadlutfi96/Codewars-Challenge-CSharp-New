@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\bin\Debug\net8.0\102-Grasshopper-Terminal-game-move-function.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\bin\Debug\net8.0\102-Grasshopper-Terminal-game-move-function.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\bin\Debug\net8.0\102-Grasshopper-Terminal-game-move-function.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\bin\Debug\net8.0\102-Grasshopper-Terminal-game-move-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\bin\Debug\net8.0\102-Grasshopper-Terminal-game-move-function.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\obj\Debug\net8.0\102-Grasshopper-Terminal-game-move-function.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\obj\Debug\net8.0\102-Grasshopper-Terminal-game-move-function.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\obj\Debug\net8.0\102-Grasshopper-Terminal-game-move-function.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\obj\Debug\net8.0\102-Grasshopper-Terminal-game-move-function.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\obj\Debug\net8.0\102-Grasshopper-Terminal-game-move-function.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\obj\Debug\net8.0\102-Grasshopper-Terminal-game-move-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\obj\Debug\net8.0\refint\102-Grasshopper-Terminal-game-move-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\obj\Debug\net8.0\102-Grasshopper-Terminal-game-move-function.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\obj\Debug\net8.0\102-Grasshopper-Terminal-game-move-function.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\102-Grasshopper-Terminal-game-move-function\obj\Debug\net8.0\ref\102-Grasshopper-Terminal-game-move-function.dll
