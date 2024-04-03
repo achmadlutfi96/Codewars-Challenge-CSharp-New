@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\bin\Debug\net8.0\107-Stringy-Strings.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\bin\Debug\net8.0\107-Stringy-Strings.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\bin\Debug\net8.0\107-Stringy-Strings.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\bin\Debug\net8.0\107-Stringy-Strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\bin\Debug\net8.0\107-Stringy-Strings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\obj\Debug\net8.0\107-Stringy-Strings.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\obj\Debug\net8.0\107-Stringy-Strings.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\obj\Debug\net8.0\107-Stringy-Strings.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\obj\Debug\net8.0\107-Stringy-Strings.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\obj\Debug\net8.0\107-Stringy-Strings.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\obj\Debug\net8.0\107-Stringy-Strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\obj\Debug\net8.0\refint\107-Stringy-Strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\obj\Debug\net8.0\107-Stringy-Strings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\obj\Debug\net8.0\107-Stringy-Strings.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\107-Stringy-Strings\obj\Debug\net8.0\ref\107-Stringy-Strings.dll
