@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "104-Function-2-squaring-an-argument", "104-Function-2-squaring-an-argument.csproj", "{E5CC56C2-2B97-4D1A-9F5E-1DDC43208E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5CC56C2-2B97-4D1A-9F5E-1DDC43208E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CC56C2-2B97-4D1A-9F5E-1DDC43208E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CC56C2-2B97-4D1A-9F5E-1DDC43208E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CC56C2-2B97-4D1A-9F5E-1DDC43208E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95B5B886-56B9-4E70-86E4-FC1AFF678C6E}
+	EndGlobalSection
+EndGlobal
