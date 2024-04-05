@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "116-Vowel-remover/1.0.0": {
+        "runtime": {
+          "116-Vowel-remover.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "116-Vowel-remover/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

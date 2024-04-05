@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\bin\Debug\net8.0\116-Vowel-remover.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\bin\Debug\net8.0\116-Vowel-remover.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\bin\Debug\net8.0\116-Vowel-remover.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\bin\Debug\net8.0\116-Vowel-remover.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\bin\Debug\net8.0\116-Vowel-remover.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\obj\Debug\net8.0\116-Vowel-remover.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\obj\Debug\net8.0\116-Vowel-remover.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\obj\Debug\net8.0\116-Vowel-remover.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\obj\Debug\net8.0\116-Vowel-remover.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\obj\Debug\net8.0\116-Vowel-remover.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\obj\Debug\net8.0\116-Vowel-remover.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\obj\Debug\net8.0\refint\116-Vowel-remover.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\obj\Debug\net8.0\116-Vowel-remover.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\obj\Debug\net8.0\116-Vowel-remover.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\116-Vowel-remover\obj\Debug\net8.0\ref\116-Vowel-remover.dll
