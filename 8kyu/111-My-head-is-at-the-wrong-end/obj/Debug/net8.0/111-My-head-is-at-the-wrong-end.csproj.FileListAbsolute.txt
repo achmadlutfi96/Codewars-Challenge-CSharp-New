@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\bin\Debug\net8.0\111-My-head-is-at-the-wrong-end.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\bin\Debug\net8.0\111-My-head-is-at-the-wrong-end.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\bin\Debug\net8.0\111-My-head-is-at-the-wrong-end.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\bin\Debug\net8.0\111-My-head-is-at-the-wrong-end.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\bin\Debug\net8.0\111-My-head-is-at-the-wrong-end.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\obj\Debug\net8.0\111-My-head-is-at-the-wrong-end.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\obj\Debug\net8.0\111-My-head-is-at-the-wrong-end.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\obj\Debug\net8.0\111-My-head-is-at-the-wrong-end.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\obj\Debug\net8.0\111-My-head-is-at-the-wrong-end.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\obj\Debug\net8.0\111-My-head-is-at-the-wrong-end.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\obj\Debug\net8.0\111-My-head-is-at-the-wrong-end.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\obj\Debug\net8.0\refint\111-My-head-is-at-the-wrong-end.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\obj\Debug\net8.0\111-My-head-is-at-the-wrong-end.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\obj\Debug\net8.0\111-My-head-is-at-the-wrong-end.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\111-My-head-is-at-the-wrong-end\obj\Debug\net8.0\ref\111-My-head-is-at-the-wrong-end.dll
