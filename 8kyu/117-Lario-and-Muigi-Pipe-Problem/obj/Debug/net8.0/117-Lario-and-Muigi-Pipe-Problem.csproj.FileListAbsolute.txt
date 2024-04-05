@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\bin\Debug\net8.0\117-Lario-and-Muigi-Pipe-Problem.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\bin\Debug\net8.0\117-Lario-and-Muigi-Pipe-Problem.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\bin\Debug\net8.0\117-Lario-and-Muigi-Pipe-Problem.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\bin\Debug\net8.0\117-Lario-and-Muigi-Pipe-Problem.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\bin\Debug\net8.0\117-Lario-and-Muigi-Pipe-Problem.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\obj\Debug\net8.0\117-Lario-and-Muigi-Pipe-Problem.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\obj\Debug\net8.0\117-Lario-and-Muigi-Pipe-Problem.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\obj\Debug\net8.0\117-Lario-and-Muigi-Pipe-Problem.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\obj\Debug\net8.0\117-Lario-and-Muigi-Pipe-Problem.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\obj\Debug\net8.0\117-Lario-and-Muigi-Pipe-Problem.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\obj\Debug\net8.0\117-Lario-and-Muigi-Pipe-Problem.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\obj\Debug\net8.0\refint\117-Lario-and-Muigi-Pipe-Problem.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\obj\Debug\net8.0\117-Lario-and-Muigi-Pipe-Problem.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\obj\Debug\net8.0\117-Lario-and-Muigi-Pipe-Problem.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\117-Lario-and-Muigi-Pipe-Problem\obj\Debug\net8.0\ref\117-Lario-and-Muigi-Pipe-Problem.dll
