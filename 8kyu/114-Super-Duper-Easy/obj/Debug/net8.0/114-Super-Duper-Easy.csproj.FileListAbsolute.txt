@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\bin\Debug\net8.0\114-Super-Duper-Easy.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\bin\Debug\net8.0\114-Super-Duper-Easy.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\bin\Debug\net8.0\114-Super-Duper-Easy.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\bin\Debug\net8.0\114-Super-Duper-Easy.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\bin\Debug\net8.0\114-Super-Duper-Easy.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\obj\Debug\net8.0\114-Super-Duper-Easy.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\obj\Debug\net8.0\114-Super-Duper-Easy.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\obj\Debug\net8.0\114-Super-Duper-Easy.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\obj\Debug\net8.0\114-Super-Duper-Easy.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\obj\Debug\net8.0\114-Super-Duper-Easy.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\obj\Debug\net8.0\114-Super-Duper-Easy.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\obj\Debug\net8.0\refint\114-Super-Duper-Easy.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\obj\Debug\net8.0\114-Super-Duper-Easy.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\obj\Debug\net8.0\114-Super-Duper-Easy.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\114-Super-Duper-Easy\obj\Debug\net8.0\ref\114-Super-Duper-Easy.dll

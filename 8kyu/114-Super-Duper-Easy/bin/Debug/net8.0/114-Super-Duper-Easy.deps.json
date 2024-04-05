@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "114-Super-Duper-Easy/1.0.0": {
+        "runtime": {
+          "114-Super-Duper-Easy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "114-Super-Duper-Easy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
