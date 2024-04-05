@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\bin\Debug\net8.0\118-Short-Long-Short.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\bin\Debug\net8.0\118-Short-Long-Short.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\bin\Debug\net8.0\118-Short-Long-Short.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\bin\Debug\net8.0\118-Short-Long-Short.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\bin\Debug\net8.0\118-Short-Long-Short.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\obj\Debug\net8.0\118-Short-Long-Short.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\obj\Debug\net8.0\118-Short-Long-Short.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\obj\Debug\net8.0\118-Short-Long-Short.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\obj\Debug\net8.0\118-Short-Long-Short.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\obj\Debug\net8.0\118-Short-Long-Short.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\obj\Debug\net8.0\118-Short-Long-Short.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\obj\Debug\net8.0\refint\118-Short-Long-Short.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\obj\Debug\net8.0\118-Short-Long-Short.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\obj\Debug\net8.0\118-Short-Long-Short.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\118-Short-Long-Short\obj\Debug\net8.0\ref\118-Short-Long-Short.dll
