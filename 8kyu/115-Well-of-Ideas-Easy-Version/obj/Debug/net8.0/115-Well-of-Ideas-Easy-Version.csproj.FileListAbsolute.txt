@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\bin\Debug\net8.0\115-Well-of-Ideas-Easy-Version.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\bin\Debug\net8.0\115-Well-of-Ideas-Easy-Version.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\bin\Debug\net8.0\115-Well-of-Ideas-Easy-Version.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\bin\Debug\net8.0\115-Well-of-Ideas-Easy-Version.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\bin\Debug\net8.0\115-Well-of-Ideas-Easy-Version.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\obj\Debug\net8.0\115-Well-of-Ideas-Easy-Version.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\obj\Debug\net8.0\115-Well-of-Ideas-Easy-Version.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\obj\Debug\net8.0\115-Well-of-Ideas-Easy-Version.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\obj\Debug\net8.0\115-Well-of-Ideas-Easy-Version.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\obj\Debug\net8.0\115-Well-of-Ideas-Easy-Version.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\obj\Debug\net8.0\115-Well-of-Ideas-Easy-Version.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\obj\Debug\net8.0\refint\115-Well-of-Ideas-Easy-Version.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\obj\Debug\net8.0\115-Well-of-Ideas-Easy-Version.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\obj\Debug\net8.0\115-Well-of-Ideas-Easy-Version.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\115-Well-of-Ideas-Easy-Version\obj\Debug\net8.0\ref\115-Well-of-Ideas-Easy-Version.dll
