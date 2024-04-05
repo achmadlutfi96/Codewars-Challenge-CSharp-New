@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\bin\Debug\net8.0\110-Find-Multiples-of-a-Number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\bin\Debug\net8.0\110-Find-Multiples-of-a-Number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\bin\Debug\net8.0\110-Find-Multiples-of-a-Number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\bin\Debug\net8.0\110-Find-Multiples-of-a-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\bin\Debug\net8.0\110-Find-Multiples-of-a-Number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\obj\Debug\net8.0\110-Find-Multiples-of-a-Number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\obj\Debug\net8.0\110-Find-Multiples-of-a-Number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\obj\Debug\net8.0\110-Find-Multiples-of-a-Number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\obj\Debug\net8.0\110-Find-Multiples-of-a-Number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\obj\Debug\net8.0\110-Find-Multiples-of-a-Number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\obj\Debug\net8.0\110-Find-Multiples-of-a-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\obj\Debug\net8.0\refint\110-Find-Multiples-of-a-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\obj\Debug\net8.0\110-Find-Multiples-of-a-Number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\obj\Debug\net8.0\110-Find-Multiples-of-a-Number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\110-Find-Multiples-of-a-Number\obj\Debug\net8.0\ref\110-Find-Multiples-of-a-Number.dll
