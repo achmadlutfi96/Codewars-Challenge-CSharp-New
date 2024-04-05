@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\bin\Debug\net8.0\109-Grasshopper-If-else-syntax-debug.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\bin\Debug\net8.0\109-Grasshopper-If-else-syntax-debug.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\bin\Debug\net8.0\109-Grasshopper-If-else-syntax-debug.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\bin\Debug\net8.0\109-Grasshopper-If-else-syntax-debug.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\bin\Debug\net8.0\109-Grasshopper-If-else-syntax-debug.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\obj\Debug\net8.0\109-Grasshopper-If-else-syntax-debug.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\obj\Debug\net8.0\109-Grasshopper-If-else-syntax-debug.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\obj\Debug\net8.0\109-Grasshopper-If-else-syntax-debug.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\obj\Debug\net8.0\109-Grasshopper-If-else-syntax-debug.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\obj\Debug\net8.0\109-Grasshopper-If-else-syntax-debug.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\obj\Debug\net8.0\109-Grasshopper-If-else-syntax-debug.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\obj\Debug\net8.0\refint\109-Grasshopper-If-else-syntax-debug.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\obj\Debug\net8.0\109-Grasshopper-If-else-syntax-debug.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\obj\Debug\net8.0\109-Grasshopper-If-else-syntax-debug.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\109-Grasshopper-If-else-syntax-debug\obj\Debug\net8.0\ref\109-Grasshopper-If-else-syntax-debug.dll
