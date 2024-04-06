@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "123-Exclamation-marks-series-1-Remove-an-exclamation-mark-from-the-end-of-string", "123-Exclamation-marks-series-1-Remove-an-exclamation-mark-from-the-end-of-string.csproj", "{AADA16FF-D521-4D1E-92CB-107EE81729DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AADA16FF-D521-4D1E-92CB-107EE81729DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADA16FF-D521-4D1E-92CB-107EE81729DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADA16FF-D521-4D1E-92CB-107EE81729DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADA16FF-D521-4D1E-92CB-107EE81729DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B8D5102-17D0-479D-AD22-FD5781B56E6A}
+	EndGlobalSection
+EndGlobal

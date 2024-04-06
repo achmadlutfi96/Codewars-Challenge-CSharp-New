@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "123-Exclamation-marks-series-1-Remove-an-exclamation-mark-from-the-end-of-string/1.0.0": {
+        "runtime": {
+          "123-Exclamation-marks-series-1-Remove-an-exclamation-mark-from-the-end-of-string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "123-Exclamation-marks-series-1-Remove-an-exclamation-mark-from-the-end-of-string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
