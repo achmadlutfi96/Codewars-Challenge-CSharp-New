@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "119-Whats-the-real-floor", "119-Whats-the-real-floor.csproj", "{493153E5-BCB5-4B36-A64A-A78CCCF3E0BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493153E5-BCB5-4B36-A64A-A78CCCF3E0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493153E5-BCB5-4B36-A64A-A78CCCF3E0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493153E5-BCB5-4B36-A64A-A78CCCF3E0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493153E5-BCB5-4B36-A64A-A78CCCF3E0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF54C20-D27F-4D35-B144-752C20C659F8}
+	EndGlobalSection
+EndGlobal

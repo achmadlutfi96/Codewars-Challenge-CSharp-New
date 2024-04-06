@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\bin\Debug\net8.0\119-Whats-the-real-floor.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\bin\Debug\net8.0\119-Whats-the-real-floor.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\bin\Debug\net8.0\119-Whats-the-real-floor.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\bin\Debug\net8.0\119-Whats-the-real-floor.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\bin\Debug\net8.0\119-Whats-the-real-floor.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\obj\Debug\net8.0\119-Whats-the-real-floor.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\obj\Debug\net8.0\119-Whats-the-real-floor.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\obj\Debug\net8.0\119-Whats-the-real-floor.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\obj\Debug\net8.0\119-Whats-the-real-floor.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\obj\Debug\net8.0\119-Whats-the-real-floor.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\obj\Debug\net8.0\119-Whats-the-real-floor.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\obj\Debug\net8.0\refint\119-Whats-the-real-floor.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\obj\Debug\net8.0\119-Whats-the-real-floor.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\obj\Debug\net8.0\119-Whats-the-real-floor.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\119-Whats-the-real-floor\obj\Debug\net8.0\ref\119-Whats-the-real-floor.dll
