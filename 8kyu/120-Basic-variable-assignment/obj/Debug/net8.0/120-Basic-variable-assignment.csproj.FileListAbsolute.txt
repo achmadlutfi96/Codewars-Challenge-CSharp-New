@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\bin\Debug\net8.0\120-Basic-variable-assignment.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\bin\Debug\net8.0\120-Basic-variable-assignment.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\bin\Debug\net8.0\120-Basic-variable-assignment.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\bin\Debug\net8.0\120-Basic-variable-assignment.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\bin\Debug\net8.0\120-Basic-variable-assignment.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\obj\Debug\net8.0\120-Basic-variable-assignment.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\obj\Debug\net8.0\120-Basic-variable-assignment.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\obj\Debug\net8.0\120-Basic-variable-assignment.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\obj\Debug\net8.0\120-Basic-variable-assignment.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\obj\Debug\net8.0\120-Basic-variable-assignment.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\obj\Debug\net8.0\120-Basic-variable-assignment.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\obj\Debug\net8.0\refint\120-Basic-variable-assignment.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\obj\Debug\net8.0\120-Basic-variable-assignment.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\obj\Debug\net8.0\120-Basic-variable-assignment.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\120-Basic-variable-assignment\obj\Debug\net8.0\ref\120-Basic-variable-assignment.dll
