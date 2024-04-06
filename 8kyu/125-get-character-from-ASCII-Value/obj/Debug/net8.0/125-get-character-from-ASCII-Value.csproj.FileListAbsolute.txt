@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\bin\Debug\net8.0\125-get-character-from-ASCII-Value.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\bin\Debug\net8.0\125-get-character-from-ASCII-Value.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\bin\Debug\net8.0\125-get-character-from-ASCII-Value.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\bin\Debug\net8.0\125-get-character-from-ASCII-Value.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\bin\Debug\net8.0\125-get-character-from-ASCII-Value.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\obj\Debug\net8.0\125-get-character-from-ASCII-Value.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\obj\Debug\net8.0\125-get-character-from-ASCII-Value.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\obj\Debug\net8.0\125-get-character-from-ASCII-Value.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\obj\Debug\net8.0\125-get-character-from-ASCII-Value.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\obj\Debug\net8.0\125-get-character-from-ASCII-Value.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\obj\Debug\net8.0\125-get-character-from-ASCII-Value.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\obj\Debug\net8.0\refint\125-get-character-from-ASCII-Value.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\obj\Debug\net8.0\125-get-character-from-ASCII-Value.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\obj\Debug\net8.0\125-get-character-from-ASCII-Value.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\125-get-character-from-ASCII-Value\obj\Debug\net8.0\ref\125-get-character-from-ASCII-Value.dll

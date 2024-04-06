@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "125-get-character-from-ASCII-Value/1.0.0": {
+        "runtime": {
+          "125-get-character-from-ASCII-Value.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "125-get-character-from-ASCII-Value/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
