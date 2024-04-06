@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\bin\Debug\net8.0\121-Name-Shuffler.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\bin\Debug\net8.0\121-Name-Shuffler.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\bin\Debug\net8.0\121-Name-Shuffler.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\bin\Debug\net8.0\121-Name-Shuffler.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\bin\Debug\net8.0\121-Name-Shuffler.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\obj\Debug\net8.0\121-Name-Shuffler.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\obj\Debug\net8.0\121-Name-Shuffler.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\obj\Debug\net8.0\121-Name-Shuffler.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\obj\Debug\net8.0\121-Name-Shuffler.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\obj\Debug\net8.0\121-Name-Shuffler.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\obj\Debug\net8.0\121-Name-Shuffler.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\obj\Debug\net8.0\refint\121-Name-Shuffler.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\obj\Debug\net8.0\121-Name-Shuffler.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\obj\Debug\net8.0\121-Name-Shuffler.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\121-Name-Shuffler\obj\Debug\net8.0\ref\121-Name-Shuffler.dll
