@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "124-Drink-about/1.0.0": {
+        "runtime": {
+          "124-Drink-about.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "124-Drink-about/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

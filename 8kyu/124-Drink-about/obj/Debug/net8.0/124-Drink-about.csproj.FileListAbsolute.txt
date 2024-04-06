@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\bin\Debug\net8.0\124-Drink-about.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\bin\Debug\net8.0\124-Drink-about.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\bin\Debug\net8.0\124-Drink-about.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\bin\Debug\net8.0\124-Drink-about.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\bin\Debug\net8.0\124-Drink-about.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\obj\Debug\net8.0\124-Drink-about.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\obj\Debug\net8.0\124-Drink-about.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\obj\Debug\net8.0\124-Drink-about.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\obj\Debug\net8.0\124-Drink-about.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\obj\Debug\net8.0\124-Drink-about.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\obj\Debug\net8.0\124-Drink-about.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\obj\Debug\net8.0\refint\124-Drink-about.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\obj\Debug\net8.0\124-Drink-about.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\obj\Debug\net8.0\124-Drink-about.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\124-Drink-about\obj\Debug\net8.0\ref\124-Drink-about.dll
