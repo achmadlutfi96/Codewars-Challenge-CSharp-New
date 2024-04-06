@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\bin\Debug\net8.0\122-Get-Nth-Even-Number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\bin\Debug\net8.0\122-Get-Nth-Even-Number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\bin\Debug\net8.0\122-Get-Nth-Even-Number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\bin\Debug\net8.0\122-Get-Nth-Even-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\bin\Debug\net8.0\122-Get-Nth-Even-Number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\obj\Debug\net8.0\122-Get-Nth-Even-Number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\obj\Debug\net8.0\122-Get-Nth-Even-Number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\obj\Debug\net8.0\122-Get-Nth-Even-Number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\obj\Debug\net8.0\122-Get-Nth-Even-Number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\obj\Debug\net8.0\122-Get-Nth-Even-Number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\obj\Debug\net8.0\122-Get-Nth-Even-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\obj\Debug\net8.0\refint\122-Get-Nth-Even-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\obj\Debug\net8.0\122-Get-Nth-Even-Number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\obj\Debug\net8.0\122-Get-Nth-Even-Number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\122-Get-Nth-Even-Number\obj\Debug\net8.0\ref\122-Get-Nth-Even-Number.dll
