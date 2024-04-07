@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\bin\Debug\net8.0\128-Exclusive-or-xor-Logical-Operator.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\bin\Debug\net8.0\128-Exclusive-or-xor-Logical-Operator.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\bin\Debug\net8.0\128-Exclusive-or-xor-Logical-Operator.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\bin\Debug\net8.0\128-Exclusive-or-xor-Logical-Operator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\bin\Debug\net8.0\128-Exclusive-or-xor-Logical-Operator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\obj\Debug\net8.0\128-Exclusive-or-xor-Logical-Operator.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\obj\Debug\net8.0\128-Exclusive-or-xor-Logical-Operator.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\obj\Debug\net8.0\128-Exclusive-or-xor-Logical-Operator.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\obj\Debug\net8.0\128-Exclusive-or-xor-Logical-Operator.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\obj\Debug\net8.0\128-Exclusive-or-xor-Logical-Operator.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\obj\Debug\net8.0\128-Exclusive-or-xor-Logical-Operator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\obj\Debug\net8.0\refint\128-Exclusive-or-xor-Logical-Operator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\obj\Debug\net8.0\128-Exclusive-or-xor-Logical-Operator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\obj\Debug\net8.0\128-Exclusive-or-xor-Logical-Operator.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\128-Exclusive-or-xor-Logical-Operator\obj\Debug\net8.0\ref\128-Exclusive-or-xor-Logical-Operator.dll
