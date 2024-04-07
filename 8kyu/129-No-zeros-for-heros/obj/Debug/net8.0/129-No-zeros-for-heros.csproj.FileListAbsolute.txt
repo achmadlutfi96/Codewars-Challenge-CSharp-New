@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\bin\Debug\net8.0\129-No-zeros-for-heros.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\bin\Debug\net8.0\129-No-zeros-for-heros.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\bin\Debug\net8.0\129-No-zeros-for-heros.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\bin\Debug\net8.0\129-No-zeros-for-heros.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\bin\Debug\net8.0\129-No-zeros-for-heros.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\obj\Debug\net8.0\129-No-zeros-for-heros.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\obj\Debug\net8.0\129-No-zeros-for-heros.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\obj\Debug\net8.0\129-No-zeros-for-heros.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\obj\Debug\net8.0\129-No-zeros-for-heros.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\obj\Debug\net8.0\129-No-zeros-for-heros.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\obj\Debug\net8.0\129-No-zeros-for-heros.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\obj\Debug\net8.0\refint\129-No-zeros-for-heros.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\obj\Debug\net8.0\129-No-zeros-for-heros.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\obj\Debug\net8.0\129-No-zeros-for-heros.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\129-No-zeros-for-heros\obj\Debug\net8.0\ref\129-No-zeros-for-heros.dll

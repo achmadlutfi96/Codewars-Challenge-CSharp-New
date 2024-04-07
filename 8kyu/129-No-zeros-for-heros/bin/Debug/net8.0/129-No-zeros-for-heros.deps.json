@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "129-No-zeros-for-heros/1.0.0": {
+        "runtime": {
+          "129-No-zeros-for-heros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "129-No-zeros-for-heros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
