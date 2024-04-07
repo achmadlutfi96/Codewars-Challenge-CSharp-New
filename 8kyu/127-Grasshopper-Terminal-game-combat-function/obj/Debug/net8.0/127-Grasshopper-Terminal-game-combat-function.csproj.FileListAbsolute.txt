@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\bin\Debug\net8.0\127-Grasshopper-Terminal-game-combat-function.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\bin\Debug\net8.0\127-Grasshopper-Terminal-game-combat-function.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\bin\Debug\net8.0\127-Grasshopper-Terminal-game-combat-function.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\bin\Debug\net8.0\127-Grasshopper-Terminal-game-combat-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\bin\Debug\net8.0\127-Grasshopper-Terminal-game-combat-function.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\obj\Debug\net8.0\127-Grasshopper-Terminal-game-combat-function.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\obj\Debug\net8.0\127-Grasshopper-Terminal-game-combat-function.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\obj\Debug\net8.0\127-Grasshopper-Terminal-game-combat-function.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\obj\Debug\net8.0\127-Grasshopper-Terminal-game-combat-function.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\obj\Debug\net8.0\127-Grasshopper-Terminal-game-combat-function.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\obj\Debug\net8.0\127-Grasshopper-Terminal-game-combat-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\obj\Debug\net8.0\refint\127-Grasshopper-Terminal-game-combat-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\obj\Debug\net8.0\127-Grasshopper-Terminal-game-combat-function.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\obj\Debug\net8.0\127-Grasshopper-Terminal-game-combat-function.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\127-Grasshopper-Terminal-game-combat-function\obj\Debug\net8.0\ref\127-Grasshopper-Terminal-game-combat-function.dll
