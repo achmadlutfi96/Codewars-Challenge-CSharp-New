@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\bin\Debug\net8.0\130-Capitalization-and-Mutability.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\bin\Debug\net8.0\130-Capitalization-and-Mutability.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\bin\Debug\net8.0\130-Capitalization-and-Mutability.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\bin\Debug\net8.0\130-Capitalization-and-Mutability.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\bin\Debug\net8.0\130-Capitalization-and-Mutability.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\obj\Debug\net8.0\130-Capitalization-and-Mutability.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\obj\Debug\net8.0\130-Capitalization-and-Mutability.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\obj\Debug\net8.0\130-Capitalization-and-Mutability.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\obj\Debug\net8.0\130-Capitalization-and-Mutability.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\obj\Debug\net8.0\130-Capitalization-and-Mutability.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\obj\Debug\net8.0\130-Capitalization-and-Mutability.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\obj\Debug\net8.0\refint\130-Capitalization-and-Mutability.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\obj\Debug\net8.0\130-Capitalization-and-Mutability.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\obj\Debug\net8.0\130-Capitalization-and-Mutability.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\130-Capitalization-and-Mutability\obj\Debug\net8.0\ref\130-Capitalization-and-Mutability.dll
