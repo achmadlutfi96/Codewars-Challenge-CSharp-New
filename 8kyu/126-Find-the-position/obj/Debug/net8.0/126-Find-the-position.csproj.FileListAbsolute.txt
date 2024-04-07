@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\bin\Debug\net8.0\126-Find-the-position.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\bin\Debug\net8.0\126-Find-the-position.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\bin\Debug\net8.0\126-Find-the-position.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\bin\Debug\net8.0\126-Find-the-position.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\bin\Debug\net8.0\126-Find-the-position.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\obj\Debug\net8.0\126-Find-the-position.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\obj\Debug\net8.0\126-Find-the-position.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\obj\Debug\net8.0\126-Find-the-position.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\obj\Debug\net8.0\126-Find-the-position.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\obj\Debug\net8.0\126-Find-the-position.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\obj\Debug\net8.0\126-Find-the-position.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\obj\Debug\net8.0\refint\126-Find-the-position.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\obj\Debug\net8.0\126-Find-the-position.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\obj\Debug\net8.0\126-Find-the-position.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\126-Find-the-position\obj\Debug\net8.0\ref\126-Find-the-position.dll
