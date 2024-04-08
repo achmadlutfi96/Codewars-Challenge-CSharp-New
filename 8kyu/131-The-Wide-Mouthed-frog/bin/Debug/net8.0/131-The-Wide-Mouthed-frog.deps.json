@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "131-The-Wide-Mouthed-frog/1.0.0": {
+        "runtime": {
+          "131-The-Wide-Mouthed-frog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "131-The-Wide-Mouthed-frog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

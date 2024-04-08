@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\bin\Debug\net8.0\131-The-Wide-Mouthed-frog.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\bin\Debug\net8.0\131-The-Wide-Mouthed-frog.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\bin\Debug\net8.0\131-The-Wide-Mouthed-frog.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\bin\Debug\net8.0\131-The-Wide-Mouthed-frog.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\bin\Debug\net8.0\131-The-Wide-Mouthed-frog.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\obj\Debug\net8.0\131-The-Wide-Mouthed-frog.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\obj\Debug\net8.0\131-The-Wide-Mouthed-frog.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\obj\Debug\net8.0\131-The-Wide-Mouthed-frog.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\obj\Debug\net8.0\131-The-Wide-Mouthed-frog.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\obj\Debug\net8.0\131-The-Wide-Mouthed-frog.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\obj\Debug\net8.0\131-The-Wide-Mouthed-frog.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\obj\Debug\net8.0\refint\131-The-Wide-Mouthed-frog.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\obj\Debug\net8.0\131-The-Wide-Mouthed-frog.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\obj\Debug\net8.0\131-The-Wide-Mouthed-frog.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\131-The-Wide-Mouthed-frog\obj\Debug\net8.0\ref\131-The-Wide-Mouthed-frog.dll
