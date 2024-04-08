@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "135-Add-Length/1.0.0": {
+        "runtime": {
+          "135-Add-Length.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "135-Add-Length/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\bin\Debug\net8.0\135-Add-Length.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\bin\Debug\net8.0\135-Add-Length.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\bin\Debug\net8.0\135-Add-Length.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\bin\Debug\net8.0\135-Add-Length.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\bin\Debug\net8.0\135-Add-Length.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\obj\Debug\net8.0\135-Add-Length.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\obj\Debug\net8.0\135-Add-Length.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\obj\Debug\net8.0\135-Add-Length.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\obj\Debug\net8.0\135-Add-Length.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\obj\Debug\net8.0\135-Add-Length.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\obj\Debug\net8.0\135-Add-Length.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\obj\Debug\net8.0\refint\135-Add-Length.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\obj\Debug\net8.0\135-Add-Length.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\obj\Debug\net8.0\135-Add-Length.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\135-Add-Length\obj\Debug\net8.0\ref\135-Add-Length.dll
