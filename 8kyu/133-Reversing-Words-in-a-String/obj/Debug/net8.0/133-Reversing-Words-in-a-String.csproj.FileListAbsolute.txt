@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\bin\Debug\net8.0\133-Reversing-Words-in-a-String.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\bin\Debug\net8.0\133-Reversing-Words-in-a-String.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\bin\Debug\net8.0\133-Reversing-Words-in-a-String.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\bin\Debug\net8.0\133-Reversing-Words-in-a-String.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\bin\Debug\net8.0\133-Reversing-Words-in-a-String.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\obj\Debug\net8.0\133-Reversing-Words-in-a-String.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\obj\Debug\net8.0\133-Reversing-Words-in-a-String.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\obj\Debug\net8.0\133-Reversing-Words-in-a-String.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\obj\Debug\net8.0\133-Reversing-Words-in-a-String.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\obj\Debug\net8.0\133-Reversing-Words-in-a-String.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\obj\Debug\net8.0\133-Reversing-Words-in-a-String.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\obj\Debug\net8.0\refint\133-Reversing-Words-in-a-String.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\obj\Debug\net8.0\133-Reversing-Words-in-a-String.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\obj\Debug\net8.0\133-Reversing-Words-in-a-String.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\133-Reversing-Words-in-a-String\obj\Debug\net8.0\ref\133-Reversing-Words-in-a-String.dll
