@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\bin\Debug\net8.0\132-Merge-two-sorted-arrays-into-one.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\bin\Debug\net8.0\132-Merge-two-sorted-arrays-into-one.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\bin\Debug\net8.0\132-Merge-two-sorted-arrays-into-one.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\bin\Debug\net8.0\132-Merge-two-sorted-arrays-into-one.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\bin\Debug\net8.0\132-Merge-two-sorted-arrays-into-one.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\obj\Debug\net8.0\132-Merge-two-sorted-arrays-into-one.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\obj\Debug\net8.0\132-Merge-two-sorted-arrays-into-one.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\obj\Debug\net8.0\132-Merge-two-sorted-arrays-into-one.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\obj\Debug\net8.0\132-Merge-two-sorted-arrays-into-one.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\obj\Debug\net8.0\132-Merge-two-sorted-arrays-into-one.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\obj\Debug\net8.0\132-Merge-two-sorted-arrays-into-one.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\obj\Debug\net8.0\refint\132-Merge-two-sorted-arrays-into-one.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\obj\Debug\net8.0\132-Merge-two-sorted-arrays-into-one.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\obj\Debug\net8.0\132-Merge-two-sorted-arrays-into-one.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\132-Merge-two-sorted-arrays-into-one\obj\Debug\net8.0\ref\132-Merge-two-sorted-arrays-into-one.dll
