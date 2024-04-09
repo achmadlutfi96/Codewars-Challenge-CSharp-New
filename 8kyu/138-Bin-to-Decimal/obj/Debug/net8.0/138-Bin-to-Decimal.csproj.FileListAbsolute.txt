@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\bin\Debug\net8.0\138-Bin-to-Decimal.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\bin\Debug\net8.0\138-Bin-to-Decimal.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\bin\Debug\net8.0\138-Bin-to-Decimal.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\bin\Debug\net8.0\138-Bin-to-Decimal.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\bin\Debug\net8.0\138-Bin-to-Decimal.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\obj\Debug\net8.0\138-Bin-to-Decimal.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\obj\Debug\net8.0\138-Bin-to-Decimal.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\obj\Debug\net8.0\138-Bin-to-Decimal.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\obj\Debug\net8.0\138-Bin-to-Decimal.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\obj\Debug\net8.0\138-Bin-to-Decimal.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\obj\Debug\net8.0\138-Bin-to-Decimal.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\obj\Debug\net8.0\refint\138-Bin-to-Decimal.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\obj\Debug\net8.0\138-Bin-to-Decimal.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\obj\Debug\net8.0\138-Bin-to-Decimal.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\138-Bin-to-Decimal\obj\Debug\net8.0\ref\138-Bin-to-Decimal.dll
