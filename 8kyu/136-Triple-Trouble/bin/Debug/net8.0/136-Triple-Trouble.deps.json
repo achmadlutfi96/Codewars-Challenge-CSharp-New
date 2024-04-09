@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "136-Triple-Trouble/1.0.0": {
+        "runtime": {
+          "136-Triple-Trouble.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "136-Triple-Trouble/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\bin\Debug\net8.0\136-Triple-Trouble.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\bin\Debug\net8.0\136-Triple-Trouble.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\bin\Debug\net8.0\136-Triple-Trouble.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\bin\Debug\net8.0\136-Triple-Trouble.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\bin\Debug\net8.0\136-Triple-Trouble.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\obj\Debug\net8.0\136-Triple-Trouble.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\obj\Debug\net8.0\136-Triple-Trouble.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\obj\Debug\net8.0\136-Triple-Trouble.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\obj\Debug\net8.0\136-Triple-Trouble.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\obj\Debug\net8.0\136-Triple-Trouble.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\obj\Debug\net8.0\136-Triple-Trouble.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\obj\Debug\net8.0\refint\136-Triple-Trouble.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\obj\Debug\net8.0\136-Triple-Trouble.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\obj\Debug\net8.0\136-Triple-Trouble.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\136-Triple-Trouble\obj\Debug\net8.0\ref\136-Triple-Trouble.dll
