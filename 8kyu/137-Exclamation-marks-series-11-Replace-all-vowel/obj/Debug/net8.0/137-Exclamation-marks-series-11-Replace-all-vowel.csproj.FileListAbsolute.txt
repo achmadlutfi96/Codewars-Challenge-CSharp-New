@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\bin\Debug\net8.0\137-Exclamation-marks-series-11-Replace-all-vowel.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\bin\Debug\net8.0\137-Exclamation-marks-series-11-Replace-all-vowel.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\bin\Debug\net8.0\137-Exclamation-marks-series-11-Replace-all-vowel.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\bin\Debug\net8.0\137-Exclamation-marks-series-11-Replace-all-vowel.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\bin\Debug\net8.0\137-Exclamation-marks-series-11-Replace-all-vowel.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\obj\Debug\net8.0\137-Exclamation-marks-series-11-Replace-all-vowel.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\obj\Debug\net8.0\137-Exclamation-marks-series-11-Replace-all-vowel.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\obj\Debug\net8.0\137-Exclamation-marks-series-11-Replace-all-vowel.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\obj\Debug\net8.0\137-Exclamation-marks-series-11-Replace-all-vowel.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\obj\Debug\net8.0\137-Exclamation-marks-series-11-Replace-all-vowel.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\obj\Debug\net8.0\137-Exclamation-marks-series-11-Replace-all-vowel.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\obj\Debug\net8.0\refint\137-Exclamation-marks-series-11-Replace-all-vowel.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\obj\Debug\net8.0\137-Exclamation-marks-series-11-Replace-all-vowel.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\obj\Debug\net8.0\137-Exclamation-marks-series-11-Replace-all-vowel.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\137-Exclamation-marks-series-11-Replace-all-vowel\obj\Debug\net8.0\ref\137-Exclamation-marks-series-11-Replace-all-vowel.dll

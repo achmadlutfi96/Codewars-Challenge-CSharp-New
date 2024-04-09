@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "137-Exclamation-marks-series-11-Replace-all-vowel/1.0.0": {
+        "runtime": {
+          "137-Exclamation-marks-series-11-Replace-all-vowel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "137-Exclamation-marks-series-11-Replace-all-vowel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
