@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\bin\Debug\net8.0\140-Is-this-my-tail.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\bin\Debug\net8.0\140-Is-this-my-tail.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\bin\Debug\net8.0\140-Is-this-my-tail.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\bin\Debug\net8.0\140-Is-this-my-tail.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\bin\Debug\net8.0\140-Is-this-my-tail.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\obj\Debug\net8.0\140-Is-this-my-tail.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\obj\Debug\net8.0\140-Is-this-my-tail.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\obj\Debug\net8.0\140-Is-this-my-tail.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\obj\Debug\net8.0\140-Is-this-my-tail.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\obj\Debug\net8.0\140-Is-this-my-tail.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\obj\Debug\net8.0\140-Is-this-my-tail.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\obj\Debug\net8.0\refint\140-Is-this-my-tail.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\obj\Debug\net8.0\140-Is-this-my-tail.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\obj\Debug\net8.0\140-Is-this-my-tail.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\140-Is-this-my-tail\obj\Debug\net8.0\ref\140-Is-this-my-tail.dll

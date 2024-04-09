@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "140-Is-this-my-tail/1.0.0": {
+        "runtime": {
+          "140-Is-this-my-tail.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "140-Is-this-my-tail/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
