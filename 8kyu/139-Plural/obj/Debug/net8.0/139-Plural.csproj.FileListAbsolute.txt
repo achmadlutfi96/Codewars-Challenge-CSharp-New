@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\bin\Debug\net8.0\139-Plural.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\bin\Debug\net8.0\139-Plural.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\bin\Debug\net8.0\139-Plural.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\bin\Debug\net8.0\139-Plural.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\bin\Debug\net8.0\139-Plural.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\obj\Debug\net8.0\139-Plural.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\obj\Debug\net8.0\139-Plural.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\obj\Debug\net8.0\139-Plural.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\obj\Debug\net8.0\139-Plural.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\obj\Debug\net8.0\139-Plural.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\obj\Debug\net8.0\139-Plural.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\obj\Debug\net8.0\refint\139-Plural.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\obj\Debug\net8.0\139-Plural.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\obj\Debug\net8.0\139-Plural.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\139-Plural\obj\Debug\net8.0\ref\139-Plural.dll
