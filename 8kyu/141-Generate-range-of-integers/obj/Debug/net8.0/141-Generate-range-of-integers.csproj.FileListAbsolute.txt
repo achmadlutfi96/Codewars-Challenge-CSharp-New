@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\bin\Debug\net8.0\141-Generate-range-of-integers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\bin\Debug\net8.0\141-Generate-range-of-integers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\bin\Debug\net8.0\141-Generate-range-of-integers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\bin\Debug\net8.0\141-Generate-range-of-integers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\bin\Debug\net8.0\141-Generate-range-of-integers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\obj\Debug\net8.0\141-Generate-range-of-integers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\obj\Debug\net8.0\141-Generate-range-of-integers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\obj\Debug\net8.0\141-Generate-range-of-integers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\obj\Debug\net8.0\141-Generate-range-of-integers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\obj\Debug\net8.0\141-Generate-range-of-integers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\obj\Debug\net8.0\141-Generate-range-of-integers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\obj\Debug\net8.0\refint\141-Generate-range-of-integers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\obj\Debug\net8.0\141-Generate-range-of-integers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\obj\Debug\net8.0\141-Generate-range-of-integers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\141-Generate-range-of-integers\obj\Debug\net8.0\ref\141-Generate-range-of-integers.dll
