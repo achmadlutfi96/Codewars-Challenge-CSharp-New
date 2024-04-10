@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\bin\Debug\net8.0\144-Hello-Name-or-World.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\bin\Debug\net8.0\144-Hello-Name-or-World.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\bin\Debug\net8.0\144-Hello-Name-or-World.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\bin\Debug\net8.0\144-Hello-Name-or-World.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\bin\Debug\net8.0\144-Hello-Name-or-World.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\obj\Debug\net8.0\144-Hello-Name-or-World.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\obj\Debug\net8.0\144-Hello-Name-or-World.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\obj\Debug\net8.0\144-Hello-Name-or-World.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\obj\Debug\net8.0\144-Hello-Name-or-World.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\obj\Debug\net8.0\144-Hello-Name-or-World.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\obj\Debug\net8.0\144-Hello-Name-or-World.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\obj\Debug\net8.0\refint\144-Hello-Name-or-World.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\obj\Debug\net8.0\144-Hello-Name-or-World.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\obj\Debug\net8.0\144-Hello-Name-or-World.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\144-Hello-Name-or-World\obj\Debug\net8.0\ref\144-Hello-Name-or-World.dll
