@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\bin\Debug\net8.0\145-FIXME-Replace-all-dots.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\bin\Debug\net8.0\145-FIXME-Replace-all-dots.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\bin\Debug\net8.0\145-FIXME-Replace-all-dots.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\bin\Debug\net8.0\145-FIXME-Replace-all-dots.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\bin\Debug\net8.0\145-FIXME-Replace-all-dots.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\obj\Debug\net8.0\145-FIXME-Replace-all-dots.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\obj\Debug\net8.0\145-FIXME-Replace-all-dots.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\obj\Debug\net8.0\145-FIXME-Replace-all-dots.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\obj\Debug\net8.0\145-FIXME-Replace-all-dots.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\obj\Debug\net8.0\145-FIXME-Replace-all-dots.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\obj\Debug\net8.0\145-FIXME-Replace-all-dots.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\obj\Debug\net8.0\refint\145-FIXME-Replace-all-dots.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\obj\Debug\net8.0\145-FIXME-Replace-all-dots.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\obj\Debug\net8.0\145-FIXME-Replace-all-dots.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\145-FIXME-Replace-all-dots\obj\Debug\net8.0\ref\145-FIXME-Replace-all-dots.dll
