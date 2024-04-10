@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\bin\Debug\net8.0\142-Hex-to-Decimal.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\bin\Debug\net8.0\142-Hex-to-Decimal.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\bin\Debug\net8.0\142-Hex-to-Decimal.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\bin\Debug\net8.0\142-Hex-to-Decimal.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\bin\Debug\net8.0\142-Hex-to-Decimal.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\obj\Debug\net8.0\142-Hex-to-Decimal.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\obj\Debug\net8.0\142-Hex-to-Decimal.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\obj\Debug\net8.0\142-Hex-to-Decimal.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\obj\Debug\net8.0\142-Hex-to-Decimal.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\obj\Debug\net8.0\142-Hex-to-Decimal.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\obj\Debug\net8.0\142-Hex-to-Decimal.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\obj\Debug\net8.0\refint\142-Hex-to-Decimal.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\obj\Debug\net8.0\142-Hex-to-Decimal.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\obj\Debug\net8.0\142-Hex-to-Decimal.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\142-Hex-to-Decimal\obj\Debug\net8.0\ref\142-Hex-to-Decimal.dll
