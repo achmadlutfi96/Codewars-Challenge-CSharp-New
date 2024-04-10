@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\bin\Debug\net8.0\143-101-Dalmatians-squash-the-bugs-not-the-dogs.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\bin\Debug\net8.0\143-101-Dalmatians-squash-the-bugs-not-the-dogs.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\bin\Debug\net8.0\143-101-Dalmatians-squash-the-bugs-not-the-dogs.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\bin\Debug\net8.0\143-101-Dalmatians-squash-the-bugs-not-the-dogs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\bin\Debug\net8.0\143-101-Dalmatians-squash-the-bugs-not-the-dogs.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\obj\Debug\net8.0\143-101-Dalmatians-squash-the-bugs-not-the-dogs.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\obj\Debug\net8.0\143-101-Dalmatians-squash-the-bugs-not-the-dogs.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\obj\Debug\net8.0\143-101-Dalmatians-squash-the-bugs-not-the-dogs.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\obj\Debug\net8.0\143-101-Dalmatians-squash-the-bugs-not-the-dogs.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\obj\Debug\net8.0\143-101-Dalmatians-squash-the-bugs-not-the-dogs.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\obj\Debug\net8.0\143-101-Dalmatians-squash-the-bugs-not-the-dogs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\obj\Debug\net8.0\refint\143-101-Dalmatians-squash-the-bugs-not-the-dogs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\obj\Debug\net8.0\143-101-Dalmatians-squash-the-bugs-not-the-dogs.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\obj\Debug\net8.0\143-101-Dalmatians-squash-the-bugs-not-the-dogs.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\143-101-Dalmatians-squash-the-bugs-not-the-dogs\obj\Debug\net8.0\ref\143-101-Dalmatians-squash-the-bugs-not-the-dogs.dll
