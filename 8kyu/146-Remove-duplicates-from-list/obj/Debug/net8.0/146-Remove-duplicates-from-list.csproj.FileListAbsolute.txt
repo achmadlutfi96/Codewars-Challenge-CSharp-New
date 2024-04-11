@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\bin\Debug\net8.0\146-Remove-duplicates-from-list.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\bin\Debug\net8.0\146-Remove-duplicates-from-list.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\bin\Debug\net8.0\146-Remove-duplicates-from-list.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\bin\Debug\net8.0\146-Remove-duplicates-from-list.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\bin\Debug\net8.0\146-Remove-duplicates-from-list.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\obj\Debug\net8.0\146-Remove-duplicates-from-list.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\obj\Debug\net8.0\146-Remove-duplicates-from-list.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\obj\Debug\net8.0\146-Remove-duplicates-from-list.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\obj\Debug\net8.0\146-Remove-duplicates-from-list.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\obj\Debug\net8.0\146-Remove-duplicates-from-list.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\obj\Debug\net8.0\146-Remove-duplicates-from-list.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\obj\Debug\net8.0\refint\146-Remove-duplicates-from-list.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\obj\Debug\net8.0\146-Remove-duplicates-from-list.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\obj\Debug\net8.0\146-Remove-duplicates-from-list.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\146-Remove-duplicates-from-list\obj\Debug\net8.0\ref\146-Remove-duplicates-from-list.dll
