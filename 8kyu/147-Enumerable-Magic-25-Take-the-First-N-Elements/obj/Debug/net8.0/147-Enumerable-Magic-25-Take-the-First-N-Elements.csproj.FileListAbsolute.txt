@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\bin\Debug\net8.0\147-Enumerable-Magic-25-Take-the-First-N-Elements.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\bin\Debug\net8.0\147-Enumerable-Magic-25-Take-the-First-N-Elements.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\bin\Debug\net8.0\147-Enumerable-Magic-25-Take-the-First-N-Elements.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\bin\Debug\net8.0\147-Enumerable-Magic-25-Take-the-First-N-Elements.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\bin\Debug\net8.0\147-Enumerable-Magic-25-Take-the-First-N-Elements.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\obj\Debug\net8.0\147-Enumerable-Magic-25-Take-the-First-N-Elements.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\obj\Debug\net8.0\147-Enumerable-Magic-25-Take-the-First-N-Elements.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\obj\Debug\net8.0\147-Enumerable-Magic-25-Take-the-First-N-Elements.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\obj\Debug\net8.0\147-Enumerable-Magic-25-Take-the-First-N-Elements.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\obj\Debug\net8.0\147-Enumerable-Magic-25-Take-the-First-N-Elements.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\obj\Debug\net8.0\147-Enumerable-Magic-25-Take-the-First-N-Elements.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\obj\Debug\net8.0\refint\147-Enumerable-Magic-25-Take-the-First-N-Elements.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\obj\Debug\net8.0\147-Enumerable-Magic-25-Take-the-First-N-Elements.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\obj\Debug\net8.0\147-Enumerable-Magic-25-Take-the-First-N-Elements.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\147-Enumerable-Magic-25-Take-the-First-N-Elements\obj\Debug\net8.0\ref\147-Enumerable-Magic-25-Take-the-First-N-Elements.dll
