@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\bin\Debug\net8.0\153-Simple-Fun-1-Seats-in-Theater.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\bin\Debug\net8.0\153-Simple-Fun-1-Seats-in-Theater.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\bin\Debug\net8.0\153-Simple-Fun-1-Seats-in-Theater.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\bin\Debug\net8.0\153-Simple-Fun-1-Seats-in-Theater.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\bin\Debug\net8.0\153-Simple-Fun-1-Seats-in-Theater.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\obj\Debug\net8.0\153-Simple-Fun-1-Seats-in-Theater.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\obj\Debug\net8.0\153-Simple-Fun-1-Seats-in-Theater.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\obj\Debug\net8.0\153-Simple-Fun-1-Seats-in-Theater.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\obj\Debug\net8.0\153-Simple-Fun-1-Seats-in-Theater.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\obj\Debug\net8.0\153-Simple-Fun-1-Seats-in-Theater.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\obj\Debug\net8.0\153-Simple-Fun-1-Seats-in-Theater.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\obj\Debug\net8.0\refint\153-Simple-Fun-1-Seats-in-Theater.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\obj\Debug\net8.0\153-Simple-Fun-1-Seats-in-Theater.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\obj\Debug\net8.0\153-Simple-Fun-1-Seats-in-Theater.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\153-Simple-Fun-1-Seats-in-Theater\obj\Debug\net8.0\ref\153-Simple-Fun-1-Seats-in-Theater.dll
