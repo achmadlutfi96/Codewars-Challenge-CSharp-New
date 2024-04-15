@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\bin\Debug\net8.0\152-Welcome-to-the-City.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\bin\Debug\net8.0\152-Welcome-to-the-City.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\bin\Debug\net8.0\152-Welcome-to-the-City.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\bin\Debug\net8.0\152-Welcome-to-the-City.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\bin\Debug\net8.0\152-Welcome-to-the-City.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\obj\Debug\net8.0\152-Welcome-to-the-City.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\obj\Debug\net8.0\152-Welcome-to-the-City.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\obj\Debug\net8.0\152-Welcome-to-the-City.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\obj\Debug\net8.0\152-Welcome-to-the-City.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\obj\Debug\net8.0\152-Welcome-to-the-City.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\obj\Debug\net8.0\152-Welcome-to-the-City.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\obj\Debug\net8.0\refint\152-Welcome-to-the-City.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\obj\Debug\net8.0\152-Welcome-to-the-City.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\obj\Debug\net8.0\152-Welcome-to-the-City.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\152-Welcome-to-the-City\obj\Debug\net8.0\ref\152-Welcome-to-the-City.dll
