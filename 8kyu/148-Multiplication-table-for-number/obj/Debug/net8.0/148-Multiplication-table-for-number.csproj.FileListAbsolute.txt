@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\bin\Debug\net8.0\148-Multiplication-table-for-number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\bin\Debug\net8.0\148-Multiplication-table-for-number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\bin\Debug\net8.0\148-Multiplication-table-for-number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\bin\Debug\net8.0\148-Multiplication-table-for-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\bin\Debug\net8.0\148-Multiplication-table-for-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\obj\Debug\net8.0\148-Multiplication-table-for-number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\obj\Debug\net8.0\148-Multiplication-table-for-number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\obj\Debug\net8.0\148-Multiplication-table-for-number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\obj\Debug\net8.0\148-Multiplication-table-for-number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\obj\Debug\net8.0\148-Multiplication-table-for-number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\obj\Debug\net8.0\148-Multiplication-table-for-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\obj\Debug\net8.0\refint\148-Multiplication-table-for-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\obj\Debug\net8.0\148-Multiplication-table-for-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\obj\Debug\net8.0\148-Multiplication-table-for-number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\148-Multiplication-table-for-number\obj\Debug\net8.0\ref\148-Multiplication-table-for-number.dll
