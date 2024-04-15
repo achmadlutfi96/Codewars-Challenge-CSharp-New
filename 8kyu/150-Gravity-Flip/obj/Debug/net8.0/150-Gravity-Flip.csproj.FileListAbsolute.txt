@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\bin\Debug\net8.0\150-Gravity-Flip.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\bin\Debug\net8.0\150-Gravity-Flip.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\bin\Debug\net8.0\150-Gravity-Flip.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\bin\Debug\net8.0\150-Gravity-Flip.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\bin\Debug\net8.0\150-Gravity-Flip.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\obj\Debug\net8.0\150-Gravity-Flip.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\obj\Debug\net8.0\150-Gravity-Flip.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\obj\Debug\net8.0\150-Gravity-Flip.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\obj\Debug\net8.0\150-Gravity-Flip.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\obj\Debug\net8.0\150-Gravity-Flip.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\obj\Debug\net8.0\150-Gravity-Flip.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\obj\Debug\net8.0\refint\150-Gravity-Flip.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\obj\Debug\net8.0\150-Gravity-Flip.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\obj\Debug\net8.0\150-Gravity-Flip.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\150-Gravity-Flip\obj\Debug\net8.0\ref\150-Gravity-Flip.dll
