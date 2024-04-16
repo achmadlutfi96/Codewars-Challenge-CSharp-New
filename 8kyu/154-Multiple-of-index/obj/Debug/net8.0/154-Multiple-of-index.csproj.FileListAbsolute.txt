@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\bin\Debug\net8.0\154-Multiple-of-index.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\bin\Debug\net8.0\154-Multiple-of-index.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\bin\Debug\net8.0\154-Multiple-of-index.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\bin\Debug\net8.0\154-Multiple-of-index.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\bin\Debug\net8.0\154-Multiple-of-index.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\obj\Debug\net8.0\154-Multiple-of-index.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\obj\Debug\net8.0\154-Multiple-of-index.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\obj\Debug\net8.0\154-Multiple-of-index.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\obj\Debug\net8.0\154-Multiple-of-index.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\obj\Debug\net8.0\154-Multiple-of-index.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\obj\Debug\net8.0\154-Multiple-of-index.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\obj\Debug\net8.0\refint\154-Multiple-of-index.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\obj\Debug\net8.0\154-Multiple-of-index.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\obj\Debug\net8.0\154-Multiple-of-index.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\154-Multiple-of-index\obj\Debug\net8.0\ref\154-Multiple-of-index.dll

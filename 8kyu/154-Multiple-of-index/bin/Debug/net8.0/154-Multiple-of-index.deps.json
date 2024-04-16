@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "154-Multiple-of-index/1.0.0": {
+        "runtime": {
+          "154-Multiple-of-index.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "154-Multiple-of-index/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
