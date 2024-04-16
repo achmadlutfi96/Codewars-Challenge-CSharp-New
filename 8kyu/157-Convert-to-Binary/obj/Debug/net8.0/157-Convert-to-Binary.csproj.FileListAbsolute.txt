@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\bin\Debug\net8.0\157-Convert-to-Binary.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\bin\Debug\net8.0\157-Convert-to-Binary.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\bin\Debug\net8.0\157-Convert-to-Binary.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\bin\Debug\net8.0\157-Convert-to-Binary.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\bin\Debug\net8.0\157-Convert-to-Binary.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\obj\Debug\net8.0\157-Convert-to-Binary.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\obj\Debug\net8.0\157-Convert-to-Binary.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\obj\Debug\net8.0\157-Convert-to-Binary.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\obj\Debug\net8.0\157-Convert-to-Binary.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\obj\Debug\net8.0\157-Convert-to-Binary.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\obj\Debug\net8.0\157-Convert-to-Binary.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\obj\Debug\net8.0\refint\157-Convert-to-Binary.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\obj\Debug\net8.0\157-Convert-to-Binary.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\obj\Debug\net8.0\157-Convert-to-Binary.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\157-Convert-to-Binary\obj\Debug\net8.0\ref\157-Convert-to-Binary.dll
