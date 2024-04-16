@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\bin\Debug\net8.0\155-Grasshopper-Array-Mean.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\bin\Debug\net8.0\155-Grasshopper-Array-Mean.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\bin\Debug\net8.0\155-Grasshopper-Array-Mean.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\bin\Debug\net8.0\155-Grasshopper-Array-Mean.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\bin\Debug\net8.0\155-Grasshopper-Array-Mean.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\obj\Debug\net8.0\155-Grasshopper-Array-Mean.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\obj\Debug\net8.0\155-Grasshopper-Array-Mean.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\obj\Debug\net8.0\155-Grasshopper-Array-Mean.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\obj\Debug\net8.0\155-Grasshopper-Array-Mean.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\obj\Debug\net8.0\155-Grasshopper-Array-Mean.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\obj\Debug\net8.0\155-Grasshopper-Array-Mean.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\obj\Debug\net8.0\refint\155-Grasshopper-Array-Mean.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\obj\Debug\net8.0\155-Grasshopper-Array-Mean.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\obj\Debug\net8.0\155-Grasshopper-Array-Mean.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\155-Grasshopper-Array-Mean\obj\Debug\net8.0\ref\155-Grasshopper-Array-Mean.dll
