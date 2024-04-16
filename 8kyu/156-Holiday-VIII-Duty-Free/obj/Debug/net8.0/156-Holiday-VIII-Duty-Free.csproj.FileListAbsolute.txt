@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\bin\Debug\net8.0\156-Holiday-VIII-Duty-Free.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\bin\Debug\net8.0\156-Holiday-VIII-Duty-Free.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\bin\Debug\net8.0\156-Holiday-VIII-Duty-Free.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\bin\Debug\net8.0\156-Holiday-VIII-Duty-Free.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\bin\Debug\net8.0\156-Holiday-VIII-Duty-Free.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\obj\Debug\net8.0\156-Holiday-VIII-Duty-Free.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\obj\Debug\net8.0\156-Holiday-VIII-Duty-Free.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\obj\Debug\net8.0\156-Holiday-VIII-Duty-Free.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\obj\Debug\net8.0\156-Holiday-VIII-Duty-Free.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\obj\Debug\net8.0\156-Holiday-VIII-Duty-Free.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\obj\Debug\net8.0\156-Holiday-VIII-Duty-Free.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\obj\Debug\net8.0\refint\156-Holiday-VIII-Duty-Free.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\obj\Debug\net8.0\156-Holiday-VIII-Duty-Free.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\obj\Debug\net8.0\156-Holiday-VIII-Duty-Free.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\156-Holiday-VIII-Duty-Free\obj\Debug\net8.0\ref\156-Holiday-VIII-Duty-Free.dll
