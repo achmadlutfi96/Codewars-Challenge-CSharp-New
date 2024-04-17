@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\bin\Debug\net8.0\160-Take-the-Derivative.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\bin\Debug\net8.0\160-Take-the-Derivative.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\bin\Debug\net8.0\160-Take-the-Derivative.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\bin\Debug\net8.0\160-Take-the-Derivative.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\bin\Debug\net8.0\160-Take-the-Derivative.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\obj\Debug\net8.0\160-Take-the-Derivative.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\obj\Debug\net8.0\160-Take-the-Derivative.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\obj\Debug\net8.0\160-Take-the-Derivative.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\obj\Debug\net8.0\160-Take-the-Derivative.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\obj\Debug\net8.0\160-Take-the-Derivative.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\obj\Debug\net8.0\160-Take-the-Derivative.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\obj\Debug\net8.0\refint\160-Take-the-Derivative.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\obj\Debug\net8.0\160-Take-the-Derivative.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\obj\Debug\net8.0\160-Take-the-Derivative.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\160-Take-the-Derivative\obj\Debug\net8.0\ref\160-Take-the-Derivative.dll
