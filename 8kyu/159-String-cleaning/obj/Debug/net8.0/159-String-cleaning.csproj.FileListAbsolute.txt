@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\bin\Debug\net8.0\159-String-cleaning.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\bin\Debug\net8.0\159-String-cleaning.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\bin\Debug\net8.0\159-String-cleaning.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\bin\Debug\net8.0\159-String-cleaning.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\bin\Debug\net8.0\159-String-cleaning.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\obj\Debug\net8.0\159-String-cleaning.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\obj\Debug\net8.0\159-String-cleaning.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\obj\Debug\net8.0\159-String-cleaning.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\obj\Debug\net8.0\159-String-cleaning.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\obj\Debug\net8.0\159-String-cleaning.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\obj\Debug\net8.0\159-String-cleaning.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\obj\Debug\net8.0\refint\159-String-cleaning.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\obj\Debug\net8.0\159-String-cleaning.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\obj\Debug\net8.0\159-String-cleaning.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\159-String-cleaning\obj\Debug\net8.0\ref\159-String-cleaning.dll
