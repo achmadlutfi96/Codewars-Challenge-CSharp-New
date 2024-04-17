@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\bin\Debug\net8.0\158-SpeedCode-2-Array-Madness.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\bin\Debug\net8.0\158-SpeedCode-2-Array-Madness.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\bin\Debug\net8.0\158-SpeedCode-2-Array-Madness.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\bin\Debug\net8.0\158-SpeedCode-2-Array-Madness.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\bin\Debug\net8.0\158-SpeedCode-2-Array-Madness.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\obj\Debug\net8.0\158-SpeedCode-2-Array-Madness.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\obj\Debug\net8.0\158-SpeedCode-2-Array-Madness.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\obj\Debug\net8.0\158-SpeedCode-2-Array-Madness.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\obj\Debug\net8.0\158-SpeedCode-2-Array-Madness.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\obj\Debug\net8.0\158-SpeedCode-2-Array-Madness.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\obj\Debug\net8.0\158-SpeedCode-2-Array-Madness.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\obj\Debug\net8.0\refint\158-SpeedCode-2-Array-Madness.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\obj\Debug\net8.0\158-SpeedCode-2-Array-Madness.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\obj\Debug\net8.0\158-SpeedCode-2-Array-Madness.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\158-SpeedCode-2-Array-Madness\obj\Debug\net8.0\ref\158-SpeedCode-2-Array-Madness.dll

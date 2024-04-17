@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "158-SpeedCode-2-Array-Madness/1.0.0": {
+        "runtime": {
+          "158-SpeedCode-2-Array-Madness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "158-SpeedCode-2-Array-Madness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
