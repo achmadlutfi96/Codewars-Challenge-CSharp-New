@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\bin\Debug\net8.0\161-Find-out-whether-the-shape-is-a-cube.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\bin\Debug\net8.0\161-Find-out-whether-the-shape-is-a-cube.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\bin\Debug\net8.0\161-Find-out-whether-the-shape-is-a-cube.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\bin\Debug\net8.0\161-Find-out-whether-the-shape-is-a-cube.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\bin\Debug\net8.0\161-Find-out-whether-the-shape-is-a-cube.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\obj\Debug\net8.0\161-Find-out-whether-the-shape-is-a-cube.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\obj\Debug\net8.0\161-Find-out-whether-the-shape-is-a-cube.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\obj\Debug\net8.0\161-Find-out-whether-the-shape-is-a-cube.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\obj\Debug\net8.0\161-Find-out-whether-the-shape-is-a-cube.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\obj\Debug\net8.0\161-Find-out-whether-the-shape-is-a-cube.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\obj\Debug\net8.0\161-Find-out-whether-the-shape-is-a-cube.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\obj\Debug\net8.0\refint\161-Find-out-whether-the-shape-is-a-cube.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\obj\Debug\net8.0\161-Find-out-whether-the-shape-is-a-cube.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\obj\Debug\net8.0\161-Find-out-whether-the-shape-is-a-cube.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\161-Find-out-whether-the-shape-is-a-cube\obj\Debug\net8.0\ref\161-Find-out-whether-the-shape-is-a-cube.dll

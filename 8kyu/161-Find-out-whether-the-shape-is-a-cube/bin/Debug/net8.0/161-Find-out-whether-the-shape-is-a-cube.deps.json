@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "161-Find-out-whether-the-shape-is-a-cube/1.0.0": {
+        "runtime": {
+          "161-Find-out-whether-the-shape-is-a-cube.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "161-Find-out-whether-the-shape-is-a-cube/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
