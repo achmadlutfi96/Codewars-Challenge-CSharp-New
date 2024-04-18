@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\bin\Debug\net8.0\162-Dollars-and-Cents.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\bin\Debug\net8.0\162-Dollars-and-Cents.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\bin\Debug\net8.0\162-Dollars-and-Cents.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\bin\Debug\net8.0\162-Dollars-and-Cents.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\bin\Debug\net8.0\162-Dollars-and-Cents.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\obj\Debug\net8.0\162-Dollars-and-Cents.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\obj\Debug\net8.0\162-Dollars-and-Cents.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\obj\Debug\net8.0\162-Dollars-and-Cents.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\obj\Debug\net8.0\162-Dollars-and-Cents.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\obj\Debug\net8.0\162-Dollars-and-Cents.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\obj\Debug\net8.0\162-Dollars-and-Cents.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\obj\Debug\net8.0\refint\162-Dollars-and-Cents.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\obj\Debug\net8.0\162-Dollars-and-Cents.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\obj\Debug\net8.0\162-Dollars-and-Cents.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\162-Dollars-and-Cents\obj\Debug\net8.0\ref\162-Dollars-and-Cents.dll
