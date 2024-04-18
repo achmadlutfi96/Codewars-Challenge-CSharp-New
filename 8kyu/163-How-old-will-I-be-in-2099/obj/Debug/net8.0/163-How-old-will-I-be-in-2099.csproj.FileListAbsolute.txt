@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\bin\Debug\net8.0\163-How-old-will-I-be-in-2099.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\bin\Debug\net8.0\163-How-old-will-I-be-in-2099.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\bin\Debug\net8.0\163-How-old-will-I-be-in-2099.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\bin\Debug\net8.0\163-How-old-will-I-be-in-2099.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\bin\Debug\net8.0\163-How-old-will-I-be-in-2099.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\obj\Debug\net8.0\163-How-old-will-I-be-in-2099.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\obj\Debug\net8.0\163-How-old-will-I-be-in-2099.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\obj\Debug\net8.0\163-How-old-will-I-be-in-2099.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\obj\Debug\net8.0\163-How-old-will-I-be-in-2099.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\obj\Debug\net8.0\163-How-old-will-I-be-in-2099.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\obj\Debug\net8.0\163-How-old-will-I-be-in-2099.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\obj\Debug\net8.0\refint\163-How-old-will-I-be-in-2099.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\obj\Debug\net8.0\163-How-old-will-I-be-in-2099.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\obj\Debug\net8.0\163-How-old-will-I-be-in-2099.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\163-How-old-will-I-be-in-2099\obj\Debug\net8.0\ref\163-How-old-will-I-be-in-2099.dll
