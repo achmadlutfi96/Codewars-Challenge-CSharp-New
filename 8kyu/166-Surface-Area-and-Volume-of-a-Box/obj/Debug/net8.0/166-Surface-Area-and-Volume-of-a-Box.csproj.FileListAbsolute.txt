@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\bin\Debug\net8.0\166-Surface-Area-and-Volume-of-a-Box.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\bin\Debug\net8.0\166-Surface-Area-and-Volume-of-a-Box.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\bin\Debug\net8.0\166-Surface-Area-and-Volume-of-a-Box.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\bin\Debug\net8.0\166-Surface-Area-and-Volume-of-a-Box.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\bin\Debug\net8.0\166-Surface-Area-and-Volume-of-a-Box.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\obj\Debug\net8.0\166-Surface-Area-and-Volume-of-a-Box.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\obj\Debug\net8.0\166-Surface-Area-and-Volume-of-a-Box.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\obj\Debug\net8.0\166-Surface-Area-and-Volume-of-a-Box.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\obj\Debug\net8.0\166-Surface-Area-and-Volume-of-a-Box.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\obj\Debug\net8.0\166-Surface-Area-and-Volume-of-a-Box.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\obj\Debug\net8.0\166-Surface-Area-and-Volume-of-a-Box.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\obj\Debug\net8.0\refint\166-Surface-Area-and-Volume-of-a-Box.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\obj\Debug\net8.0\166-Surface-Area-and-Volume-of-a-Box.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\obj\Debug\net8.0\166-Surface-Area-and-Volume-of-a-Box.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\166-Surface-Area-and-Volume-of-a-Box\obj\Debug\net8.0\ref\166-Surface-Area-and-Volume-of-a-Box.dll
