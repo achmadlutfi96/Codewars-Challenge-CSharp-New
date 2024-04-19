@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\bin\Debug\net8.0\164-Enumerable-Magic-Does-My-List-Include-This.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\bin\Debug\net8.0\164-Enumerable-Magic-Does-My-List-Include-This.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\bin\Debug\net8.0\164-Enumerable-Magic-Does-My-List-Include-This.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\bin\Debug\net8.0\164-Enumerable-Magic-Does-My-List-Include-This.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\bin\Debug\net8.0\164-Enumerable-Magic-Does-My-List-Include-This.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\obj\Debug\net8.0\164-Enumerable-Magic-Does-My-List-Include-This.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\obj\Debug\net8.0\164-Enumerable-Magic-Does-My-List-Include-This.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\obj\Debug\net8.0\164-Enumerable-Magic-Does-My-List-Include-This.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\obj\Debug\net8.0\164-Enumerable-Magic-Does-My-List-Include-This.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\obj\Debug\net8.0\164-Enumerable-Magic-Does-My-List-Include-This.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\obj\Debug\net8.0\164-Enumerable-Magic-Does-My-List-Include-This.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\obj\Debug\net8.0\refint\164-Enumerable-Magic-Does-My-List-Include-This.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\obj\Debug\net8.0\164-Enumerable-Magic-Does-My-List-Include-This.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\obj\Debug\net8.0\164-Enumerable-Magic-Does-My-List-Include-This.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\164-Enumerable-Magic-Does-My-List-Include-This\obj\Debug\net8.0\ref\164-Enumerable-Magic-Does-My-List-Include-This.dll
