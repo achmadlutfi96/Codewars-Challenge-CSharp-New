@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\bin\Debug\net8.0\165-Find-the-Remainder.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\bin\Debug\net8.0\165-Find-the-Remainder.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\bin\Debug\net8.0\165-Find-the-Remainder.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\bin\Debug\net8.0\165-Find-the-Remainder.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\bin\Debug\net8.0\165-Find-the-Remainder.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\obj\Debug\net8.0\165-Find-the-Remainder.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\obj\Debug\net8.0\165-Find-the-Remainder.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\obj\Debug\net8.0\165-Find-the-Remainder.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\obj\Debug\net8.0\165-Find-the-Remainder.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\obj\Debug\net8.0\165-Find-the-Remainder.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\obj\Debug\net8.0\165-Find-the-Remainder.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\obj\Debug\net8.0\refint\165-Find-the-Remainder.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\obj\Debug\net8.0\165-Find-the-Remainder.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\obj\Debug\net8.0\165-Find-the-Remainder.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\165-Find-the-Remainder\obj\Debug\net8.0\ref\165-Find-the-Remainder.dll

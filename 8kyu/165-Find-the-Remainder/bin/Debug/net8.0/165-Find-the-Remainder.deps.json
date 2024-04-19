@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "165-Find-the-Remainder/1.0.0": {
+        "runtime": {
+          "165-Find-the-Remainder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "165-Find-the-Remainder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
