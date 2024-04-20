@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\bin\Debug\net8.0\169-Alan-Partridge-II-Apple-Turnover.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\bin\Debug\net8.0\169-Alan-Partridge-II-Apple-Turnover.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\bin\Debug\net8.0\169-Alan-Partridge-II-Apple-Turnover.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\bin\Debug\net8.0\169-Alan-Partridge-II-Apple-Turnover.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\bin\Debug\net8.0\169-Alan-Partridge-II-Apple-Turnover.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\obj\Debug\net8.0\169-Alan-Partridge-II-Apple-Turnover.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\obj\Debug\net8.0\169-Alan-Partridge-II-Apple-Turnover.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\obj\Debug\net8.0\169-Alan-Partridge-II-Apple-Turnover.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\obj\Debug\net8.0\169-Alan-Partridge-II-Apple-Turnover.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\obj\Debug\net8.0\169-Alan-Partridge-II-Apple-Turnover.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\obj\Debug\net8.0\169-Alan-Partridge-II-Apple-Turnover.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\obj\Debug\net8.0\refint\169-Alan-Partridge-II-Apple-Turnover.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\obj\Debug\net8.0\169-Alan-Partridge-II-Apple-Turnover.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\obj\Debug\net8.0\169-Alan-Partridge-II-Apple-Turnover.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\169-Alan-Partridge-II-Apple-Turnover\obj\Debug\net8.0\ref\169-Alan-Partridge-II-Apple-Turnover.dll

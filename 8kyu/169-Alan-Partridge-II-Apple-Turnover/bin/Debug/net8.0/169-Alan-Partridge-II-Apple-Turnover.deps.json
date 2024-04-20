@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "169-Alan-Partridge-II-Apple-Turnover/1.0.0": {
+        "runtime": {
+          "169-Alan-Partridge-II-Apple-Turnover.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "169-Alan-Partridge-II-Apple-Turnover/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
