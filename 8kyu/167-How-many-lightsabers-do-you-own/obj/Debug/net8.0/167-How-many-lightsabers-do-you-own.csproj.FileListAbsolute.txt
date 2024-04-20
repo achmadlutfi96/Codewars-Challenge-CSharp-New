@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\bin\Debug\net8.0\167-How-many-lightsabers-do-you-own.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\bin\Debug\net8.0\167-How-many-lightsabers-do-you-own.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\bin\Debug\net8.0\167-How-many-lightsabers-do-you-own.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\bin\Debug\net8.0\167-How-many-lightsabers-do-you-own.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\bin\Debug\net8.0\167-How-many-lightsabers-do-you-own.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\obj\Debug\net8.0\167-How-many-lightsabers-do-you-own.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\obj\Debug\net8.0\167-How-many-lightsabers-do-you-own.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\obj\Debug\net8.0\167-How-many-lightsabers-do-you-own.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\obj\Debug\net8.0\167-How-many-lightsabers-do-you-own.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\obj\Debug\net8.0\167-How-many-lightsabers-do-you-own.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\obj\Debug\net8.0\167-How-many-lightsabers-do-you-own.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\obj\Debug\net8.0\refint\167-How-many-lightsabers-do-you-own.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\obj\Debug\net8.0\167-How-many-lightsabers-do-you-own.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\obj\Debug\net8.0\167-How-many-lightsabers-do-you-own.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\167-How-many-lightsabers-do-you-own\obj\Debug\net8.0\ref\167-How-many-lightsabers-do-you-own.dll
