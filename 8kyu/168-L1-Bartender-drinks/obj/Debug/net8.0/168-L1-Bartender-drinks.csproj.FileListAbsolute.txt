@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\bin\Debug\net8.0\168-L1-Bartender-drinks.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\bin\Debug\net8.0\168-L1-Bartender-drinks.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\bin\Debug\net8.0\168-L1-Bartender-drinks.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\bin\Debug\net8.0\168-L1-Bartender-drinks.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\bin\Debug\net8.0\168-L1-Bartender-drinks.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\obj\Debug\net8.0\168-L1-Bartender-drinks.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\obj\Debug\net8.0\168-L1-Bartender-drinks.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\obj\Debug\net8.0\168-L1-Bartender-drinks.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\obj\Debug\net8.0\168-L1-Bartender-drinks.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\obj\Debug\net8.0\168-L1-Bartender-drinks.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\obj\Debug\net8.0\168-L1-Bartender-drinks.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\obj\Debug\net8.0\refint\168-L1-Bartender-drinks.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\obj\Debug\net8.0\168-L1-Bartender-drinks.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\obj\Debug\net8.0\168-L1-Bartender-drinks.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\168-L1-Bartender-drinks\obj\Debug\net8.0\ref\168-L1-Bartender-drinks.dll
