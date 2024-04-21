@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\bin\Debug\net8.0\170-Regular-Ball-Super-Ball.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\bin\Debug\net8.0\170-Regular-Ball-Super-Ball.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\bin\Debug\net8.0\170-Regular-Ball-Super-Ball.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\bin\Debug\net8.0\170-Regular-Ball-Super-Ball.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\bin\Debug\net8.0\170-Regular-Ball-Super-Ball.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\obj\Debug\net8.0\170-Regular-Ball-Super-Ball.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\obj\Debug\net8.0\170-Regular-Ball-Super-Ball.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\obj\Debug\net8.0\170-Regular-Ball-Super-Ball.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\obj\Debug\net8.0\170-Regular-Ball-Super-Ball.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\obj\Debug\net8.0\170-Regular-Ball-Super-Ball.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\obj\Debug\net8.0\170-Regular-Ball-Super-Ball.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\obj\Debug\net8.0\refint\170-Regular-Ball-Super-Ball.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\obj\Debug\net8.0\170-Regular-Ball-Super-Ball.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\obj\Debug\net8.0\170-Regular-Ball-Super-Ball.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\170-Regular-Ball-Super-Ball\obj\Debug\net8.0\ref\170-Regular-Ball-Super-Ball.dll
