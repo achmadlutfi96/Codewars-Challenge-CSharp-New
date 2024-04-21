@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\bin\Debug\net8.0\172-Sum-of-differences-in-array.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\bin\Debug\net8.0\172-Sum-of-differences-in-array.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\bin\Debug\net8.0\172-Sum-of-differences-in-array.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\bin\Debug\net8.0\172-Sum-of-differences-in-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\bin\Debug\net8.0\172-Sum-of-differences-in-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\obj\Debug\net8.0\172-Sum-of-differences-in-array.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\obj\Debug\net8.0\172-Sum-of-differences-in-array.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\obj\Debug\net8.0\172-Sum-of-differences-in-array.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\obj\Debug\net8.0\172-Sum-of-differences-in-array.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\obj\Debug\net8.0\172-Sum-of-differences-in-array.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\obj\Debug\net8.0\172-Sum-of-differences-in-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\obj\Debug\net8.0\refint\172-Sum-of-differences-in-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\obj\Debug\net8.0\172-Sum-of-differences-in-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\obj\Debug\net8.0\172-Sum-of-differences-in-array.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\172-Sum-of-differences-in-array\obj\Debug\net8.0\ref\172-Sum-of-differences-in-array.dll
