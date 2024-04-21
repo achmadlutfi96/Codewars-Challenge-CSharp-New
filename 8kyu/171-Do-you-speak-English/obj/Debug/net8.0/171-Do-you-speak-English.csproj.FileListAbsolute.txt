@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\bin\Debug\net8.0\171-Do-you-speak-English.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\bin\Debug\net8.0\171-Do-you-speak-English.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\bin\Debug\net8.0\171-Do-you-speak-English.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\bin\Debug\net8.0\171-Do-you-speak-English.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\bin\Debug\net8.0\171-Do-you-speak-English.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\obj\Debug\net8.0\171-Do-you-speak-English.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\obj\Debug\net8.0\171-Do-you-speak-English.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\obj\Debug\net8.0\171-Do-you-speak-English.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\obj\Debug\net8.0\171-Do-you-speak-English.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\obj\Debug\net8.0\171-Do-you-speak-English.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\obj\Debug\net8.0\171-Do-you-speak-English.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\obj\Debug\net8.0\refint\171-Do-you-speak-English.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\obj\Debug\net8.0\171-Do-you-speak-English.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\obj\Debug\net8.0\171-Do-you-speak-English.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\171-Do-you-speak-English\obj\Debug\net8.0\ref\171-Do-you-speak-English.dll
