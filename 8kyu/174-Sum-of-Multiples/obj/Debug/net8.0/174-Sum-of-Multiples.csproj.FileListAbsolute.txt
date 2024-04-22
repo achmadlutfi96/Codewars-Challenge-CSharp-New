@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\bin\Debug\net8.0\174-Sum-of-Multiples.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\bin\Debug\net8.0\174-Sum-of-Multiples.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\bin\Debug\net8.0\174-Sum-of-Multiples.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\bin\Debug\net8.0\174-Sum-of-Multiples.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\bin\Debug\net8.0\174-Sum-of-Multiples.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\obj\Debug\net8.0\174-Sum-of-Multiples.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\obj\Debug\net8.0\174-Sum-of-Multiples.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\obj\Debug\net8.0\174-Sum-of-Multiples.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\obj\Debug\net8.0\174-Sum-of-Multiples.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\obj\Debug\net8.0\174-Sum-of-Multiples.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\obj\Debug\net8.0\174-Sum-of-Multiples.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\obj\Debug\net8.0\refint\174-Sum-of-Multiples.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\obj\Debug\net8.0\174-Sum-of-Multiples.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\obj\Debug\net8.0\174-Sum-of-Multiples.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\174-Sum-of-Multiples\obj\Debug\net8.0\ref\174-Sum-of-Multiples.dll
