@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\bin\Debug\net8.0\173-Return-the-day.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\bin\Debug\net8.0\173-Return-the-day.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\bin\Debug\net8.0\173-Return-the-day.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\bin\Debug\net8.0\173-Return-the-day.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\bin\Debug\net8.0\173-Return-the-day.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\obj\Debug\net8.0\173-Return-the-day.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\obj\Debug\net8.0\173-Return-the-day.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\obj\Debug\net8.0\173-Return-the-day.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\obj\Debug\net8.0\173-Return-the-day.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\obj\Debug\net8.0\173-Return-the-day.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\obj\Debug\net8.0\173-Return-the-day.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\obj\Debug\net8.0\refint\173-Return-the-day.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\obj\Debug\net8.0\173-Return-the-day.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\obj\Debug\net8.0\173-Return-the-day.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\173-Return-the-day\obj\Debug\net8.0\ref\173-Return-the-day.dll
