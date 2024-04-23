@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "176-Printing-Array-elements-with-Comma-delimiters/1.0.0": {
+        "runtime": {
+          "176-Printing-Array-elements-with-Comma-delimiters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "176-Printing-Array-elements-with-Comma-delimiters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

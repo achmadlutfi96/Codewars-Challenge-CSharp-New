@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\bin\Debug\net8.0\176-Printing-Array-elements-with-Comma-delimiters.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\bin\Debug\net8.0\176-Printing-Array-elements-with-Comma-delimiters.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\bin\Debug\net8.0\176-Printing-Array-elements-with-Comma-delimiters.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\bin\Debug\net8.0\176-Printing-Array-elements-with-Comma-delimiters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\bin\Debug\net8.0\176-Printing-Array-elements-with-Comma-delimiters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\obj\Debug\net8.0\176-Printing-Array-elements-with-Comma-delimiters.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\obj\Debug\net8.0\176-Printing-Array-elements-with-Comma-delimiters.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\obj\Debug\net8.0\176-Printing-Array-elements-with-Comma-delimiters.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\obj\Debug\net8.0\176-Printing-Array-elements-with-Comma-delimiters.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\obj\Debug\net8.0\176-Printing-Array-elements-with-Comma-delimiters.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\obj\Debug\net8.0\176-Printing-Array-elements-with-Comma-delimiters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\obj\Debug\net8.0\refint\176-Printing-Array-elements-with-Comma-delimiters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\obj\Debug\net8.0\176-Printing-Array-elements-with-Comma-delimiters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\obj\Debug\net8.0\176-Printing-Array-elements-with-Comma-delimiters.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\176-Printing-Array-elements-with-Comma-delimiters\obj\Debug\net8.0\ref\176-Printing-Array-elements-with-Comma-delimiters.dll
