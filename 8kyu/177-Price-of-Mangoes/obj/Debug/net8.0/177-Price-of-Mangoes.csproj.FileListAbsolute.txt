@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\bin\Debug\net8.0\177-Price-of-Mangoes.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\bin\Debug\net8.0\177-Price-of-Mangoes.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\bin\Debug\net8.0\177-Price-of-Mangoes.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\bin\Debug\net8.0\177-Price-of-Mangoes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\bin\Debug\net8.0\177-Price-of-Mangoes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\obj\Debug\net8.0\177-Price-of-Mangoes.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\obj\Debug\net8.0\177-Price-of-Mangoes.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\obj\Debug\net8.0\177-Price-of-Mangoes.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\obj\Debug\net8.0\177-Price-of-Mangoes.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\obj\Debug\net8.0\177-Price-of-Mangoes.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\obj\Debug\net8.0\177-Price-of-Mangoes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\obj\Debug\net8.0\refint\177-Price-of-Mangoes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\obj\Debug\net8.0\177-Price-of-Mangoes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\obj\Debug\net8.0\177-Price-of-Mangoes.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\177-Price-of-Mangoes\obj\Debug\net8.0\ref\177-Price-of-Mangoes.dll

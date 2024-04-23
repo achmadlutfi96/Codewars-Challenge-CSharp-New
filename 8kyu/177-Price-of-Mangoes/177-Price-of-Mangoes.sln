@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "177-Price-of-Mangoes", "177-Price-of-Mangoes.csproj", "{3BD9DACF-A3C7-4637-994A-F25F14396E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD9DACF-A3C7-4637-994A-F25F14396E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD9DACF-A3C7-4637-994A-F25F14396E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD9DACF-A3C7-4637-994A-F25F14396E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD9DACF-A3C7-4637-994A-F25F14396E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9481C53-6FFA-43C5-8506-E42AE3DB7725}
+	EndGlobalSection
+EndGlobal
