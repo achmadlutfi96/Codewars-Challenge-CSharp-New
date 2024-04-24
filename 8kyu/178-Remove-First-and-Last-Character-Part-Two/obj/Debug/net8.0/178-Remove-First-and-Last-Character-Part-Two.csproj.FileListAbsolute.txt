@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\bin\Debug\net8.0\178-Remove-First-and-Last-Character-Part-Two.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\bin\Debug\net8.0\178-Remove-First-and-Last-Character-Part-Two.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\bin\Debug\net8.0\178-Remove-First-and-Last-Character-Part-Two.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\bin\Debug\net8.0\178-Remove-First-and-Last-Character-Part-Two.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\bin\Debug\net8.0\178-Remove-First-and-Last-Character-Part-Two.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\obj\Debug\net8.0\178-Remove-First-and-Last-Character-Part-Two.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\obj\Debug\net8.0\178-Remove-First-and-Last-Character-Part-Two.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\obj\Debug\net8.0\178-Remove-First-and-Last-Character-Part-Two.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\obj\Debug\net8.0\178-Remove-First-and-Last-Character-Part-Two.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\obj\Debug\net8.0\178-Remove-First-and-Last-Character-Part-Two.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\obj\Debug\net8.0\178-Remove-First-and-Last-Character-Part-Two.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\obj\Debug\net8.0\refint\178-Remove-First-and-Last-Character-Part-Two.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\obj\Debug\net8.0\178-Remove-First-and-Last-Character-Part-Two.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\obj\Debug\net8.0\178-Remove-First-and-Last-Character-Part-Two.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\178-Remove-First-and-Last-Character-Part-Two\obj\Debug\net8.0\ref\178-Remove-First-and-Last-Character-Part-Two.dll

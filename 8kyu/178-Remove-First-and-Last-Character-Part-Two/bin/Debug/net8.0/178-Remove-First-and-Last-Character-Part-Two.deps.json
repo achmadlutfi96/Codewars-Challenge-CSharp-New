@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "178-Remove-First-and-Last-Character-Part-Two/1.0.0": {
+        "runtime": {
+          "178-Remove-First-and-Last-Character-Part-Two.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "178-Remove-First-and-Last-Character-Part-Two/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
