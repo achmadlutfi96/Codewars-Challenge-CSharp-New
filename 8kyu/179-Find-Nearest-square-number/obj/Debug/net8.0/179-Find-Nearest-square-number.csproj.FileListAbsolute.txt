@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\bin\Debug\net8.0\179-Find-Nearest-square-number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\bin\Debug\net8.0\179-Find-Nearest-square-number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\bin\Debug\net8.0\179-Find-Nearest-square-number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\bin\Debug\net8.0\179-Find-Nearest-square-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\bin\Debug\net8.0\179-Find-Nearest-square-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\obj\Debug\net8.0\179-Find-Nearest-square-number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\obj\Debug\net8.0\179-Find-Nearest-square-number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\obj\Debug\net8.0\179-Find-Nearest-square-number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\obj\Debug\net8.0\179-Find-Nearest-square-number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\obj\Debug\net8.0\179-Find-Nearest-square-number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\obj\Debug\net8.0\179-Find-Nearest-square-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\obj\Debug\net8.0\refint\179-Find-Nearest-square-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\obj\Debug\net8.0\179-Find-Nearest-square-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\obj\Debug\net8.0\179-Find-Nearest-square-number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\179-Find-Nearest-square-number\obj\Debug\net8.0\ref\179-Find-Nearest-square-number.dll
