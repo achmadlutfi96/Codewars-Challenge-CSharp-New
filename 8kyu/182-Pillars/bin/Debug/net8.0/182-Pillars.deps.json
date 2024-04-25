@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "182-Pillars/1.0.0": {
+        "runtime": {
+          "182-Pillars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "182-Pillars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

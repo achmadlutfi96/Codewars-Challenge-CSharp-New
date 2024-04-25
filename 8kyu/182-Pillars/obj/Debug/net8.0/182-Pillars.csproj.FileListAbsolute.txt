@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\bin\Debug\net8.0\182-Pillars.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\bin\Debug\net8.0\182-Pillars.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\bin\Debug\net8.0\182-Pillars.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\bin\Debug\net8.0\182-Pillars.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\bin\Debug\net8.0\182-Pillars.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\obj\Debug\net8.0\182-Pillars.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\obj\Debug\net8.0\182-Pillars.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\obj\Debug\net8.0\182-Pillars.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\obj\Debug\net8.0\182-Pillars.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\obj\Debug\net8.0\182-Pillars.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\obj\Debug\net8.0\182-Pillars.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\obj\Debug\net8.0\refint\182-Pillars.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\obj\Debug\net8.0\182-Pillars.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\obj\Debug\net8.0\182-Pillars.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\182-Pillars\obj\Debug\net8.0\ref\182-Pillars.dll
