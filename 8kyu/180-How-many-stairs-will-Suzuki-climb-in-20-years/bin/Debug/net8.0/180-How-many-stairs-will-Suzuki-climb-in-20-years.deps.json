@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "180-How-many-stairs-will-Suzuki-climb-in-20-years/1.0.0": {
+        "runtime": {
+          "180-How-many-stairs-will-Suzuki-climb-in-20-years.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "180-How-many-stairs-will-Suzuki-climb-in-20-years/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

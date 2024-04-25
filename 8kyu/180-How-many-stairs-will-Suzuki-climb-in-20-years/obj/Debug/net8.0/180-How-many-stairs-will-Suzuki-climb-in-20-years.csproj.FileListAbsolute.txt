@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\bin\Debug\net8.0\180-How-many-stairs-will-Suzuki-climb-in-20-years.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\bin\Debug\net8.0\180-How-many-stairs-will-Suzuki-climb-in-20-years.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\bin\Debug\net8.0\180-How-many-stairs-will-Suzuki-climb-in-20-years.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\bin\Debug\net8.0\180-How-many-stairs-will-Suzuki-climb-in-20-years.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\bin\Debug\net8.0\180-How-many-stairs-will-Suzuki-climb-in-20-years.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\obj\Debug\net8.0\180-How-many-stairs-will-Suzuki-climb-in-20-years.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\obj\Debug\net8.0\180-How-many-stairs-will-Suzuki-climb-in-20-years.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\obj\Debug\net8.0\180-How-many-stairs-will-Suzuki-climb-in-20-years.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\obj\Debug\net8.0\180-How-many-stairs-will-Suzuki-climb-in-20-years.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\obj\Debug\net8.0\180-How-many-stairs-will-Suzuki-climb-in-20-years.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\obj\Debug\net8.0\180-How-many-stairs-will-Suzuki-climb-in-20-years.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\obj\Debug\net8.0\refint\180-How-many-stairs-will-Suzuki-climb-in-20-years.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\obj\Debug\net8.0\180-How-many-stairs-will-Suzuki-climb-in-20-years.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\obj\Debug\net8.0\180-How-many-stairs-will-Suzuki-climb-in-20-years.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\180-How-many-stairs-will-Suzuki-climb-in-20-years\obj\Debug\net8.0\ref\180-How-many-stairs-will-Suzuki-climb-in-20-years.dll
