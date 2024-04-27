@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "187-Grasshopper-Combine-strings/1.0.0": {
+        "runtime": {
+          "187-Grasshopper-Combine-strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "187-Grasshopper-Combine-strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

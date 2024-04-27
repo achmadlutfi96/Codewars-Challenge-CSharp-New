@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\bin\Debug\net8.0\187-Grasshopper-Combine-strings.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\bin\Debug\net8.0\187-Grasshopper-Combine-strings.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\bin\Debug\net8.0\187-Grasshopper-Combine-strings.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\bin\Debug\net8.0\187-Grasshopper-Combine-strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\bin\Debug\net8.0\187-Grasshopper-Combine-strings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\obj\Debug\net8.0\187-Grasshopper-Combine-strings.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\obj\Debug\net8.0\187-Grasshopper-Combine-strings.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\obj\Debug\net8.0\187-Grasshopper-Combine-strings.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\obj\Debug\net8.0\187-Grasshopper-Combine-strings.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\obj\Debug\net8.0\187-Grasshopper-Combine-strings.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\obj\Debug\net8.0\187-Grasshopper-Combine-strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\obj\Debug\net8.0\refint\187-Grasshopper-Combine-strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\obj\Debug\net8.0\187-Grasshopper-Combine-strings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\obj\Debug\net8.0\187-Grasshopper-Combine-strings.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\187-Grasshopper-Combine-strings\obj\Debug\net8.0\ref\187-Grasshopper-Combine-strings.dll
