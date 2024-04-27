@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\184-Area-of-a-Square\\184-Area-of-a-Square.csproj": {}
+    "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\185-Regex-count-lowercase-letters\\185-Regex-count-lowercase-letters.csproj": {}
   },
   "projects": {
-    "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\184-Area-of-a-Square\\184-Area-of-a-Square.csproj": {
+    "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\185-Regex-count-lowercase-letters\\185-Regex-count-lowercase-letters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\184-Area-of-a-Square\\184-Area-of-a-Square.csproj",
-        "projectName": "184-Area-of-a-Square",
-        "projectPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\184-Area-of-a-Square\\184-Area-of-a-Square.csproj",
+        "projectUniqueName": "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\185-Regex-count-lowercase-letters\\185-Regex-count-lowercase-letters.csproj",
+        "projectName": "185-Regex-count-lowercase-letters",
+        "projectPath": "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\185-Regex-count-lowercase-letters\\185-Regex-count-lowercase-letters.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\184-Area-of-a-Square\\obj\\",
+        "outputPath": "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\185-Regex-count-lowercase-letters\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\HP\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
