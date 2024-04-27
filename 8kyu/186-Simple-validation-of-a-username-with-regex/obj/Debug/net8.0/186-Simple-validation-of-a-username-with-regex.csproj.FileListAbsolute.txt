@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\bin\Debug\net8.0\186-Simple-validation-of-a-username-with-regex.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\bin\Debug\net8.0\186-Simple-validation-of-a-username-with-regex.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\bin\Debug\net8.0\186-Simple-validation-of-a-username-with-regex.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\bin\Debug\net8.0\186-Simple-validation-of-a-username-with-regex.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\bin\Debug\net8.0\186-Simple-validation-of-a-username-with-regex.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\obj\Debug\net8.0\186-Simple-validation-of-a-username-with-regex.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\obj\Debug\net8.0\186-Simple-validation-of-a-username-with-regex.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\obj\Debug\net8.0\186-Simple-validation-of-a-username-with-regex.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\obj\Debug\net8.0\186-Simple-validation-of-a-username-with-regex.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\obj\Debug\net8.0\186-Simple-validation-of-a-username-with-regex.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\obj\Debug\net8.0\186-Simple-validation-of-a-username-with-regex.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\obj\Debug\net8.0\refint\186-Simple-validation-of-a-username-with-regex.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\obj\Debug\net8.0\186-Simple-validation-of-a-username-with-regex.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\obj\Debug\net8.0\186-Simple-validation-of-a-username-with-regex.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\186-Simple-validation-of-a-username-with-regex\obj\Debug\net8.0\ref\186-Simple-validation-of-a-username-with-regex.dll
