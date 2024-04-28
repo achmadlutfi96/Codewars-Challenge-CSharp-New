@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\bin\Debug\net8.0\190-Check-same-case.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\bin\Debug\net8.0\190-Check-same-case.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\bin\Debug\net8.0\190-Check-same-case.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\bin\Debug\net8.0\190-Check-same-case.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\bin\Debug\net8.0\190-Check-same-case.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\obj\Debug\net8.0\190-Check-same-case.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\obj\Debug\net8.0\190-Check-same-case.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\obj\Debug\net8.0\190-Check-same-case.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\obj\Debug\net8.0\190-Check-same-case.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\obj\Debug\net8.0\190-Check-same-case.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\obj\Debug\net8.0\190-Check-same-case.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\obj\Debug\net8.0\refint\190-Check-same-case.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\obj\Debug\net8.0\190-Check-same-case.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\obj\Debug\net8.0\190-Check-same-case.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\190-Check-same-case\obj\Debug\net8.0\ref\190-Check-same-case.dll
