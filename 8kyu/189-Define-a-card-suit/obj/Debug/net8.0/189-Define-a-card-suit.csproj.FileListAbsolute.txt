@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\bin\Debug\net8.0\189-Define-a-card-suit.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\bin\Debug\net8.0\189-Define-a-card-suit.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\bin\Debug\net8.0\189-Define-a-card-suit.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\bin\Debug\net8.0\189-Define-a-card-suit.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\bin\Debug\net8.0\189-Define-a-card-suit.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\obj\Debug\net8.0\189-Define-a-card-suit.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\obj\Debug\net8.0\189-Define-a-card-suit.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\obj\Debug\net8.0\189-Define-a-card-suit.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\obj\Debug\net8.0\189-Define-a-card-suit.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\obj\Debug\net8.0\189-Define-a-card-suit.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\obj\Debug\net8.0\189-Define-a-card-suit.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\obj\Debug\net8.0\refint\189-Define-a-card-suit.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\obj\Debug\net8.0\189-Define-a-card-suit.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\obj\Debug\net8.0\189-Define-a-card-suit.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\189-Define-a-card-suit\obj\Debug\net8.0\ref\189-Define-a-card-suit.dll
