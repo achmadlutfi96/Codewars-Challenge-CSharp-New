@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "192-Find-the-Difference-in-Age-between-Oldest-and-Youngest-Family-Members/1.0.0": {
+        "runtime": {
+          "192-Find-the-Difference-in-Age-between-Oldest-and-Youngest-Family-Members.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "192-Find-the-Difference-in-Age-between-Oldest-and-Youngest-Family-Members/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

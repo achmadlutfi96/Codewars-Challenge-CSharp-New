@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _192_Find_the_Difference_in_Age_between_Oldest_and_Youngest_Family_Members
+build_property.ProjectDir = c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\192-Find-the-Difference-in-Age-between-Oldest-and-Youngest-Family-Members\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
