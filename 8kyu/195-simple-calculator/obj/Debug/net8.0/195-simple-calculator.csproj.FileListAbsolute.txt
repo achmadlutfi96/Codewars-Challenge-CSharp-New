@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\bin\Debug\net8.0\195-simple-calculator.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\bin\Debug\net8.0\195-simple-calculator.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\bin\Debug\net8.0\195-simple-calculator.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\bin\Debug\net8.0\195-simple-calculator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\bin\Debug\net8.0\195-simple-calculator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\obj\Debug\net8.0\195-simple-calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\obj\Debug\net8.0\195-simple-calculator.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\obj\Debug\net8.0\195-simple-calculator.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\obj\Debug\net8.0\195-simple-calculator.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\obj\Debug\net8.0\195-simple-calculator.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\obj\Debug\net8.0\195-simple-calculator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\obj\Debug\net8.0\refint\195-simple-calculator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\obj\Debug\net8.0\195-simple-calculator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\obj\Debug\net8.0\195-simple-calculator.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\195-simple-calculator\obj\Debug\net8.0\ref\195-simple-calculator.dll
