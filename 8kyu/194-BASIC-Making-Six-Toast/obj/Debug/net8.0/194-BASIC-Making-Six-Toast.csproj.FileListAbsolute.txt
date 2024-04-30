@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\bin\Debug\net8.0\194-BASIC-Making-Six-Toast.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\bin\Debug\net8.0\194-BASIC-Making-Six-Toast.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\bin\Debug\net8.0\194-BASIC-Making-Six-Toast.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\bin\Debug\net8.0\194-BASIC-Making-Six-Toast.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\bin\Debug\net8.0\194-BASIC-Making-Six-Toast.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\obj\Debug\net8.0\194-BASIC-Making-Six-Toast.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\obj\Debug\net8.0\194-BASIC-Making-Six-Toast.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\obj\Debug\net8.0\194-BASIC-Making-Six-Toast.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\obj\Debug\net8.0\194-BASIC-Making-Six-Toast.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\obj\Debug\net8.0\194-BASIC-Making-Six-Toast.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\obj\Debug\net8.0\194-BASIC-Making-Six-Toast.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\obj\Debug\net8.0\refint\194-BASIC-Making-Six-Toast.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\obj\Debug\net8.0\194-BASIC-Making-Six-Toast.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\obj\Debug\net8.0\194-BASIC-Making-Six-Toast.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\194-BASIC-Making-Six-Toast\obj\Debug\net8.0\ref\194-BASIC-Making-Six-Toast.dll
