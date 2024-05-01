@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\bin\Debug\net8.0\199-Multiply-the-number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\bin\Debug\net8.0\199-Multiply-the-number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\bin\Debug\net8.0\199-Multiply-the-number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\bin\Debug\net8.0\199-Multiply-the-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\bin\Debug\net8.0\199-Multiply-the-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\obj\Debug\net8.0\199-Multiply-the-number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\obj\Debug\net8.0\199-Multiply-the-number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\obj\Debug\net8.0\199-Multiply-the-number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\obj\Debug\net8.0\199-Multiply-the-number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\obj\Debug\net8.0\199-Multiply-the-number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\obj\Debug\net8.0\199-Multiply-the-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\obj\Debug\net8.0\refint\199-Multiply-the-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\obj\Debug\net8.0\199-Multiply-the-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\obj\Debug\net8.0\199-Multiply-the-number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\199-Multiply-the-number\obj\Debug\net8.0\ref\199-Multiply-the-number.dll
