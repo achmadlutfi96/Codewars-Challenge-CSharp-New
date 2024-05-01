@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\bin\Debug\net8.0\198-Contamination-1-String.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\bin\Debug\net8.0\198-Contamination-1-String.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\bin\Debug\net8.0\198-Contamination-1-String.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\bin\Debug\net8.0\198-Contamination-1-String.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\bin\Debug\net8.0\198-Contamination-1-String.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\obj\Debug\net8.0\198-Contamination-1-String.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\obj\Debug\net8.0\198-Contamination-1-String.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\obj\Debug\net8.0\198-Contamination-1-String.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\obj\Debug\net8.0\198-Contamination-1-String.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\obj\Debug\net8.0\198-Contamination-1-String.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\obj\Debug\net8.0\198-Contamination-1-String.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\obj\Debug\net8.0\refint\198-Contamination-1-String.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\obj\Debug\net8.0\198-Contamination-1-String.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\obj\Debug\net8.0\198-Contamination-1-String.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\198-Contamination-1-String\obj\Debug\net8.0\ref\198-Contamination-1-String.dll
