@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\bin\Debug\net8.0\197-CSV-representation-of-array.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\bin\Debug\net8.0\197-CSV-representation-of-array.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\bin\Debug\net8.0\197-CSV-representation-of-array.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\bin\Debug\net8.0\197-CSV-representation-of-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\bin\Debug\net8.0\197-CSV-representation-of-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\obj\Debug\net8.0\197-CSV-representation-of-array.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\obj\Debug\net8.0\197-CSV-representation-of-array.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\obj\Debug\net8.0\197-CSV-representation-of-array.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\obj\Debug\net8.0\197-CSV-representation-of-array.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\obj\Debug\net8.0\197-CSV-representation-of-array.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\obj\Debug\net8.0\197-CSV-representation-of-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\obj\Debug\net8.0\refint\197-CSV-representation-of-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\obj\Debug\net8.0\197-CSV-representation-of-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\obj\Debug\net8.0\197-CSV-representation-of-array.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\197-CSV-representation-of-array\obj\Debug\net8.0\ref\197-CSV-representation-of-array.dll
