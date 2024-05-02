@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "203-Name-on-billboard/1.0.0": {
+        "runtime": {
+          "203-Name-on-billboard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "203-Name-on-billboard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

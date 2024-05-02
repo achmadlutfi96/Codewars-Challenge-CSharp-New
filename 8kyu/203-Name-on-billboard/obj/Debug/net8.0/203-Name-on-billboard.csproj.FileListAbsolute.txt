@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\bin\Debug\net8.0\203-Name-on-billboard.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\bin\Debug\net8.0\203-Name-on-billboard.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\bin\Debug\net8.0\203-Name-on-billboard.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\bin\Debug\net8.0\203-Name-on-billboard.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\bin\Debug\net8.0\203-Name-on-billboard.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\obj\Debug\net8.0\203-Name-on-billboard.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\obj\Debug\net8.0\203-Name-on-billboard.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\obj\Debug\net8.0\203-Name-on-billboard.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\obj\Debug\net8.0\203-Name-on-billboard.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\obj\Debug\net8.0\203-Name-on-billboard.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\obj\Debug\net8.0\203-Name-on-billboard.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\obj\Debug\net8.0\refint\203-Name-on-billboard.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\obj\Debug\net8.0\203-Name-on-billboard.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\obj\Debug\net8.0\203-Name-on-billboard.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\203-Name-on-billboard\obj\Debug\net8.0\ref\203-Name-on-billboard.dll
