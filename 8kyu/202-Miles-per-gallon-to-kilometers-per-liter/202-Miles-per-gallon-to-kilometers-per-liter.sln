@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "202-Miles-per-gallon-to-kilometers-per-liter", "202-Miles-per-gallon-to-kilometers-per-liter.csproj", "{EC5E4E23-8A82-4060-922F-41A273D7ED75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5E4E23-8A82-4060-922F-41A273D7ED75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5E4E23-8A82-4060-922F-41A273D7ED75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5E4E23-8A82-4060-922F-41A273D7ED75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5E4E23-8A82-4060-922F-41A273D7ED75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28E8BEBE-F8D8-4406-B00A-04C5FBAA7D28}
+	EndGlobalSection
+EndGlobal

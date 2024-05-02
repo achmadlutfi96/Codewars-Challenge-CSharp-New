@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\bin\Debug\net8.0\202-Miles-per-gallon-to-kilometers-per-liter.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\bin\Debug\net8.0\202-Miles-per-gallon-to-kilometers-per-liter.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\bin\Debug\net8.0\202-Miles-per-gallon-to-kilometers-per-liter.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\bin\Debug\net8.0\202-Miles-per-gallon-to-kilometers-per-liter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\bin\Debug\net8.0\202-Miles-per-gallon-to-kilometers-per-liter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\obj\Debug\net8.0\202-Miles-per-gallon-to-kilometers-per-liter.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\obj\Debug\net8.0\202-Miles-per-gallon-to-kilometers-per-liter.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\obj\Debug\net8.0\202-Miles-per-gallon-to-kilometers-per-liter.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\obj\Debug\net8.0\202-Miles-per-gallon-to-kilometers-per-liter.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\obj\Debug\net8.0\202-Miles-per-gallon-to-kilometers-per-liter.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\obj\Debug\net8.0\202-Miles-per-gallon-to-kilometers-per-liter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\obj\Debug\net8.0\refint\202-Miles-per-gallon-to-kilometers-per-liter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\obj\Debug\net8.0\202-Miles-per-gallon-to-kilometers-per-liter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\obj\Debug\net8.0\202-Miles-per-gallon-to-kilometers-per-liter.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\202-Miles-per-gallon-to-kilometers-per-liter\obj\Debug\net8.0\ref\202-Miles-per-gallon-to-kilometers-per-liter.dll

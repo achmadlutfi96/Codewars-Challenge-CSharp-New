@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "202-Miles-per-gallon-to-kilometers-per-liter/1.0.0": {
+        "runtime": {
+          "202-Miles-per-gallon-to-kilometers-per-liter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "202-Miles-per-gallon-to-kilometers-per-liter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
