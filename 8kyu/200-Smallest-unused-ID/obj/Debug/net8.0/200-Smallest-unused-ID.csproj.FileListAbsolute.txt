@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\bin\Debug\net8.0\200-Smallest-unused-ID.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\bin\Debug\net8.0\200-Smallest-unused-ID.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\bin\Debug\net8.0\200-Smallest-unused-ID.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\bin\Debug\net8.0\200-Smallest-unused-ID.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\bin\Debug\net8.0\200-Smallest-unused-ID.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\obj\Debug\net8.0\200-Smallest-unused-ID.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\obj\Debug\net8.0\200-Smallest-unused-ID.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\obj\Debug\net8.0\200-Smallest-unused-ID.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\obj\Debug\net8.0\200-Smallest-unused-ID.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\obj\Debug\net8.0\200-Smallest-unused-ID.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\obj\Debug\net8.0\200-Smallest-unused-ID.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\obj\Debug\net8.0\refint\200-Smallest-unused-ID.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\obj\Debug\net8.0\200-Smallest-unused-ID.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\obj\Debug\net8.0\200-Smallest-unused-ID.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\200-Smallest-unused-ID\obj\Debug\net8.0\ref\200-Smallest-unused-ID.dll
