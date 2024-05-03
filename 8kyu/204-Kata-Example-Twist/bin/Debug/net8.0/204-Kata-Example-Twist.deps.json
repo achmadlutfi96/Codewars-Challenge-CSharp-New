@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "204-Kata-Example-Twist/1.0.0": {
+        "runtime": {
+          "204-Kata-Example-Twist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "204-Kata-Example-Twist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

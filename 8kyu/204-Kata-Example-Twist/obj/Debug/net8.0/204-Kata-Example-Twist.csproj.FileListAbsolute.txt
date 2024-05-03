@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\bin\Debug\net8.0\204-Kata-Example-Twist.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\bin\Debug\net8.0\204-Kata-Example-Twist.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\bin\Debug\net8.0\204-Kata-Example-Twist.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\bin\Debug\net8.0\204-Kata-Example-Twist.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\bin\Debug\net8.0\204-Kata-Example-Twist.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\obj\Debug\net8.0\204-Kata-Example-Twist.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\obj\Debug\net8.0\204-Kata-Example-Twist.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\obj\Debug\net8.0\204-Kata-Example-Twist.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\obj\Debug\net8.0\204-Kata-Example-Twist.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\obj\Debug\net8.0\204-Kata-Example-Twist.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\obj\Debug\net8.0\204-Kata-Example-Twist.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\obj\Debug\net8.0\refint\204-Kata-Example-Twist.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\obj\Debug\net8.0\204-Kata-Example-Twist.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\obj\Debug\net8.0\204-Kata-Example-Twist.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\204-Kata-Example-Twist\obj\Debug\net8.0\ref\204-Kata-Example-Twist.dll
