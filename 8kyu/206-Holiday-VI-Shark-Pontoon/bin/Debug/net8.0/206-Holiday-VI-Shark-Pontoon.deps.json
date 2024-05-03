@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "206-Holiday-VI-Shark-Pontoon/1.0.0": {
+        "runtime": {
+          "206-Holiday-VI-Shark-Pontoon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "206-Holiday-VI-Shark-Pontoon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

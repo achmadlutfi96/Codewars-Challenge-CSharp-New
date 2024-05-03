@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\bin\Debug\net8.0\206-Holiday-VI-Shark-Pontoon.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\bin\Debug\net8.0\206-Holiday-VI-Shark-Pontoon.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\bin\Debug\net8.0\206-Holiday-VI-Shark-Pontoon.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\bin\Debug\net8.0\206-Holiday-VI-Shark-Pontoon.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\bin\Debug\net8.0\206-Holiday-VI-Shark-Pontoon.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\obj\Debug\net8.0\206-Holiday-VI-Shark-Pontoon.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\obj\Debug\net8.0\206-Holiday-VI-Shark-Pontoon.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\obj\Debug\net8.0\206-Holiday-VI-Shark-Pontoon.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\obj\Debug\net8.0\206-Holiday-VI-Shark-Pontoon.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\obj\Debug\net8.0\206-Holiday-VI-Shark-Pontoon.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\obj\Debug\net8.0\206-Holiday-VI-Shark-Pontoon.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\obj\Debug\net8.0\refint\206-Holiday-VI-Shark-Pontoon.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\obj\Debug\net8.0\206-Holiday-VI-Shark-Pontoon.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\obj\Debug\net8.0\206-Holiday-VI-Shark-Pontoon.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\206-Holiday-VI-Shark-Pontoon\obj\Debug\net8.0\ref\206-Holiday-VI-Shark-Pontoon.dll
