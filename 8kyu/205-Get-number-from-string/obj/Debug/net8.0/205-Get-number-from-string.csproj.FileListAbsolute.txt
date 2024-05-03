@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\bin\Debug\net8.0\205-Get-number-from-string.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\bin\Debug\net8.0\205-Get-number-from-string.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\bin\Debug\net8.0\205-Get-number-from-string.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\bin\Debug\net8.0\205-Get-number-from-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\bin\Debug\net8.0\205-Get-number-from-string.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\obj\Debug\net8.0\205-Get-number-from-string.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\obj\Debug\net8.0\205-Get-number-from-string.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\obj\Debug\net8.0\205-Get-number-from-string.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\obj\Debug\net8.0\205-Get-number-from-string.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\obj\Debug\net8.0\205-Get-number-from-string.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\obj\Debug\net8.0\205-Get-number-from-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\obj\Debug\net8.0\refint\205-Get-number-from-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\obj\Debug\net8.0\205-Get-number-from-string.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\obj\Debug\net8.0\205-Get-number-from-string.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\205-Get-number-from-string\obj\Debug\net8.0\ref\205-Get-number-from-string.dll
