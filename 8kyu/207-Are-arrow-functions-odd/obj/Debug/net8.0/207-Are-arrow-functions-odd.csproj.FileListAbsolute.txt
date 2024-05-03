@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\bin\Debug\net8.0\207-Are-arrow-functions-odd.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\bin\Debug\net8.0\207-Are-arrow-functions-odd.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\bin\Debug\net8.0\207-Are-arrow-functions-odd.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\bin\Debug\net8.0\207-Are-arrow-functions-odd.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\bin\Debug\net8.0\207-Are-arrow-functions-odd.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\obj\Debug\net8.0\207-Are-arrow-functions-odd.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\obj\Debug\net8.0\207-Are-arrow-functions-odd.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\obj\Debug\net8.0\207-Are-arrow-functions-odd.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\obj\Debug\net8.0\207-Are-arrow-functions-odd.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\obj\Debug\net8.0\207-Are-arrow-functions-odd.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\obj\Debug\net8.0\207-Are-arrow-functions-odd.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\obj\Debug\net8.0\refint\207-Are-arrow-functions-odd.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\obj\Debug\net8.0\207-Are-arrow-functions-odd.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\obj\Debug\net8.0\207-Are-arrow-functions-odd.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\207-Are-arrow-functions-odd\obj\Debug\net8.0\ref\207-Are-arrow-functions-odd.dll
