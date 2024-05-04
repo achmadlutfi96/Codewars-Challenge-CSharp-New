@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\bin\Debug\net8.0\208-Sleigh-Authentication.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\bin\Debug\net8.0\208-Sleigh-Authentication.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\bin\Debug\net8.0\208-Sleigh-Authentication.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\bin\Debug\net8.0\208-Sleigh-Authentication.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\bin\Debug\net8.0\208-Sleigh-Authentication.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\obj\Debug\net8.0\208-Sleigh-Authentication.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\obj\Debug\net8.0\208-Sleigh-Authentication.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\obj\Debug\net8.0\208-Sleigh-Authentication.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\obj\Debug\net8.0\208-Sleigh-Authentication.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\obj\Debug\net8.0\208-Sleigh-Authentication.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\obj\Debug\net8.0\208-Sleigh-Authentication.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\obj\Debug\net8.0\refint\208-Sleigh-Authentication.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\obj\Debug\net8.0\208-Sleigh-Authentication.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\obj\Debug\net8.0\208-Sleigh-Authentication.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\208-Sleigh-Authentication\obj\Debug\net8.0\ref\208-Sleigh-Authentication.dll

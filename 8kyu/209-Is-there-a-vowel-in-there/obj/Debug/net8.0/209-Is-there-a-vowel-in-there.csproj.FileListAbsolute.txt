@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\bin\Debug\net8.0\209-Is-there-a-vowel-in-there.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\bin\Debug\net8.0\209-Is-there-a-vowel-in-there.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\bin\Debug\net8.0\209-Is-there-a-vowel-in-there.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\bin\Debug\net8.0\209-Is-there-a-vowel-in-there.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\bin\Debug\net8.0\209-Is-there-a-vowel-in-there.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\obj\Debug\net8.0\209-Is-there-a-vowel-in-there.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\obj\Debug\net8.0\209-Is-there-a-vowel-in-there.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\obj\Debug\net8.0\209-Is-there-a-vowel-in-there.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\obj\Debug\net8.0\209-Is-there-a-vowel-in-there.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\obj\Debug\net8.0\209-Is-there-a-vowel-in-there.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\obj\Debug\net8.0\209-Is-there-a-vowel-in-there.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\obj\Debug\net8.0\refint\209-Is-there-a-vowel-in-there.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\obj\Debug\net8.0\209-Is-there-a-vowel-in-there.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\obj\Debug\net8.0\209-Is-there-a-vowel-in-there.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\209-Is-there-a-vowel-in-there\obj\Debug\net8.0\ref\209-Is-there-a-vowel-in-there.dll
