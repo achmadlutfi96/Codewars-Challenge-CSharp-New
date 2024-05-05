@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\bin\Debug\net8.0\210-Tip-Calculator.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\bin\Debug\net8.0\210-Tip-Calculator.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\bin\Debug\net8.0\210-Tip-Calculator.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\bin\Debug\net8.0\210-Tip-Calculator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\bin\Debug\net8.0\210-Tip-Calculator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\obj\Debug\net8.0\210-Tip-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\obj\Debug\net8.0\210-Tip-Calculator.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\obj\Debug\net8.0\210-Tip-Calculator.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\obj\Debug\net8.0\210-Tip-Calculator.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\obj\Debug\net8.0\210-Tip-Calculator.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\obj\Debug\net8.0\210-Tip-Calculator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\obj\Debug\net8.0\refint\210-Tip-Calculator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\obj\Debug\net8.0\210-Tip-Calculator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\obj\Debug\net8.0\210-Tip-Calculator.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\210-Tip-Calculator\obj\Debug\net8.0\ref\210-Tip-Calculator.dll
