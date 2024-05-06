@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\bin\Debug\net8.0\212-get-ascii-value-of-character.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\bin\Debug\net8.0\212-get-ascii-value-of-character.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\bin\Debug\net8.0\212-get-ascii-value-of-character.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\bin\Debug\net8.0\212-get-ascii-value-of-character.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\bin\Debug\net8.0\212-get-ascii-value-of-character.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\obj\Debug\net8.0\212-get-ascii-value-of-character.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\obj\Debug\net8.0\212-get-ascii-value-of-character.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\obj\Debug\net8.0\212-get-ascii-value-of-character.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\obj\Debug\net8.0\212-get-ascii-value-of-character.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\obj\Debug\net8.0\212-get-ascii-value-of-character.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\obj\Debug\net8.0\212-get-ascii-value-of-character.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\obj\Debug\net8.0\refint\212-get-ascii-value-of-character.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\obj\Debug\net8.0\212-get-ascii-value-of-character.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\obj\Debug\net8.0\212-get-ascii-value-of-character.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\212-get-ascii-value-of-character\obj\Debug\net8.0\ref\212-get-ascii-value-of-character.dll
