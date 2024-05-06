@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\bin\Debug\net8.0\213-validate-code-with-simple-regex.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\bin\Debug\net8.0\213-validate-code-with-simple-regex.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\bin\Debug\net8.0\213-validate-code-with-simple-regex.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\bin\Debug\net8.0\213-validate-code-with-simple-regex.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\bin\Debug\net8.0\213-validate-code-with-simple-regex.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\obj\Debug\net8.0\213-validate-code-with-simple-regex.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\obj\Debug\net8.0\213-validate-code-with-simple-regex.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\obj\Debug\net8.0\213-validate-code-with-simple-regex.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\obj\Debug\net8.0\213-validate-code-with-simple-regex.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\obj\Debug\net8.0\213-validate-code-with-simple-regex.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\obj\Debug\net8.0\213-validate-code-with-simple-regex.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\obj\Debug\net8.0\refint\213-validate-code-with-simple-regex.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\obj\Debug\net8.0\213-validate-code-with-simple-regex.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\obj\Debug\net8.0\213-validate-code-with-simple-regex.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\213-validate-code-with-simple-regex\obj\Debug\net8.0\ref\213-validate-code-with-simple-regex.dll
