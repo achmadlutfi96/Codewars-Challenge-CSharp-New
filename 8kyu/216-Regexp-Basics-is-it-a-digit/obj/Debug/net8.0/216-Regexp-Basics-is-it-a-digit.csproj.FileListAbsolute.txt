@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\bin\Debug\net8.0\216-Regexp-Basics-is-it-a-digit.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\bin\Debug\net8.0\216-Regexp-Basics-is-it-a-digit.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\bin\Debug\net8.0\216-Regexp-Basics-is-it-a-digit.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\bin\Debug\net8.0\216-Regexp-Basics-is-it-a-digit.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\bin\Debug\net8.0\216-Regexp-Basics-is-it-a-digit.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\obj\Debug\net8.0\216-Regexp-Basics-is-it-a-digit.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\obj\Debug\net8.0\216-Regexp-Basics-is-it-a-digit.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\obj\Debug\net8.0\216-Regexp-Basics-is-it-a-digit.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\obj\Debug\net8.0\216-Regexp-Basics-is-it-a-digit.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\obj\Debug\net8.0\216-Regexp-Basics-is-it-a-digit.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\obj\Debug\net8.0\216-Regexp-Basics-is-it-a-digit.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\obj\Debug\net8.0\refint\216-Regexp-Basics-is-it-a-digit.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\obj\Debug\net8.0\216-Regexp-Basics-is-it-a-digit.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\obj\Debug\net8.0\216-Regexp-Basics-is-it-a-digit.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\216-Regexp-Basics-is-it-a-digit\obj\Debug\net8.0\ref\216-Regexp-Basics-is-it-a-digit.dll

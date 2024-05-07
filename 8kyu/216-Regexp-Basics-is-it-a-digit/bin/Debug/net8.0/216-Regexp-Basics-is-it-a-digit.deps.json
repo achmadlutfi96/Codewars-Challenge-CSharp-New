@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "216-Regexp-Basics-is-it-a-digit/1.0.0": {
+        "runtime": {
+          "216-Regexp-Basics-is-it-a-digit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "216-Regexp-Basics-is-it-a-digit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
