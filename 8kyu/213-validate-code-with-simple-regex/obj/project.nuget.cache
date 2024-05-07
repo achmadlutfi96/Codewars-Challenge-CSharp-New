@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EDBBqwbOGHxZkbhdztkn5WTG9OgapKGG6jaQjAngU/CLDyu2eD3H9xJ1cs1mwxX4+gcFaFXyvnx2Lv2aZWR9lQ==",
+  "dgSpecHash": "qJHft2vnJ6AsFVxVppU7g70S0vZB2InMA8BhWVYlrSFrxuf9Tt52GHy72wNqhlHyTstbECDYEv3sKzIIfcme2A==",
   "success": true,
-  "projectFilePath": "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\213-validate-code-with-simple-regex\\213-validate-code-with-simple-regex.csproj",
+  "projectFilePath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\213-validate-code-with-simple-regex\\213-validate-code-with-simple-regex.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\213-validate-code-with-simple-regex\\213-validate-code-with-simple-regex.csproj": {}
+    "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\214-OOP-Object-Oriented-Piracy\\214-OOP-Object-Oriented-Piracy.csproj": {}
   },
   "projects": {
-    "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\213-validate-code-with-simple-regex\\213-validate-code-with-simple-regex.csproj": {
+    "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\214-OOP-Object-Oriented-Piracy\\214-OOP-Object-Oriented-Piracy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\213-validate-code-with-simple-regex\\213-validate-code-with-simple-regex.csproj",
-        "projectName": "213-validate-code-with-simple-regex",
-        "projectPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\213-validate-code-with-simple-regex\\213-validate-code-with-simple-regex.csproj",
+        "projectUniqueName": "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\214-OOP-Object-Oriented-Piracy\\214-OOP-Object-Oriented-Piracy.csproj",
+        "projectName": "214-OOP-Object-Oriented-Piracy",
+        "projectPath": "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\214-OOP-Object-Oriented-Piracy\\214-OOP-Object-Oriented-Piracy.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\213-validate-code-with-simple-regex\\obj\\",
+        "outputPath": "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\214-OOP-Object-Oriented-Piracy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\HP\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",

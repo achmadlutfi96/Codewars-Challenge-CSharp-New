@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "214-OOP-Object-Oriented-Piracy/1.0.0": {
+        "runtime": {
+          "214-OOP-Object-Oriented-Piracy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "214-OOP-Object-Oriented-Piracy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

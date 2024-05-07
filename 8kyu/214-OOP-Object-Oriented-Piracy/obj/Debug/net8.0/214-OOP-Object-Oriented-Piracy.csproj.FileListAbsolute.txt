@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\bin\Debug\net8.0\214-OOP-Object-Oriented-Piracy.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\bin\Debug\net8.0\214-OOP-Object-Oriented-Piracy.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\bin\Debug\net8.0\214-OOP-Object-Oriented-Piracy.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\bin\Debug\net8.0\214-OOP-Object-Oriented-Piracy.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\bin\Debug\net8.0\214-OOP-Object-Oriented-Piracy.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\obj\Debug\net8.0\214-OOP-Object-Oriented-Piracy.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\obj\Debug\net8.0\214-OOP-Object-Oriented-Piracy.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\obj\Debug\net8.0\214-OOP-Object-Oriented-Piracy.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\obj\Debug\net8.0\214-OOP-Object-Oriented-Piracy.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\obj\Debug\net8.0\214-OOP-Object-Oriented-Piracy.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\obj\Debug\net8.0\214-OOP-Object-Oriented-Piracy.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\obj\Debug\net8.0\refint\214-OOP-Object-Oriented-Piracy.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\obj\Debug\net8.0\214-OOP-Object-Oriented-Piracy.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\obj\Debug\net8.0\214-OOP-Object-Oriented-Piracy.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\214-OOP-Object-Oriented-Piracy\obj\Debug\net8.0\ref\214-OOP-Object-Oriented-Piracy.dll
