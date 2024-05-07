@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "215-The-if-function/1.0.0": {
+        "runtime": {
+          "215-The-if-function.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "215-The-if-function/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

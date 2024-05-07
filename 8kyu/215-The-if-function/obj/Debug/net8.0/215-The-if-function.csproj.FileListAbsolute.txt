@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\bin\Debug\net8.0\215-The-if-function.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\bin\Debug\net8.0\215-The-if-function.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\bin\Debug\net8.0\215-The-if-function.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\bin\Debug\net8.0\215-The-if-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\bin\Debug\net8.0\215-The-if-function.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\obj\Debug\net8.0\215-The-if-function.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\obj\Debug\net8.0\215-The-if-function.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\obj\Debug\net8.0\215-The-if-function.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\obj\Debug\net8.0\215-The-if-function.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\obj\Debug\net8.0\215-The-if-function.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\obj\Debug\net8.0\215-The-if-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\obj\Debug\net8.0\refint\215-The-if-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\obj\Debug\net8.0\215-The-if-function.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\obj\Debug\net8.0\215-The-if-function.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\215-The-if-function\obj\Debug\net8.0\ref\215-The-if-function.dll
