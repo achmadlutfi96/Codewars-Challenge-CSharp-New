@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\bin\Debug\net8.0\218-Leonardo-Dicaprio-and-Oscars.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\bin\Debug\net8.0\218-Leonardo-Dicaprio-and-Oscars.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\bin\Debug\net8.0\218-Leonardo-Dicaprio-and-Oscars.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\bin\Debug\net8.0\218-Leonardo-Dicaprio-and-Oscars.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\bin\Debug\net8.0\218-Leonardo-Dicaprio-and-Oscars.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\obj\Debug\net8.0\218-Leonardo-Dicaprio-and-Oscars.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\obj\Debug\net8.0\218-Leonardo-Dicaprio-and-Oscars.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\obj\Debug\net8.0\218-Leonardo-Dicaprio-and-Oscars.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\obj\Debug\net8.0\218-Leonardo-Dicaprio-and-Oscars.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\obj\Debug\net8.0\218-Leonardo-Dicaprio-and-Oscars.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\obj\Debug\net8.0\218-Leonardo-Dicaprio-and-Oscars.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\obj\Debug\net8.0\refint\218-Leonardo-Dicaprio-and-Oscars.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\obj\Debug\net8.0\218-Leonardo-Dicaprio-and-Oscars.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\obj\Debug\net8.0\218-Leonardo-Dicaprio-and-Oscars.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\218-Leonardo-Dicaprio-and-Oscars\obj\Debug\net8.0\ref\218-Leonardo-Dicaprio-and-Oscars.dll
