@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\bin\Debug\net8.0\217-Duck-Duck-Goose.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\bin\Debug\net8.0\217-Duck-Duck-Goose.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\bin\Debug\net8.0\217-Duck-Duck-Goose.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\bin\Debug\net8.0\217-Duck-Duck-Goose.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\bin\Debug\net8.0\217-Duck-Duck-Goose.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\obj\Debug\net8.0\217-Duck-Duck-Goose.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\obj\Debug\net8.0\217-Duck-Duck-Goose.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\obj\Debug\net8.0\217-Duck-Duck-Goose.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\obj\Debug\net8.0\217-Duck-Duck-Goose.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\obj\Debug\net8.0\217-Duck-Duck-Goose.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\obj\Debug\net8.0\217-Duck-Duck-Goose.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\obj\Debug\net8.0\refint\217-Duck-Duck-Goose.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\obj\Debug\net8.0\217-Duck-Duck-Goose.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\obj\Debug\net8.0\217-Duck-Duck-Goose.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\217-Duck-Duck-Goose\obj\Debug\net8.0\ref\217-Duck-Duck-Goose.dll
