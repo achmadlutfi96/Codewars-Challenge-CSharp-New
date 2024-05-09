@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\bin\Debug\net8.0\220-ASCII-Total.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\bin\Debug\net8.0\220-ASCII-Total.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\bin\Debug\net8.0\220-ASCII-Total.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\bin\Debug\net8.0\220-ASCII-Total.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\bin\Debug\net8.0\220-ASCII-Total.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\obj\Debug\net8.0\220-ASCII-Total.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\obj\Debug\net8.0\220-ASCII-Total.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\obj\Debug\net8.0\220-ASCII-Total.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\obj\Debug\net8.0\220-ASCII-Total.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\obj\Debug\net8.0\220-ASCII-Total.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\obj\Debug\net8.0\220-ASCII-Total.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\obj\Debug\net8.0\refint\220-ASCII-Total.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\obj\Debug\net8.0\220-ASCII-Total.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\obj\Debug\net8.0\220-ASCII-Total.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\220-ASCII-Total\obj\Debug\net8.0\ref\220-ASCII-Total.dll
