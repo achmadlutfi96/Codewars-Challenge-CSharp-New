@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\bin\Debug\net8.0\219-Template-Strings.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\bin\Debug\net8.0\219-Template-Strings.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\bin\Debug\net8.0\219-Template-Strings.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\bin\Debug\net8.0\219-Template-Strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\bin\Debug\net8.0\219-Template-Strings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\obj\Debug\net8.0\219-Template-Strings.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\obj\Debug\net8.0\219-Template-Strings.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\obj\Debug\net8.0\219-Template-Strings.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\obj\Debug\net8.0\219-Template-Strings.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\obj\Debug\net8.0\219-Template-Strings.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\obj\Debug\net8.0\219-Template-Strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\obj\Debug\net8.0\refint\219-Template-Strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\obj\Debug\net8.0\219-Template-Strings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\obj\Debug\net8.0\219-Template-Strings.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\219-Template-Strings\obj\Debug\net8.0\ref\219-Template-Strings.dll
