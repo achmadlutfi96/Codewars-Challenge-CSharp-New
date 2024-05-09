@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\bin\Debug\net8.0\221-UEFA-EURO-2016.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\bin\Debug\net8.0\221-UEFA-EURO-2016.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\bin\Debug\net8.0\221-UEFA-EURO-2016.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\bin\Debug\net8.0\221-UEFA-EURO-2016.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\bin\Debug\net8.0\221-UEFA-EURO-2016.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\obj\Debug\net8.0\221-UEFA-EURO-2016.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\obj\Debug\net8.0\221-UEFA-EURO-2016.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\obj\Debug\net8.0\221-UEFA-EURO-2016.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\obj\Debug\net8.0\221-UEFA-EURO-2016.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\obj\Debug\net8.0\221-UEFA-EURO-2016.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\obj\Debug\net8.0\221-UEFA-EURO-2016.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\obj\Debug\net8.0\refint\221-UEFA-EURO-2016.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\obj\Debug\net8.0\221-UEFA-EURO-2016.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\obj\Debug\net8.0\221-UEFA-EURO-2016.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\221-UEFA-EURO-2016\obj\Debug\net8.0\ref\221-UEFA-EURO-2016.dll
