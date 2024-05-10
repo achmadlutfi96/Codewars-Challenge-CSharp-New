@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "223-Enumerable-Magic-1-True-for-All/1.0.0": {
+        "runtime": {
+          "223-Enumerable-Magic-1-True-for-All.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "223-Enumerable-Magic-1-True-for-All/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
