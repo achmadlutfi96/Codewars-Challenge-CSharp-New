@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\bin\Debug\net8.0\224-Classy-Classes.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\bin\Debug\net8.0\224-Classy-Classes.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\bin\Debug\net8.0\224-Classy-Classes.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\bin\Debug\net8.0\224-Classy-Classes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\bin\Debug\net8.0\224-Classy-Classes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\obj\Debug\net8.0\224-Classy-Classes.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\obj\Debug\net8.0\224-Classy-Classes.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\obj\Debug\net8.0\224-Classy-Classes.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\obj\Debug\net8.0\224-Classy-Classes.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\obj\Debug\net8.0\224-Classy-Classes.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\obj\Debug\net8.0\224-Classy-Classes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\obj\Debug\net8.0\refint\224-Classy-Classes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\obj\Debug\net8.0\224-Classy-Classes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\obj\Debug\net8.0\224-Classy-Classes.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\224-Classy-Classes\obj\Debug\net8.0\ref\224-Classy-Classes.dll
