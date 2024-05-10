@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\bin\Debug\net8.0\222-Is-it-a-number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\bin\Debug\net8.0\222-Is-it-a-number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\bin\Debug\net8.0\222-Is-it-a-number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\bin\Debug\net8.0\222-Is-it-a-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\bin\Debug\net8.0\222-Is-it-a-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\obj\Debug\net8.0\222-Is-it-a-number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\obj\Debug\net8.0\222-Is-it-a-number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\obj\Debug\net8.0\222-Is-it-a-number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\obj\Debug\net8.0\222-Is-it-a-number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\obj\Debug\net8.0\222-Is-it-a-number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\obj\Debug\net8.0\222-Is-it-a-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\obj\Debug\net8.0\refint\222-Is-it-a-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\obj\Debug\net8.0\222-Is-it-a-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\obj\Debug\net8.0\222-Is-it-a-number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\222-Is-it-a-number\obj\Debug\net8.0\ref\222-Is-it-a-number.dll
