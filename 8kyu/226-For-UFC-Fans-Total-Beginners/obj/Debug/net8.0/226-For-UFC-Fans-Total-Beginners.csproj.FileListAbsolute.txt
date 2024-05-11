@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\bin\Debug\net8.0\226-For-UFC-Fans-Total-Beginners.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\bin\Debug\net8.0\226-For-UFC-Fans-Total-Beginners.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\bin\Debug\net8.0\226-For-UFC-Fans-Total-Beginners.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\bin\Debug\net8.0\226-For-UFC-Fans-Total-Beginners.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\bin\Debug\net8.0\226-For-UFC-Fans-Total-Beginners.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\obj\Debug\net8.0\226-For-UFC-Fans-Total-Beginners.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\obj\Debug\net8.0\226-For-UFC-Fans-Total-Beginners.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\obj\Debug\net8.0\226-For-UFC-Fans-Total-Beginners.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\obj\Debug\net8.0\226-For-UFC-Fans-Total-Beginners.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\obj\Debug\net8.0\226-For-UFC-Fans-Total-Beginners.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\obj\Debug\net8.0\226-For-UFC-Fans-Total-Beginners.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\obj\Debug\net8.0\refint\226-For-UFC-Fans-Total-Beginners.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\obj\Debug\net8.0\226-For-UFC-Fans-Total-Beginners.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\obj\Debug\net8.0\226-For-UFC-Fans-Total-Beginners.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\226-For-UFC-Fans-Total-Beginners\obj\Debug\net8.0\ref\226-For-UFC-Fans-Total-Beginners.dll

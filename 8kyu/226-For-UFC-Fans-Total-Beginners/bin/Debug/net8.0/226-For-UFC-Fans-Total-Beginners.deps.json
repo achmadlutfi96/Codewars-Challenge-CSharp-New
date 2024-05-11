@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "226-For-UFC-Fans-Total-Beginners/1.0.0": {
+        "runtime": {
+          "226-For-UFC-Fans-Total-Beginners.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "226-For-UFC-Fans-Total-Beginners/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
