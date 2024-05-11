@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\bin\Debug\net8.0\227-Thinkful-Number-Drills-Blue-and-red-marbles.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\bin\Debug\net8.0\227-Thinkful-Number-Drills-Blue-and-red-marbles.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\bin\Debug\net8.0\227-Thinkful-Number-Drills-Blue-and-red-marbles.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\bin\Debug\net8.0\227-Thinkful-Number-Drills-Blue-and-red-marbles.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\bin\Debug\net8.0\227-Thinkful-Number-Drills-Blue-and-red-marbles.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\obj\Debug\net8.0\227-Thinkful-Number-Drills-Blue-and-red-marbles.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\obj\Debug\net8.0\227-Thinkful-Number-Drills-Blue-and-red-marbles.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\obj\Debug\net8.0\227-Thinkful-Number-Drills-Blue-and-red-marbles.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\obj\Debug\net8.0\227-Thinkful-Number-Drills-Blue-and-red-marbles.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\obj\Debug\net8.0\227-Thinkful-Number-Drills-Blue-and-red-marbles.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\obj\Debug\net8.0\227-Thinkful-Number-Drills-Blue-and-red-marbles.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\obj\Debug\net8.0\refint\227-Thinkful-Number-Drills-Blue-and-red-marbles.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\obj\Debug\net8.0\227-Thinkful-Number-Drills-Blue-and-red-marbles.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\obj\Debug\net8.0\227-Thinkful-Number-Drills-Blue-and-red-marbles.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\227-Thinkful-Number-Drills-Blue-and-red-marbles\obj\Debug\net8.0\ref\227-Thinkful-Number-Drills-Blue-and-red-marbles.dll
