@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\bin\Debug\net8.0\230-Draw-stairs.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\bin\Debug\net8.0\230-Draw-stairs.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\bin\Debug\net8.0\230-Draw-stairs.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\bin\Debug\net8.0\230-Draw-stairs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\bin\Debug\net8.0\230-Draw-stairs.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\obj\Debug\net8.0\230-Draw-stairs.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\obj\Debug\net8.0\230-Draw-stairs.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\obj\Debug\net8.0\230-Draw-stairs.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\obj\Debug\net8.0\230-Draw-stairs.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\obj\Debug\net8.0\230-Draw-stairs.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\obj\Debug\net8.0\230-Draw-stairs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\obj\Debug\net8.0\refint\230-Draw-stairs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\obj\Debug\net8.0\230-Draw-stairs.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\obj\Debug\net8.0\230-Draw-stairs.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\230-Draw-stairs\obj\Debug\net8.0\ref\230-Draw-stairs.dll
