@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\bin\Debug\net8.0\228-Collatz-Conjecture.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\bin\Debug\net8.0\228-Collatz-Conjecture.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\bin\Debug\net8.0\228-Collatz-Conjecture.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\bin\Debug\net8.0\228-Collatz-Conjecture.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\bin\Debug\net8.0\228-Collatz-Conjecture.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\obj\Debug\net8.0\228-Collatz-Conjecture.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\obj\Debug\net8.0\228-Collatz-Conjecture.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\obj\Debug\net8.0\228-Collatz-Conjecture.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\obj\Debug\net8.0\228-Collatz-Conjecture.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\obj\Debug\net8.0\228-Collatz-Conjecture.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\obj\Debug\net8.0\228-Collatz-Conjecture.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\obj\Debug\net8.0\refint\228-Collatz-Conjecture.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\obj\Debug\net8.0\228-Collatz-Conjecture.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\obj\Debug\net8.0\228-Collatz-Conjecture.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\228-Collatz-Conjecture\obj\Debug\net8.0\ref\228-Collatz-Conjecture.dll
