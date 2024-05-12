@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\bin\Debug\net8.0\231-pick-a-set-of-first-elements.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\bin\Debug\net8.0\231-pick-a-set-of-first-elements.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\bin\Debug\net8.0\231-pick-a-set-of-first-elements.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\bin\Debug\net8.0\231-pick-a-set-of-first-elements.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\bin\Debug\net8.0\231-pick-a-set-of-first-elements.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\obj\Debug\net8.0\231-pick-a-set-of-first-elements.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\obj\Debug\net8.0\231-pick-a-set-of-first-elements.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\obj\Debug\net8.0\231-pick-a-set-of-first-elements.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\obj\Debug\net8.0\231-pick-a-set-of-first-elements.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\obj\Debug\net8.0\231-pick-a-set-of-first-elements.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\obj\Debug\net8.0\231-pick-a-set-of-first-elements.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\obj\Debug\net8.0\refint\231-pick-a-set-of-first-elements.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\obj\Debug\net8.0\231-pick-a-set-of-first-elements.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\obj\Debug\net8.0\231-pick-a-set-of-first-elements.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\231-pick-a-set-of-first-elements\obj\Debug\net8.0\ref\231-pick-a-set-of-first-elements.dll
