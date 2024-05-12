@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\bin\Debug\net8.0\233-The-falling-speed-of-petals.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\bin\Debug\net8.0\233-The-falling-speed-of-petals.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\bin\Debug\net8.0\233-The-falling-speed-of-petals.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\bin\Debug\net8.0\233-The-falling-speed-of-petals.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\bin\Debug\net8.0\233-The-falling-speed-of-petals.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\obj\Debug\net8.0\233-The-falling-speed-of-petals.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\obj\Debug\net8.0\233-The-falling-speed-of-petals.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\obj\Debug\net8.0\233-The-falling-speed-of-petals.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\obj\Debug\net8.0\233-The-falling-speed-of-petals.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\obj\Debug\net8.0\233-The-falling-speed-of-petals.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\obj\Debug\net8.0\233-The-falling-speed-of-petals.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\obj\Debug\net8.0\refint\233-The-falling-speed-of-petals.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\obj\Debug\net8.0\233-The-falling-speed-of-petals.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\obj\Debug\net8.0\233-The-falling-speed-of-petals.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\233-The-falling-speed-of-petals\obj\Debug\net8.0\ref\233-The-falling-speed-of-petals.dll

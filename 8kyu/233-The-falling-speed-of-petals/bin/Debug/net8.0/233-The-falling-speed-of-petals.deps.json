@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "233-The-falling-speed-of-petals/1.0.0": {
+        "runtime": {
+          "233-The-falling-speed-of-petals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "233-The-falling-speed-of-petals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
