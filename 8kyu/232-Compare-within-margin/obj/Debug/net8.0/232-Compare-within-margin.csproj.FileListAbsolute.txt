@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\bin\Debug\net8.0\232-Compare-within-margin.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\bin\Debug\net8.0\232-Compare-within-margin.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\bin\Debug\net8.0\232-Compare-within-margin.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\bin\Debug\net8.0\232-Compare-within-margin.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\bin\Debug\net8.0\232-Compare-within-margin.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\obj\Debug\net8.0\232-Compare-within-margin.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\obj\Debug\net8.0\232-Compare-within-margin.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\obj\Debug\net8.0\232-Compare-within-margin.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\obj\Debug\net8.0\232-Compare-within-margin.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\obj\Debug\net8.0\232-Compare-within-margin.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\obj\Debug\net8.0\232-Compare-within-margin.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\obj\Debug\net8.0\refint\232-Compare-within-margin.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\obj\Debug\net8.0\232-Compare-within-margin.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\obj\Debug\net8.0\232-Compare-within-margin.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\232-Compare-within-margin\obj\Debug\net8.0\ref\232-Compare-within-margin.dll
