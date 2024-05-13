@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\bin\Debug\net8.0\237-Color-Ghost.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\bin\Debug\net8.0\237-Color-Ghost.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\bin\Debug\net8.0\237-Color-Ghost.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\bin\Debug\net8.0\237-Color-Ghost.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\bin\Debug\net8.0\237-Color-Ghost.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\obj\Debug\net8.0\237-Color-Ghost.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\obj\Debug\net8.0\237-Color-Ghost.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\obj\Debug\net8.0\237-Color-Ghost.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\obj\Debug\net8.0\237-Color-Ghost.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\obj\Debug\net8.0\237-Color-Ghost.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\obj\Debug\net8.0\237-Color-Ghost.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\obj\Debug\net8.0\refint\237-Color-Ghost.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\obj\Debug\net8.0\237-Color-Ghost.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\obj\Debug\net8.0\237-Color-Ghost.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\237-Color-Ghost\obj\Debug\net8.0\ref\237-Color-Ghost.dll
