@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\bin\Debug\net8.0\234-Pirates-Are-the-Cannons-ready.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\bin\Debug\net8.0\234-Pirates-Are-the-Cannons-ready.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\bin\Debug\net8.0\234-Pirates-Are-the-Cannons-ready.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\bin\Debug\net8.0\234-Pirates-Are-the-Cannons-ready.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\bin\Debug\net8.0\234-Pirates-Are-the-Cannons-ready.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\obj\Debug\net8.0\234-Pirates-Are-the-Cannons-ready.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\obj\Debug\net8.0\234-Pirates-Are-the-Cannons-ready.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\obj\Debug\net8.0\234-Pirates-Are-the-Cannons-ready.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\obj\Debug\net8.0\234-Pirates-Are-the-Cannons-ready.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\obj\Debug\net8.0\234-Pirates-Are-the-Cannons-ready.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\obj\Debug\net8.0\234-Pirates-Are-the-Cannons-ready.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\obj\Debug\net8.0\refint\234-Pirates-Are-the-Cannons-ready.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\obj\Debug\net8.0\234-Pirates-Are-the-Cannons-ready.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\obj\Debug\net8.0\234-Pirates-Are-the-Cannons-ready.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\234-Pirates-Are-the-Cannons-ready\obj\Debug\net8.0\ref\234-Pirates-Are-the-Cannons-ready.dll

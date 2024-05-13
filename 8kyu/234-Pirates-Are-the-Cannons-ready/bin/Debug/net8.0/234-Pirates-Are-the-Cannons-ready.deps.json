@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "234-Pirates-Are-the-Cannons-ready/1.0.0": {
+        "runtime": {
+          "234-Pirates-Are-the-Cannons-ready.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "234-Pirates-Are-the-Cannons-ready/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
