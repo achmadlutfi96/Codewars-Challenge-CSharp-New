@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\bin\Debug\net8.0\238-NBA-full-48-minutes-average.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\bin\Debug\net8.0\238-NBA-full-48-minutes-average.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\bin\Debug\net8.0\238-NBA-full-48-minutes-average.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\bin\Debug\net8.0\238-NBA-full-48-minutes-average.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\bin\Debug\net8.0\238-NBA-full-48-minutes-average.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\obj\Debug\net8.0\238-NBA-full-48-minutes-average.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\obj\Debug\net8.0\238-NBA-full-48-minutes-average.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\obj\Debug\net8.0\238-NBA-full-48-minutes-average.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\obj\Debug\net8.0\238-NBA-full-48-minutes-average.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\obj\Debug\net8.0\238-NBA-full-48-minutes-average.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\obj\Debug\net8.0\238-NBA-full-48-minutes-average.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\obj\Debug\net8.0\refint\238-NBA-full-48-minutes-average.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\obj\Debug\net8.0\238-NBA-full-48-minutes-average.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\obj\Debug\net8.0\238-NBA-full-48-minutes-average.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\238-NBA-full-48-minutes-average\obj\Debug\net8.0\ref\238-NBA-full-48-minutes-average.dll
