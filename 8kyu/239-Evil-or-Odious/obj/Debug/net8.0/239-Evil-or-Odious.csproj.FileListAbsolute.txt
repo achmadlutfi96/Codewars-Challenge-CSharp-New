@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\bin\Debug\net8.0\239-Evil-or-Odious.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\bin\Debug\net8.0\239-Evil-or-Odious.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\bin\Debug\net8.0\239-Evil-or-Odious.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\bin\Debug\net8.0\239-Evil-or-Odious.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\bin\Debug\net8.0\239-Evil-or-Odious.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\obj\Debug\net8.0\239-Evil-or-Odious.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\obj\Debug\net8.0\239-Evil-or-Odious.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\obj\Debug\net8.0\239-Evil-or-Odious.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\obj\Debug\net8.0\239-Evil-or-Odious.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\obj\Debug\net8.0\239-Evil-or-Odious.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\obj\Debug\net8.0\239-Evil-or-Odious.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\obj\Debug\net8.0\refint\239-Evil-or-Odious.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\obj\Debug\net8.0\239-Evil-or-Odious.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\obj\Debug\net8.0\239-Evil-or-Odious.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\239-Evil-or-Odious\obj\Debug\net8.0\ref\239-Evil-or-Odious.dll
