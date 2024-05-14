@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\bin\Debug\net8.0\240-Parse-float.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\bin\Debug\net8.0\240-Parse-float.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\bin\Debug\net8.0\240-Parse-float.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\bin\Debug\net8.0\240-Parse-float.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\bin\Debug\net8.0\240-Parse-float.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\obj\Debug\net8.0\240-Parse-float.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\obj\Debug\net8.0\240-Parse-float.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\obj\Debug\net8.0\240-Parse-float.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\obj\Debug\net8.0\240-Parse-float.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\obj\Debug\net8.0\240-Parse-float.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\obj\Debug\net8.0\240-Parse-float.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\obj\Debug\net8.0\refint\240-Parse-float.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\obj\Debug\net8.0\240-Parse-float.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\obj\Debug\net8.0\240-Parse-float.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\240-Parse-float\obj\Debug\net8.0\ref\240-Parse-float.dll
