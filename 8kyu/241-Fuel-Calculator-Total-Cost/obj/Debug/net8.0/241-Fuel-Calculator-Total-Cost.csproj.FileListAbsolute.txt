@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\bin\Debug\net8.0\241-Fuel-Calculator-Total-Cost.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\bin\Debug\net8.0\241-Fuel-Calculator-Total-Cost.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\bin\Debug\net8.0\241-Fuel-Calculator-Total-Cost.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\bin\Debug\net8.0\241-Fuel-Calculator-Total-Cost.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\bin\Debug\net8.0\241-Fuel-Calculator-Total-Cost.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\obj\Debug\net8.0\241-Fuel-Calculator-Total-Cost.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\obj\Debug\net8.0\241-Fuel-Calculator-Total-Cost.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\obj\Debug\net8.0\241-Fuel-Calculator-Total-Cost.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\obj\Debug\net8.0\241-Fuel-Calculator-Total-Cost.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\obj\Debug\net8.0\241-Fuel-Calculator-Total-Cost.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\obj\Debug\net8.0\241-Fuel-Calculator-Total-Cost.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\obj\Debug\net8.0\refint\241-Fuel-Calculator-Total-Cost.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\obj\Debug\net8.0\241-Fuel-Calculator-Total-Cost.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\obj\Debug\net8.0\241-Fuel-Calculator-Total-Cost.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\241-Fuel-Calculator-Total-Cost\obj\Debug\net8.0\ref\241-Fuel-Calculator-Total-Cost.dll
