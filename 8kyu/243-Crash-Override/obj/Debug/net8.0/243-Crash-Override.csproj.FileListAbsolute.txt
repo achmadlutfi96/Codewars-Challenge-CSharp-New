@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\bin\Debug\net8.0\243-Crash-Override.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\bin\Debug\net8.0\243-Crash-Override.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\bin\Debug\net8.0\243-Crash-Override.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\bin\Debug\net8.0\243-Crash-Override.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\bin\Debug\net8.0\243-Crash-Override.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\obj\Debug\net8.0\243-Crash-Override.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\obj\Debug\net8.0\243-Crash-Override.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\obj\Debug\net8.0\243-Crash-Override.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\obj\Debug\net8.0\243-Crash-Override.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\obj\Debug\net8.0\243-Crash-Override.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\obj\Debug\net8.0\243-Crash-Override.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\obj\Debug\net8.0\refint\243-Crash-Override.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\obj\Debug\net8.0\243-Crash-Override.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\obj\Debug\net8.0\243-Crash-Override.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\243-Crash-Override\obj\Debug\net8.0\ref\243-Crash-Override.dll
