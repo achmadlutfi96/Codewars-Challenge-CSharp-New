@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\bin\Debug\net8.0\245-Did-she-say-hallo.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\bin\Debug\net8.0\245-Did-she-say-hallo.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\bin\Debug\net8.0\245-Did-she-say-hallo.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\bin\Debug\net8.0\245-Did-she-say-hallo.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\bin\Debug\net8.0\245-Did-she-say-hallo.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\obj\Debug\net8.0\245-Did-she-say-hallo.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\obj\Debug\net8.0\245-Did-she-say-hallo.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\obj\Debug\net8.0\245-Did-she-say-hallo.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\obj\Debug\net8.0\245-Did-she-say-hallo.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\obj\Debug\net8.0\245-Did-she-say-hallo.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\obj\Debug\net8.0\245-Did-she-say-hallo.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\obj\Debug\net8.0\refint\245-Did-she-say-hallo.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\obj\Debug\net8.0\245-Did-she-say-hallo.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\obj\Debug\net8.0\245-Did-she-say-hallo.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\245-Did-she-say-hallo\obj\Debug\net8.0\ref\245-Did-she-say-hallo.dll
