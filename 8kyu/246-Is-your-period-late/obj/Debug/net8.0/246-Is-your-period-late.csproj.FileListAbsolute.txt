@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\bin\Debug\net8.0\246-Is-your-period-late.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\bin\Debug\net8.0\246-Is-your-period-late.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\bin\Debug\net8.0\246-Is-your-period-late.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\bin\Debug\net8.0\246-Is-your-period-late.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\bin\Debug\net8.0\246-Is-your-period-late.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\obj\Debug\net8.0\246-Is-your-period-late.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\obj\Debug\net8.0\246-Is-your-period-late.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\obj\Debug\net8.0\246-Is-your-period-late.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\obj\Debug\net8.0\246-Is-your-period-late.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\obj\Debug\net8.0\246-Is-your-period-late.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\obj\Debug\net8.0\246-Is-your-period-late.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\obj\Debug\net8.0\refint\246-Is-your-period-late.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\obj\Debug\net8.0\246-Is-your-period-late.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\obj\Debug\net8.0\246-Is-your-period-late.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\246-Is-your-period-late\obj\Debug\net8.0\ref\246-Is-your-period-late.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "246-Is-your-period-late", "246-Is-your-period-late.csproj", "{5F38E13A-C2B6-47D0-8DFD-F656A37F15F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F38E13A-C2B6-47D0-8DFD-F656A37F15F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F38E13A-C2B6-47D0-8DFD-F656A37F15F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F38E13A-C2B6-47D0-8DFD-F656A37F15F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F38E13A-C2B6-47D0-8DFD-F656A37F15F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4D001C7-36C8-4DC9-9AC4-5A66A5F45C5C}
+	EndGlobalSection
+EndGlobal
