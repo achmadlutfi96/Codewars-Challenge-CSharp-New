@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\bin\Debug\net8.0\247-Localize-The-Barycenter-of-a-Triangle.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\bin\Debug\net8.0\247-Localize-The-Barycenter-of-a-Triangle.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\bin\Debug\net8.0\247-Localize-The-Barycenter-of-a-Triangle.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\bin\Debug\net8.0\247-Localize-The-Barycenter-of-a-Triangle.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\bin\Debug\net8.0\247-Localize-The-Barycenter-of-a-Triangle.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\obj\Debug\net8.0\247-Localize-The-Barycenter-of-a-Triangle.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\obj\Debug\net8.0\247-Localize-The-Barycenter-of-a-Triangle.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\obj\Debug\net8.0\247-Localize-The-Barycenter-of-a-Triangle.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\obj\Debug\net8.0\247-Localize-The-Barycenter-of-a-Triangle.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\obj\Debug\net8.0\247-Localize-The-Barycenter-of-a-Triangle.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\obj\Debug\net8.0\247-Localize-The-Barycenter-of-a-Triangle.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\obj\Debug\net8.0\refint\247-Localize-The-Barycenter-of-a-Triangle.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\obj\Debug\net8.0\247-Localize-The-Barycenter-of-a-Triangle.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\obj\Debug\net8.0\247-Localize-The-Barycenter-of-a-Triangle.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\247-Localize-The-Barycenter-of-a-Triangle\obj\Debug\net8.0\ref\247-Localize-The-Barycenter-of-a-Triangle.dll

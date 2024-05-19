@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "247-Localize-The-Barycenter-of-a-Triangle/1.0.0": {
+        "runtime": {
+          "247-Localize-The-Barycenter-of-a-Triangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "247-Localize-The-Barycenter-of-a-Triangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
