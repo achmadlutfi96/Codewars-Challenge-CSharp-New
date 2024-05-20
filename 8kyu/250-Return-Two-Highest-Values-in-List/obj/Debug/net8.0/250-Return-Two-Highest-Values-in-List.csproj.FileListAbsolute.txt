@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\bin\Debug\net8.0\250-Return-Two-Highest-Values-in-List.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\bin\Debug\net8.0\250-Return-Two-Highest-Values-in-List.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\bin\Debug\net8.0\250-Return-Two-Highest-Values-in-List.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\bin\Debug\net8.0\250-Return-Two-Highest-Values-in-List.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\bin\Debug\net8.0\250-Return-Two-Highest-Values-in-List.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\obj\Debug\net8.0\250-Return-Two-Highest-Values-in-List.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\obj\Debug\net8.0\250-Return-Two-Highest-Values-in-List.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\obj\Debug\net8.0\250-Return-Two-Highest-Values-in-List.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\obj\Debug\net8.0\250-Return-Two-Highest-Values-in-List.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\obj\Debug\net8.0\250-Return-Two-Highest-Values-in-List.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\obj\Debug\net8.0\250-Return-Two-Highest-Values-in-List.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\obj\Debug\net8.0\refint\250-Return-Two-Highest-Values-in-List.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\obj\Debug\net8.0\250-Return-Two-Highest-Values-in-List.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\obj\Debug\net8.0\250-Return-Two-Highest-Values-in-List.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\250-Return-Two-Highest-Values-in-List\obj\Debug\net8.0\ref\250-Return-Two-Highest-Values-in-List.dll
