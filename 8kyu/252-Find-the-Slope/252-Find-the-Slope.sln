@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "252-Find-the-Slope", "252-Find-the-Slope.csproj", "{574A5803-BFC4-4988-93EE-EF74AEC0D976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{574A5803-BFC4-4988-93EE-EF74AEC0D976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574A5803-BFC4-4988-93EE-EF74AEC0D976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574A5803-BFC4-4988-93EE-EF74AEC0D976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574A5803-BFC4-4988-93EE-EF74AEC0D976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB7AF091-8332-4413-96A5-0F23D2627EF1}
+	EndGlobalSection
+EndGlobal

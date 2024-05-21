@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\bin\Debug\net8.0\252-Find-the-Slope.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\bin\Debug\net8.0\252-Find-the-Slope.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\bin\Debug\net8.0\252-Find-the-Slope.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\bin\Debug\net8.0\252-Find-the-Slope.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\bin\Debug\net8.0\252-Find-the-Slope.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\obj\Debug\net8.0\252-Find-the-Slope.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\obj\Debug\net8.0\252-Find-the-Slope.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\obj\Debug\net8.0\252-Find-the-Slope.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\obj\Debug\net8.0\252-Find-the-Slope.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\obj\Debug\net8.0\252-Find-the-Slope.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\obj\Debug\net8.0\252-Find-the-Slope.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\obj\Debug\net8.0\refint\252-Find-the-Slope.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\obj\Debug\net8.0\252-Find-the-Slope.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\obj\Debug\net8.0\252-Find-the-Slope.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\252-Find-the-Slope\obj\Debug\net8.0\ref\252-Find-the-Slope.dll
