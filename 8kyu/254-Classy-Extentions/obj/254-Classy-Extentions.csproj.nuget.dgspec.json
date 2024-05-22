@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\253-Logical-calculator\\253-Logical-calculator.csproj": {}
+    "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\254-Classy-Extentions\\254-Classy-Extentions.csproj": {}
   },
   "projects": {
-    "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\253-Logical-calculator\\253-Logical-calculator.csproj": {
+    "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\254-Classy-Extentions\\254-Classy-Extentions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\253-Logical-calculator\\253-Logical-calculator.csproj",
-        "projectName": "253-Logical-calculator",
-        "projectPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\253-Logical-calculator\\253-Logical-calculator.csproj",
+        "projectUniqueName": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\254-Classy-Extentions\\254-Classy-Extentions.csproj",
+        "projectName": "254-Classy-Extentions",
+        "projectPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\254-Classy-Extentions\\254-Classy-Extentions.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\253-Logical-calculator\\obj\\",
+        "outputPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\8kyu\\254-Classy-Extentions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\HP\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
