@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\bin\Debug\net8.0\253-Logical-calculator.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\bin\Debug\net8.0\253-Logical-calculator.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\bin\Debug\net8.0\253-Logical-calculator.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\bin\Debug\net8.0\253-Logical-calculator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\bin\Debug\net8.0\253-Logical-calculator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\obj\Debug\net8.0\253-Logical-calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\obj\Debug\net8.0\253-Logical-calculator.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\obj\Debug\net8.0\253-Logical-calculator.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\obj\Debug\net8.0\253-Logical-calculator.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\obj\Debug\net8.0\253-Logical-calculator.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\obj\Debug\net8.0\253-Logical-calculator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\obj\Debug\net8.0\refint\253-Logical-calculator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\obj\Debug\net8.0\253-Logical-calculator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\obj\Debug\net8.0\253-Logical-calculator.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\253-Logical-calculator\obj\Debug\net8.0\ref\253-Logical-calculator.dll
