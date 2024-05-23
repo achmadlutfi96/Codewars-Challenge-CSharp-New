@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\bin\Debug\net8.0\257-Count-the-number-of-cubes-with-paint-on.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\bin\Debug\net8.0\257-Count-the-number-of-cubes-with-paint-on.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\bin\Debug\net8.0\257-Count-the-number-of-cubes-with-paint-on.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\bin\Debug\net8.0\257-Count-the-number-of-cubes-with-paint-on.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\bin\Debug\net8.0\257-Count-the-number-of-cubes-with-paint-on.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\obj\Debug\net8.0\257-Count-the-number-of-cubes-with-paint-on.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\obj\Debug\net8.0\257-Count-the-number-of-cubes-with-paint-on.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\obj\Debug\net8.0\257-Count-the-number-of-cubes-with-paint-on.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\obj\Debug\net8.0\257-Count-the-number-of-cubes-with-paint-on.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\obj\Debug\net8.0\257-Count-the-number-of-cubes-with-paint-on.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\obj\Debug\net8.0\257-Count-the-number-of-cubes-with-paint-on.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\obj\Debug\net8.0\refint\257-Count-the-number-of-cubes-with-paint-on.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\obj\Debug\net8.0\257-Count-the-number-of-cubes-with-paint-on.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\obj\Debug\net8.0\257-Count-the-number-of-cubes-with-paint-on.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\257-Count-the-number-of-cubes-with-paint-on\obj\Debug\net8.0\ref\257-Count-the-number-of-cubes-with-paint-on.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "257-Count-the-number-of-cubes-with-paint-on/1.0.0": {
+        "runtime": {
+          "257-Count-the-number-of-cubes-with-paint-on.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "257-Count-the-number-of-cubes-with-paint-on/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
