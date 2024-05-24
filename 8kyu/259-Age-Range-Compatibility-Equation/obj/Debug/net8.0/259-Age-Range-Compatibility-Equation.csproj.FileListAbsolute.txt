@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\bin\Debug\net8.0\259-Age-Range-Compatibility-Equation.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\bin\Debug\net8.0\259-Age-Range-Compatibility-Equation.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\bin\Debug\net8.0\259-Age-Range-Compatibility-Equation.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\bin\Debug\net8.0\259-Age-Range-Compatibility-Equation.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\bin\Debug\net8.0\259-Age-Range-Compatibility-Equation.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\obj\Debug\net8.0\259-Age-Range-Compatibility-Equation.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\obj\Debug\net8.0\259-Age-Range-Compatibility-Equation.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\obj\Debug\net8.0\259-Age-Range-Compatibility-Equation.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\obj\Debug\net8.0\259-Age-Range-Compatibility-Equation.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\obj\Debug\net8.0\259-Age-Range-Compatibility-Equation.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\obj\Debug\net8.0\259-Age-Range-Compatibility-Equation.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\obj\Debug\net8.0\refint\259-Age-Range-Compatibility-Equation.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\obj\Debug\net8.0\259-Age-Range-Compatibility-Equation.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\obj\Debug\net8.0\259-Age-Range-Compatibility-Equation.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\259-Age-Range-Compatibility-Equation\obj\Debug\net8.0\ref\259-Age-Range-Compatibility-Equation.dll
