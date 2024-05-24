@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\bin\Debug\net8.0\258-Take-an-Arrow-to-the-knee-Functionally.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\bin\Debug\net8.0\258-Take-an-Arrow-to-the-knee-Functionally.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\bin\Debug\net8.0\258-Take-an-Arrow-to-the-knee-Functionally.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\bin\Debug\net8.0\258-Take-an-Arrow-to-the-knee-Functionally.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\bin\Debug\net8.0\258-Take-an-Arrow-to-the-knee-Functionally.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\obj\Debug\net8.0\258-Take-an-Arrow-to-the-knee-Functionally.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\obj\Debug\net8.0\258-Take-an-Arrow-to-the-knee-Functionally.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\obj\Debug\net8.0\258-Take-an-Arrow-to-the-knee-Functionally.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\obj\Debug\net8.0\258-Take-an-Arrow-to-the-knee-Functionally.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\obj\Debug\net8.0\258-Take-an-Arrow-to-the-knee-Functionally.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\obj\Debug\net8.0\258-Take-an-Arrow-to-the-knee-Functionally.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\obj\Debug\net8.0\refint\258-Take-an-Arrow-to-the-knee-Functionally.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\obj\Debug\net8.0\258-Take-an-Arrow-to-the-knee-Functionally.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\obj\Debug\net8.0\258-Take-an-Arrow-to-the-knee-Functionally.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\258-Take-an-Arrow-to-the-knee-Functionally\obj\Debug\net8.0\ref\258-Take-an-Arrow-to-the-knee-Functionally.dll

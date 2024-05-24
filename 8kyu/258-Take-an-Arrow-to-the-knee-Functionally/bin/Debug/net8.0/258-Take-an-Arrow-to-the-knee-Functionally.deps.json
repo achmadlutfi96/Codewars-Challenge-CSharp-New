@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "258-Take-an-Arrow-to-the-knee-Functionally/1.0.0": {
+        "runtime": {
+          "258-Take-an-Arrow-to-the-knee-Functionally.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "258-Take-an-Arrow-to-the-knee-Functionally/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
