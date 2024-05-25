@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\bin\Debug\net8.0\262--and-Legs.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\bin\Debug\net8.0\262--and-Legs.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\bin\Debug\net8.0\262--and-Legs.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\bin\Debug\net8.0\262--and-Legs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\bin\Debug\net8.0\262--and-Legs.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\obj\Debug\net8.0\262--and-Legs.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\obj\Debug\net8.0\262--and-Legs.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\obj\Debug\net8.0\262--and-Legs.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\obj\Debug\net8.0\262--and-Legs.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\obj\Debug\net8.0\262--and-Legs.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\obj\Debug\net8.0\262--and-Legs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\obj\Debug\net8.0\refint\262--and-Legs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\obj\Debug\net8.0\262--and-Legs.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\obj\Debug\net8.0\262--and-Legs.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\262--and-Legs\obj\Debug\net8.0\ref\262--and-Legs.dll
