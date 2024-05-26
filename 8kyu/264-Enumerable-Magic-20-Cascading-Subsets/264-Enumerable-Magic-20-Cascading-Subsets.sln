@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "264-Enumerable-Magic-20-Cascading-Subsets", "264-Enumerable-Magic-20-Cascading-Subsets.csproj", "{BE03984D-D85B-4524-A6A7-263D2F492DD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE03984D-D85B-4524-A6A7-263D2F492DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE03984D-D85B-4524-A6A7-263D2F492DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE03984D-D85B-4524-A6A7-263D2F492DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE03984D-D85B-4524-A6A7-263D2F492DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ADDBC3B-64A5-418C-B357-2D5E933E8618}
+	EndGlobalSection
+EndGlobal
