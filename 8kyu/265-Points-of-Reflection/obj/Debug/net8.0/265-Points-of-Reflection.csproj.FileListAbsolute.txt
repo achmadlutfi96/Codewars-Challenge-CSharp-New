@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\bin\Debug\net8.0\265-Points-of-Reflection.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\bin\Debug\net8.0\265-Points-of-Reflection.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\bin\Debug\net8.0\265-Points-of-Reflection.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\bin\Debug\net8.0\265-Points-of-Reflection.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\bin\Debug\net8.0\265-Points-of-Reflection.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\obj\Debug\net8.0\265-Points-of-Reflection.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\obj\Debug\net8.0\265-Points-of-Reflection.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\obj\Debug\net8.0\265-Points-of-Reflection.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\obj\Debug\net8.0\265-Points-of-Reflection.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\obj\Debug\net8.0\265-Points-of-Reflection.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\obj\Debug\net8.0\265-Points-of-Reflection.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\obj\Debug\net8.0\refint\265-Points-of-Reflection.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\obj\Debug\net8.0\265-Points-of-Reflection.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\obj\Debug\net8.0\265-Points-of-Reflection.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\265-Points-of-Reflection\obj\Debug\net8.0\ref\265-Points-of-Reflection.dll
