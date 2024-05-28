@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\bin\Debug\net8.0\273-Enumerable-Magic-2-True-for-Any.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\bin\Debug\net8.0\273-Enumerable-Magic-2-True-for-Any.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\bin\Debug\net8.0\273-Enumerable-Magic-2-True-for-Any.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\bin\Debug\net8.0\273-Enumerable-Magic-2-True-for-Any.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\bin\Debug\net8.0\273-Enumerable-Magic-2-True-for-Any.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\obj\Debug\net8.0\273-Enumerable-Magic-2-True-for-Any.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\obj\Debug\net8.0\273-Enumerable-Magic-2-True-for-Any.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\obj\Debug\net8.0\273-Enumerable-Magic-2-True-for-Any.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\obj\Debug\net8.0\273-Enumerable-Magic-2-True-for-Any.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\obj\Debug\net8.0\273-Enumerable-Magic-2-True-for-Any.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\obj\Debug\net8.0\273-Enumerable-Magic-2-True-for-Any.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\obj\Debug\net8.0\refint\273-Enumerable-Magic-2-True-for-Any.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\obj\Debug\net8.0\273-Enumerable-Magic-2-True-for-Any.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\obj\Debug\net8.0\273-Enumerable-Magic-2-True-for-Any.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\273-Enumerable-Magic-2-True-for-Any\obj\Debug\net8.0\ref\273-Enumerable-Magic-2-True-for-Any.dll

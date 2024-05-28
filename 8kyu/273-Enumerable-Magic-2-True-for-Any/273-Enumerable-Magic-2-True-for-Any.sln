@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "273-Enumerable-Magic-2-True-for-Any", "273-Enumerable-Magic-2-True-for-Any.csproj", "{5CB80921-60E9-4C9D-AAD0-0B09A102AD93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CB80921-60E9-4C9D-AAD0-0B09A102AD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB80921-60E9-4C9D-AAD0-0B09A102AD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB80921-60E9-4C9D-AAD0-0B09A102AD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB80921-60E9-4C9D-AAD0-0B09A102AD93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAE7551D-6AE0-4B83-96A2-A833C24A1B77}
+	EndGlobalSection
+EndGlobal
