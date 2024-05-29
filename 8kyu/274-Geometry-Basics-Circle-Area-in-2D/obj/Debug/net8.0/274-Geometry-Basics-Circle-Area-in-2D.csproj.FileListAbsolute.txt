@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\bin\Debug\net8.0\274-Geometry-Basics-Circle-Area-in-2D.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\bin\Debug\net8.0\274-Geometry-Basics-Circle-Area-in-2D.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\bin\Debug\net8.0\274-Geometry-Basics-Circle-Area-in-2D.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\bin\Debug\net8.0\274-Geometry-Basics-Circle-Area-in-2D.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\bin\Debug\net8.0\274-Geometry-Basics-Circle-Area-in-2D.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\obj\Debug\net8.0\274-Geometry-Basics-Circle-Area-in-2D.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\obj\Debug\net8.0\274-Geometry-Basics-Circle-Area-in-2D.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\obj\Debug\net8.0\274-Geometry-Basics-Circle-Area-in-2D.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\obj\Debug\net8.0\274-Geometry-Basics-Circle-Area-in-2D.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\obj\Debug\net8.0\274-Geometry-Basics-Circle-Area-in-2D.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\obj\Debug\net8.0\274-Geometry-Basics-Circle-Area-in-2D.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\obj\Debug\net8.0\refint\274-Geometry-Basics-Circle-Area-in-2D.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\obj\Debug\net8.0\274-Geometry-Basics-Circle-Area-in-2D.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\obj\Debug\net8.0\274-Geometry-Basics-Circle-Area-in-2D.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\274-Geometry-Basics-Circle-Area-in-2D\obj\Debug\net8.0\ref\274-Geometry-Basics-Circle-Area-in-2D.dll

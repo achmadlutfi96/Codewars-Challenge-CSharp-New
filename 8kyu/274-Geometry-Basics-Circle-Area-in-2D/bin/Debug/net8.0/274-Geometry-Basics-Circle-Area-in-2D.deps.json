@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "274-Geometry-Basics-Circle-Area-in-2D/1.0.0": {
+        "runtime": {
+          "274-Geometry-Basics-Circle-Area-in-2D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "274-Geometry-Basics-Circle-Area-in-2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
