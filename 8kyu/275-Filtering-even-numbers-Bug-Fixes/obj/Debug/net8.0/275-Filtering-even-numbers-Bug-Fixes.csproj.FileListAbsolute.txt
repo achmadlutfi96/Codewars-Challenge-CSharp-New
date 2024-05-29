@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\bin\Debug\net8.0\275-Filtering-even-numbers-Bug-Fixes.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\bin\Debug\net8.0\275-Filtering-even-numbers-Bug-Fixes.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\bin\Debug\net8.0\275-Filtering-even-numbers-Bug-Fixes.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\bin\Debug\net8.0\275-Filtering-even-numbers-Bug-Fixes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\bin\Debug\net8.0\275-Filtering-even-numbers-Bug-Fixes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\obj\Debug\net8.0\275-Filtering-even-numbers-Bug-Fixes.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\obj\Debug\net8.0\275-Filtering-even-numbers-Bug-Fixes.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\obj\Debug\net8.0\275-Filtering-even-numbers-Bug-Fixes.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\obj\Debug\net8.0\275-Filtering-even-numbers-Bug-Fixes.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\obj\Debug\net8.0\275-Filtering-even-numbers-Bug-Fixes.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\obj\Debug\net8.0\275-Filtering-even-numbers-Bug-Fixes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\obj\Debug\net8.0\refint\275-Filtering-even-numbers-Bug-Fixes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\obj\Debug\net8.0\275-Filtering-even-numbers-Bug-Fixes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\obj\Debug\net8.0\275-Filtering-even-numbers-Bug-Fixes.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\275-Filtering-even-numbers-Bug-Fixes\obj\Debug\net8.0\ref\275-Filtering-even-numbers-Bug-Fixes.dll
