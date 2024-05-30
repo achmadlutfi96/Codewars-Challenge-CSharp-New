@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\bin\Debug\net8.0\280-Decibel-Scale.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\bin\Debug\net8.0\280-Decibel-Scale.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\bin\Debug\net8.0\280-Decibel-Scale.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\bin\Debug\net8.0\280-Decibel-Scale.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\bin\Debug\net8.0\280-Decibel-Scale.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\obj\Debug\net8.0\280-Decibel-Scale.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\obj\Debug\net8.0\280-Decibel-Scale.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\obj\Debug\net8.0\280-Decibel-Scale.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\obj\Debug\net8.0\280-Decibel-Scale.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\obj\Debug\net8.0\280-Decibel-Scale.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\obj\Debug\net8.0\280-Decibel-Scale.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\obj\Debug\net8.0\refint\280-Decibel-Scale.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\obj\Debug\net8.0\280-Decibel-Scale.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\obj\Debug\net8.0\280-Decibel-Scale.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\280-Decibel-Scale\obj\Debug\net8.0\ref\280-Decibel-Scale.dll
