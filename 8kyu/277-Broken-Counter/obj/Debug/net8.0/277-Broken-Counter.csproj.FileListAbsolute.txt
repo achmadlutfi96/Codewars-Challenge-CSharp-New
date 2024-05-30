@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\bin\Debug\net8.0\277-Broken-Counter.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\bin\Debug\net8.0\277-Broken-Counter.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\bin\Debug\net8.0\277-Broken-Counter.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\bin\Debug\net8.0\277-Broken-Counter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\bin\Debug\net8.0\277-Broken-Counter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\obj\Debug\net8.0\277-Broken-Counter.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\obj\Debug\net8.0\277-Broken-Counter.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\obj\Debug\net8.0\277-Broken-Counter.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\obj\Debug\net8.0\277-Broken-Counter.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\obj\Debug\net8.0\277-Broken-Counter.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\obj\Debug\net8.0\277-Broken-Counter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\obj\Debug\net8.0\refint\277-Broken-Counter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\obj\Debug\net8.0\277-Broken-Counter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\obj\Debug\net8.0\277-Broken-Counter.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\277-Broken-Counter\obj\Debug\net8.0\ref\277-Broken-Counter.dll
