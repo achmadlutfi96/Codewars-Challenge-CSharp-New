@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\bin\Debug\net8.0\278-Add-new-item-collections-are-passed-by-reference.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\bin\Debug\net8.0\278-Add-new-item-collections-are-passed-by-reference.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\bin\Debug\net8.0\278-Add-new-item-collections-are-passed-by-reference.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\bin\Debug\net8.0\278-Add-new-item-collections-are-passed-by-reference.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\bin\Debug\net8.0\278-Add-new-item-collections-are-passed-by-reference.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\obj\Debug\net8.0\278-Add-new-item-collections-are-passed-by-reference.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\obj\Debug\net8.0\278-Add-new-item-collections-are-passed-by-reference.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\obj\Debug\net8.0\278-Add-new-item-collections-are-passed-by-reference.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\obj\Debug\net8.0\278-Add-new-item-collections-are-passed-by-reference.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\obj\Debug\net8.0\278-Add-new-item-collections-are-passed-by-reference.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\obj\Debug\net8.0\278-Add-new-item-collections-are-passed-by-reference.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\obj\Debug\net8.0\refint\278-Add-new-item-collections-are-passed-by-reference.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\obj\Debug\net8.0\278-Add-new-item-collections-are-passed-by-reference.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\obj\Debug\net8.0\278-Add-new-item-collections-are-passed-by-reference.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\278-Add-new-item-collections-are-passed-by-reference\obj\Debug\net8.0\ref\278-Add-new-item-collections-are-passed-by-reference.dll
