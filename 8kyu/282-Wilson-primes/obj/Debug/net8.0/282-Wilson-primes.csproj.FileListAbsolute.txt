@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\bin\Debug\net8.0\282-Wilson-primes.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\bin\Debug\net8.0\282-Wilson-primes.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\bin\Debug\net8.0\282-Wilson-primes.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\bin\Debug\net8.0\282-Wilson-primes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\bin\Debug\net8.0\282-Wilson-primes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\obj\Debug\net8.0\282-Wilson-primes.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\obj\Debug\net8.0\282-Wilson-primes.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\obj\Debug\net8.0\282-Wilson-primes.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\obj\Debug\net8.0\282-Wilson-primes.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\obj\Debug\net8.0\282-Wilson-primes.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\obj\Debug\net8.0\282-Wilson-primes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\obj\Debug\net8.0\refint\282-Wilson-primes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\obj\Debug\net8.0\282-Wilson-primes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\obj\Debug\net8.0\282-Wilson-primes.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\282-Wilson-primes\obj\Debug\net8.0\ref\282-Wilson-primes.dll
