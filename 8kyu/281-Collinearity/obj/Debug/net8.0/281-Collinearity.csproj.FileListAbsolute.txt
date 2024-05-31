@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\bin\Debug\net8.0\281-Collinearity.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\bin\Debug\net8.0\281-Collinearity.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\bin\Debug\net8.0\281-Collinearity.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\bin\Debug\net8.0\281-Collinearity.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\bin\Debug\net8.0\281-Collinearity.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\obj\Debug\net8.0\281-Collinearity.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\obj\Debug\net8.0\281-Collinearity.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\obj\Debug\net8.0\281-Collinearity.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\obj\Debug\net8.0\281-Collinearity.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\obj\Debug\net8.0\281-Collinearity.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\obj\Debug\net8.0\281-Collinearity.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\obj\Debug\net8.0\refint\281-Collinearity.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\obj\Debug\net8.0\281-Collinearity.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\obj\Debug\net8.0\281-Collinearity.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\281-Collinearity\obj\Debug\net8.0\ref\281-Collinearity.dll
