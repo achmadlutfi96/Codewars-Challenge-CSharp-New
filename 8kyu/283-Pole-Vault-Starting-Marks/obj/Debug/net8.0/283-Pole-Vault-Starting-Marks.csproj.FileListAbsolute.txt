@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\bin\Debug\net8.0\283-Pole-Vault-Starting-Marks.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\bin\Debug\net8.0\283-Pole-Vault-Starting-Marks.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\bin\Debug\net8.0\283-Pole-Vault-Starting-Marks.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\bin\Debug\net8.0\283-Pole-Vault-Starting-Marks.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\bin\Debug\net8.0\283-Pole-Vault-Starting-Marks.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\obj\Debug\net8.0\283-Pole-Vault-Starting-Marks.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\obj\Debug\net8.0\283-Pole-Vault-Starting-Marks.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\obj\Debug\net8.0\283-Pole-Vault-Starting-Marks.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\obj\Debug\net8.0\283-Pole-Vault-Starting-Marks.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\obj\Debug\net8.0\283-Pole-Vault-Starting-Marks.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\obj\Debug\net8.0\283-Pole-Vault-Starting-Marks.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\obj\Debug\net8.0\refint\283-Pole-Vault-Starting-Marks.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\obj\Debug\net8.0\283-Pole-Vault-Starting-Marks.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\obj\Debug\net8.0\283-Pole-Vault-Starting-Marks.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\8kyu\283-Pole-Vault-Starting-Marks\obj\Debug\net8.0\ref\283-Pole-Vault-Starting-Marks.dll
