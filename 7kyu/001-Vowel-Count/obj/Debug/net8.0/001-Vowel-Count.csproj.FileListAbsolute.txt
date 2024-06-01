@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\bin\Debug\net8.0\001-Vowel-Count.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\bin\Debug\net8.0\001-Vowel-Count.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\bin\Debug\net8.0\001-Vowel-Count.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\bin\Debug\net8.0\001-Vowel-Count.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\bin\Debug\net8.0\001-Vowel-Count.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\obj\Debug\net8.0\001-Vowel-Count.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\obj\Debug\net8.0\001-Vowel-Count.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\obj\Debug\net8.0\001-Vowel-Count.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\obj\Debug\net8.0\001-Vowel-Count.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\obj\Debug\net8.0\001-Vowel-Count.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\obj\Debug\net8.0\001-Vowel-Count.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\obj\Debug\net8.0\refint\001-Vowel-Count.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\obj\Debug\net8.0\001-Vowel-Count.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\obj\Debug\net8.0\001-Vowel-Count.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\001-Vowel-Count\obj\Debug\net8.0\ref\001-Vowel-Count.dll
