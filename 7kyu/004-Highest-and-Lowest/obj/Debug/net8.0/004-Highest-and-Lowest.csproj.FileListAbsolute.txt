@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\bin\Debug\net8.0\004-Highest-and-Lowest.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\bin\Debug\net8.0\004-Highest-and-Lowest.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\bin\Debug\net8.0\004-Highest-and-Lowest.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\bin\Debug\net8.0\004-Highest-and-Lowest.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\bin\Debug\net8.0\004-Highest-and-Lowest.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\obj\Debug\net8.0\004-Highest-and-Lowest.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\obj\Debug\net8.0\004-Highest-and-Lowest.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\obj\Debug\net8.0\004-Highest-and-Lowest.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\obj\Debug\net8.0\004-Highest-and-Lowest.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\obj\Debug\net8.0\004-Highest-and-Lowest.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\obj\Debug\net8.0\004-Highest-and-Lowest.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\obj\Debug\net8.0\refint\004-Highest-and-Lowest.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\obj\Debug\net8.0\004-Highest-and-Lowest.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\obj\Debug\net8.0\004-Highest-and-Lowest.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\004-Highest-and-Lowest\obj\Debug\net8.0\ref\004-Highest-and-Lowest.dll
