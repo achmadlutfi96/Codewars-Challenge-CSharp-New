@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\bin\Debug\net8.0\002-Disemvowel-Trolls.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\bin\Debug\net8.0\002-Disemvowel-Trolls.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\bin\Debug\net8.0\002-Disemvowel-Trolls.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\bin\Debug\net8.0\002-Disemvowel-Trolls.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\bin\Debug\net8.0\002-Disemvowel-Trolls.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\obj\Debug\net8.0\002-Disemvowel-Trolls.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\obj\Debug\net8.0\002-Disemvowel-Trolls.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\obj\Debug\net8.0\002-Disemvowel-Trolls.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\obj\Debug\net8.0\002-Disemvowel-Trolls.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\obj\Debug\net8.0\002-Disemvowel-Trolls.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\obj\Debug\net8.0\002-Disemvowel-Trolls.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\obj\Debug\net8.0\refint\002-Disemvowel-Trolls.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\obj\Debug\net8.0\002-Disemvowel-Trolls.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\obj\Debug\net8.0\002-Disemvowel-Trolls.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\002-Disemvowel-Trolls\obj\Debug\net8.0\ref\002-Disemvowel-Trolls.dll
