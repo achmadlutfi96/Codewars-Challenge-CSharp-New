@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\bin\Debug\net8.0\005-Descending-Order.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\bin\Debug\net8.0\005-Descending-Order.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\bin\Debug\net8.0\005-Descending-Order.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\bin\Debug\net8.0\005-Descending-Order.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\bin\Debug\net8.0\005-Descending-Order.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\obj\Debug\net8.0\005-Descending-Order.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\obj\Debug\net8.0\005-Descending-Order.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\obj\Debug\net8.0\005-Descending-Order.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\obj\Debug\net8.0\005-Descending-Order.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\obj\Debug\net8.0\005-Descending-Order.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\obj\Debug\net8.0\005-Descending-Order.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\obj\Debug\net8.0\refint\005-Descending-Order.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\obj\Debug\net8.0\005-Descending-Order.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\obj\Debug\net8.0\005-Descending-Order.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\005-Descending-Order\obj\Debug\net8.0\ref\005-Descending-Order.dll
