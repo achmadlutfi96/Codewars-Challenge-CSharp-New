@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\bin\Debug\net8.0\003-Square-Every-Digit.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\bin\Debug\net8.0\003-Square-Every-Digit.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\bin\Debug\net8.0\003-Square-Every-Digit.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\bin\Debug\net8.0\003-Square-Every-Digit.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\bin\Debug\net8.0\003-Square-Every-Digit.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\obj\Debug\net8.0\003-Square-Every-Digit.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\obj\Debug\net8.0\003-Square-Every-Digit.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\obj\Debug\net8.0\003-Square-Every-Digit.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\obj\Debug\net8.0\003-Square-Every-Digit.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\obj\Debug\net8.0\003-Square-Every-Digit.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\obj\Debug\net8.0\003-Square-Every-Digit.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\obj\Debug\net8.0\refint\003-Square-Every-Digit.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\obj\Debug\net8.0\003-Square-Every-Digit.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\obj\Debug\net8.0\003-Square-Every-Digit.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\003-Square-Every-Digit\obj\Debug\net8.0\ref\003-Square-Every-Digit.dll
