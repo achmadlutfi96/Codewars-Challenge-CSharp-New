@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\bin\Debug\net8.0\010-Isograms.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\bin\Debug\net8.0\010-Isograms.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\bin\Debug\net8.0\010-Isograms.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\bin\Debug\net8.0\010-Isograms.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\bin\Debug\net8.0\010-Isograms.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\obj\Debug\net8.0\010-Isograms.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\obj\Debug\net8.0\010-Isograms.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\obj\Debug\net8.0\010-Isograms.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\obj\Debug\net8.0\010-Isograms.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\obj\Debug\net8.0\010-Isograms.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\obj\Debug\net8.0\010-Isograms.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\obj\Debug\net8.0\refint\010-Isograms.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\obj\Debug\net8.0\010-Isograms.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\obj\Debug\net8.0\010-Isograms.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\010-Isograms\obj\Debug\net8.0\ref\010-Isograms.dll
