@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\bin\Debug\net8.0\006-List-Filtering.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\bin\Debug\net8.0\006-List-Filtering.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\bin\Debug\net8.0\006-List-Filtering.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\bin\Debug\net8.0\006-List-Filtering.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\bin\Debug\net8.0\006-List-Filtering.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\obj\Debug\net8.0\006-List-Filtering.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\obj\Debug\net8.0\006-List-Filtering.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\obj\Debug\net8.0\006-List-Filtering.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\obj\Debug\net8.0\006-List-Filtering.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\obj\Debug\net8.0\006-List-Filtering.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\obj\Debug\net8.0\006-List-Filtering.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\obj\Debug\net8.0\refint\006-List-Filtering.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\obj\Debug\net8.0\006-List-Filtering.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\obj\Debug\net8.0\006-List-Filtering.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\006-List-Filtering\obj\Debug\net8.0\ref\006-List-Filtering.dll
