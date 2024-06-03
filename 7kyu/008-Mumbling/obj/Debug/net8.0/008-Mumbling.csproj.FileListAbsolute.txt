@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\bin\Debug\net8.0\008-Mumbling.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\bin\Debug\net8.0\008-Mumbling.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\bin\Debug\net8.0\008-Mumbling.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\bin\Debug\net8.0\008-Mumbling.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\bin\Debug\net8.0\008-Mumbling.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\obj\Debug\net8.0\008-Mumbling.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\obj\Debug\net8.0\008-Mumbling.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\obj\Debug\net8.0\008-Mumbling.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\obj\Debug\net8.0\008-Mumbling.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\obj\Debug\net8.0\008-Mumbling.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\obj\Debug\net8.0\008-Mumbling.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\obj\Debug\net8.0\refint\008-Mumbling.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\obj\Debug\net8.0\008-Mumbling.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\obj\Debug\net8.0\008-Mumbling.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\008-Mumbling\obj\Debug\net8.0\ref\008-Mumbling.dll
