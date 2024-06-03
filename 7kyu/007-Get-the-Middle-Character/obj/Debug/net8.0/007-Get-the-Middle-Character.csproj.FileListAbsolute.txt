@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\bin\Debug\net8.0\007-Get-the-Middle-Character.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\bin\Debug\net8.0\007-Get-the-Middle-Character.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\bin\Debug\net8.0\007-Get-the-Middle-Character.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\bin\Debug\net8.0\007-Get-the-Middle-Character.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\bin\Debug\net8.0\007-Get-the-Middle-Character.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\obj\Debug\net8.0\007-Get-the-Middle-Character.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\obj\Debug\net8.0\007-Get-the-Middle-Character.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\obj\Debug\net8.0\007-Get-the-Middle-Character.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\obj\Debug\net8.0\007-Get-the-Middle-Character.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\obj\Debug\net8.0\007-Get-the-Middle-Character.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\obj\Debug\net8.0\007-Get-the-Middle-Character.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\obj\Debug\net8.0\refint\007-Get-the-Middle-Character.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\obj\Debug\net8.0\007-Get-the-Middle-Character.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\obj\Debug\net8.0\007-Get-the-Middle-Character.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\007-Get-the-Middle-Character\obj\Debug\net8.0\ref\007-Get-the-Middle-Character.dll
