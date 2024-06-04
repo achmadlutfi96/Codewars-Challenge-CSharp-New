@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\bin\Debug\net8.0\014-Complementary-DNA.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\bin\Debug\net8.0\014-Complementary-DNA.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\bin\Debug\net8.0\014-Complementary-DNA.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\bin\Debug\net8.0\014-Complementary-DNA.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\bin\Debug\net8.0\014-Complementary-DNA.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\obj\Debug\net8.0\014-Complementary-DNA.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\obj\Debug\net8.0\014-Complementary-DNA.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\obj\Debug\net8.0\014-Complementary-DNA.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\obj\Debug\net8.0\014-Complementary-DNA.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\obj\Debug\net8.0\014-Complementary-DNA.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\obj\Debug\net8.0\014-Complementary-DNA.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\obj\Debug\net8.0\refint\014-Complementary-DNA.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\obj\Debug\net8.0\014-Complementary-DNA.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\obj\Debug\net8.0\014-Complementary-DNA.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\014-Complementary-DNA\obj\Debug\net8.0\ref\014-Complementary-DNA.dll
