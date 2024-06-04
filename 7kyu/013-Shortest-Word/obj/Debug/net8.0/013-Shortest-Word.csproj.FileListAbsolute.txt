@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\bin\Debug\net8.0\013-Shortest-Word.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\bin\Debug\net8.0\013-Shortest-Word.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\bin\Debug\net8.0\013-Shortest-Word.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\bin\Debug\net8.0\013-Shortest-Word.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\bin\Debug\net8.0\013-Shortest-Word.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\obj\Debug\net8.0\013-Shortest-Word.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\obj\Debug\net8.0\013-Shortest-Word.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\obj\Debug\net8.0\013-Shortest-Word.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\obj\Debug\net8.0\013-Shortest-Word.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\obj\Debug\net8.0\013-Shortest-Word.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\obj\Debug\net8.0\013-Shortest-Word.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\obj\Debug\net8.0\refint\013-Shortest-Word.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\obj\Debug\net8.0\013-Shortest-Word.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\obj\Debug\net8.0\013-Shortest-Word.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\013-Shortest-Word\obj\Debug\net8.0\ref\013-Shortest-Word.dll
