@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "011-Exes-and-Ohs/1.0.0": {
+        "runtime": {
+          "011-Exes-and-Ohs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "011-Exes-and-Ohs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

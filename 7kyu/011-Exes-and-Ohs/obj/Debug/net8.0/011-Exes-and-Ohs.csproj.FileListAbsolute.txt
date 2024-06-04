@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\bin\Debug\net8.0\011-Exes-and-Ohs.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\bin\Debug\net8.0\011-Exes-and-Ohs.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\bin\Debug\net8.0\011-Exes-and-Ohs.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\bin\Debug\net8.0\011-Exes-and-Ohs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\bin\Debug\net8.0\011-Exes-and-Ohs.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\obj\Debug\net8.0\011-Exes-and-Ohs.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\obj\Debug\net8.0\011-Exes-and-Ohs.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\obj\Debug\net8.0\011-Exes-and-Ohs.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\obj\Debug\net8.0\011-Exes-and-Ohs.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\obj\Debug\net8.0\011-Exes-and-Ohs.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\obj\Debug\net8.0\011-Exes-and-Ohs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\obj\Debug\net8.0\refint\011-Exes-and-Ohs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\obj\Debug\net8.0\011-Exes-and-Ohs.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\obj\Debug\net8.0\011-Exes-and-Ohs.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\011-Exes-and-Ohs\obj\Debug\net8.0\ref\011-Exes-and-Ohs.dll
