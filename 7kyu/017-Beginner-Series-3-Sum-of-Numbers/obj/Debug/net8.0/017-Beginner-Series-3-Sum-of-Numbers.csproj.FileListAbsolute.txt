@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\bin\Debug\net8.0\017-Beginner-Series-3-Sum-of-Numbers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\bin\Debug\net8.0\017-Beginner-Series-3-Sum-of-Numbers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\bin\Debug\net8.0\017-Beginner-Series-3-Sum-of-Numbers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\bin\Debug\net8.0\017-Beginner-Series-3-Sum-of-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\bin\Debug\net8.0\017-Beginner-Series-3-Sum-of-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\obj\Debug\net8.0\017-Beginner-Series-3-Sum-of-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\obj\Debug\net8.0\017-Beginner-Series-3-Sum-of-Numbers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\obj\Debug\net8.0\017-Beginner-Series-3-Sum-of-Numbers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\obj\Debug\net8.0\017-Beginner-Series-3-Sum-of-Numbers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\obj\Debug\net8.0\017-Beginner-Series-3-Sum-of-Numbers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\obj\Debug\net8.0\017-Beginner-Series-3-Sum-of-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\obj\Debug\net8.0\refint\017-Beginner-Series-3-Sum-of-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\obj\Debug\net8.0\017-Beginner-Series-3-Sum-of-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\obj\Debug\net8.0\017-Beginner-Series-3-Sum-of-Numbers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\017-Beginner-Series-3-Sum-of-Numbers\obj\Debug\net8.0\ref\017-Beginner-Series-3-Sum-of-Numbers.dll

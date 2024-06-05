@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "017-Beginner-Series-3-Sum-of-Numbers/1.0.0": {
+        "runtime": {
+          "017-Beginner-Series-3-Sum-of-Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "017-Beginner-Series-3-Sum-of-Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
