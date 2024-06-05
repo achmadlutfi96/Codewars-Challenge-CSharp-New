@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\bin\Debug\net8.0\015-Credit-Card-Mask.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\bin\Debug\net8.0\015-Credit-Card-Mask.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\bin\Debug\net8.0\015-Credit-Card-Mask.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\bin\Debug\net8.0\015-Credit-Card-Mask.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\bin\Debug\net8.0\015-Credit-Card-Mask.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\obj\Debug\net8.0\015-Credit-Card-Mask.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\obj\Debug\net8.0\015-Credit-Card-Mask.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\obj\Debug\net8.0\015-Credit-Card-Mask.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\obj\Debug\net8.0\015-Credit-Card-Mask.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\obj\Debug\net8.0\015-Credit-Card-Mask.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\obj\Debug\net8.0\015-Credit-Card-Mask.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\obj\Debug\net8.0\refint\015-Credit-Card-Mask.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\obj\Debug\net8.0\015-Credit-Card-Mask.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\obj\Debug\net8.0\015-Credit-Card-Mask.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\015-Credit-Card-Mask\obj\Debug\net8.0\ref\015-Credit-Card-Mask.dll

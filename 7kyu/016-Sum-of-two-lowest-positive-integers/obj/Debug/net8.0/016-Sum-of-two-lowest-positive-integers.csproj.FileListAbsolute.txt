@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\bin\Debug\net8.0\016-Sum-of-two-lowest-positive-integers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\bin\Debug\net8.0\016-Sum-of-two-lowest-positive-integers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\bin\Debug\net8.0\016-Sum-of-two-lowest-positive-integers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\bin\Debug\net8.0\016-Sum-of-two-lowest-positive-integers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\bin\Debug\net8.0\016-Sum-of-two-lowest-positive-integers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\obj\Debug\net8.0\016-Sum-of-two-lowest-positive-integers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\obj\Debug\net8.0\016-Sum-of-two-lowest-positive-integers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\obj\Debug\net8.0\016-Sum-of-two-lowest-positive-integers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\obj\Debug\net8.0\016-Sum-of-two-lowest-positive-integers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\obj\Debug\net8.0\016-Sum-of-two-lowest-positive-integers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\obj\Debug\net8.0\016-Sum-of-two-lowest-positive-integers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\obj\Debug\net8.0\refint\016-Sum-of-two-lowest-positive-integers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\obj\Debug\net8.0\016-Sum-of-two-lowest-positive-integers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\obj\Debug\net8.0\016-Sum-of-two-lowest-positive-integers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\016-Sum-of-two-lowest-positive-integers\obj\Debug\net8.0\ref\016-Sum-of-two-lowest-positive-integers.dll

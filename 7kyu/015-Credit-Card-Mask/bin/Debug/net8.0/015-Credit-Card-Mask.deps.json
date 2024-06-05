@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "015-Credit-Card-Mask/1.0.0": {
+        "runtime": {
+          "015-Credit-Card-Mask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "015-Credit-Card-Mask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
