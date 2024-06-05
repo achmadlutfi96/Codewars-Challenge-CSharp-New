@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\bin\Debug\net8.0\018-Friend-or-Foe.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\bin\Debug\net8.0\018-Friend-or-Foe.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\bin\Debug\net8.0\018-Friend-or-Foe.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\bin\Debug\net8.0\018-Friend-or-Foe.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\bin\Debug\net8.0\018-Friend-or-Foe.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\obj\Debug\net8.0\018-Friend-or-Foe.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\obj\Debug\net8.0\018-Friend-or-Foe.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\obj\Debug\net8.0\018-Friend-or-Foe.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\obj\Debug\net8.0\018-Friend-or-Foe.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\obj\Debug\net8.0\018-Friend-or-Foe.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\obj\Debug\net8.0\018-Friend-or-Foe.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\obj\Debug\net8.0\refint\018-Friend-or-Foe.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\obj\Debug\net8.0\018-Friend-or-Foe.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\obj\Debug\net8.0\018-Friend-or-Foe.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\018-Friend-or-Foe\obj\Debug\net8.0\ref\018-Friend-or-Foe.dll
