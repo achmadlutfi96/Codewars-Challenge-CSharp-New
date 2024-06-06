@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\bin\Debug\net8.0\019-Two-to-One.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\bin\Debug\net8.0\019-Two-to-One.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\bin\Debug\net8.0\019-Two-to-One.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\bin\Debug\net8.0\019-Two-to-One.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\bin\Debug\net8.0\019-Two-to-One.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\obj\Debug\net8.0\019-Two-to-One.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\obj\Debug\net8.0\019-Two-to-One.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\obj\Debug\net8.0\019-Two-to-One.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\obj\Debug\net8.0\019-Two-to-One.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\obj\Debug\net8.0\019-Two-to-One.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\obj\Debug\net8.0\019-Two-to-One.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\obj\Debug\net8.0\refint\019-Two-to-One.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\obj\Debug\net8.0\019-Two-to-One.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\obj\Debug\net8.0\019-Two-to-One.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\019-Two-to-One\obj\Debug\net8.0\ref\019-Two-to-One.dll
