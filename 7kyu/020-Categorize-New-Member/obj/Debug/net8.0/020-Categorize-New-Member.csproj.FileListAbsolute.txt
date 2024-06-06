@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\bin\Debug\net8.0\020-Categorize-New-Member.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\bin\Debug\net8.0\020-Categorize-New-Member.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\bin\Debug\net8.0\020-Categorize-New-Member.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\bin\Debug\net8.0\020-Categorize-New-Member.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\bin\Debug\net8.0\020-Categorize-New-Member.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\obj\Debug\net8.0\020-Categorize-New-Member.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\obj\Debug\net8.0\020-Categorize-New-Member.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\obj\Debug\net8.0\020-Categorize-New-Member.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\obj\Debug\net8.0\020-Categorize-New-Member.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\obj\Debug\net8.0\020-Categorize-New-Member.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\obj\Debug\net8.0\020-Categorize-New-Member.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\obj\Debug\net8.0\refint\020-Categorize-New-Member.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\obj\Debug\net8.0\020-Categorize-New-Member.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\obj\Debug\net8.0\020-Categorize-New-Member.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\020-Categorize-New-Member\obj\Debug\net8.0\ref\020-Categorize-New-Member.dll
