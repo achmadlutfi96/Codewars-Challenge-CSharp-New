@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\bin\Debug\net8.0\021-Find-the-next-perfect-square.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\bin\Debug\net8.0\021-Find-the-next-perfect-square.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\bin\Debug\net8.0\021-Find-the-next-perfect-square.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\bin\Debug\net8.0\021-Find-the-next-perfect-square.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\bin\Debug\net8.0\021-Find-the-next-perfect-square.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\obj\Debug\net8.0\021-Find-the-next-perfect-square.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\obj\Debug\net8.0\021-Find-the-next-perfect-square.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\obj\Debug\net8.0\021-Find-the-next-perfect-square.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\obj\Debug\net8.0\021-Find-the-next-perfect-square.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\obj\Debug\net8.0\021-Find-the-next-perfect-square.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\obj\Debug\net8.0\021-Find-the-next-perfect-square.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\obj\Debug\net8.0\refint\021-Find-the-next-perfect-square.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\obj\Debug\net8.0\021-Find-the-next-perfect-square.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\obj\Debug\net8.0\021-Find-the-next-perfect-square.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\021-Find-the-next-perfect-square\obj\Debug\net8.0\ref\021-Find-the-next-perfect-square.dll

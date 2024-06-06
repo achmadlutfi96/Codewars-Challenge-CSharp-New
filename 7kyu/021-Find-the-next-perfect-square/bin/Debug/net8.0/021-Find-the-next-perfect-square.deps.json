@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "021-Find-the-next-perfect-square/1.0.0": {
+        "runtime": {
+          "021-Find-the-next-perfect-square.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "021-Find-the-next-perfect-square/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
