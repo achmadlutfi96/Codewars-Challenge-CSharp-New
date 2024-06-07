@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\obj\Debug\net8.0\022-Printer-Errors.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\obj\Debug\net8.0\022-Printer-Errors.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\obj\Debug\net8.0\022-Printer-Errors.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\obj\Debug\net8.0\022-Printer-Errors.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\obj\Debug\net8.0\022-Printer-Errors.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\bin\Debug\net8.0\022-Printer-Errors.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\bin\Debug\net8.0\022-Printer-Errors.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\bin\Debug\net8.0\022-Printer-Errors.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\bin\Debug\net8.0\022-Printer-Errors.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\bin\Debug\net8.0\022-Printer-Errors.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\obj\Debug\net8.0\022-Printer-Errors.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\obj\Debug\net8.0\refint\022-Printer-Errors.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\obj\Debug\net8.0\022-Printer-Errors.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\obj\Debug\net8.0\022-Printer-Errors.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\022-Printer-Errors\obj\Debug\net8.0\ref\022-Printer-Errors.dll
