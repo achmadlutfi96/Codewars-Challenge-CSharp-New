@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "023-Regex-validate-PIN-code/1.0.0": {
+        "runtime": {
+          "023-Regex-validate-PIN-code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "023-Regex-validate-PIN-code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

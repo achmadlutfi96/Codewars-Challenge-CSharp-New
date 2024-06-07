@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\bin\Debug\net8.0\023-Regex-validate-PIN-code.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\bin\Debug\net8.0\023-Regex-validate-PIN-code.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\bin\Debug\net8.0\023-Regex-validate-PIN-code.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\bin\Debug\net8.0\023-Regex-validate-PIN-code.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\bin\Debug\net8.0\023-Regex-validate-PIN-code.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\obj\Debug\net8.0\023-Regex-validate-PIN-code.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\obj\Debug\net8.0\023-Regex-validate-PIN-code.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\obj\Debug\net8.0\023-Regex-validate-PIN-code.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\obj\Debug\net8.0\023-Regex-validate-PIN-code.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\obj\Debug\net8.0\023-Regex-validate-PIN-code.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\obj\Debug\net8.0\023-Regex-validate-PIN-code.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\obj\Debug\net8.0\refint\023-Regex-validate-PIN-code.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\obj\Debug\net8.0\023-Regex-validate-PIN-code.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\obj\Debug\net8.0\023-Regex-validate-PIN-code.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\023-Regex-validate-PIN-code\obj\Debug\net8.0\ref\023-Regex-validate-PIN-code.dll
