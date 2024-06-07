@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\bin\Debug\net8.0\024-String-ends-with.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\bin\Debug\net8.0\024-String-ends-with.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\bin\Debug\net8.0\024-String-ends-with.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\bin\Debug\net8.0\024-String-ends-with.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\bin\Debug\net8.0\024-String-ends-with.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\obj\Debug\net8.0\024-String-ends-with.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\obj\Debug\net8.0\024-String-ends-with.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\obj\Debug\net8.0\024-String-ends-with.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\obj\Debug\net8.0\024-String-ends-with.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\obj\Debug\net8.0\024-String-ends-with.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\obj\Debug\net8.0\024-String-ends-with.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\obj\Debug\net8.0\refint\024-String-ends-with.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\obj\Debug\net8.0\024-String-ends-with.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\obj\Debug\net8.0\024-String-ends-with.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\024-String-ends-with\obj\Debug\net8.0\ref\024-String-ends-with.dll
