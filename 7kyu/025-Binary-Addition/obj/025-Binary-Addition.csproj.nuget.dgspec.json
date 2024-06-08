@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\024-String-ends-with\\024-String-ends-with.csproj": {}
+    "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\025-Binary-Addition\\025-Binary-Addition.csproj": {}
   },
   "projects": {
-    "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\024-String-ends-with\\024-String-ends-with.csproj": {
+    "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\025-Binary-Addition\\025-Binary-Addition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\024-String-ends-with\\024-String-ends-with.csproj",
-        "projectName": "024-String-ends-with",
-        "projectPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\024-String-ends-with\\024-String-ends-with.csproj",
+        "projectUniqueName": "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\025-Binary-Addition\\025-Binary-Addition.csproj",
+        "projectName": "025-Binary-Addition",
+        "projectPath": "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\025-Binary-Addition\\025-Binary-Addition.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\024-String-ends-with\\obj\\",
+        "outputPath": "c:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\025-Binary-Addition\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\HP\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",

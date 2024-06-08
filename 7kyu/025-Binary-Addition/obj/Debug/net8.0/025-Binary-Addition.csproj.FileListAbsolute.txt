@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\bin\Debug\net8.0\025-Binary-Addition.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\bin\Debug\net8.0\025-Binary-Addition.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\bin\Debug\net8.0\025-Binary-Addition.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\bin\Debug\net8.0\025-Binary-Addition.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\bin\Debug\net8.0\025-Binary-Addition.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\obj\Debug\net8.0\025-Binary-Addition.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\obj\Debug\net8.0\025-Binary-Addition.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\obj\Debug\net8.0\025-Binary-Addition.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\obj\Debug\net8.0\025-Binary-Addition.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\obj\Debug\net8.0\025-Binary-Addition.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\obj\Debug\net8.0\025-Binary-Addition.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\obj\Debug\net8.0\refint\025-Binary-Addition.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\obj\Debug\net8.0\025-Binary-Addition.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\obj\Debug\net8.0\025-Binary-Addition.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\025-Binary-Addition\obj\Debug\net8.0\ref\025-Binary-Addition.dll
