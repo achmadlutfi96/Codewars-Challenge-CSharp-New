@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\bin\Debug\net8.0\026-Growth-of-a-Population.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\bin\Debug\net8.0\026-Growth-of-a-Population.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\bin\Debug\net8.0\026-Growth-of-a-Population.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\bin\Debug\net8.0\026-Growth-of-a-Population.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\bin\Debug\net8.0\026-Growth-of-a-Population.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\obj\Debug\net8.0\026-Growth-of-a-Population.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\obj\Debug\net8.0\026-Growth-of-a-Population.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\obj\Debug\net8.0\026-Growth-of-a-Population.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\obj\Debug\net8.0\026-Growth-of-a-Population.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\obj\Debug\net8.0\026-Growth-of-a-Population.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\obj\Debug\net8.0\026-Growth-of-a-Population.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\obj\Debug\net8.0\refint\026-Growth-of-a-Population.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\obj\Debug\net8.0\026-Growth-of-a-Population.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\obj\Debug\net8.0\026-Growth-of-a-Population.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\026-Growth-of-a-Population\obj\Debug\net8.0\ref\026-Growth-of-a-Population.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "026-Growth-of-a-Population/1.0.0": {
+        "runtime": {
+          "026-Growth-of-a-Population.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "026-Growth-of-a-Population/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
