@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\bin\Debug\net8.0\027-Is-this-a-triangle.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\bin\Debug\net8.0\027-Is-this-a-triangle.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\bin\Debug\net8.0\027-Is-this-a-triangle.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\bin\Debug\net8.0\027-Is-this-a-triangle.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\bin\Debug\net8.0\027-Is-this-a-triangle.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\obj\Debug\net8.0\027-Is-this-a-triangle.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\obj\Debug\net8.0\027-Is-this-a-triangle.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\obj\Debug\net8.0\027-Is-this-a-triangle.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\obj\Debug\net8.0\027-Is-this-a-triangle.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\obj\Debug\net8.0\027-Is-this-a-triangle.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\obj\Debug\net8.0\027-Is-this-a-triangle.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\obj\Debug\net8.0\refint\027-Is-this-a-triangle.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\obj\Debug\net8.0\027-Is-this-a-triangle.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\obj\Debug\net8.0\027-Is-this-a-triangle.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\027-Is-this-a-triangle\obj\Debug\net8.0\ref\027-Is-this-a-triangle.dll

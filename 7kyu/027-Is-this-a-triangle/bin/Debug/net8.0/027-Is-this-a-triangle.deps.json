@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "027-Is-this-a-triangle/1.0.0": {
+        "runtime": {
+          "027-Is-this-a-triangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "027-Is-this-a-triangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
