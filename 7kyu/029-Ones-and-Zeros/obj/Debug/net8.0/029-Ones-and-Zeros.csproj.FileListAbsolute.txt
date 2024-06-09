@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\bin\Debug\net8.0\029-Ones-and-Zeros.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\bin\Debug\net8.0\029-Ones-and-Zeros.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\bin\Debug\net8.0\029-Ones-and-Zeros.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\bin\Debug\net8.0\029-Ones-and-Zeros.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\bin\Debug\net8.0\029-Ones-and-Zeros.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\obj\Debug\net8.0\029-Ones-and-Zeros.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\obj\Debug\net8.0\029-Ones-and-Zeros.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\obj\Debug\net8.0\029-Ones-and-Zeros.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\obj\Debug\net8.0\029-Ones-and-Zeros.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\obj\Debug\net8.0\029-Ones-and-Zeros.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\obj\Debug\net8.0\029-Ones-and-Zeros.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\obj\Debug\net8.0\refint\029-Ones-and-Zeros.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\obj\Debug\net8.0\029-Ones-and-Zeros.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\obj\Debug\net8.0\029-Ones-and-Zeros.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\029-Ones-and-Zeros\obj\Debug\net8.0\ref\029-Ones-and-Zeros.dll
