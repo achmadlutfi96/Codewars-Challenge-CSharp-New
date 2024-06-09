@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\bin\Debug\net8.0\028-Sum-of-odd-numbers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\bin\Debug\net8.0\028-Sum-of-odd-numbers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\bin\Debug\net8.0\028-Sum-of-odd-numbers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\bin\Debug\net8.0\028-Sum-of-odd-numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\bin\Debug\net8.0\028-Sum-of-odd-numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\obj\Debug\net8.0\028-Sum-of-odd-numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\obj\Debug\net8.0\028-Sum-of-odd-numbers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\obj\Debug\net8.0\028-Sum-of-odd-numbers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\obj\Debug\net8.0\028-Sum-of-odd-numbers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\obj\Debug\net8.0\028-Sum-of-odd-numbers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\obj\Debug\net8.0\028-Sum-of-odd-numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\obj\Debug\net8.0\refint\028-Sum-of-odd-numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\obj\Debug\net8.0\028-Sum-of-odd-numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\obj\Debug\net8.0\028-Sum-of-odd-numbers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\028-Sum-of-odd-numbers\obj\Debug\net8.0\ref\028-Sum-of-odd-numbers.dll
