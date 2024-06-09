@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "030-Number-of-People-in-the-Bus/1.0.0": {
+        "runtime": {
+          "030-Number-of-People-in-the-Bus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "030-Number-of-People-in-the-Bus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

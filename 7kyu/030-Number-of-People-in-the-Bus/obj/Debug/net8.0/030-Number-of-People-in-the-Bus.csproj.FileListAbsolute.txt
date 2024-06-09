@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\bin\Debug\net8.0\030-Number-of-People-in-the-Bus.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\bin\Debug\net8.0\030-Number-of-People-in-the-Bus.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\bin\Debug\net8.0\030-Number-of-People-in-the-Bus.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\bin\Debug\net8.0\030-Number-of-People-in-the-Bus.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\bin\Debug\net8.0\030-Number-of-People-in-the-Bus.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\obj\Debug\net8.0\030-Number-of-People-in-the-Bus.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\obj\Debug\net8.0\030-Number-of-People-in-the-Bus.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\obj\Debug\net8.0\030-Number-of-People-in-the-Bus.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\obj\Debug\net8.0\030-Number-of-People-in-the-Bus.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\obj\Debug\net8.0\030-Number-of-People-in-the-Bus.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\obj\Debug\net8.0\030-Number-of-People-in-the-Bus.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\obj\Debug\net8.0\refint\030-Number-of-People-in-the-Bus.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\obj\Debug\net8.0\030-Number-of-People-in-the-Bus.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\obj\Debug\net8.0\030-Number-of-People-in-the-Bus.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\030-Number-of-People-in-the-Bus\obj\Debug\net8.0\ref\030-Number-of-People-in-the-Bus.dll
