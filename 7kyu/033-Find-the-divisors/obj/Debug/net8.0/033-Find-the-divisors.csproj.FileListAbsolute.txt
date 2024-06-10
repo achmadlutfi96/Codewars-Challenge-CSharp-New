@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\bin\Debug\net8.0\033-Find-the-divisors.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\bin\Debug\net8.0\033-Find-the-divisors.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\bin\Debug\net8.0\033-Find-the-divisors.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\bin\Debug\net8.0\033-Find-the-divisors.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\bin\Debug\net8.0\033-Find-the-divisors.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\obj\Debug\net8.0\033-Find-the-divisors.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\obj\Debug\net8.0\033-Find-the-divisors.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\obj\Debug\net8.0\033-Find-the-divisors.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\obj\Debug\net8.0\033-Find-the-divisors.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\obj\Debug\net8.0\033-Find-the-divisors.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\obj\Debug\net8.0\033-Find-the-divisors.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\obj\Debug\net8.0\refint\033-Find-the-divisors.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\obj\Debug\net8.0\033-Find-the-divisors.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\obj\Debug\net8.0\033-Find-the-divisors.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\033-Find-the-divisors\obj\Debug\net8.0\ref\033-Find-the-divisors.dll
