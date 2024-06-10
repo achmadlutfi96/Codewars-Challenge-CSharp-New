@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\bin\Debug\net8.0\031-Odd-or-Even.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\bin\Debug\net8.0\031-Odd-or-Even.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\bin\Debug\net8.0\031-Odd-or-Even.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\bin\Debug\net8.0\031-Odd-or-Even.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\bin\Debug\net8.0\031-Odd-or-Even.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\obj\Debug\net8.0\031-Odd-or-Even.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\obj\Debug\net8.0\031-Odd-or-Even.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\obj\Debug\net8.0\031-Odd-or-Even.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\obj\Debug\net8.0\031-Odd-or-Even.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\obj\Debug\net8.0\031-Odd-or-Even.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\obj\Debug\net8.0\031-Odd-or-Even.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\obj\Debug\net8.0\refint\031-Odd-or-Even.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\obj\Debug\net8.0\031-Odd-or-Even.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\obj\Debug\net8.0\031-Odd-or-Even.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\031-Odd-or-Even\obj\Debug\net8.0\ref\031-Odd-or-Even.dll
