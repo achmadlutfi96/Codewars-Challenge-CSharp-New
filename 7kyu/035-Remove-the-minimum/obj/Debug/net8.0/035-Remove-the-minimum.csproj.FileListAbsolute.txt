@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\bin\Debug\net8.0\035-Remove-the-minimum.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\bin\Debug\net8.0\035-Remove-the-minimum.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\bin\Debug\net8.0\035-Remove-the-minimum.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\bin\Debug\net8.0\035-Remove-the-minimum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\bin\Debug\net8.0\035-Remove-the-minimum.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\obj\Debug\net8.0\035-Remove-the-minimum.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\obj\Debug\net8.0\035-Remove-the-minimum.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\obj\Debug\net8.0\035-Remove-the-minimum.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\obj\Debug\net8.0\035-Remove-the-minimum.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\obj\Debug\net8.0\035-Remove-the-minimum.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\obj\Debug\net8.0\035-Remove-the-minimum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\obj\Debug\net8.0\refint\035-Remove-the-minimum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\obj\Debug\net8.0\035-Remove-the-minimum.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\obj\Debug\net8.0\035-Remove-the-minimum.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\035-Remove-the-minimum\obj\Debug\net8.0\ref\035-Remove-the-minimum.dll
