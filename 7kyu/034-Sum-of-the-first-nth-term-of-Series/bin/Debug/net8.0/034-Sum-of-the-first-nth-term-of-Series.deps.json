@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "034-Sum-of-the-first-nth-term-of-Series/1.0.0": {
+        "runtime": {
+          "034-Sum-of-the-first-nth-term-of-Series.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "034-Sum-of-the-first-nth-term-of-Series/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

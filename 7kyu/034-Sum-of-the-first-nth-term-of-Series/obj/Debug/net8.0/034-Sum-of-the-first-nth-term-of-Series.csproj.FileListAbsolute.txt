@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\bin\Debug\net8.0\034-Sum-of-the-first-nth-term-of-Series.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\bin\Debug\net8.0\034-Sum-of-the-first-nth-term-of-Series.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\bin\Debug\net8.0\034-Sum-of-the-first-nth-term-of-Series.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\bin\Debug\net8.0\034-Sum-of-the-first-nth-term-of-Series.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\bin\Debug\net8.0\034-Sum-of-the-first-nth-term-of-Series.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\obj\Debug\net8.0\034-Sum-of-the-first-nth-term-of-Series.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\obj\Debug\net8.0\034-Sum-of-the-first-nth-term-of-Series.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\obj\Debug\net8.0\034-Sum-of-the-first-nth-term-of-Series.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\obj\Debug\net8.0\034-Sum-of-the-first-nth-term-of-Series.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\obj\Debug\net8.0\034-Sum-of-the-first-nth-term-of-Series.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\obj\Debug\net8.0\034-Sum-of-the-first-nth-term-of-Series.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\obj\Debug\net8.0\refint\034-Sum-of-the-first-nth-term-of-Series.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\obj\Debug\net8.0\034-Sum-of-the-first-nth-term-of-Series.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\obj\Debug\net8.0\034-Sum-of-the-first-nth-term-of-Series.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\034-Sum-of-the-first-nth-term-of-Series\obj\Debug\net8.0\ref\034-Sum-of-the-first-nth-term-of-Series.dll
