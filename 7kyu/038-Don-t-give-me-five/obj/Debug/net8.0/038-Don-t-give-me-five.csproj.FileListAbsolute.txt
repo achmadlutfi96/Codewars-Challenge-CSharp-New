@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\bin\Debug\net8.0\038-Don-t-give-me-five.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\bin\Debug\net8.0\038-Don-t-give-me-five.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\bin\Debug\net8.0\038-Don-t-give-me-five.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\bin\Debug\net8.0\038-Don-t-give-me-five.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\bin\Debug\net8.0\038-Don-t-give-me-five.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\obj\Debug\net8.0\038-Don-t-give-me-five.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\obj\Debug\net8.0\038-Don-t-give-me-five.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\obj\Debug\net8.0\038-Don-t-give-me-five.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\obj\Debug\net8.0\038-Don-t-give-me-five.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\obj\Debug\net8.0\038-Don-t-give-me-five.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\obj\Debug\net8.0\038-Don-t-give-me-five.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\obj\Debug\net8.0\refint\038-Don-t-give-me-five.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\obj\Debug\net8.0\038-Don-t-give-me-five.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\obj\Debug\net8.0\038-Don-t-give-me-five.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\038-Don-t-give-me-five\obj\Debug\net8.0\ref\038-Don-t-give-me-five.dll
