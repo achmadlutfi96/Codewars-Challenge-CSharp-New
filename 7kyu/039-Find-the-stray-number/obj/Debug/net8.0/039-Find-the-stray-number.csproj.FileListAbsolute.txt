@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\bin\Debug\net8.0\039-Find-the-stray-number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\bin\Debug\net8.0\039-Find-the-stray-number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\bin\Debug\net8.0\039-Find-the-stray-number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\bin\Debug\net8.0\039-Find-the-stray-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\bin\Debug\net8.0\039-Find-the-stray-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\obj\Debug\net8.0\039-Find-the-stray-number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\obj\Debug\net8.0\039-Find-the-stray-number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\obj\Debug\net8.0\039-Find-the-stray-number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\obj\Debug\net8.0\039-Find-the-stray-number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\obj\Debug\net8.0\039-Find-the-stray-number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\obj\Debug\net8.0\039-Find-the-stray-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\obj\Debug\net8.0\refint\039-Find-the-stray-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\obj\Debug\net8.0\039-Find-the-stray-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\obj\Debug\net8.0\039-Find-the-stray-number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\039-Find-the-stray-number\obj\Debug\net8.0\ref\039-Find-the-stray-number.dll
