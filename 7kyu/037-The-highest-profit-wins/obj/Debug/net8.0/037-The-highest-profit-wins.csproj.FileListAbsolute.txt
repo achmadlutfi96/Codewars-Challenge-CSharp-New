@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\bin\Debug\net8.0\037-The-highest-profit-wins.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\bin\Debug\net8.0\037-The-highest-profit-wins.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\bin\Debug\net8.0\037-The-highest-profit-wins.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\bin\Debug\net8.0\037-The-highest-profit-wins.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\bin\Debug\net8.0\037-The-highest-profit-wins.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\obj\Debug\net8.0\037-The-highest-profit-wins.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\obj\Debug\net8.0\037-The-highest-profit-wins.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\obj\Debug\net8.0\037-The-highest-profit-wins.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\obj\Debug\net8.0\037-The-highest-profit-wins.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\obj\Debug\net8.0\037-The-highest-profit-wins.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\obj\Debug\net8.0\037-The-highest-profit-wins.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\obj\Debug\net8.0\refint\037-The-highest-profit-wins.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\obj\Debug\net8.0\037-The-highest-profit-wins.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\obj\Debug\net8.0\037-The-highest-profit-wins.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\037-The-highest-profit-wins\obj\Debug\net8.0\ref\037-The-highest-profit-wins.dll
