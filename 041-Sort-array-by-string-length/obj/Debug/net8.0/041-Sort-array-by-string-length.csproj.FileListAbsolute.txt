@@ -1,0 +1,15 @@
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\bin\Debug\net8.0\041-Sort-array-by-string-length.exe
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\bin\Debug\net8.0\041-Sort-array-by-string-length.deps.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\bin\Debug\net8.0\041-Sort-array-by-string-length.runtimeconfig.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\bin\Debug\net8.0\041-Sort-array-by-string-length.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\bin\Debug\net8.0\041-Sort-array-by-string-length.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\obj\Debug\net8.0\041-Sort-array-by-string-length.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\obj\Debug\net8.0\041-Sort-array-by-string-length.AssemblyInfoInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\obj\Debug\net8.0\041-Sort-array-by-string-length.AssemblyInfo.cs
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\obj\Debug\net8.0\041-Sort-array-by-string-length.csproj.CoreCompileInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\obj\Debug\net8.0\041-Sort-array-by-string-length.sourcelink.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\obj\Debug\net8.0\041-Sort-array-by-string-length.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\obj\Debug\net8.0\refint\041-Sort-array-by-string-length.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\obj\Debug\net8.0\041-Sort-array-by-string-length.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\obj\Debug\net8.0\041-Sort-array-by-string-length.genruntimeconfig.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\041-Sort-array-by-string-length\obj\Debug\net8.0\ref\041-Sort-array-by-string-length.dll
