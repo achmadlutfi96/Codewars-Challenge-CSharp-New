@@ -1,0 +1,15 @@
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\bin\Debug\net8.0\042-Money-Money-Money.exe
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\bin\Debug\net8.0\042-Money-Money-Money.deps.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\bin\Debug\net8.0\042-Money-Money-Money.runtimeconfig.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\bin\Debug\net8.0\042-Money-Money-Money.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\bin\Debug\net8.0\042-Money-Money-Money.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\obj\Debug\net8.0\042-Money-Money-Money.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\obj\Debug\net8.0\042-Money-Money-Money.AssemblyInfoInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\obj\Debug\net8.0\042-Money-Money-Money.AssemblyInfo.cs
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\obj\Debug\net8.0\042-Money-Money-Money.csproj.CoreCompileInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\obj\Debug\net8.0\042-Money-Money-Money.sourcelink.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\obj\Debug\net8.0\042-Money-Money-Money.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\obj\Debug\net8.0\refint\042-Money-Money-Money.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\obj\Debug\net8.0\042-Money-Money-Money.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\obj\Debug\net8.0\042-Money-Money-Money.genruntimeconfig.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\042-Money-Money-Money\obj\Debug\net8.0\ref\042-Money-Money-Money.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "042-Money-Money-Money/1.0.0": {
+        "runtime": {
+          "042-Money-Money-Money.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "042-Money-Money-Money/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
