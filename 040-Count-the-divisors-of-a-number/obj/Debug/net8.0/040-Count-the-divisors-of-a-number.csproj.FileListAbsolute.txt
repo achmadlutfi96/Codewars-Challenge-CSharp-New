@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\bin\Debug\net8.0\040-Count-the-divisors-of-a-number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\bin\Debug\net8.0\040-Count-the-divisors-of-a-number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\bin\Debug\net8.0\040-Count-the-divisors-of-a-number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\bin\Debug\net8.0\040-Count-the-divisors-of-a-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\bin\Debug\net8.0\040-Count-the-divisors-of-a-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\obj\Debug\net8.0\040-Count-the-divisors-of-a-number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\obj\Debug\net8.0\040-Count-the-divisors-of-a-number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\obj\Debug\net8.0\040-Count-the-divisors-of-a-number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\obj\Debug\net8.0\040-Count-the-divisors-of-a-number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\obj\Debug\net8.0\040-Count-the-divisors-of-a-number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\obj\Debug\net8.0\040-Count-the-divisors-of-a-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\obj\Debug\net8.0\refint\040-Count-the-divisors-of-a-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\obj\Debug\net8.0\040-Count-the-divisors-of-a-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\obj\Debug\net8.0\040-Count-the-divisors-of-a-number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\040-Count-the-divisors-of-a-number\obj\Debug\net8.0\ref\040-Count-the-divisors-of-a-number.dll
