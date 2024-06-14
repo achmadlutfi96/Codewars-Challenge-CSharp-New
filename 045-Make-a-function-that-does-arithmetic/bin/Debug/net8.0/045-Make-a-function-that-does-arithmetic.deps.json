@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "045-Make-a-function-that-does-arithmetic/1.0.0": {
+        "runtime": {
+          "045-Make-a-function-that-does-arithmetic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "045-Make-a-function-that-does-arithmetic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

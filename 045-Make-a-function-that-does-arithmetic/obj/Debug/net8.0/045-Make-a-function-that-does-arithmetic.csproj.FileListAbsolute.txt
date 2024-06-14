@@ -1,0 +1,15 @@
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\bin\Debug\net8.0\045-Make-a-function-that-does-arithmetic.exe
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\bin\Debug\net8.0\045-Make-a-function-that-does-arithmetic.deps.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\bin\Debug\net8.0\045-Make-a-function-that-does-arithmetic.runtimeconfig.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\bin\Debug\net8.0\045-Make-a-function-that-does-arithmetic.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\bin\Debug\net8.0\045-Make-a-function-that-does-arithmetic.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\obj\Debug\net8.0\045-Make-a-function-that-does-arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\obj\Debug\net8.0\045-Make-a-function-that-does-arithmetic.AssemblyInfoInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\obj\Debug\net8.0\045-Make-a-function-that-does-arithmetic.AssemblyInfo.cs
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\obj\Debug\net8.0\045-Make-a-function-that-does-arithmetic.csproj.CoreCompileInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\obj\Debug\net8.0\045-Make-a-function-that-does-arithmetic.sourcelink.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\obj\Debug\net8.0\045-Make-a-function-that-does-arithmetic.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\obj\Debug\net8.0\refint\045-Make-a-function-that-does-arithmetic.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\obj\Debug\net8.0\045-Make-a-function-that-does-arithmetic.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\obj\Debug\net8.0\045-Make-a-function-that-does-arithmetic.genruntimeconfig.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\045-Make-a-function-that-does-arithmetic\obj\Debug\net8.0\ref\045-Make-a-function-that-does-arithmetic.dll
