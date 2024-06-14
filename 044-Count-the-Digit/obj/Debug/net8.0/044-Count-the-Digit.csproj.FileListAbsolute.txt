@@ -1,0 +1,15 @@
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\bin\Debug\net8.0\044-Count-the-Digit.exe
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\bin\Debug\net8.0\044-Count-the-Digit.deps.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\bin\Debug\net8.0\044-Count-the-Digit.runtimeconfig.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\bin\Debug\net8.0\044-Count-the-Digit.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\bin\Debug\net8.0\044-Count-the-Digit.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\obj\Debug\net8.0\044-Count-the-Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\obj\Debug\net8.0\044-Count-the-Digit.AssemblyInfoInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\obj\Debug\net8.0\044-Count-the-Digit.AssemblyInfo.cs
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\obj\Debug\net8.0\044-Count-the-Digit.csproj.CoreCompileInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\obj\Debug\net8.0\044-Count-the-Digit.sourcelink.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\obj\Debug\net8.0\044-Count-the-Digit.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\obj\Debug\net8.0\refint\044-Count-the-Digit.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\obj\Debug\net8.0\044-Count-the-Digit.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\obj\Debug\net8.0\044-Count-the-Digit.genruntimeconfig.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\044-Count-the-Digit\obj\Debug\net8.0\ref\044-Count-the-Digit.dll
