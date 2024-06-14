@@ -1,0 +1,15 @@
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\bin\Debug\net8.0\043-Breaking-chocolate-problem.exe
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\bin\Debug\net8.0\043-Breaking-chocolate-problem.deps.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\bin\Debug\net8.0\043-Breaking-chocolate-problem.runtimeconfig.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\bin\Debug\net8.0\043-Breaking-chocolate-problem.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\bin\Debug\net8.0\043-Breaking-chocolate-problem.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\obj\Debug\net8.0\043-Breaking-chocolate-problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\obj\Debug\net8.0\043-Breaking-chocolate-problem.AssemblyInfoInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\obj\Debug\net8.0\043-Breaking-chocolate-problem.AssemblyInfo.cs
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\obj\Debug\net8.0\043-Breaking-chocolate-problem.csproj.CoreCompileInputs.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\obj\Debug\net8.0\043-Breaking-chocolate-problem.sourcelink.json
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\obj\Debug\net8.0\043-Breaking-chocolate-problem.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\obj\Debug\net8.0\refint\043-Breaking-chocolate-problem.dll
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\obj\Debug\net8.0\043-Breaking-chocolate-problem.pdb
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\obj\Debug\net8.0\043-Breaking-chocolate-problem.genruntimeconfig.cache
+C:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\043-Breaking-chocolate-problem\obj\Debug\net8.0\ref\043-Breaking-chocolate-problem.dll
