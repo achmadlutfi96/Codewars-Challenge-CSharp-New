@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\bin\Debug\net8.0\046-Find-the-middle-element.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\bin\Debug\net8.0\046-Find-the-middle-element.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\bin\Debug\net8.0\046-Find-the-middle-element.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\bin\Debug\net8.0\046-Find-the-middle-element.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\bin\Debug\net8.0\046-Find-the-middle-element.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\obj\Debug\net8.0\046-Find-the-middle-element.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\obj\Debug\net8.0\046-Find-the-middle-element.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\obj\Debug\net8.0\046-Find-the-middle-element.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\obj\Debug\net8.0\046-Find-the-middle-element.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\obj\Debug\net8.0\046-Find-the-middle-element.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\obj\Debug\net8.0\046-Find-the-middle-element.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\obj\Debug\net8.0\refint\046-Find-the-middle-element.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\obj\Debug\net8.0\046-Find-the-middle-element.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\obj\Debug\net8.0\046-Find-the-middle-element.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\046-Find-the-middle-element\obj\Debug\net8.0\ref\046-Find-the-middle-element.dll
