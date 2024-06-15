@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\bin\Debug\net8.0\048-Round-up-to-the-next-multiple-of-5.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\bin\Debug\net8.0\048-Round-up-to-the-next-multiple-of-5.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\bin\Debug\net8.0\048-Round-up-to-the-next-multiple-of-5.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\bin\Debug\net8.0\048-Round-up-to-the-next-multiple-of-5.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\bin\Debug\net8.0\048-Round-up-to-the-next-multiple-of-5.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\obj\Debug\net8.0\048-Round-up-to-the-next-multiple-of-5.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\obj\Debug\net8.0\048-Round-up-to-the-next-multiple-of-5.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\obj\Debug\net8.0\048-Round-up-to-the-next-multiple-of-5.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\obj\Debug\net8.0\048-Round-up-to-the-next-multiple-of-5.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\obj\Debug\net8.0\048-Round-up-to-the-next-multiple-of-5.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\obj\Debug\net8.0\048-Round-up-to-the-next-multiple-of-5.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\obj\Debug\net8.0\refint\048-Round-up-to-the-next-multiple-of-5.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\obj\Debug\net8.0\048-Round-up-to-the-next-multiple-of-5.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\obj\Debug\net8.0\048-Round-up-to-the-next-multiple-of-5.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\048-Round-up-to-the-next-multiple-of-5\obj\Debug\net8.0\ref\048-Round-up-to-the-next-multiple-of-5.dll
