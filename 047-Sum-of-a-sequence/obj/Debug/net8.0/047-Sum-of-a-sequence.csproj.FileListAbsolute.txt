@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\bin\Debug\net8.0\047-Sum-of-a-sequence.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\bin\Debug\net8.0\047-Sum-of-a-sequence.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\bin\Debug\net8.0\047-Sum-of-a-sequence.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\bin\Debug\net8.0\047-Sum-of-a-sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\bin\Debug\net8.0\047-Sum-of-a-sequence.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\obj\Debug\net8.0\047-Sum-of-a-sequence.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\obj\Debug\net8.0\047-Sum-of-a-sequence.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\obj\Debug\net8.0\047-Sum-of-a-sequence.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\obj\Debug\net8.0\047-Sum-of-a-sequence.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\obj\Debug\net8.0\047-Sum-of-a-sequence.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\obj\Debug\net8.0\047-Sum-of-a-sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\obj\Debug\net8.0\refint\047-Sum-of-a-sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\obj\Debug\net8.0\047-Sum-of-a-sequence.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\obj\Debug\net8.0\047-Sum-of-a-sequence.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\047-Sum-of-a-sequence\obj\Debug\net8.0\ref\047-Sum-of-a-sequence.dll
