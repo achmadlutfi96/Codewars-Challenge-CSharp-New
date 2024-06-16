@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\bin\Debug\net8.0\051-Anagram-Detection.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\bin\Debug\net8.0\051-Anagram-Detection.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\bin\Debug\net8.0\051-Anagram-Detection.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\bin\Debug\net8.0\051-Anagram-Detection.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\bin\Debug\net8.0\051-Anagram-Detection.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\obj\Debug\net8.0\051-Anagram-Detection.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\obj\Debug\net8.0\051-Anagram-Detection.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\obj\Debug\net8.0\051-Anagram-Detection.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\obj\Debug\net8.0\051-Anagram-Detection.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\obj\Debug\net8.0\051-Anagram-Detection.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\obj\Debug\net8.0\051-Anagram-Detection.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\obj\Debug\net8.0\refint\051-Anagram-Detection.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\obj\Debug\net8.0\051-Anagram-Detection.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\obj\Debug\net8.0\051-Anagram-Detection.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\051-Anagram-Detection\obj\Debug\net8.0\ref\051-Anagram-Detection.dll
