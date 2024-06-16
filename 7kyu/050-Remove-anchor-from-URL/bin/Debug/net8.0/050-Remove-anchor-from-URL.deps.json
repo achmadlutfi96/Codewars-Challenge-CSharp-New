@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "050-Remove-anchor-from-URL/1.0.0": {
+        "runtime": {
+          "050-Remove-anchor-from-URL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "050-Remove-anchor-from-URL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\bin\Debug\net8.0\050-Remove-anchor-from-URL.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\bin\Debug\net8.0\050-Remove-anchor-from-URL.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\bin\Debug\net8.0\050-Remove-anchor-from-URL.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\bin\Debug\net8.0\050-Remove-anchor-from-URL.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\bin\Debug\net8.0\050-Remove-anchor-from-URL.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\obj\Debug\net8.0\050-Remove-anchor-from-URL.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\obj\Debug\net8.0\050-Remove-anchor-from-URL.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\obj\Debug\net8.0\050-Remove-anchor-from-URL.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\obj\Debug\net8.0\050-Remove-anchor-from-URL.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\obj\Debug\net8.0\050-Remove-anchor-from-URL.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\obj\Debug\net8.0\050-Remove-anchor-from-URL.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\obj\Debug\net8.0\refint\050-Remove-anchor-from-URL.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\obj\Debug\net8.0\050-Remove-anchor-from-URL.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\obj\Debug\net8.0\050-Remove-anchor-from-URL.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\050-Remove-anchor-from-URL\obj\Debug\net8.0\ref\050-Remove-anchor-from-URL.dll
