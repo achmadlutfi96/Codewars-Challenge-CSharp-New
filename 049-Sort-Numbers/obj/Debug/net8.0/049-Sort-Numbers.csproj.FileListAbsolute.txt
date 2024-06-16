@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\bin\Debug\net8.0\049-Sort-Numbers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\bin\Debug\net8.0\049-Sort-Numbers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\bin\Debug\net8.0\049-Sort-Numbers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\bin\Debug\net8.0\049-Sort-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\bin\Debug\net8.0\049-Sort-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\obj\Debug\net8.0\049-Sort-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\obj\Debug\net8.0\049-Sort-Numbers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\obj\Debug\net8.0\049-Sort-Numbers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\obj\Debug\net8.0\049-Sort-Numbers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\obj\Debug\net8.0\049-Sort-Numbers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\obj\Debug\net8.0\049-Sort-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\obj\Debug\net8.0\refint\049-Sort-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\obj\Debug\net8.0\049-Sort-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\obj\Debug\net8.0\049-Sort-Numbers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\049-Sort-Numbers\obj\Debug\net8.0\ref\049-Sort-Numbers.dll
