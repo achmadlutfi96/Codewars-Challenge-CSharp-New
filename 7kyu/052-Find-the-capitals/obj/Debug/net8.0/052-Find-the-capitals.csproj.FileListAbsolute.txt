@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\bin\Debug\net8.0\052-Find-the-capitals.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\bin\Debug\net8.0\052-Find-the-capitals.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\bin\Debug\net8.0\052-Find-the-capitals.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\bin\Debug\net8.0\052-Find-the-capitals.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\bin\Debug\net8.0\052-Find-the-capitals.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\obj\Debug\net8.0\052-Find-the-capitals.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\obj\Debug\net8.0\052-Find-the-capitals.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\obj\Debug\net8.0\052-Find-the-capitals.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\obj\Debug\net8.0\052-Find-the-capitals.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\obj\Debug\net8.0\052-Find-the-capitals.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\obj\Debug\net8.0\052-Find-the-capitals.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\obj\Debug\net8.0\refint\052-Find-the-capitals.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\obj\Debug\net8.0\052-Find-the-capitals.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\obj\Debug\net8.0\052-Find-the-capitals.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\052-Find-the-capitals\obj\Debug\net8.0\ref\052-Find-the-capitals.dll
