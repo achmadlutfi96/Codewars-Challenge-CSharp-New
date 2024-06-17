@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\bin\Debug\net8.0\053-Small-enough-Beginner.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\bin\Debug\net8.0\053-Small-enough-Beginner.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\bin\Debug\net8.0\053-Small-enough-Beginner.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\bin\Debug\net8.0\053-Small-enough-Beginner.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\bin\Debug\net8.0\053-Small-enough-Beginner.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\obj\Debug\net8.0\053-Small-enough-Beginner.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\obj\Debug\net8.0\053-Small-enough-Beginner.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\obj\Debug\net8.0\053-Small-enough-Beginner.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\obj\Debug\net8.0\053-Small-enough-Beginner.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\obj\Debug\net8.0\053-Small-enough-Beginner.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\obj\Debug\net8.0\053-Small-enough-Beginner.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\obj\Debug\net8.0\refint\053-Small-enough-Beginner.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\obj\Debug\net8.0\053-Small-enough-Beginner.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\obj\Debug\net8.0\053-Small-enough-Beginner.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\053-Small-enough-Beginner\obj\Debug\net8.0\ref\053-Small-enough-Beginner.dll
