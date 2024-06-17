@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\bin\Debug\net8.0\054-Two-Oldest-Ages.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\bin\Debug\net8.0\054-Two-Oldest-Ages.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\bin\Debug\net8.0\054-Two-Oldest-Ages.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\bin\Debug\net8.0\054-Two-Oldest-Ages.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\bin\Debug\net8.0\054-Two-Oldest-Ages.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\obj\Debug\net8.0\054-Two-Oldest-Ages.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\obj\Debug\net8.0\054-Two-Oldest-Ages.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\obj\Debug\net8.0\054-Two-Oldest-Ages.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\obj\Debug\net8.0\054-Two-Oldest-Ages.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\obj\Debug\net8.0\054-Two-Oldest-Ages.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\obj\Debug\net8.0\054-Two-Oldest-Ages.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\obj\Debug\net8.0\refint\054-Two-Oldest-Ages.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\obj\Debug\net8.0\054-Two-Oldest-Ages.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\obj\Debug\net8.0\054-Two-Oldest-Ages.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\054-Two-Oldest-Ages\obj\Debug\net8.0\ref\054-Two-Oldest-Ages.dll
