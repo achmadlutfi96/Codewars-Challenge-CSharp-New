@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\bin\Debug\net8.0\056-Check-the-exam.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\bin\Debug\net8.0\056-Check-the-exam.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\bin\Debug\net8.0\056-Check-the-exam.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\bin\Debug\net8.0\056-Check-the-exam.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\bin\Debug\net8.0\056-Check-the-exam.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\obj\Debug\net8.0\056-Check-the-exam.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\obj\Debug\net8.0\056-Check-the-exam.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\obj\Debug\net8.0\056-Check-the-exam.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\obj\Debug\net8.0\056-Check-the-exam.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\obj\Debug\net8.0\056-Check-the-exam.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\obj\Debug\net8.0\056-Check-the-exam.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\obj\Debug\net8.0\refint\056-Check-the-exam.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\obj\Debug\net8.0\056-Check-the-exam.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\obj\Debug\net8.0\056-Check-the-exam.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\056-Check-the-exam\obj\Debug\net8.0\ref\056-Check-the-exam.dll

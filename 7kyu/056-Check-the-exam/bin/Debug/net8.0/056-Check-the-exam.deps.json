@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "056-Check-the-exam/1.0.0": {
+        "runtime": {
+          "056-Check-the-exam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "056-Check-the-exam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
