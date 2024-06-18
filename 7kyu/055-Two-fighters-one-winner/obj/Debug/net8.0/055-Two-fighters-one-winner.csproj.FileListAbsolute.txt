@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\bin\Debug\net8.0\055-Two-fighters-one-winner.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\bin\Debug\net8.0\055-Two-fighters-one-winner.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\bin\Debug\net8.0\055-Two-fighters-one-winner.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\bin\Debug\net8.0\055-Two-fighters-one-winner.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\bin\Debug\net8.0\055-Two-fighters-one-winner.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\obj\Debug\net8.0\055-Two-fighters-one-winner.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\obj\Debug\net8.0\055-Two-fighters-one-winner.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\obj\Debug\net8.0\055-Two-fighters-one-winner.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\obj\Debug\net8.0\055-Two-fighters-one-winner.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\obj\Debug\net8.0\055-Two-fighters-one-winner.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\obj\Debug\net8.0\055-Two-fighters-one-winner.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\obj\Debug\net8.0\refint\055-Two-fighters-one-winner.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\obj\Debug\net8.0\055-Two-fighters-one-winner.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\obj\Debug\net8.0\055-Two-fighters-one-winner.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\055-Two-fighters-one-winner\obj\Debug\net8.0\ref\055-Two-fighters-one-winner.dll
