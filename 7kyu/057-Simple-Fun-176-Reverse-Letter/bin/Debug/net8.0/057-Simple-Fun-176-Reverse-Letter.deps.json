@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "057-Simple-Fun-176-Reverse-Letter/1.0.0": {
+        "runtime": {
+          "057-Simple-Fun-176-Reverse-Letter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "057-Simple-Fun-176-Reverse-Letter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
