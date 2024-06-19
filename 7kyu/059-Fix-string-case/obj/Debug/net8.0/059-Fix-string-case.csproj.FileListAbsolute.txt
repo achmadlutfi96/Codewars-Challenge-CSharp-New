@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\bin\Debug\net8.0\059-Fix-string-case.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\bin\Debug\net8.0\059-Fix-string-case.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\bin\Debug\net8.0\059-Fix-string-case.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\bin\Debug\net8.0\059-Fix-string-case.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\bin\Debug\net8.0\059-Fix-string-case.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\obj\Debug\net8.0\059-Fix-string-case.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\obj\Debug\net8.0\059-Fix-string-case.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\obj\Debug\net8.0\059-Fix-string-case.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\obj\Debug\net8.0\059-Fix-string-case.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\obj\Debug\net8.0\059-Fix-string-case.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\obj\Debug\net8.0\059-Fix-string-case.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\obj\Debug\net8.0\refint\059-Fix-string-case.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\obj\Debug\net8.0\059-Fix-string-case.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\obj\Debug\net8.0\059-Fix-string-case.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\059-Fix-string-case\obj\Debug\net8.0\ref\059-Fix-string-case.dll
