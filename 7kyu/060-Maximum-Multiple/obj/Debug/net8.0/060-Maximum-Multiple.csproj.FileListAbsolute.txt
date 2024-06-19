@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\bin\Debug\net8.0\060-Maximum-Multiple.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\bin\Debug\net8.0\060-Maximum-Multiple.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\bin\Debug\net8.0\060-Maximum-Multiple.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\bin\Debug\net8.0\060-Maximum-Multiple.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\bin\Debug\net8.0\060-Maximum-Multiple.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\obj\Debug\net8.0\060-Maximum-Multiple.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\obj\Debug\net8.0\060-Maximum-Multiple.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\obj\Debug\net8.0\060-Maximum-Multiple.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\obj\Debug\net8.0\060-Maximum-Multiple.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\obj\Debug\net8.0\060-Maximum-Multiple.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\obj\Debug\net8.0\060-Maximum-Multiple.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\obj\Debug\net8.0\refint\060-Maximum-Multiple.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\obj\Debug\net8.0\060-Maximum-Multiple.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\obj\Debug\net8.0\060-Maximum-Multiple.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\060-Maximum-Multiple\obj\Debug\net8.0\ref\060-Maximum-Multiple.dll
