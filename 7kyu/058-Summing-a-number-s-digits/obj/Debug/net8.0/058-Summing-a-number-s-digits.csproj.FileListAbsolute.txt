@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\bin\Debug\net8.0\058-Summing-a-number-s-digits.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\bin\Debug\net8.0\058-Summing-a-number-s-digits.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\bin\Debug\net8.0\058-Summing-a-number-s-digits.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\bin\Debug\net8.0\058-Summing-a-number-s-digits.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\bin\Debug\net8.0\058-Summing-a-number-s-digits.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\obj\Debug\net8.0\058-Summing-a-number-s-digits.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\obj\Debug\net8.0\058-Summing-a-number-s-digits.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\obj\Debug\net8.0\058-Summing-a-number-s-digits.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\obj\Debug\net8.0\058-Summing-a-number-s-digits.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\obj\Debug\net8.0\058-Summing-a-number-s-digits.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\obj\Debug\net8.0\058-Summing-a-number-s-digits.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\obj\Debug\net8.0\refint\058-Summing-a-number-s-digits.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\obj\Debug\net8.0\058-Summing-a-number-s-digits.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\obj\Debug\net8.0\058-Summing-a-number-s-digits.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\058-Summing-a-number-s-digits\obj\Debug\net8.0\ref\058-Summing-a-number-s-digits.dll
