@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\bin\Debug\net8.0\061-Factorial.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\bin\Debug\net8.0\061-Factorial.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\bin\Debug\net8.0\061-Factorial.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\bin\Debug\net8.0\061-Factorial.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\bin\Debug\net8.0\061-Factorial.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\obj\Debug\net8.0\061-Factorial.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\obj\Debug\net8.0\061-Factorial.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\obj\Debug\net8.0\061-Factorial.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\obj\Debug\net8.0\061-Factorial.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\obj\Debug\net8.0\061-Factorial.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\obj\Debug\net8.0\061-Factorial.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\obj\Debug\net8.0\refint\061-Factorial.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\obj\Debug\net8.0\061-Factorial.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\obj\Debug\net8.0\061-Factorial.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\061-Factorial\obj\Debug\net8.0\ref\061-Factorial.dll
