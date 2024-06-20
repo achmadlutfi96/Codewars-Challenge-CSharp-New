@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\bin\Debug\net8.0\063-Alternate-capitalization.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\bin\Debug\net8.0\063-Alternate-capitalization.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\bin\Debug\net8.0\063-Alternate-capitalization.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\bin\Debug\net8.0\063-Alternate-capitalization.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\bin\Debug\net8.0\063-Alternate-capitalization.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\obj\Debug\net8.0\063-Alternate-capitalization.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\obj\Debug\net8.0\063-Alternate-capitalization.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\obj\Debug\net8.0\063-Alternate-capitalization.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\obj\Debug\net8.0\063-Alternate-capitalization.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\obj\Debug\net8.0\063-Alternate-capitalization.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\obj\Debug\net8.0\063-Alternate-capitalization.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\obj\Debug\net8.0\refint\063-Alternate-capitalization.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\obj\Debug\net8.0\063-Alternate-capitalization.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\obj\Debug\net8.0\063-Alternate-capitalization.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\063-Alternate-capitalization\obj\Debug\net8.0\ref\063-Alternate-capitalization.dll
