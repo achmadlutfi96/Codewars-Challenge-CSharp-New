@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\bin\Debug\net8.0\062-Form-The-Minimum.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\bin\Debug\net8.0\062-Form-The-Minimum.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\bin\Debug\net8.0\062-Form-The-Minimum.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\bin\Debug\net8.0\062-Form-The-Minimum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\bin\Debug\net8.0\062-Form-The-Minimum.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\obj\Debug\net8.0\062-Form-The-Minimum.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\obj\Debug\net8.0\062-Form-The-Minimum.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\obj\Debug\net8.0\062-Form-The-Minimum.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\obj\Debug\net8.0\062-Form-The-Minimum.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\obj\Debug\net8.0\062-Form-The-Minimum.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\obj\Debug\net8.0\062-Form-The-Minimum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\obj\Debug\net8.0\refint\062-Form-The-Minimum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\obj\Debug\net8.0\062-Form-The-Minimum.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\obj\Debug\net8.0\062-Form-The-Minimum.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\062-Form-The-Minimum\obj\Debug\net8.0\ref\062-Form-The-Minimum.dll
