@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\bin\Debug\net8.0\066-Largest-5-digit-number-in-a-series.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\bin\Debug\net8.0\066-Largest-5-digit-number-in-a-series.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\bin\Debug\net8.0\066-Largest-5-digit-number-in-a-series.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\bin\Debug\net8.0\066-Largest-5-digit-number-in-a-series.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\bin\Debug\net8.0\066-Largest-5-digit-number-in-a-series.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\obj\Debug\net8.0\066-Largest-5-digit-number-in-a-series.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\obj\Debug\net8.0\066-Largest-5-digit-number-in-a-series.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\obj\Debug\net8.0\066-Largest-5-digit-number-in-a-series.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\obj\Debug\net8.0\066-Largest-5-digit-number-in-a-series.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\obj\Debug\net8.0\066-Largest-5-digit-number-in-a-series.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\obj\Debug\net8.0\066-Largest-5-digit-number-in-a-series.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\obj\Debug\net8.0\refint\066-Largest-5-digit-number-in-a-series.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\obj\Debug\net8.0\066-Largest-5-digit-number-in-a-series.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\obj\Debug\net8.0\066-Largest-5-digit-number-in-a-series.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\066-Largest-5-digit-number-in-a-series\obj\Debug\net8.0\ref\066-Largest-5-digit-number-in-a-series.dll
