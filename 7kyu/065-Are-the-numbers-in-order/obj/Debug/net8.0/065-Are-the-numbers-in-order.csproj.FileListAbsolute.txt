@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\bin\Debug\net8.0\065-Are-the-numbers-in-order.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\bin\Debug\net8.0\065-Are-the-numbers-in-order.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\bin\Debug\net8.0\065-Are-the-numbers-in-order.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\bin\Debug\net8.0\065-Are-the-numbers-in-order.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\bin\Debug\net8.0\065-Are-the-numbers-in-order.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\obj\Debug\net8.0\065-Are-the-numbers-in-order.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\obj\Debug\net8.0\065-Are-the-numbers-in-order.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\obj\Debug\net8.0\065-Are-the-numbers-in-order.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\obj\Debug\net8.0\065-Are-the-numbers-in-order.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\obj\Debug\net8.0\065-Are-the-numbers-in-order.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\obj\Debug\net8.0\065-Are-the-numbers-in-order.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\obj\Debug\net8.0\refint\065-Are-the-numbers-in-order.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\obj\Debug\net8.0\065-Are-the-numbers-in-order.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\obj\Debug\net8.0\065-Are-the-numbers-in-order.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\065-Are-the-numbers-in-order\obj\Debug\net8.0\ref\065-Are-the-numbers-in-order.dll
