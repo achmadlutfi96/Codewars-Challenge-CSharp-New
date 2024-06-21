@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\bin\Debug\net8.0\064-Sum-of-Minimums.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\bin\Debug\net8.0\064-Sum-of-Minimums.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\bin\Debug\net8.0\064-Sum-of-Minimums.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\bin\Debug\net8.0\064-Sum-of-Minimums.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\bin\Debug\net8.0\064-Sum-of-Minimums.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\obj\Debug\net8.0\064-Sum-of-Minimums.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\obj\Debug\net8.0\064-Sum-of-Minimums.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\obj\Debug\net8.0\064-Sum-of-Minimums.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\obj\Debug\net8.0\064-Sum-of-Minimums.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\obj\Debug\net8.0\064-Sum-of-Minimums.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\obj\Debug\net8.0\064-Sum-of-Minimums.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\obj\Debug\net8.0\refint\064-Sum-of-Minimums.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\obj\Debug\net8.0\064-Sum-of-Minimums.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\obj\Debug\net8.0\064-Sum-of-Minimums.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\064-Sum-of-Minimums\obj\Debug\net8.0\ref\064-Sum-of-Minimums.dll
