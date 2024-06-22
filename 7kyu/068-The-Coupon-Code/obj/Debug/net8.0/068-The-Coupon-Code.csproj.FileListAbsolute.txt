@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\bin\Debug\net8.0\068-The-Coupon-Code.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\bin\Debug\net8.0\068-The-Coupon-Code.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\bin\Debug\net8.0\068-The-Coupon-Code.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\bin\Debug\net8.0\068-The-Coupon-Code.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\bin\Debug\net8.0\068-The-Coupon-Code.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\obj\Debug\net8.0\068-The-Coupon-Code.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\obj\Debug\net8.0\068-The-Coupon-Code.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\obj\Debug\net8.0\068-The-Coupon-Code.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\obj\Debug\net8.0\068-The-Coupon-Code.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\obj\Debug\net8.0\068-The-Coupon-Code.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\obj\Debug\net8.0\068-The-Coupon-Code.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\obj\Debug\net8.0\refint\068-The-Coupon-Code.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\obj\Debug\net8.0\068-The-Coupon-Code.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\obj\Debug\net8.0\068-The-Coupon-Code.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\068-The-Coupon-Code\obj\Debug\net8.0\ref\068-The-Coupon-Code.dll
