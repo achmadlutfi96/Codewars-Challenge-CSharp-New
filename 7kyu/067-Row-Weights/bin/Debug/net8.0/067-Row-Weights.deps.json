@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "067-Row-Weights/1.0.0": {
+        "runtime": {
+          "067-Row-Weights.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "067-Row-Weights/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

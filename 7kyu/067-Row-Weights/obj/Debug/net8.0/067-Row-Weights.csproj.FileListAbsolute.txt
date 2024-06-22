@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\bin\Debug\net8.0\067-Row-Weights.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\bin\Debug\net8.0\067-Row-Weights.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\bin\Debug\net8.0\067-Row-Weights.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\bin\Debug\net8.0\067-Row-Weights.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\bin\Debug\net8.0\067-Row-Weights.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\obj\Debug\net8.0\067-Row-Weights.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\obj\Debug\net8.0\067-Row-Weights.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\obj\Debug\net8.0\067-Row-Weights.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\obj\Debug\net8.0\067-Row-Weights.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\obj\Debug\net8.0\067-Row-Weights.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\obj\Debug\net8.0\067-Row-Weights.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\obj\Debug\net8.0\refint\067-Row-Weights.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\obj\Debug\net8.0\067-Row-Weights.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\obj\Debug\net8.0\067-Row-Weights.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\067-Row-Weights\obj\Debug\net8.0\ref\067-Row-Weights.dll
