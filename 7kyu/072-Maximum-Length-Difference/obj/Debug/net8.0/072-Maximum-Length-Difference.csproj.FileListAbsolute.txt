@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\bin\Debug\net8.0\072-Maximum-Length-Difference.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\bin\Debug\net8.0\072-Maximum-Length-Difference.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\bin\Debug\net8.0\072-Maximum-Length-Difference.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\bin\Debug\net8.0\072-Maximum-Length-Difference.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\bin\Debug\net8.0\072-Maximum-Length-Difference.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\obj\Debug\net8.0\072-Maximum-Length-Difference.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\obj\Debug\net8.0\072-Maximum-Length-Difference.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\obj\Debug\net8.0\072-Maximum-Length-Difference.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\obj\Debug\net8.0\072-Maximum-Length-Difference.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\obj\Debug\net8.0\072-Maximum-Length-Difference.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\obj\Debug\net8.0\072-Maximum-Length-Difference.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\obj\Debug\net8.0\refint\072-Maximum-Length-Difference.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\obj\Debug\net8.0\072-Maximum-Length-Difference.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\obj\Debug\net8.0\072-Maximum-Length-Difference.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\072-Maximum-Length-Difference\obj\Debug\net8.0\ref\072-Maximum-Length-Difference.dll
