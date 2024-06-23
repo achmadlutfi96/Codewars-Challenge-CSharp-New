@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "071-Remove-duplicate-words", "071-Remove-duplicate-words.csproj", "{F2E0AF13-584E-4C9A-8D5A-7A3DE15CB71C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2E0AF13-584E-4C9A-8D5A-7A3DE15CB71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E0AF13-584E-4C9A-8D5A-7A3DE15CB71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E0AF13-584E-4C9A-8D5A-7A3DE15CB71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E0AF13-584E-4C9A-8D5A-7A3DE15CB71C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C427D6D-50C3-4115-AD9A-EE5DF488BF28}
+	EndGlobalSection
+EndGlobal

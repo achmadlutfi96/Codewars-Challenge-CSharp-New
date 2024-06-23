@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\bin\Debug\net8.0\071-Remove-duplicate-words.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\bin\Debug\net8.0\071-Remove-duplicate-words.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\bin\Debug\net8.0\071-Remove-duplicate-words.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\bin\Debug\net8.0\071-Remove-duplicate-words.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\bin\Debug\net8.0\071-Remove-duplicate-words.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\obj\Debug\net8.0\071-Remove-duplicate-words.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\obj\Debug\net8.0\071-Remove-duplicate-words.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\obj\Debug\net8.0\071-Remove-duplicate-words.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\obj\Debug\net8.0\071-Remove-duplicate-words.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\obj\Debug\net8.0\071-Remove-duplicate-words.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\obj\Debug\net8.0\071-Remove-duplicate-words.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\obj\Debug\net8.0\refint\071-Remove-duplicate-words.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\obj\Debug\net8.0\071-Remove-duplicate-words.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\obj\Debug\net8.0\071-Remove-duplicate-words.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\071-Remove-duplicate-words\obj\Debug\net8.0\ref\071-Remove-duplicate-words.dll
