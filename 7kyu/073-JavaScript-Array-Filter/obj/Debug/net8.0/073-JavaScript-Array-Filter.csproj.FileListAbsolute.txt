@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\bin\Debug\net8.0\073-JavaScript-Array-Filter.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\bin\Debug\net8.0\073-JavaScript-Array-Filter.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\bin\Debug\net8.0\073-JavaScript-Array-Filter.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\bin\Debug\net8.0\073-JavaScript-Array-Filter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\bin\Debug\net8.0\073-JavaScript-Array-Filter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\obj\Debug\net8.0\073-JavaScript-Array-Filter.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\obj\Debug\net8.0\073-JavaScript-Array-Filter.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\obj\Debug\net8.0\073-JavaScript-Array-Filter.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\obj\Debug\net8.0\073-JavaScript-Array-Filter.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\obj\Debug\net8.0\073-JavaScript-Array-Filter.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\obj\Debug\net8.0\073-JavaScript-Array-Filter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\obj\Debug\net8.0\refint\073-JavaScript-Array-Filter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\obj\Debug\net8.0\073-JavaScript-Array-Filter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\obj\Debug\net8.0\073-JavaScript-Array-Filter.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\073-JavaScript-Array-Filter\obj\Debug\net8.0\ref\073-JavaScript-Array-Filter.dll
