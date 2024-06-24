@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\bin\Debug\net8.0\075-Sum-of-angles.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\bin\Debug\net8.0\075-Sum-of-angles.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\bin\Debug\net8.0\075-Sum-of-angles.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\bin\Debug\net8.0\075-Sum-of-angles.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\bin\Debug\net8.0\075-Sum-of-angles.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\obj\Debug\net8.0\075-Sum-of-angles.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\obj\Debug\net8.0\075-Sum-of-angles.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\obj\Debug\net8.0\075-Sum-of-angles.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\obj\Debug\net8.0\075-Sum-of-angles.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\obj\Debug\net8.0\075-Sum-of-angles.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\obj\Debug\net8.0\075-Sum-of-angles.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\obj\Debug\net8.0\refint\075-Sum-of-angles.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\obj\Debug\net8.0\075-Sum-of-angles.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\obj\Debug\net8.0\075-Sum-of-angles.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\075-Sum-of-angles\obj\Debug\net8.0\ref\075-Sum-of-angles.dll
