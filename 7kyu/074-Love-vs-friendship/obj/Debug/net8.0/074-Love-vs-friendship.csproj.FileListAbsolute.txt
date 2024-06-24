@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\bin\Debug\net8.0\074-Love-vs-friendship.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\bin\Debug\net8.0\074-Love-vs-friendship.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\bin\Debug\net8.0\074-Love-vs-friendship.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\bin\Debug\net8.0\074-Love-vs-friendship.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\bin\Debug\net8.0\074-Love-vs-friendship.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\obj\Debug\net8.0\074-Love-vs-friendship.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\obj\Debug\net8.0\074-Love-vs-friendship.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\obj\Debug\net8.0\074-Love-vs-friendship.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\obj\Debug\net8.0\074-Love-vs-friendship.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\obj\Debug\net8.0\074-Love-vs-friendship.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\obj\Debug\net8.0\074-Love-vs-friendship.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\obj\Debug\net8.0\refint\074-Love-vs-friendship.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\obj\Debug\net8.0\074-Love-vs-friendship.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\obj\Debug\net8.0\074-Love-vs-friendship.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\074-Love-vs-friendship\obj\Debug\net8.0\ref\074-Love-vs-friendship.dll
