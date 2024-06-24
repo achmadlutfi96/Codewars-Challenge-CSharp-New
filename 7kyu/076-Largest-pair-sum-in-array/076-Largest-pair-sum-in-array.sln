@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "076-Largest-pair-sum-in-array", "076-Largest-pair-sum-in-array.csproj", "{A48BFB4F-442E-44BA-B2E6-C269D8E1C927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A48BFB4F-442E-44BA-B2E6-C269D8E1C927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48BFB4F-442E-44BA-B2E6-C269D8E1C927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48BFB4F-442E-44BA-B2E6-C269D8E1C927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48BFB4F-442E-44BA-B2E6-C269D8E1C927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DF6E06E-38F2-4A74-B0B3-C07E329893C9}
+	EndGlobalSection
+EndGlobal

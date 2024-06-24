@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\bin\Debug\net8.0\076-Largest-pair-sum-in-array.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\bin\Debug\net8.0\076-Largest-pair-sum-in-array.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\bin\Debug\net8.0\076-Largest-pair-sum-in-array.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\bin\Debug\net8.0\076-Largest-pair-sum-in-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\bin\Debug\net8.0\076-Largest-pair-sum-in-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\obj\Debug\net8.0\076-Largest-pair-sum-in-array.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\obj\Debug\net8.0\076-Largest-pair-sum-in-array.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\obj\Debug\net8.0\076-Largest-pair-sum-in-array.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\obj\Debug\net8.0\076-Largest-pair-sum-in-array.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\obj\Debug\net8.0\076-Largest-pair-sum-in-array.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\obj\Debug\net8.0\076-Largest-pair-sum-in-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\obj\Debug\net8.0\refint\076-Largest-pair-sum-in-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\obj\Debug\net8.0\076-Largest-pair-sum-in-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\obj\Debug\net8.0\076-Largest-pair-sum-in-array.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\076-Largest-pair-sum-in-array\obj\Debug\net8.0\ref\076-Largest-pair-sum-in-array.dll
