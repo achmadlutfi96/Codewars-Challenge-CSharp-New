@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\bin\Debug\net8.0\078-Alphabet-war.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\bin\Debug\net8.0\078-Alphabet-war.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\bin\Debug\net8.0\078-Alphabet-war.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\bin\Debug\net8.0\078-Alphabet-war.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\bin\Debug\net8.0\078-Alphabet-war.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\obj\Debug\net8.0\078-Alphabet-war.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\obj\Debug\net8.0\078-Alphabet-war.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\obj\Debug\net8.0\078-Alphabet-war.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\obj\Debug\net8.0\078-Alphabet-war.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\obj\Debug\net8.0\078-Alphabet-war.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\obj\Debug\net8.0\078-Alphabet-war.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\obj\Debug\net8.0\refint\078-Alphabet-war.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\obj\Debug\net8.0\078-Alphabet-war.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\obj\Debug\net8.0\078-Alphabet-war.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\078-Alphabet-war\obj\Debug\net8.0\ref\078-Alphabet-war.dll
