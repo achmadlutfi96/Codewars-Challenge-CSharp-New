@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\bin\Debug\net8.0\079-No-oddities-here.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\bin\Debug\net8.0\079-No-oddities-here.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\bin\Debug\net8.0\079-No-oddities-here.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\bin\Debug\net8.0\079-No-oddities-here.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\bin\Debug\net8.0\079-No-oddities-here.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\obj\Debug\net8.0\079-No-oddities-here.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\obj\Debug\net8.0\079-No-oddities-here.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\obj\Debug\net8.0\079-No-oddities-here.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\obj\Debug\net8.0\079-No-oddities-here.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\obj\Debug\net8.0\079-No-oddities-here.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\obj\Debug\net8.0\079-No-oddities-here.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\obj\Debug\net8.0\refint\079-No-oddities-here.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\obj\Debug\net8.0\079-No-oddities-here.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\obj\Debug\net8.0\079-No-oddities-here.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\079-No-oddities-here\obj\Debug\net8.0\ref\079-No-oddities-here.dll
