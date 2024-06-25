@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\bin\Debug\net8.0\077-Sorted-yes-no-how.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\bin\Debug\net8.0\077-Sorted-yes-no-how.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\bin\Debug\net8.0\077-Sorted-yes-no-how.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\bin\Debug\net8.0\077-Sorted-yes-no-how.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\bin\Debug\net8.0\077-Sorted-yes-no-how.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\obj\Debug\net8.0\077-Sorted-yes-no-how.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\obj\Debug\net8.0\077-Sorted-yes-no-how.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\obj\Debug\net8.0\077-Sorted-yes-no-how.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\obj\Debug\net8.0\077-Sorted-yes-no-how.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\obj\Debug\net8.0\077-Sorted-yes-no-how.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\obj\Debug\net8.0\077-Sorted-yes-no-how.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\obj\Debug\net8.0\refint\077-Sorted-yes-no-how.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\obj\Debug\net8.0\077-Sorted-yes-no-how.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\obj\Debug\net8.0\077-Sorted-yes-no-how.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\077-Sorted-yes-no-how\obj\Debug\net8.0\ref\077-Sorted-yes-no-how.dll
