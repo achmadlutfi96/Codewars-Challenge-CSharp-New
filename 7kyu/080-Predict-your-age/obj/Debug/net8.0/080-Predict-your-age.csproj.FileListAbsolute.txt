@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\bin\Debug\net8.0\080-Predict-your-age.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\bin\Debug\net8.0\080-Predict-your-age.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\bin\Debug\net8.0\080-Predict-your-age.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\bin\Debug\net8.0\080-Predict-your-age.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\bin\Debug\net8.0\080-Predict-your-age.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\obj\Debug\net8.0\080-Predict-your-age.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\obj\Debug\net8.0\080-Predict-your-age.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\obj\Debug\net8.0\080-Predict-your-age.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\obj\Debug\net8.0\080-Predict-your-age.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\obj\Debug\net8.0\080-Predict-your-age.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\obj\Debug\net8.0\080-Predict-your-age.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\obj\Debug\net8.0\refint\080-Predict-your-age.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\obj\Debug\net8.0\080-Predict-your-age.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\obj\Debug\net8.0\080-Predict-your-age.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\080-Predict-your-age\obj\Debug\net8.0\ref\080-Predict-your-age.dll
