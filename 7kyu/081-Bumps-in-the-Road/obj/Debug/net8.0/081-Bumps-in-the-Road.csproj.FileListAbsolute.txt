@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\bin\Debug\net8.0\081-Bumps-in-the-Road.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\bin\Debug\net8.0\081-Bumps-in-the-Road.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\bin\Debug\net8.0\081-Bumps-in-the-Road.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\bin\Debug\net8.0\081-Bumps-in-the-Road.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\bin\Debug\net8.0\081-Bumps-in-the-Road.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\obj\Debug\net8.0\081-Bumps-in-the-Road.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\obj\Debug\net8.0\081-Bumps-in-the-Road.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\obj\Debug\net8.0\081-Bumps-in-the-Road.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\obj\Debug\net8.0\081-Bumps-in-the-Road.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\obj\Debug\net8.0\081-Bumps-in-the-Road.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\obj\Debug\net8.0\081-Bumps-in-the-Road.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\obj\Debug\net8.0\refint\081-Bumps-in-the-Road.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\obj\Debug\net8.0\081-Bumps-in-the-Road.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\obj\Debug\net8.0\081-Bumps-in-the-Road.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\081-Bumps-in-the-Road\obj\Debug\net8.0\ref\081-Bumps-in-the-Road.dll
