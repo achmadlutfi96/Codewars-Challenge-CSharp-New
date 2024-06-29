@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\bin\Debug\net8.0\082-Maximum-Product.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\bin\Debug\net8.0\082-Maximum-Product.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\bin\Debug\net8.0\082-Maximum-Product.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\bin\Debug\net8.0\082-Maximum-Product.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\bin\Debug\net8.0\082-Maximum-Product.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\obj\Debug\net8.0\082-Maximum-Product.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\obj\Debug\net8.0\082-Maximum-Product.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\obj\Debug\net8.0\082-Maximum-Product.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\obj\Debug\net8.0\082-Maximum-Product.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\obj\Debug\net8.0\082-Maximum-Product.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\obj\Debug\net8.0\082-Maximum-Product.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\obj\Debug\net8.0\refint\082-Maximum-Product.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\obj\Debug\net8.0\082-Maximum-Product.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\obj\Debug\net8.0\082-Maximum-Product.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\082-Maximum-Product\obj\Debug\net8.0\ref\082-Maximum-Product.dll
