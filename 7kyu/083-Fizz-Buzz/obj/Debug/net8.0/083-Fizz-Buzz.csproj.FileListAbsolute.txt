@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\bin\Debug\net8.0\083-Fizz-Buzz.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\bin\Debug\net8.0\083-Fizz-Buzz.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\bin\Debug\net8.0\083-Fizz-Buzz.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\bin\Debug\net8.0\083-Fizz-Buzz.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\bin\Debug\net8.0\083-Fizz-Buzz.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\obj\Debug\net8.0\083-Fizz-Buzz.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\obj\Debug\net8.0\083-Fizz-Buzz.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\obj\Debug\net8.0\083-Fizz-Buzz.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\obj\Debug\net8.0\083-Fizz-Buzz.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\obj\Debug\net8.0\083-Fizz-Buzz.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\obj\Debug\net8.0\083-Fizz-Buzz.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\obj\Debug\net8.0\refint\083-Fizz-Buzz.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\obj\Debug\net8.0\083-Fizz-Buzz.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\obj\Debug\net8.0\083-Fizz-Buzz.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\083-Fizz-Buzz\obj\Debug\net8.0\ref\083-Fizz-Buzz.dll
