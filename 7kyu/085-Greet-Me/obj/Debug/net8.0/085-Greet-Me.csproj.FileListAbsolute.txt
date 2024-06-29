@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\bin\Debug\net8.0\085-Greet-Me.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\bin\Debug\net8.0\085-Greet-Me.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\bin\Debug\net8.0\085-Greet-Me.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\bin\Debug\net8.0\085-Greet-Me.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\bin\Debug\net8.0\085-Greet-Me.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\obj\Debug\net8.0\085-Greet-Me.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\obj\Debug\net8.0\085-Greet-Me.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\obj\Debug\net8.0\085-Greet-Me.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\obj\Debug\net8.0\085-Greet-Me.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\obj\Debug\net8.0\085-Greet-Me.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\obj\Debug\net8.0\085-Greet-Me.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\obj\Debug\net8.0\refint\085-Greet-Me.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\obj\Debug\net8.0\085-Greet-Me.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\obj\Debug\net8.0\085-Greet-Me.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\085-Greet-Me\obj\Debug\net8.0\ref\085-Greet-Me.dll
