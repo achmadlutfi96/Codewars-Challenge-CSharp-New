@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\bin\Debug\net8.0\084-Number-of-Decimal-Digits.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\bin\Debug\net8.0\084-Number-of-Decimal-Digits.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\bin\Debug\net8.0\084-Number-of-Decimal-Digits.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\bin\Debug\net8.0\084-Number-of-Decimal-Digits.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\bin\Debug\net8.0\084-Number-of-Decimal-Digits.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\obj\Debug\net8.0\084-Number-of-Decimal-Digits.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\obj\Debug\net8.0\084-Number-of-Decimal-Digits.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\obj\Debug\net8.0\084-Number-of-Decimal-Digits.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\obj\Debug\net8.0\084-Number-of-Decimal-Digits.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\obj\Debug\net8.0\084-Number-of-Decimal-Digits.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\obj\Debug\net8.0\084-Number-of-Decimal-Digits.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\obj\Debug\net8.0\refint\084-Number-of-Decimal-Digits.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\obj\Debug\net8.0\084-Number-of-Decimal-Digits.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\obj\Debug\net8.0\084-Number-of-Decimal-Digits.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\084-Number-of-Decimal-Digits\obj\Debug\net8.0\ref\084-Number-of-Decimal-Digits.dll
