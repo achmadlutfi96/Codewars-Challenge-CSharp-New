@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\bin\Debug\net8.0\087-Sum-of-Cubes.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\bin\Debug\net8.0\087-Sum-of-Cubes.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\bin\Debug\net8.0\087-Sum-of-Cubes.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\bin\Debug\net8.0\087-Sum-of-Cubes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\bin\Debug\net8.0\087-Sum-of-Cubes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\obj\Debug\net8.0\087-Sum-of-Cubes.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\obj\Debug\net8.0\087-Sum-of-Cubes.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\obj\Debug\net8.0\087-Sum-of-Cubes.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\obj\Debug\net8.0\087-Sum-of-Cubes.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\obj\Debug\net8.0\087-Sum-of-Cubes.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\obj\Debug\net8.0\087-Sum-of-Cubes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\obj\Debug\net8.0\refint\087-Sum-of-Cubes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\obj\Debug\net8.0\087-Sum-of-Cubes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\obj\Debug\net8.0\087-Sum-of-Cubes.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\087-Sum-of-Cubes\obj\Debug\net8.0\ref\087-Sum-of-Cubes.dll

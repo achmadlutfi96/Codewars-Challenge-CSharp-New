@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "087-Sum-of-Cubes/1.0.0": {
+        "runtime": {
+          "087-Sum-of-Cubes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "087-Sum-of-Cubes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
