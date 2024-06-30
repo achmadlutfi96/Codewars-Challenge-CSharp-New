@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\bin\Debug\net8.0\088-Deodorant-Evaporator.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\bin\Debug\net8.0\088-Deodorant-Evaporator.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\bin\Debug\net8.0\088-Deodorant-Evaporator.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\bin\Debug\net8.0\088-Deodorant-Evaporator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\bin\Debug\net8.0\088-Deodorant-Evaporator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\obj\Debug\net8.0\088-Deodorant-Evaporator.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\obj\Debug\net8.0\088-Deodorant-Evaporator.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\obj\Debug\net8.0\088-Deodorant-Evaporator.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\obj\Debug\net8.0\088-Deodorant-Evaporator.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\obj\Debug\net8.0\088-Deodorant-Evaporator.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\obj\Debug\net8.0\088-Deodorant-Evaporator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\obj\Debug\net8.0\refint\088-Deodorant-Evaporator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\obj\Debug\net8.0\088-Deodorant-Evaporator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\obj\Debug\net8.0\088-Deodorant-Evaporator.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\088-Deodorant-Evaporator\obj\Debug\net8.0\ref\088-Deodorant-Evaporator.dll
