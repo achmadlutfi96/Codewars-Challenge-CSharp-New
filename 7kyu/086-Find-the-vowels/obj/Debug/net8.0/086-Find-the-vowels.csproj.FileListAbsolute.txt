@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\bin\Debug\net8.0\086-Find-the-vowels.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\bin\Debug\net8.0\086-Find-the-vowels.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\bin\Debug\net8.0\086-Find-the-vowels.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\bin\Debug\net8.0\086-Find-the-vowels.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\bin\Debug\net8.0\086-Find-the-vowels.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\obj\Debug\net8.0\086-Find-the-vowels.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\obj\Debug\net8.0\086-Find-the-vowels.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\obj\Debug\net8.0\086-Find-the-vowels.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\obj\Debug\net8.0\086-Find-the-vowels.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\obj\Debug\net8.0\086-Find-the-vowels.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\obj\Debug\net8.0\086-Find-the-vowels.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\obj\Debug\net8.0\refint\086-Find-the-vowels.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\obj\Debug\net8.0\086-Find-the-vowels.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\obj\Debug\net8.0\086-Find-the-vowels.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\086-Find-the-vowels\obj\Debug\net8.0\ref\086-Find-the-vowels.dll
