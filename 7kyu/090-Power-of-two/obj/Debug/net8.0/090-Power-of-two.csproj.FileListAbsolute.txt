@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\bin\Debug\net8.0\090-Power-of-two.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\bin\Debug\net8.0\090-Power-of-two.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\bin\Debug\net8.0\090-Power-of-two.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\bin\Debug\net8.0\090-Power-of-two.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\bin\Debug\net8.0\090-Power-of-two.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\obj\Debug\net8.0\090-Power-of-two.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\obj\Debug\net8.0\090-Power-of-two.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\obj\Debug\net8.0\090-Power-of-two.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\obj\Debug\net8.0\090-Power-of-two.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\obj\Debug\net8.0\090-Power-of-two.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\obj\Debug\net8.0\090-Power-of-two.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\obj\Debug\net8.0\refint\090-Power-of-two.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\obj\Debug\net8.0\090-Power-of-two.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\obj\Debug\net8.0\090-Power-of-two.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\090-Power-of-two\obj\Debug\net8.0\ref\090-Power-of-two.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "090-Power-of-two/1.0.0": {
+        "runtime": {
+          "090-Power-of-two.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "090-Power-of-two/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
