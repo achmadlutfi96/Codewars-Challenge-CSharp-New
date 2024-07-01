@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\bin\Debug\net8.0\091-Most-digits.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\bin\Debug\net8.0\091-Most-digits.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\bin\Debug\net8.0\091-Most-digits.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\bin\Debug\net8.0\091-Most-digits.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\bin\Debug\net8.0\091-Most-digits.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\obj\Debug\net8.0\091-Most-digits.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\obj\Debug\net8.0\091-Most-digits.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\obj\Debug\net8.0\091-Most-digits.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\obj\Debug\net8.0\091-Most-digits.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\obj\Debug\net8.0\091-Most-digits.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\obj\Debug\net8.0\091-Most-digits.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\obj\Debug\net8.0\refint\091-Most-digits.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\obj\Debug\net8.0\091-Most-digits.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\obj\Debug\net8.0\091-Most-digits.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\091-Most-digits\obj\Debug\net8.0\ref\091-Most-digits.dll
