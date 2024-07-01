@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\bin\Debug\net8.0\089-Triangular-Treasure.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\bin\Debug\net8.0\089-Triangular-Treasure.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\bin\Debug\net8.0\089-Triangular-Treasure.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\bin\Debug\net8.0\089-Triangular-Treasure.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\bin\Debug\net8.0\089-Triangular-Treasure.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\obj\Debug\net8.0\089-Triangular-Treasure.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\obj\Debug\net8.0\089-Triangular-Treasure.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\obj\Debug\net8.0\089-Triangular-Treasure.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\obj\Debug\net8.0\089-Triangular-Treasure.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\obj\Debug\net8.0\089-Triangular-Treasure.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\obj\Debug\net8.0\089-Triangular-Treasure.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\obj\Debug\net8.0\refint\089-Triangular-Treasure.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\obj\Debug\net8.0\089-Triangular-Treasure.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\obj\Debug\net8.0\089-Triangular-Treasure.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\089-Triangular-Treasure\obj\Debug\net8.0\ref\089-Triangular-Treasure.dll
