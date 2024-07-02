@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\bin\Debug\net8.0\092-Reverse-a-Number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\bin\Debug\net8.0\092-Reverse-a-Number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\bin\Debug\net8.0\092-Reverse-a-Number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\bin\Debug\net8.0\092-Reverse-a-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\bin\Debug\net8.0\092-Reverse-a-Number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\obj\Debug\net8.0\092-Reverse-a-Number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\obj\Debug\net8.0\092-Reverse-a-Number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\obj\Debug\net8.0\092-Reverse-a-Number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\obj\Debug\net8.0\092-Reverse-a-Number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\obj\Debug\net8.0\092-Reverse-a-Number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\obj\Debug\net8.0\092-Reverse-a-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\obj\Debug\net8.0\refint\092-Reverse-a-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\obj\Debug\net8.0\092-Reverse-a-Number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\obj\Debug\net8.0\092-Reverse-a-Number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\092-Reverse-a-Number\obj\Debug\net8.0\ref\092-Reverse-a-Number.dll
