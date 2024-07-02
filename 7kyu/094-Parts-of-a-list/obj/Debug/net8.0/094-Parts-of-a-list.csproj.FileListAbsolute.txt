@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\obj\Debug\net8.0\094-Parts-of-a-list.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\obj\Debug\net8.0\094-Parts-of-a-list.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\obj\Debug\net8.0\094-Parts-of-a-list.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\obj\Debug\net8.0\094-Parts-of-a-list.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\obj\Debug\net8.0\094-Parts-of-a-list.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\bin\Debug\net8.0\094-Parts-of-a-list.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\bin\Debug\net8.0\094-Parts-of-a-list.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\bin\Debug\net8.0\094-Parts-of-a-list.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\bin\Debug\net8.0\094-Parts-of-a-list.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\bin\Debug\net8.0\094-Parts-of-a-list.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\obj\Debug\net8.0\094-Parts-of-a-list.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\obj\Debug\net8.0\refint\094-Parts-of-a-list.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\obj\Debug\net8.0\094-Parts-of-a-list.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\obj\Debug\net8.0\094-Parts-of-a-list.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\094-Parts-of-a-list\obj\Debug\net8.0\ref\094-Parts-of-a-list.dll
