@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\bin\Debug\net8.0\097-Switcheroo.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\bin\Debug\net8.0\097-Switcheroo.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\bin\Debug\net8.0\097-Switcheroo.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\bin\Debug\net8.0\097-Switcheroo.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\bin\Debug\net8.0\097-Switcheroo.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\obj\Debug\net8.0\097-Switcheroo.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\obj\Debug\net8.0\097-Switcheroo.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\obj\Debug\net8.0\097-Switcheroo.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\obj\Debug\net8.0\097-Switcheroo.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\obj\Debug\net8.0\097-Switcheroo.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\obj\Debug\net8.0\097-Switcheroo.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\obj\Debug\net8.0\refint\097-Switcheroo.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\obj\Debug\net8.0\097-Switcheroo.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\obj\Debug\net8.0\097-Switcheroo.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\097-Switcheroo\obj\Debug\net8.0\ref\097-Switcheroo.dll

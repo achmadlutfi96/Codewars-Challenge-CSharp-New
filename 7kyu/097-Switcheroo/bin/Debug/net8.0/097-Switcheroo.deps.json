@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "097-Switcheroo/1.0.0": {
+        "runtime": {
+          "097-Switcheroo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "097-Switcheroo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
