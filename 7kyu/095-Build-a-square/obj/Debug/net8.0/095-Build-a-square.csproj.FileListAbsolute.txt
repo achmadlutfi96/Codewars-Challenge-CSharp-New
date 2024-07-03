@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\bin\Debug\net8.0\095-Build-a-square.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\bin\Debug\net8.0\095-Build-a-square.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\bin\Debug\net8.0\095-Build-a-square.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\bin\Debug\net8.0\095-Build-a-square.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\bin\Debug\net8.0\095-Build-a-square.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\obj\Debug\net8.0\095-Build-a-square.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\obj\Debug\net8.0\095-Build-a-square.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\obj\Debug\net8.0\095-Build-a-square.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\obj\Debug\net8.0\095-Build-a-square.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\obj\Debug\net8.0\095-Build-a-square.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\obj\Debug\net8.0\095-Build-a-square.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\obj\Debug\net8.0\refint\095-Build-a-square.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\obj\Debug\net8.0\095-Build-a-square.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\obj\Debug\net8.0\095-Build-a-square.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\095-Build-a-square\obj\Debug\net8.0\ref\095-Build-a-square.dll
