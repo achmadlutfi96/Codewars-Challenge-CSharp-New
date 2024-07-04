@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "099-Divide-and-Conquer/1.0.0": {
+        "runtime": {
+          "099-Divide-and-Conquer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "099-Divide-and-Conquer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

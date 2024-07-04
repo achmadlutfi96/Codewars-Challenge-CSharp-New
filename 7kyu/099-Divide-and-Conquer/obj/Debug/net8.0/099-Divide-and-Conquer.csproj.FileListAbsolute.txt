@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\bin\Debug\net8.0\099-Divide-and-Conquer.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\bin\Debug\net8.0\099-Divide-and-Conquer.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\bin\Debug\net8.0\099-Divide-and-Conquer.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\bin\Debug\net8.0\099-Divide-and-Conquer.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\bin\Debug\net8.0\099-Divide-and-Conquer.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\obj\Debug\net8.0\099-Divide-and-Conquer.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\obj\Debug\net8.0\099-Divide-and-Conquer.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\obj\Debug\net8.0\099-Divide-and-Conquer.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\obj\Debug\net8.0\099-Divide-and-Conquer.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\obj\Debug\net8.0\099-Divide-and-Conquer.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\obj\Debug\net8.0\099-Divide-and-Conquer.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\obj\Debug\net8.0\refint\099-Divide-and-Conquer.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\obj\Debug\net8.0\099-Divide-and-Conquer.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\obj\Debug\net8.0\099-Divide-and-Conquer.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\099-Divide-and-Conquer\obj\Debug\net8.0\ref\099-Divide-and-Conquer.dll
