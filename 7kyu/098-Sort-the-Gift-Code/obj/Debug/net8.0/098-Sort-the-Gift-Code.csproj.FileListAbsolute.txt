@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\bin\Debug\net8.0\098-Sort-the-Gift-Code.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\bin\Debug\net8.0\098-Sort-the-Gift-Code.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\bin\Debug\net8.0\098-Sort-the-Gift-Code.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\bin\Debug\net8.0\098-Sort-the-Gift-Code.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\bin\Debug\net8.0\098-Sort-the-Gift-Code.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\obj\Debug\net8.0\098-Sort-the-Gift-Code.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\obj\Debug\net8.0\098-Sort-the-Gift-Code.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\obj\Debug\net8.0\098-Sort-the-Gift-Code.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\obj\Debug\net8.0\098-Sort-the-Gift-Code.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\obj\Debug\net8.0\098-Sort-the-Gift-Code.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\obj\Debug\net8.0\098-Sort-the-Gift-Code.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\obj\Debug\net8.0\refint\098-Sort-the-Gift-Code.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\obj\Debug\net8.0\098-Sort-the-Gift-Code.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\obj\Debug\net8.0\098-Sort-the-Gift-Code.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\098-Sort-the-Gift-Code\obj\Debug\net8.0\ref\098-Sort-the-Gift-Code.dll
