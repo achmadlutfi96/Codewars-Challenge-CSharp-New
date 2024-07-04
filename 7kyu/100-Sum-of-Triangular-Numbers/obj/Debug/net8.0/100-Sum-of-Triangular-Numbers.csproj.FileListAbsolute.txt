@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\bin\Debug\net8.0\100-Sum-of-Triangular-Numbers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\bin\Debug\net8.0\100-Sum-of-Triangular-Numbers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\bin\Debug\net8.0\100-Sum-of-Triangular-Numbers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\bin\Debug\net8.0\100-Sum-of-Triangular-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\bin\Debug\net8.0\100-Sum-of-Triangular-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\obj\Debug\net8.0\100-Sum-of-Triangular-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\obj\Debug\net8.0\100-Sum-of-Triangular-Numbers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\obj\Debug\net8.0\100-Sum-of-Triangular-Numbers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\obj\Debug\net8.0\100-Sum-of-Triangular-Numbers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\obj\Debug\net8.0\100-Sum-of-Triangular-Numbers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\obj\Debug\net8.0\100-Sum-of-Triangular-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\obj\Debug\net8.0\refint\100-Sum-of-Triangular-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\obj\Debug\net8.0\100-Sum-of-Triangular-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\obj\Debug\net8.0\100-Sum-of-Triangular-Numbers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\100-Sum-of-Triangular-Numbers\obj\Debug\net8.0\ref\100-Sum-of-Triangular-Numbers.dll
