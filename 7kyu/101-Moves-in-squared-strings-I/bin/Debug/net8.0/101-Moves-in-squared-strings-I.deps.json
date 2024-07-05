@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "101-Moves-in-squared-strings-I/1.0.0": {
+        "runtime": {
+          "101-Moves-in-squared-strings-I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "101-Moves-in-squared-strings-I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

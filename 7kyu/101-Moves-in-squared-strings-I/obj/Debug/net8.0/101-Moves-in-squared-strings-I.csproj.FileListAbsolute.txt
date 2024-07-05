@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\bin\Debug\net8.0\101-Moves-in-squared-strings-I.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\bin\Debug\net8.0\101-Moves-in-squared-strings-I.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\bin\Debug\net8.0\101-Moves-in-squared-strings-I.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\bin\Debug\net8.0\101-Moves-in-squared-strings-I.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\bin\Debug\net8.0\101-Moves-in-squared-strings-I.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\obj\Debug\net8.0\101-Moves-in-squared-strings-I.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\obj\Debug\net8.0\101-Moves-in-squared-strings-I.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\obj\Debug\net8.0\101-Moves-in-squared-strings-I.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\obj\Debug\net8.0\101-Moves-in-squared-strings-I.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\obj\Debug\net8.0\101-Moves-in-squared-strings-I.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\obj\Debug\net8.0\101-Moves-in-squared-strings-I.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\obj\Debug\net8.0\refint\101-Moves-in-squared-strings-I.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\obj\Debug\net8.0\101-Moves-in-squared-strings-I.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\obj\Debug\net8.0\101-Moves-in-squared-strings-I.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\101-Moves-in-squared-strings-I\obj\Debug\net8.0\ref\101-Moves-in-squared-strings-I.dll
