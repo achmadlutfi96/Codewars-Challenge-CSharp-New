@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\obj\Debug\net8.0\103-Simple-beads-count.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\obj\Debug\net8.0\103-Simple-beads-count.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\obj\Debug\net8.0\103-Simple-beads-count.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\obj\Debug\net8.0\103-Simple-beads-count.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\obj\Debug\net8.0\103-Simple-beads-count.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\bin\Debug\net8.0\103-Simple-beads-count.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\bin\Debug\net8.0\103-Simple-beads-count.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\bin\Debug\net8.0\103-Simple-beads-count.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\bin\Debug\net8.0\103-Simple-beads-count.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\bin\Debug\net8.0\103-Simple-beads-count.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\obj\Debug\net8.0\103-Simple-beads-count.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\obj\Debug\net8.0\refint\103-Simple-beads-count.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\obj\Debug\net8.0\103-Simple-beads-count.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\obj\Debug\net8.0\103-Simple-beads-count.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\103-Simple-beads-count\obj\Debug\net8.0\ref\103-Simple-beads-count.dll
