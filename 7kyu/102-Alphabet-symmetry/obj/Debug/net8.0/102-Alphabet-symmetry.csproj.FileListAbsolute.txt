@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\bin\Debug\net8.0\102-Alphabet-symmetry.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\bin\Debug\net8.0\102-Alphabet-symmetry.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\bin\Debug\net8.0\102-Alphabet-symmetry.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\bin\Debug\net8.0\102-Alphabet-symmetry.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\bin\Debug\net8.0\102-Alphabet-symmetry.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\obj\Debug\net8.0\102-Alphabet-symmetry.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\obj\Debug\net8.0\102-Alphabet-symmetry.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\obj\Debug\net8.0\102-Alphabet-symmetry.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\obj\Debug\net8.0\102-Alphabet-symmetry.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\obj\Debug\net8.0\102-Alphabet-symmetry.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\obj\Debug\net8.0\102-Alphabet-symmetry.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\obj\Debug\net8.0\refint\102-Alphabet-symmetry.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\obj\Debug\net8.0\102-Alphabet-symmetry.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\obj\Debug\net8.0\102-Alphabet-symmetry.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\102-Alphabet-symmetry\obj\Debug\net8.0\ref\102-Alphabet-symmetry.dll
