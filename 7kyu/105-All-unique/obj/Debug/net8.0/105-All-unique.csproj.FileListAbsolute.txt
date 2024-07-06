@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\bin\Debug\net8.0\105-All-unique.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\bin\Debug\net8.0\105-All-unique.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\bin\Debug\net8.0\105-All-unique.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\bin\Debug\net8.0\105-All-unique.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\bin\Debug\net8.0\105-All-unique.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\obj\Debug\net8.0\105-All-unique.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\obj\Debug\net8.0\105-All-unique.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\obj\Debug\net8.0\105-All-unique.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\obj\Debug\net8.0\105-All-unique.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\obj\Debug\net8.0\105-All-unique.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\obj\Debug\net8.0\105-All-unique.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\obj\Debug\net8.0\refint\105-All-unique.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\obj\Debug\net8.0\105-All-unique.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\obj\Debug\net8.0\105-All-unique.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\105-All-unique\obj\Debug\net8.0\ref\105-All-unique.dll
