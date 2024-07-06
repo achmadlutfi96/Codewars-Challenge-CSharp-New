@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\bin\Debug\net8.0\104-Filter-the-number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\bin\Debug\net8.0\104-Filter-the-number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\bin\Debug\net8.0\104-Filter-the-number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\bin\Debug\net8.0\104-Filter-the-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\bin\Debug\net8.0\104-Filter-the-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\obj\Debug\net8.0\104-Filter-the-number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\obj\Debug\net8.0\104-Filter-the-number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\obj\Debug\net8.0\104-Filter-the-number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\obj\Debug\net8.0\104-Filter-the-number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\obj\Debug\net8.0\104-Filter-the-number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\obj\Debug\net8.0\104-Filter-the-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\obj\Debug\net8.0\refint\104-Filter-the-number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\obj\Debug\net8.0\104-Filter-the-number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\obj\Debug\net8.0\104-Filter-the-number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\104-Filter-the-number\obj\Debug\net8.0\ref\104-Filter-the-number.dll
