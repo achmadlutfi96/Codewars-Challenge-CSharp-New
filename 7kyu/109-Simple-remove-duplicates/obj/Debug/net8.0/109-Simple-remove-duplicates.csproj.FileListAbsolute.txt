@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\bin\Debug\net8.0\109-Simple-remove-duplicates.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\bin\Debug\net8.0\109-Simple-remove-duplicates.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\bin\Debug\net8.0\109-Simple-remove-duplicates.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\bin\Debug\net8.0\109-Simple-remove-duplicates.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\bin\Debug\net8.0\109-Simple-remove-duplicates.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\obj\Debug\net8.0\109-Simple-remove-duplicates.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\obj\Debug\net8.0\109-Simple-remove-duplicates.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\obj\Debug\net8.0\109-Simple-remove-duplicates.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\obj\Debug\net8.0\109-Simple-remove-duplicates.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\obj\Debug\net8.0\109-Simple-remove-duplicates.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\obj\Debug\net8.0\109-Simple-remove-duplicates.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\obj\Debug\net8.0\refint\109-Simple-remove-duplicates.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\obj\Debug\net8.0\109-Simple-remove-duplicates.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\obj\Debug\net8.0\109-Simple-remove-duplicates.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\109-Simple-remove-duplicates\obj\Debug\net8.0\ref\109-Simple-remove-duplicates.dll
