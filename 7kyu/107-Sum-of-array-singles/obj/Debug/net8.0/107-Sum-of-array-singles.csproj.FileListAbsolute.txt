@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\bin\Debug\net8.0\107-Sum-of-array-singles.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\bin\Debug\net8.0\107-Sum-of-array-singles.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\bin\Debug\net8.0\107-Sum-of-array-singles.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\bin\Debug\net8.0\107-Sum-of-array-singles.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\bin\Debug\net8.0\107-Sum-of-array-singles.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\obj\Debug\net8.0\107-Sum-of-array-singles.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\obj\Debug\net8.0\107-Sum-of-array-singles.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\obj\Debug\net8.0\107-Sum-of-array-singles.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\obj\Debug\net8.0\107-Sum-of-array-singles.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\obj\Debug\net8.0\107-Sum-of-array-singles.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\obj\Debug\net8.0\107-Sum-of-array-singles.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\obj\Debug\net8.0\refint\107-Sum-of-array-singles.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\obj\Debug\net8.0\107-Sum-of-array-singles.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\obj\Debug\net8.0\107-Sum-of-array-singles.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\107-Sum-of-array-singles\obj\Debug\net8.0\ref\107-Sum-of-array-singles.dll
