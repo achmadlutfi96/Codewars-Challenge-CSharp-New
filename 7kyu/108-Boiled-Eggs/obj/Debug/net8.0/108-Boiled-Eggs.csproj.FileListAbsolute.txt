@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\bin\Debug\net8.0\108-Boiled-Eggs.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\bin\Debug\net8.0\108-Boiled-Eggs.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\bin\Debug\net8.0\108-Boiled-Eggs.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\bin\Debug\net8.0\108-Boiled-Eggs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\bin\Debug\net8.0\108-Boiled-Eggs.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\obj\Debug\net8.0\108-Boiled-Eggs.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\obj\Debug\net8.0\108-Boiled-Eggs.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\obj\Debug\net8.0\108-Boiled-Eggs.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\obj\Debug\net8.0\108-Boiled-Eggs.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\obj\Debug\net8.0\108-Boiled-Eggs.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\obj\Debug\net8.0\108-Boiled-Eggs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\obj\Debug\net8.0\refint\108-Boiled-Eggs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\obj\Debug\net8.0\108-Boiled-Eggs.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\obj\Debug\net8.0\108-Boiled-Eggs.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\108-Boiled-Eggs\obj\Debug\net8.0\ref\108-Boiled-Eggs.dll
