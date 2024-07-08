@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\bin\Debug\net8.0\111-Over-The-Road.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\bin\Debug\net8.0\111-Over-The-Road.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\bin\Debug\net8.0\111-Over-The-Road.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\bin\Debug\net8.0\111-Over-The-Road.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\bin\Debug\net8.0\111-Over-The-Road.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\obj\Debug\net8.0\111-Over-The-Road.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\obj\Debug\net8.0\111-Over-The-Road.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\obj\Debug\net8.0\111-Over-The-Road.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\obj\Debug\net8.0\111-Over-The-Road.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\obj\Debug\net8.0\111-Over-The-Road.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\obj\Debug\net8.0\111-Over-The-Road.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\obj\Debug\net8.0\refint\111-Over-The-Road.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\obj\Debug\net8.0\111-Over-The-Road.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\obj\Debug\net8.0\111-Over-The-Road.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\111-Over-The-Road\obj\Debug\net8.0\ref\111-Over-The-Road.dll
