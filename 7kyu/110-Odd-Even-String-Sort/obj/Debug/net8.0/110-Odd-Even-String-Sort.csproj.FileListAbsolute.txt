@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\bin\Debug\net8.0\110-Odd-Even-String-Sort.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\bin\Debug\net8.0\110-Odd-Even-String-Sort.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\bin\Debug\net8.0\110-Odd-Even-String-Sort.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\bin\Debug\net8.0\110-Odd-Even-String-Sort.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\bin\Debug\net8.0\110-Odd-Even-String-Sort.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\obj\Debug\net8.0\110-Odd-Even-String-Sort.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\obj\Debug\net8.0\110-Odd-Even-String-Sort.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\obj\Debug\net8.0\110-Odd-Even-String-Sort.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\obj\Debug\net8.0\110-Odd-Even-String-Sort.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\obj\Debug\net8.0\110-Odd-Even-String-Sort.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\obj\Debug\net8.0\110-Odd-Even-String-Sort.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\obj\Debug\net8.0\refint\110-Odd-Even-String-Sort.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\obj\Debug\net8.0\110-Odd-Even-String-Sort.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\obj\Debug\net8.0\110-Odd-Even-String-Sort.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\110-Odd-Even-String-Sort\obj\Debug\net8.0\ref\110-Odd-Even-String-Sort.dll
