@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\bin\Debug\net8.0\112-max-diff-easy.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\bin\Debug\net8.0\112-max-diff-easy.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\bin\Debug\net8.0\112-max-diff-easy.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\bin\Debug\net8.0\112-max-diff-easy.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\bin\Debug\net8.0\112-max-diff-easy.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\obj\Debug\net8.0\112-max-diff-easy.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\obj\Debug\net8.0\112-max-diff-easy.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\obj\Debug\net8.0\112-max-diff-easy.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\obj\Debug\net8.0\112-max-diff-easy.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\obj\Debug\net8.0\112-max-diff-easy.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\obj\Debug\net8.0\112-max-diff-easy.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\obj\Debug\net8.0\refint\112-max-diff-easy.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\obj\Debug\net8.0\112-max-diff-easy.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\obj\Debug\net8.0\112-max-diff-easy.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\112-max-diff-easy\obj\Debug\net8.0\ref\112-max-diff-easy.dll
