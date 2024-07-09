@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\bin\Debug\net8.0\113-Palindrome-chain-length.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\bin\Debug\net8.0\113-Palindrome-chain-length.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\bin\Debug\net8.0\113-Palindrome-chain-length.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\bin\Debug\net8.0\113-Palindrome-chain-length.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\bin\Debug\net8.0\113-Palindrome-chain-length.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\obj\Debug\net8.0\113-Palindrome-chain-length.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\obj\Debug\net8.0\113-Palindrome-chain-length.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\obj\Debug\net8.0\113-Palindrome-chain-length.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\obj\Debug\net8.0\113-Palindrome-chain-length.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\obj\Debug\net8.0\113-Palindrome-chain-length.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\obj\Debug\net8.0\113-Palindrome-chain-length.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\obj\Debug\net8.0\refint\113-Palindrome-chain-length.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\obj\Debug\net8.0\113-Palindrome-chain-length.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\obj\Debug\net8.0\113-Palindrome-chain-length.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\113-Palindrome-chain-length\obj\Debug\net8.0\ref\113-Palindrome-chain-length.dll
