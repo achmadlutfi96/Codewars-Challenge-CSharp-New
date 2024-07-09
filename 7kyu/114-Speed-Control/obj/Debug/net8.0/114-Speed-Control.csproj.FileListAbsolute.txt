@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\bin\Debug\net8.0\114-Speed-Control.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\bin\Debug\net8.0\114-Speed-Control.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\bin\Debug\net8.0\114-Speed-Control.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\bin\Debug\net8.0\114-Speed-Control.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\bin\Debug\net8.0\114-Speed-Control.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\obj\Debug\net8.0\114-Speed-Control.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\obj\Debug\net8.0\114-Speed-Control.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\obj\Debug\net8.0\114-Speed-Control.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\obj\Debug\net8.0\114-Speed-Control.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\obj\Debug\net8.0\114-Speed-Control.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\obj\Debug\net8.0\114-Speed-Control.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\obj\Debug\net8.0\refint\114-Speed-Control.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\obj\Debug\net8.0\114-Speed-Control.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\obj\Debug\net8.0\114-Speed-Control.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\114-Speed-Control\obj\Debug\net8.0\ref\114-Speed-Control.dll
