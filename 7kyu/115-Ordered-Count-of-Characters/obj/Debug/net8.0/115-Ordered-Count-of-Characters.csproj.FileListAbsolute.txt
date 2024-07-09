@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\bin\Debug\net8.0\115-Ordered-Count-of-Characters.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\bin\Debug\net8.0\115-Ordered-Count-of-Characters.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\bin\Debug\net8.0\115-Ordered-Count-of-Characters.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\bin\Debug\net8.0\115-Ordered-Count-of-Characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\bin\Debug\net8.0\115-Ordered-Count-of-Characters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\obj\Debug\net8.0\115-Ordered-Count-of-Characters.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\obj\Debug\net8.0\115-Ordered-Count-of-Characters.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\obj\Debug\net8.0\115-Ordered-Count-of-Characters.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\obj\Debug\net8.0\115-Ordered-Count-of-Characters.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\obj\Debug\net8.0\115-Ordered-Count-of-Characters.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\obj\Debug\net8.0\115-Ordered-Count-of-Characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\obj\Debug\net8.0\refint\115-Ordered-Count-of-Characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\obj\Debug\net8.0\115-Ordered-Count-of-Characters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\obj\Debug\net8.0\115-Ordered-Count-of-Characters.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\115-Ordered-Count-of-Characters\obj\Debug\net8.0\ref\115-Ordered-Count-of-Characters.dll
