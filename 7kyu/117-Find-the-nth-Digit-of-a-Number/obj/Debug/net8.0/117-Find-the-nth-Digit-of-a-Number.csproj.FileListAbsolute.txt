@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\bin\Debug\net8.0\117-Find-the-nth-Digit-of-a-Number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\bin\Debug\net8.0\117-Find-the-nth-Digit-of-a-Number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\bin\Debug\net8.0\117-Find-the-nth-Digit-of-a-Number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\bin\Debug\net8.0\117-Find-the-nth-Digit-of-a-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\bin\Debug\net8.0\117-Find-the-nth-Digit-of-a-Number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\obj\Debug\net8.0\117-Find-the-nth-Digit-of-a-Number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\obj\Debug\net8.0\117-Find-the-nth-Digit-of-a-Number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\obj\Debug\net8.0\117-Find-the-nth-Digit-of-a-Number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\obj\Debug\net8.0\117-Find-the-nth-Digit-of-a-Number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\obj\Debug\net8.0\117-Find-the-nth-Digit-of-a-Number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\obj\Debug\net8.0\117-Find-the-nth-Digit-of-a-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\obj\Debug\net8.0\refint\117-Find-the-nth-Digit-of-a-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\obj\Debug\net8.0\117-Find-the-nth-Digit-of-a-Number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\obj\Debug\net8.0\117-Find-the-nth-Digit-of-a-Number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\117-Find-the-nth-Digit-of-a-Number\obj\Debug\net8.0\ref\117-Find-the-nth-Digit-of-a-Number.dll
