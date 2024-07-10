@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\bin\Debug\net8.0\116-Sum-of-Odd-Cubed-Numbers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\bin\Debug\net8.0\116-Sum-of-Odd-Cubed-Numbers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\bin\Debug\net8.0\116-Sum-of-Odd-Cubed-Numbers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\bin\Debug\net8.0\116-Sum-of-Odd-Cubed-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\bin\Debug\net8.0\116-Sum-of-Odd-Cubed-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\obj\Debug\net8.0\116-Sum-of-Odd-Cubed-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\obj\Debug\net8.0\116-Sum-of-Odd-Cubed-Numbers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\obj\Debug\net8.0\116-Sum-of-Odd-Cubed-Numbers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\obj\Debug\net8.0\116-Sum-of-Odd-Cubed-Numbers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\obj\Debug\net8.0\116-Sum-of-Odd-Cubed-Numbers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\obj\Debug\net8.0\116-Sum-of-Odd-Cubed-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\obj\Debug\net8.0\refint\116-Sum-of-Odd-Cubed-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\obj\Debug\net8.0\116-Sum-of-Odd-Cubed-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\obj\Debug\net8.0\116-Sum-of-Odd-Cubed-Numbers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\116-Sum-of-Odd-Cubed-Numbers\obj\Debug\net8.0\ref\116-Sum-of-Odd-Cubed-Numbers.dll
