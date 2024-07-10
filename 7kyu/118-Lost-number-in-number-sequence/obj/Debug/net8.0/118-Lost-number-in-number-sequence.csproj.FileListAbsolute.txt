@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\bin\Debug\net8.0\118-Lost-number-in-number-sequence.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\bin\Debug\net8.0\118-Lost-number-in-number-sequence.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\bin\Debug\net8.0\118-Lost-number-in-number-sequence.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\bin\Debug\net8.0\118-Lost-number-in-number-sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\bin\Debug\net8.0\118-Lost-number-in-number-sequence.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\obj\Debug\net8.0\118-Lost-number-in-number-sequence.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\obj\Debug\net8.0\118-Lost-number-in-number-sequence.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\obj\Debug\net8.0\118-Lost-number-in-number-sequence.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\obj\Debug\net8.0\118-Lost-number-in-number-sequence.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\obj\Debug\net8.0\118-Lost-number-in-number-sequence.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\obj\Debug\net8.0\118-Lost-number-in-number-sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\obj\Debug\net8.0\refint\118-Lost-number-in-number-sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\obj\Debug\net8.0\118-Lost-number-in-number-sequence.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\obj\Debug\net8.0\118-Lost-number-in-number-sequence.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\118-Lost-number-in-number-sequence\obj\Debug\net8.0\ref\118-Lost-number-in-number-sequence.dll
