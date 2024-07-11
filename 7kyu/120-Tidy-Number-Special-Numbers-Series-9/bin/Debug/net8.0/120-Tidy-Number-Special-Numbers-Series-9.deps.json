@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "120-Tidy-Number-Special-Numbers-Series-9/1.0.0": {
+        "runtime": {
+          "120-Tidy-Number-Special-Numbers-Series-9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "120-Tidy-Number-Special-Numbers-Series-9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
