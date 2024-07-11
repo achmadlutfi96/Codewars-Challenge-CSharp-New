@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\bin\Debug\net8.0\119-Nth-Smallest-Element-Array-Series-4.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\bin\Debug\net8.0\119-Nth-Smallest-Element-Array-Series-4.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\bin\Debug\net8.0\119-Nth-Smallest-Element-Array-Series-4.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\bin\Debug\net8.0\119-Nth-Smallest-Element-Array-Series-4.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\bin\Debug\net8.0\119-Nth-Smallest-Element-Array-Series-4.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\obj\Debug\net8.0\119-Nth-Smallest-Element-Array-Series-4.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\obj\Debug\net8.0\119-Nth-Smallest-Element-Array-Series-4.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\obj\Debug\net8.0\119-Nth-Smallest-Element-Array-Series-4.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\obj\Debug\net8.0\119-Nth-Smallest-Element-Array-Series-4.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\obj\Debug\net8.0\119-Nth-Smallest-Element-Array-Series-4.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\obj\Debug\net8.0\119-Nth-Smallest-Element-Array-Series-4.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\obj\Debug\net8.0\refint\119-Nth-Smallest-Element-Array-Series-4.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\obj\Debug\net8.0\119-Nth-Smallest-Element-Array-Series-4.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\obj\Debug\net8.0\119-Nth-Smallest-Element-Array-Series-4.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\119-Nth-Smallest-Element-Array-Series-4\obj\Debug\net8.0\ref\119-Nth-Smallest-Element-Array-Series-4.dll
