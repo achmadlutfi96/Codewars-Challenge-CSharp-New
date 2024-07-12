@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\bin\Debug\net8.0\124-Balanced-Number-Special-Numbers-Series-1.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\bin\Debug\net8.0\124-Balanced-Number-Special-Numbers-Series-1.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\bin\Debug\net8.0\124-Balanced-Number-Special-Numbers-Series-1.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\bin\Debug\net8.0\124-Balanced-Number-Special-Numbers-Series-1.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\bin\Debug\net8.0\124-Balanced-Number-Special-Numbers-Series-1.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\obj\Debug\net8.0\124-Balanced-Number-Special-Numbers-Series-1.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\obj\Debug\net8.0\124-Balanced-Number-Special-Numbers-Series-1.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\obj\Debug\net8.0\124-Balanced-Number-Special-Numbers-Series-1.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\obj\Debug\net8.0\124-Balanced-Number-Special-Numbers-Series-1.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\obj\Debug\net8.0\124-Balanced-Number-Special-Numbers-Series-1.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\obj\Debug\net8.0\124-Balanced-Number-Special-Numbers-Series-1.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\obj\Debug\net8.0\refint\124-Balanced-Number-Special-Numbers-Series-1.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\obj\Debug\net8.0\124-Balanced-Number-Special-Numbers-Series-1.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\obj\Debug\net8.0\124-Balanced-Number-Special-Numbers-Series-1.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\124-Balanced-Number-Special-Numbers-Series-1\obj\Debug\net8.0\ref\124-Balanced-Number-Special-Numbers-Series-1.dll
