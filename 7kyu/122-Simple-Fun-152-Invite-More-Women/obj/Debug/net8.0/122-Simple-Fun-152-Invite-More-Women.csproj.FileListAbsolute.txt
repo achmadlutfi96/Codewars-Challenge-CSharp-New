@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\bin\Debug\net8.0\122-Simple-Fun-152-Invite-More-Women.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\bin\Debug\net8.0\122-Simple-Fun-152-Invite-More-Women.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\bin\Debug\net8.0\122-Simple-Fun-152-Invite-More-Women.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\bin\Debug\net8.0\122-Simple-Fun-152-Invite-More-Women.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\bin\Debug\net8.0\122-Simple-Fun-152-Invite-More-Women.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\obj\Debug\net8.0\122-Simple-Fun-152-Invite-More-Women.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\obj\Debug\net8.0\122-Simple-Fun-152-Invite-More-Women.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\obj\Debug\net8.0\122-Simple-Fun-152-Invite-More-Women.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\obj\Debug\net8.0\122-Simple-Fun-152-Invite-More-Women.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\obj\Debug\net8.0\122-Simple-Fun-152-Invite-More-Women.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\obj\Debug\net8.0\122-Simple-Fun-152-Invite-More-Women.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\obj\Debug\net8.0\refint\122-Simple-Fun-152-Invite-More-Women.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\obj\Debug\net8.0\122-Simple-Fun-152-Invite-More-Women.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\obj\Debug\net8.0\122-Simple-Fun-152-Invite-More-Women.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\122-Simple-Fun-152-Invite-More-Women\obj\Debug\net8.0\ref\122-Simple-Fun-152-Invite-More-Women.dll
