@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\bin\Debug\net8.0\126-My-Language-Skills.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\bin\Debug\net8.0\126-My-Language-Skills.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\bin\Debug\net8.0\126-My-Language-Skills.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\bin\Debug\net8.0\126-My-Language-Skills.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\bin\Debug\net8.0\126-My-Language-Skills.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\obj\Debug\net8.0\126-My-Language-Skills.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\obj\Debug\net8.0\126-My-Language-Skills.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\obj\Debug\net8.0\126-My-Language-Skills.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\obj\Debug\net8.0\126-My-Language-Skills.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\obj\Debug\net8.0\126-My-Language-Skills.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\obj\Debug\net8.0\126-My-Language-Skills.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\obj\Debug\net8.0\refint\126-My-Language-Skills.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\obj\Debug\net8.0\126-My-Language-Skills.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\obj\Debug\net8.0\126-My-Language-Skills.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\126-My-Language-Skills\obj\Debug\net8.0\ref\126-My-Language-Skills.dll
