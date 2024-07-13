@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "127-Maximum-Triplet-Sum-Array-Series-7", "127-Maximum-Triplet-Sum-Array-Series-7.csproj", "{0DA88FFA-8979-4F82-A0C6-FB7A7AD039E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA88FFA-8979-4F82-A0C6-FB7A7AD039E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA88FFA-8979-4F82-A0C6-FB7A7AD039E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA88FFA-8979-4F82-A0C6-FB7A7AD039E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA88FFA-8979-4F82-A0C6-FB7A7AD039E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FA900B8-239A-434E-9F19-F7CECE1BC533}
+	EndGlobalSection
+EndGlobal
