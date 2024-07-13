@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "125-Alphabetical-Addition/1.0.0": {
+        "runtime": {
+          "125-Alphabetical-Addition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "125-Alphabetical-Addition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

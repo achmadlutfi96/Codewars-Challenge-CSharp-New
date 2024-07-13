@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\bin\Debug\net8.0\125-Alphabetical-Addition.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\bin\Debug\net8.0\125-Alphabetical-Addition.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\bin\Debug\net8.0\125-Alphabetical-Addition.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\bin\Debug\net8.0\125-Alphabetical-Addition.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\bin\Debug\net8.0\125-Alphabetical-Addition.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\obj\Debug\net8.0\125-Alphabetical-Addition.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\obj\Debug\net8.0\125-Alphabetical-Addition.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\obj\Debug\net8.0\125-Alphabetical-Addition.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\obj\Debug\net8.0\125-Alphabetical-Addition.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\obj\Debug\net8.0\125-Alphabetical-Addition.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\obj\Debug\net8.0\125-Alphabetical-Addition.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\obj\Debug\net8.0\refint\125-Alphabetical-Addition.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\obj\Debug\net8.0\125-Alphabetical-Addition.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\obj\Debug\net8.0\125-Alphabetical-Addition.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\125-Alphabetical-Addition\obj\Debug\net8.0\ref\125-Alphabetical-Addition.dll
