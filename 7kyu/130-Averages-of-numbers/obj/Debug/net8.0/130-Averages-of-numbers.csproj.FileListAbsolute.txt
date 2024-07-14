@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\bin\Debug\net8.0\130-Averages-of-numbers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\bin\Debug\net8.0\130-Averages-of-numbers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\bin\Debug\net8.0\130-Averages-of-numbers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\bin\Debug\net8.0\130-Averages-of-numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\bin\Debug\net8.0\130-Averages-of-numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\obj\Debug\net8.0\130-Averages-of-numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\obj\Debug\net8.0\130-Averages-of-numbers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\obj\Debug\net8.0\130-Averages-of-numbers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\obj\Debug\net8.0\130-Averages-of-numbers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\obj\Debug\net8.0\130-Averages-of-numbers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\obj\Debug\net8.0\130-Averages-of-numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\obj\Debug\net8.0\refint\130-Averages-of-numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\obj\Debug\net8.0\130-Averages-of-numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\obj\Debug\net8.0\130-Averages-of-numbers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\130-Averages-of-numbers\obj\Debug\net8.0\ref\130-Averages-of-numbers.dll

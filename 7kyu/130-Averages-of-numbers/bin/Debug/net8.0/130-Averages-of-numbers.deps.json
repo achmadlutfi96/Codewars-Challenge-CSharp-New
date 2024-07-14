@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "130-Averages-of-numbers/1.0.0": {
+        "runtime": {
+          "130-Averages-of-numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "130-Averages-of-numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
