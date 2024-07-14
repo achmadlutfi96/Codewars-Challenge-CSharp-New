@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\bin\Debug\net8.0\129-Currying-functions-multiply-all-elements-in-an-array.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\bin\Debug\net8.0\129-Currying-functions-multiply-all-elements-in-an-array.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\bin\Debug\net8.0\129-Currying-functions-multiply-all-elements-in-an-array.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\bin\Debug\net8.0\129-Currying-functions-multiply-all-elements-in-an-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\bin\Debug\net8.0\129-Currying-functions-multiply-all-elements-in-an-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\obj\Debug\net8.0\129-Currying-functions-multiply-all-elements-in-an-array.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\obj\Debug\net8.0\129-Currying-functions-multiply-all-elements-in-an-array.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\obj\Debug\net8.0\129-Currying-functions-multiply-all-elements-in-an-array.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\obj\Debug\net8.0\129-Currying-functions-multiply-all-elements-in-an-array.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\obj\Debug\net8.0\129-Currying-functions-multiply-all-elements-in-an-array.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\obj\Debug\net8.0\129-Currying-functions-multiply-all-elements-in-an-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\obj\Debug\net8.0\refint\129-Currying-functions-multiply-all-elements-in-an-array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\obj\Debug\net8.0\129-Currying-functions-multiply-all-elements-in-an-array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\obj\Debug\net8.0\129-Currying-functions-multiply-all-elements-in-an-array.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\129-Currying-functions-multiply-all-elements-in-an-array\obj\Debug\net8.0\ref\129-Currying-functions-multiply-all-elements-in-an-array.dll
