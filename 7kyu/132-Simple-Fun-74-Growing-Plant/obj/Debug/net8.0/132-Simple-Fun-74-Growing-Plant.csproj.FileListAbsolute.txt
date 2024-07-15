@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\bin\Debug\net8.0\132-Simple-Fun-74-Growing-Plant.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\bin\Debug\net8.0\132-Simple-Fun-74-Growing-Plant.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\bin\Debug\net8.0\132-Simple-Fun-74-Growing-Plant.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\bin\Debug\net8.0\132-Simple-Fun-74-Growing-Plant.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\bin\Debug\net8.0\132-Simple-Fun-74-Growing-Plant.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\obj\Debug\net8.0\132-Simple-Fun-74-Growing-Plant.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\obj\Debug\net8.0\132-Simple-Fun-74-Growing-Plant.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\obj\Debug\net8.0\132-Simple-Fun-74-Growing-Plant.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\obj\Debug\net8.0\132-Simple-Fun-74-Growing-Plant.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\obj\Debug\net8.0\132-Simple-Fun-74-Growing-Plant.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\obj\Debug\net8.0\132-Simple-Fun-74-Growing-Plant.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\obj\Debug\net8.0\refint\132-Simple-Fun-74-Growing-Plant.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\obj\Debug\net8.0\132-Simple-Fun-74-Growing-Plant.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\obj\Debug\net8.0\132-Simple-Fun-74-Growing-Plant.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\132-Simple-Fun-74-Growing-Plant\obj\Debug\net8.0\ref\132-Simple-Fun-74-Growing-Plant.dll

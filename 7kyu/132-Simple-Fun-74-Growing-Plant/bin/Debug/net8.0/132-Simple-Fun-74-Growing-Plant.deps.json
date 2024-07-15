@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "132-Simple-Fun-74-Growing-Plant/1.0.0": {
+        "runtime": {
+          "132-Simple-Fun-74-Growing-Plant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "132-Simple-Fun-74-Growing-Plant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
