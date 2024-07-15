@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\bin\Debug\net8.0\131-Sort-Out-The-Men-From-Boys.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\bin\Debug\net8.0\131-Sort-Out-The-Men-From-Boys.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\bin\Debug\net8.0\131-Sort-Out-The-Men-From-Boys.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\bin\Debug\net8.0\131-Sort-Out-The-Men-From-Boys.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\bin\Debug\net8.0\131-Sort-Out-The-Men-From-Boys.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\obj\Debug\net8.0\131-Sort-Out-The-Men-From-Boys.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\obj\Debug\net8.0\131-Sort-Out-The-Men-From-Boys.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\obj\Debug\net8.0\131-Sort-Out-The-Men-From-Boys.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\obj\Debug\net8.0\131-Sort-Out-The-Men-From-Boys.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\obj\Debug\net8.0\131-Sort-Out-The-Men-From-Boys.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\obj\Debug\net8.0\131-Sort-Out-The-Men-From-Boys.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\obj\Debug\net8.0\refint\131-Sort-Out-The-Men-From-Boys.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\obj\Debug\net8.0\131-Sort-Out-The-Men-From-Boys.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\obj\Debug\net8.0\131-Sort-Out-The-Men-From-Boys.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\131-Sort-Out-The-Men-From-Boys\obj\Debug\net8.0\ref\131-Sort-Out-The-Men-From-Boys.dll
