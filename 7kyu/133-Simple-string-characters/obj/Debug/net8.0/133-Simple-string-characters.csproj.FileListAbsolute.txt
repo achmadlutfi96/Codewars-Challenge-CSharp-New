@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\bin\Debug\net8.0\133-Simple-string-characters.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\bin\Debug\net8.0\133-Simple-string-characters.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\bin\Debug\net8.0\133-Simple-string-characters.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\bin\Debug\net8.0\133-Simple-string-characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\bin\Debug\net8.0\133-Simple-string-characters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\obj\Debug\net8.0\133-Simple-string-characters.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\obj\Debug\net8.0\133-Simple-string-characters.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\obj\Debug\net8.0\133-Simple-string-characters.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\obj\Debug\net8.0\133-Simple-string-characters.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\obj\Debug\net8.0\133-Simple-string-characters.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\obj\Debug\net8.0\133-Simple-string-characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\obj\Debug\net8.0\refint\133-Simple-string-characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\obj\Debug\net8.0\133-Simple-string-characters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\obj\Debug\net8.0\133-Simple-string-characters.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\133-Simple-string-characters\obj\Debug\net8.0\ref\133-Simple-string-characters.dll
