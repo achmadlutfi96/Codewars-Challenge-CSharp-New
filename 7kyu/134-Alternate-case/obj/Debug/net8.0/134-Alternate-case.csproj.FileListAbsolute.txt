@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\bin\Debug\net8.0\134-Alternate-case.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\bin\Debug\net8.0\134-Alternate-case.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\bin\Debug\net8.0\134-Alternate-case.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\bin\Debug\net8.0\134-Alternate-case.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\bin\Debug\net8.0\134-Alternate-case.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\obj\Debug\net8.0\134-Alternate-case.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\obj\Debug\net8.0\134-Alternate-case.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\obj\Debug\net8.0\134-Alternate-case.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\obj\Debug\net8.0\134-Alternate-case.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\obj\Debug\net8.0\134-Alternate-case.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\obj\Debug\net8.0\134-Alternate-case.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\obj\Debug\net8.0\refint\134-Alternate-case.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\obj\Debug\net8.0\134-Alternate-case.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\obj\Debug\net8.0\134-Alternate-case.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\134-Alternate-case\obj\Debug\net8.0\ref\134-Alternate-case.dll
