@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\bin\Debug\net8.0\136-Sort-by-Last-Char.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\bin\Debug\net8.0\136-Sort-by-Last-Char.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\bin\Debug\net8.0\136-Sort-by-Last-Char.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\bin\Debug\net8.0\136-Sort-by-Last-Char.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\bin\Debug\net8.0\136-Sort-by-Last-Char.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\obj\Debug\net8.0\136-Sort-by-Last-Char.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\obj\Debug\net8.0\136-Sort-by-Last-Char.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\obj\Debug\net8.0\136-Sort-by-Last-Char.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\obj\Debug\net8.0\136-Sort-by-Last-Char.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\obj\Debug\net8.0\136-Sort-by-Last-Char.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\obj\Debug\net8.0\136-Sort-by-Last-Char.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\obj\Debug\net8.0\refint\136-Sort-by-Last-Char.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\obj\Debug\net8.0\136-Sort-by-Last-Char.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\obj\Debug\net8.0\136-Sort-by-Last-Char.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\136-Sort-by-Last-Char\obj\Debug\net8.0\ref\136-Sort-by-Last-Char.dll
