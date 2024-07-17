@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\bin\Debug\net8.0\138-Functional-Addition.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\bin\Debug\net8.0\138-Functional-Addition.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\bin\Debug\net8.0\138-Functional-Addition.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\bin\Debug\net8.0\138-Functional-Addition.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\bin\Debug\net8.0\138-Functional-Addition.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\obj\Debug\net8.0\138-Functional-Addition.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\obj\Debug\net8.0\138-Functional-Addition.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\obj\Debug\net8.0\138-Functional-Addition.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\obj\Debug\net8.0\138-Functional-Addition.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\obj\Debug\net8.0\138-Functional-Addition.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\obj\Debug\net8.0\138-Functional-Addition.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\obj\Debug\net8.0\refint\138-Functional-Addition.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\obj\Debug\net8.0\138-Functional-Addition.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\obj\Debug\net8.0\138-Functional-Addition.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\138-Functional-Addition\obj\Debug\net8.0\ref\138-Functional-Addition.dll

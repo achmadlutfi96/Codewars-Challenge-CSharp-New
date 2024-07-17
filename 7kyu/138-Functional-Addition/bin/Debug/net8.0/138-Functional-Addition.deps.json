@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "138-Functional-Addition/1.0.0": {
+        "runtime": {
+          "138-Functional-Addition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "138-Functional-Addition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
