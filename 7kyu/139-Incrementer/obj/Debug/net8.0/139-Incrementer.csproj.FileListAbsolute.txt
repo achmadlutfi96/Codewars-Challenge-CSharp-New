@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\bin\Debug\net8.0\139-Incrementer.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\bin\Debug\net8.0\139-Incrementer.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\bin\Debug\net8.0\139-Incrementer.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\bin\Debug\net8.0\139-Incrementer.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\bin\Debug\net8.0\139-Incrementer.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\obj\Debug\net8.0\139-Incrementer.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\obj\Debug\net8.0\139-Incrementer.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\obj\Debug\net8.0\139-Incrementer.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\obj\Debug\net8.0\139-Incrementer.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\obj\Debug\net8.0\139-Incrementer.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\obj\Debug\net8.0\139-Incrementer.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\obj\Debug\net8.0\refint\139-Incrementer.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\obj\Debug\net8.0\139-Incrementer.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\obj\Debug\net8.0\139-Incrementer.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\139-Incrementer\obj\Debug\net8.0\ref\139-Incrementer.dll
