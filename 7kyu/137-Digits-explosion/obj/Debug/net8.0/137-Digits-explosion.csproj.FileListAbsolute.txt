@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\bin\Debug\net8.0\137-Digits-explosion.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\bin\Debug\net8.0\137-Digits-explosion.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\bin\Debug\net8.0\137-Digits-explosion.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\bin\Debug\net8.0\137-Digits-explosion.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\bin\Debug\net8.0\137-Digits-explosion.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\obj\Debug\net8.0\137-Digits-explosion.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\obj\Debug\net8.0\137-Digits-explosion.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\obj\Debug\net8.0\137-Digits-explosion.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\obj\Debug\net8.0\137-Digits-explosion.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\obj\Debug\net8.0\137-Digits-explosion.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\obj\Debug\net8.0\137-Digits-explosion.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\obj\Debug\net8.0\refint\137-Digits-explosion.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\obj\Debug\net8.0\137-Digits-explosion.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\obj\Debug\net8.0\137-Digits-explosion.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\137-Digits-explosion\obj\Debug\net8.0\ref\137-Digits-explosion.dll
