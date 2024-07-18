@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\bin\Debug\net8.0\142-Folding-your-way-to-the-moon.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\bin\Debug\net8.0\142-Folding-your-way-to-the-moon.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\bin\Debug\net8.0\142-Folding-your-way-to-the-moon.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\bin\Debug\net8.0\142-Folding-your-way-to-the-moon.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\bin\Debug\net8.0\142-Folding-your-way-to-the-moon.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\obj\Debug\net8.0\142-Folding-your-way-to-the-moon.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\obj\Debug\net8.0\142-Folding-your-way-to-the-moon.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\obj\Debug\net8.0\142-Folding-your-way-to-the-moon.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\obj\Debug\net8.0\142-Folding-your-way-to-the-moon.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\obj\Debug\net8.0\142-Folding-your-way-to-the-moon.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\obj\Debug\net8.0\142-Folding-your-way-to-the-moon.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\obj\Debug\net8.0\refint\142-Folding-your-way-to-the-moon.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\obj\Debug\net8.0\142-Folding-your-way-to-the-moon.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\obj\Debug\net8.0\142-Folding-your-way-to-the-moon.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\142-Folding-your-way-to-the-moon\obj\Debug\net8.0\ref\142-Folding-your-way-to-the-moon.dll

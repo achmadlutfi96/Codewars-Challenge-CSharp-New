@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "142-Folding-your-way-to-the-moon/1.0.0": {
+        "runtime": {
+          "142-Folding-your-way-to-the-moon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "142-Folding-your-way-to-the-moon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
