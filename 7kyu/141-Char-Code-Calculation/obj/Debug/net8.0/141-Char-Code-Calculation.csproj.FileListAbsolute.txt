@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\bin\Debug\net8.0\141-Char-Code-Calculation.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\bin\Debug\net8.0\141-Char-Code-Calculation.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\bin\Debug\net8.0\141-Char-Code-Calculation.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\bin\Debug\net8.0\141-Char-Code-Calculation.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\bin\Debug\net8.0\141-Char-Code-Calculation.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\obj\Debug\net8.0\141-Char-Code-Calculation.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\obj\Debug\net8.0\141-Char-Code-Calculation.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\obj\Debug\net8.0\141-Char-Code-Calculation.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\obj\Debug\net8.0\141-Char-Code-Calculation.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\obj\Debug\net8.0\141-Char-Code-Calculation.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\obj\Debug\net8.0\141-Char-Code-Calculation.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\obj\Debug\net8.0\refint\141-Char-Code-Calculation.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\obj\Debug\net8.0\141-Char-Code-Calculation.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\obj\Debug\net8.0\141-Char-Code-Calculation.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\141-Char-Code-Calculation\obj\Debug\net8.0\ref\141-Char-Code-Calculation.dll
