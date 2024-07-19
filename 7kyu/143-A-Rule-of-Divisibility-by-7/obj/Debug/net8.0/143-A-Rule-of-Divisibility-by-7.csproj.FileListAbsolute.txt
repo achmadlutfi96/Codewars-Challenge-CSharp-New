@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\bin\Debug\net8.0\143-A-Rule-of-Divisibility-by-7.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\bin\Debug\net8.0\143-A-Rule-of-Divisibility-by-7.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\bin\Debug\net8.0\143-A-Rule-of-Divisibility-by-7.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\bin\Debug\net8.0\143-A-Rule-of-Divisibility-by-7.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\bin\Debug\net8.0\143-A-Rule-of-Divisibility-by-7.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\obj\Debug\net8.0\143-A-Rule-of-Divisibility-by-7.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\obj\Debug\net8.0\143-A-Rule-of-Divisibility-by-7.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\obj\Debug\net8.0\143-A-Rule-of-Divisibility-by-7.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\obj\Debug\net8.0\143-A-Rule-of-Divisibility-by-7.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\obj\Debug\net8.0\143-A-Rule-of-Divisibility-by-7.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\obj\Debug\net8.0\143-A-Rule-of-Divisibility-by-7.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\obj\Debug\net8.0\refint\143-A-Rule-of-Divisibility-by-7.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\obj\Debug\net8.0\143-A-Rule-of-Divisibility-by-7.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\obj\Debug\net8.0\143-A-Rule-of-Divisibility-by-7.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\143-A-Rule-of-Divisibility-by-7\obj\Debug\net8.0\ref\143-A-Rule-of-Divisibility-by-7.dll
