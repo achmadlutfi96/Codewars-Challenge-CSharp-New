@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\bin\Debug\net8.0\144-Greatest-common-divisor.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\bin\Debug\net8.0\144-Greatest-common-divisor.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\bin\Debug\net8.0\144-Greatest-common-divisor.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\bin\Debug\net8.0\144-Greatest-common-divisor.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\bin\Debug\net8.0\144-Greatest-common-divisor.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\obj\Debug\net8.0\144-Greatest-common-divisor.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\obj\Debug\net8.0\144-Greatest-common-divisor.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\obj\Debug\net8.0\144-Greatest-common-divisor.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\obj\Debug\net8.0\144-Greatest-common-divisor.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\obj\Debug\net8.0\144-Greatest-common-divisor.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\obj\Debug\net8.0\144-Greatest-common-divisor.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\obj\Debug\net8.0\refint\144-Greatest-common-divisor.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\obj\Debug\net8.0\144-Greatest-common-divisor.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\obj\Debug\net8.0\144-Greatest-common-divisor.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\144-Greatest-common-divisor\obj\Debug\net8.0\ref\144-Greatest-common-divisor.dll
