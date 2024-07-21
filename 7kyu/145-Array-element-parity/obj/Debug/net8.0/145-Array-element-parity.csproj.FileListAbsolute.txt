@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\bin\Debug\net8.0\145-Array-element-parity.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\bin\Debug\net8.0\145-Array-element-parity.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\bin\Debug\net8.0\145-Array-element-parity.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\bin\Debug\net8.0\145-Array-element-parity.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\bin\Debug\net8.0\145-Array-element-parity.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\obj\Debug\net8.0\145-Array-element-parity.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\obj\Debug\net8.0\145-Array-element-parity.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\obj\Debug\net8.0\145-Array-element-parity.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\obj\Debug\net8.0\145-Array-element-parity.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\obj\Debug\net8.0\145-Array-element-parity.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\obj\Debug\net8.0\145-Array-element-parity.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\obj\Debug\net8.0\refint\145-Array-element-parity.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\obj\Debug\net8.0\145-Array-element-parity.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\obj\Debug\net8.0\145-Array-element-parity.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\145-Array-element-parity\obj\Debug\net8.0\ref\145-Array-element-parity.dll

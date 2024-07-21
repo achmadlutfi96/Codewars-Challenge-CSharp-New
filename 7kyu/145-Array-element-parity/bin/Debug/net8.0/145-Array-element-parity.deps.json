@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "145-Array-element-parity/1.0.0": {
+        "runtime": {
+          "145-Array-element-parity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "145-Array-element-parity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
