@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\bin\Debug\net8.0\146-Indexed-capitalization.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\bin\Debug\net8.0\146-Indexed-capitalization.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\bin\Debug\net8.0\146-Indexed-capitalization.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\bin\Debug\net8.0\146-Indexed-capitalization.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\bin\Debug\net8.0\146-Indexed-capitalization.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\obj\Debug\net8.0\146-Indexed-capitalization.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\obj\Debug\net8.0\146-Indexed-capitalization.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\obj\Debug\net8.0\146-Indexed-capitalization.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\obj\Debug\net8.0\146-Indexed-capitalization.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\obj\Debug\net8.0\146-Indexed-capitalization.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\obj\Debug\net8.0\146-Indexed-capitalization.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\obj\Debug\net8.0\refint\146-Indexed-capitalization.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\obj\Debug\net8.0\146-Indexed-capitalization.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\obj\Debug\net8.0\146-Indexed-capitalization.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\146-Indexed-capitalization\obj\Debug\net8.0\ref\146-Indexed-capitalization.dll
