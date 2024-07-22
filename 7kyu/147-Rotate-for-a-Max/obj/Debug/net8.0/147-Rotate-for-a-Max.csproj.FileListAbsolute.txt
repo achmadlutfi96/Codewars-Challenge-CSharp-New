@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\bin\Debug\net8.0\147-Rotate-for-a-Max.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\bin\Debug\net8.0\147-Rotate-for-a-Max.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\bin\Debug\net8.0\147-Rotate-for-a-Max.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\bin\Debug\net8.0\147-Rotate-for-a-Max.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\bin\Debug\net8.0\147-Rotate-for-a-Max.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\obj\Debug\net8.0\147-Rotate-for-a-Max.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\obj\Debug\net8.0\147-Rotate-for-a-Max.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\obj\Debug\net8.0\147-Rotate-for-a-Max.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\obj\Debug\net8.0\147-Rotate-for-a-Max.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\obj\Debug\net8.0\147-Rotate-for-a-Max.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\obj\Debug\net8.0\147-Rotate-for-a-Max.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\obj\Debug\net8.0\refint\147-Rotate-for-a-Max.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\obj\Debug\net8.0\147-Rotate-for-a-Max.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\obj\Debug\net8.0\147-Rotate-for-a-Max.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\147-Rotate-for-a-Max\obj\Debug\net8.0\ref\147-Rotate-for-a-Max.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "147-Rotate-for-a-Max/1.0.0": {
+        "runtime": {
+          "147-Rotate-for-a-Max.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "147-Rotate-for-a-Max/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
