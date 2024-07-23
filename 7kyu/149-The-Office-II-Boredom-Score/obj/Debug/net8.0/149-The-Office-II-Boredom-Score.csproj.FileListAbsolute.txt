@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\bin\Debug\net8.0\149-The-Office-II-Boredom-Score.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\bin\Debug\net8.0\149-The-Office-II-Boredom-Score.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\bin\Debug\net8.0\149-The-Office-II-Boredom-Score.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\bin\Debug\net8.0\149-The-Office-II-Boredom-Score.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\bin\Debug\net8.0\149-The-Office-II-Boredom-Score.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\obj\Debug\net8.0\149-The-Office-II-Boredom-Score.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\obj\Debug\net8.0\149-The-Office-II-Boredom-Score.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\obj\Debug\net8.0\149-The-Office-II-Boredom-Score.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\obj\Debug\net8.0\149-The-Office-II-Boredom-Score.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\obj\Debug\net8.0\149-The-Office-II-Boredom-Score.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\obj\Debug\net8.0\149-The-Office-II-Boredom-Score.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\obj\Debug\net8.0\refint\149-The-Office-II-Boredom-Score.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\obj\Debug\net8.0\149-The-Office-II-Boredom-Score.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\obj\Debug\net8.0\149-The-Office-II-Boredom-Score.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\149-The-Office-II-Boredom-Score\obj\Debug\net8.0\ref\149-The-Office-II-Boredom-Score.dll

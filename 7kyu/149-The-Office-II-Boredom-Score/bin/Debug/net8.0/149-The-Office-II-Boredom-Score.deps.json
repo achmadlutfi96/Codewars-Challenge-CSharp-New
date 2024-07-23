@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "149-The-Office-II-Boredom-Score/1.0.0": {
+        "runtime": {
+          "149-The-Office-II-Boredom-Score.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "149-The-Office-II-Boredom-Score/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
