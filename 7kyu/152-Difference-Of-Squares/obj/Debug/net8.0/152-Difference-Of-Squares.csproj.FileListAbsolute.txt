@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\bin\Debug\net8.0\152-Difference-Of-Squares.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\bin\Debug\net8.0\152-Difference-Of-Squares.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\bin\Debug\net8.0\152-Difference-Of-Squares.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\bin\Debug\net8.0\152-Difference-Of-Squares.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\bin\Debug\net8.0\152-Difference-Of-Squares.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\obj\Debug\net8.0\152-Difference-Of-Squares.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\obj\Debug\net8.0\152-Difference-Of-Squares.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\obj\Debug\net8.0\152-Difference-Of-Squares.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\obj\Debug\net8.0\152-Difference-Of-Squares.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\obj\Debug\net8.0\152-Difference-Of-Squares.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\obj\Debug\net8.0\152-Difference-Of-Squares.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\obj\Debug\net8.0\refint\152-Difference-Of-Squares.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\obj\Debug\net8.0\152-Difference-Of-Squares.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\obj\Debug\net8.0\152-Difference-Of-Squares.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\152-Difference-Of-Squares\obj\Debug\net8.0\ref\152-Difference-Of-Squares.dll
