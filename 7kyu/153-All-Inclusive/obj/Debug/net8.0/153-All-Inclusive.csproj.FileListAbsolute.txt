@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\bin\Debug\net8.0\153-All-Inclusive.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\bin\Debug\net8.0\153-All-Inclusive.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\bin\Debug\net8.0\153-All-Inclusive.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\bin\Debug\net8.0\153-All-Inclusive.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\bin\Debug\net8.0\153-All-Inclusive.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\obj\Debug\net8.0\153-All-Inclusive.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\obj\Debug\net8.0\153-All-Inclusive.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\obj\Debug\net8.0\153-All-Inclusive.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\obj\Debug\net8.0\153-All-Inclusive.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\obj\Debug\net8.0\153-All-Inclusive.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\obj\Debug\net8.0\153-All-Inclusive.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\obj\Debug\net8.0\refint\153-All-Inclusive.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\obj\Debug\net8.0\153-All-Inclusive.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\obj\Debug\net8.0\153-All-Inclusive.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\153-All-Inclusive\obj\Debug\net8.0\ref\153-All-Inclusive.dll
