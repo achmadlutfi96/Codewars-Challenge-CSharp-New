@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\obj\Debug\net8.0\154-Digital-cypher.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\obj\Debug\net8.0\154-Digital-cypher.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\obj\Debug\net8.0\154-Digital-cypher.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\obj\Debug\net8.0\154-Digital-cypher.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\obj\Debug\net8.0\154-Digital-cypher.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\bin\Debug\net8.0\154-Digital-cypher.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\bin\Debug\net8.0\154-Digital-cypher.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\bin\Debug\net8.0\154-Digital-cypher.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\bin\Debug\net8.0\154-Digital-cypher.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\bin\Debug\net8.0\154-Digital-cypher.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\obj\Debug\net8.0\154-Digital-cypher.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\obj\Debug\net8.0\refint\154-Digital-cypher.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\obj\Debug\net8.0\154-Digital-cypher.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\obj\Debug\net8.0\154-Digital-cypher.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\154-Digital-cypher\obj\Debug\net8.0\ref\154-Digital-cypher.dll
