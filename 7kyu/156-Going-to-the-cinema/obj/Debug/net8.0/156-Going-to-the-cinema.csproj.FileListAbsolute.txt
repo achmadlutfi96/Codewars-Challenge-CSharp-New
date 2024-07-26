@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\bin\Debug\net8.0\156-Going-to-the-cinema.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\bin\Debug\net8.0\156-Going-to-the-cinema.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\bin\Debug\net8.0\156-Going-to-the-cinema.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\bin\Debug\net8.0\156-Going-to-the-cinema.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\bin\Debug\net8.0\156-Going-to-the-cinema.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\obj\Debug\net8.0\156-Going-to-the-cinema.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\obj\Debug\net8.0\156-Going-to-the-cinema.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\obj\Debug\net8.0\156-Going-to-the-cinema.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\obj\Debug\net8.0\156-Going-to-the-cinema.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\obj\Debug\net8.0\156-Going-to-the-cinema.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\obj\Debug\net8.0\156-Going-to-the-cinema.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\obj\Debug\net8.0\refint\156-Going-to-the-cinema.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\obj\Debug\net8.0\156-Going-to-the-cinema.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\obj\Debug\net8.0\156-Going-to-the-cinema.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\156-Going-to-the-cinema\obj\Debug\net8.0\ref\156-Going-to-the-cinema.dll
