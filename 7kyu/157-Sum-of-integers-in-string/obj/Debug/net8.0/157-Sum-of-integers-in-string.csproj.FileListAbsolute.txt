@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\bin\Debug\net8.0\157-Sum-of-integers-in-string.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\bin\Debug\net8.0\157-Sum-of-integers-in-string.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\bin\Debug\net8.0\157-Sum-of-integers-in-string.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\bin\Debug\net8.0\157-Sum-of-integers-in-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\bin\Debug\net8.0\157-Sum-of-integers-in-string.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\obj\Debug\net8.0\157-Sum-of-integers-in-string.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\obj\Debug\net8.0\157-Sum-of-integers-in-string.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\obj\Debug\net8.0\157-Sum-of-integers-in-string.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\obj\Debug\net8.0\157-Sum-of-integers-in-string.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\obj\Debug\net8.0\157-Sum-of-integers-in-string.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\obj\Debug\net8.0\157-Sum-of-integers-in-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\obj\Debug\net8.0\refint\157-Sum-of-integers-in-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\obj\Debug\net8.0\157-Sum-of-integers-in-string.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\obj\Debug\net8.0\157-Sum-of-integers-in-string.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\157-Sum-of-integers-in-string\obj\Debug\net8.0\ref\157-Sum-of-integers-in-string.dll
