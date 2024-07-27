@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\bin\Debug\net8.0\158-The-old-switcheroo.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\bin\Debug\net8.0\158-The-old-switcheroo.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\bin\Debug\net8.0\158-The-old-switcheroo.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\bin\Debug\net8.0\158-The-old-switcheroo.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\bin\Debug\net8.0\158-The-old-switcheroo.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\obj\Debug\net8.0\158-The-old-switcheroo.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\obj\Debug\net8.0\158-The-old-switcheroo.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\obj\Debug\net8.0\158-The-old-switcheroo.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\obj\Debug\net8.0\158-The-old-switcheroo.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\obj\Debug\net8.0\158-The-old-switcheroo.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\obj\Debug\net8.0\158-The-old-switcheroo.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\obj\Debug\net8.0\refint\158-The-old-switcheroo.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\obj\Debug\net8.0\158-The-old-switcheroo.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\obj\Debug\net8.0\158-The-old-switcheroo.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\158-The-old-switcheroo\obj\Debug\net8.0\ref\158-The-old-switcheroo.dll
