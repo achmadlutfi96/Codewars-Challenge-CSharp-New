@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\bin\Debug\net8.0\160-Substituting-Variables-Into-Strings-Padded-Numbers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\bin\Debug\net8.0\160-Substituting-Variables-Into-Strings-Padded-Numbers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\bin\Debug\net8.0\160-Substituting-Variables-Into-Strings-Padded-Numbers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\bin\Debug\net8.0\160-Substituting-Variables-Into-Strings-Padded-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\bin\Debug\net8.0\160-Substituting-Variables-Into-Strings-Padded-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\obj\Debug\net8.0\160-Substituting-Variables-Into-Strings-Padded-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\obj\Debug\net8.0\160-Substituting-Variables-Into-Strings-Padded-Numbers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\obj\Debug\net8.0\160-Substituting-Variables-Into-Strings-Padded-Numbers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\obj\Debug\net8.0\160-Substituting-Variables-Into-Strings-Padded-Numbers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\obj\Debug\net8.0\160-Substituting-Variables-Into-Strings-Padded-Numbers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\obj\Debug\net8.0\160-Substituting-Variables-Into-Strings-Padded-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\obj\Debug\net8.0\refint\160-Substituting-Variables-Into-Strings-Padded-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\obj\Debug\net8.0\160-Substituting-Variables-Into-Strings-Padded-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\obj\Debug\net8.0\160-Substituting-Variables-Into-Strings-Padded-Numbers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\160-Substituting-Variables-Into-Strings-Padded-Numbers\obj\Debug\net8.0\ref\160-Substituting-Variables-Into-Strings-Padded-Numbers.dll
