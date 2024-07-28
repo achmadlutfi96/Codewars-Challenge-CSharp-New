@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\bin\Debug\net8.0\159-SevenAte9.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\bin\Debug\net8.0\159-SevenAte9.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\bin\Debug\net8.0\159-SevenAte9.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\bin\Debug\net8.0\159-SevenAte9.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\bin\Debug\net8.0\159-SevenAte9.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\obj\Debug\net8.0\159-SevenAte9.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\obj\Debug\net8.0\159-SevenAte9.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\obj\Debug\net8.0\159-SevenAte9.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\obj\Debug\net8.0\159-SevenAte9.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\obj\Debug\net8.0\159-SevenAte9.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\obj\Debug\net8.0\159-SevenAte9.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\obj\Debug\net8.0\refint\159-SevenAte9.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\obj\Debug\net8.0\159-SevenAte9.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\obj\Debug\net8.0\159-SevenAte9.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\159-SevenAte9\obj\Debug\net8.0\ref\159-SevenAte9.dll
