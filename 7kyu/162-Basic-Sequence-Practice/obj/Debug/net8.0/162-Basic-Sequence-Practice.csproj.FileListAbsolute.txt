@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\bin\Debug\net8.0\162-Basic-Sequence-Practice.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\bin\Debug\net8.0\162-Basic-Sequence-Practice.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\bin\Debug\net8.0\162-Basic-Sequence-Practice.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\bin\Debug\net8.0\162-Basic-Sequence-Practice.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\bin\Debug\net8.0\162-Basic-Sequence-Practice.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\obj\Debug\net8.0\162-Basic-Sequence-Practice.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\obj\Debug\net8.0\162-Basic-Sequence-Practice.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\obj\Debug\net8.0\162-Basic-Sequence-Practice.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\obj\Debug\net8.0\162-Basic-Sequence-Practice.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\obj\Debug\net8.0\162-Basic-Sequence-Practice.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\obj\Debug\net8.0\162-Basic-Sequence-Practice.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\obj\Debug\net8.0\refint\162-Basic-Sequence-Practice.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\obj\Debug\net8.0\162-Basic-Sequence-Practice.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\obj\Debug\net8.0\162-Basic-Sequence-Practice.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\162-Basic-Sequence-Practice\obj\Debug\net8.0\ref\162-Basic-Sequence-Practice.dll

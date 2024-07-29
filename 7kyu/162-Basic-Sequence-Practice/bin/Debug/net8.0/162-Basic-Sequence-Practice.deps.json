@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "162-Basic-Sequence-Practice/1.0.0": {
+        "runtime": {
+          "162-Basic-Sequence-Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "162-Basic-Sequence-Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
