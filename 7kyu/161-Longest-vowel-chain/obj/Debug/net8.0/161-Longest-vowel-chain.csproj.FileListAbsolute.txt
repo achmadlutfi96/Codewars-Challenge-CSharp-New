@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\bin\Debug\net8.0\161-Longest-vowel-chain.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\bin\Debug\net8.0\161-Longest-vowel-chain.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\bin\Debug\net8.0\161-Longest-vowel-chain.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\bin\Debug\net8.0\161-Longest-vowel-chain.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\bin\Debug\net8.0\161-Longest-vowel-chain.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\obj\Debug\net8.0\161-Longest-vowel-chain.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\obj\Debug\net8.0\161-Longest-vowel-chain.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\obj\Debug\net8.0\161-Longest-vowel-chain.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\obj\Debug\net8.0\161-Longest-vowel-chain.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\obj\Debug\net8.0\161-Longest-vowel-chain.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\obj\Debug\net8.0\161-Longest-vowel-chain.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\obj\Debug\net8.0\refint\161-Longest-vowel-chain.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\obj\Debug\net8.0\161-Longest-vowel-chain.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\obj\Debug\net8.0\161-Longest-vowel-chain.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\161-Longest-vowel-chain\obj\Debug\net8.0\ref\161-Longest-vowel-chain.dll

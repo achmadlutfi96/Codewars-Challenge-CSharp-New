@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "161-Longest-vowel-chain/1.0.0": {
+        "runtime": {
+          "161-Longest-vowel-chain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "161-Longest-vowel-chain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
