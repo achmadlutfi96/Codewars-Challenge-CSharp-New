@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\bin\Debug\net8.0\163-Numbers-to-Letters.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\bin\Debug\net8.0\163-Numbers-to-Letters.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\bin\Debug\net8.0\163-Numbers-to-Letters.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\bin\Debug\net8.0\163-Numbers-to-Letters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\bin\Debug\net8.0\163-Numbers-to-Letters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\obj\Debug\net8.0\163-Numbers-to-Letters.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\obj\Debug\net8.0\163-Numbers-to-Letters.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\obj\Debug\net8.0\163-Numbers-to-Letters.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\obj\Debug\net8.0\163-Numbers-to-Letters.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\obj\Debug\net8.0\163-Numbers-to-Letters.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\obj\Debug\net8.0\163-Numbers-to-Letters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\obj\Debug\net8.0\refint\163-Numbers-to-Letters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\obj\Debug\net8.0\163-Numbers-to-Letters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\obj\Debug\net8.0\163-Numbers-to-Letters.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\163-Numbers-to-Letters\obj\Debug\net8.0\ref\163-Numbers-to-Letters.dll
