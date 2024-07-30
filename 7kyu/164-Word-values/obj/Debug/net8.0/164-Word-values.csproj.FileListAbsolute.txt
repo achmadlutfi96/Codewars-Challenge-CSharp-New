@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\bin\Debug\net8.0\164-Word-values.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\bin\Debug\net8.0\164-Word-values.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\bin\Debug\net8.0\164-Word-values.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\bin\Debug\net8.0\164-Word-values.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\bin\Debug\net8.0\164-Word-values.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\obj\Debug\net8.0\164-Word-values.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\obj\Debug\net8.0\164-Word-values.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\obj\Debug\net8.0\164-Word-values.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\obj\Debug\net8.0\164-Word-values.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\obj\Debug\net8.0\164-Word-values.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\obj\Debug\net8.0\164-Word-values.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\obj\Debug\net8.0\refint\164-Word-values.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\obj\Debug\net8.0\164-Word-values.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\obj\Debug\net8.0\164-Word-values.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\164-Word-values\obj\Debug\net8.0\ref\164-Word-values.dll
