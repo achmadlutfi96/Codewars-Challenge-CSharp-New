@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\bin\Debug\net8.0\165-Return-the-closest-number-multiple-of-10.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\bin\Debug\net8.0\165-Return-the-closest-number-multiple-of-10.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\bin\Debug\net8.0\165-Return-the-closest-number-multiple-of-10.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\bin\Debug\net8.0\165-Return-the-closest-number-multiple-of-10.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\bin\Debug\net8.0\165-Return-the-closest-number-multiple-of-10.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\obj\Debug\net8.0\165-Return-the-closest-number-multiple-of-10.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\obj\Debug\net8.0\165-Return-the-closest-number-multiple-of-10.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\obj\Debug\net8.0\165-Return-the-closest-number-multiple-of-10.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\obj\Debug\net8.0\165-Return-the-closest-number-multiple-of-10.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\obj\Debug\net8.0\165-Return-the-closest-number-multiple-of-10.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\obj\Debug\net8.0\165-Return-the-closest-number-multiple-of-10.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\obj\Debug\net8.0\refint\165-Return-the-closest-number-multiple-of-10.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\obj\Debug\net8.0\165-Return-the-closest-number-multiple-of-10.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\obj\Debug\net8.0\165-Return-the-closest-number-multiple-of-10.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\165-Return-the-closest-number-multiple-of-10\obj\Debug\net8.0\ref\165-Return-the-closest-number-multiple-of-10.dll
