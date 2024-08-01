@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "167-Last-Survivor/1.0.0": {
+        "runtime": {
+          "167-Last-Survivor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "167-Last-Survivor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
