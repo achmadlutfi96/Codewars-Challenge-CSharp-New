@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "168-Cat-and-Mouse-Easy-Version/1.0.0": {
+        "runtime": {
+          "168-Cat-and-Mouse-Easy-Version.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "168-Cat-and-Mouse-Easy-Version/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

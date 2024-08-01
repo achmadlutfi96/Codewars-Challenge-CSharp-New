@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\bin\Debug\net8.0\168-Cat-and-Mouse-Easy-Version.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\bin\Debug\net8.0\168-Cat-and-Mouse-Easy-Version.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\bin\Debug\net8.0\168-Cat-and-Mouse-Easy-Version.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\bin\Debug\net8.0\168-Cat-and-Mouse-Easy-Version.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\bin\Debug\net8.0\168-Cat-and-Mouse-Easy-Version.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\obj\Debug\net8.0\168-Cat-and-Mouse-Easy-Version.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\obj\Debug\net8.0\168-Cat-and-Mouse-Easy-Version.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\obj\Debug\net8.0\168-Cat-and-Mouse-Easy-Version.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\obj\Debug\net8.0\168-Cat-and-Mouse-Easy-Version.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\obj\Debug\net8.0\168-Cat-and-Mouse-Easy-Version.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\obj\Debug\net8.0\168-Cat-and-Mouse-Easy-Version.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\obj\Debug\net8.0\refint\168-Cat-and-Mouse-Easy-Version.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\obj\Debug\net8.0\168-Cat-and-Mouse-Easy-Version.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\obj\Debug\net8.0\168-Cat-and-Mouse-Easy-Version.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\168-Cat-and-Mouse-Easy-Version\obj\Debug\net8.0\ref\168-Cat-and-Mouse-Easy-Version.dll
