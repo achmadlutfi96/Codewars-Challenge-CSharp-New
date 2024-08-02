@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\bin\Debug\net8.0\170-Remove-All-The-Marked-Elements-of-a-List.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\bin\Debug\net8.0\170-Remove-All-The-Marked-Elements-of-a-List.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\bin\Debug\net8.0\170-Remove-All-The-Marked-Elements-of-a-List.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\bin\Debug\net8.0\170-Remove-All-The-Marked-Elements-of-a-List.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\bin\Debug\net8.0\170-Remove-All-The-Marked-Elements-of-a-List.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\obj\Debug\net8.0\170-Remove-All-The-Marked-Elements-of-a-List.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\obj\Debug\net8.0\170-Remove-All-The-Marked-Elements-of-a-List.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\obj\Debug\net8.0\170-Remove-All-The-Marked-Elements-of-a-List.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\obj\Debug\net8.0\170-Remove-All-The-Marked-Elements-of-a-List.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\obj\Debug\net8.0\170-Remove-All-The-Marked-Elements-of-a-List.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\obj\Debug\net8.0\170-Remove-All-The-Marked-Elements-of-a-List.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\obj\Debug\net8.0\refint\170-Remove-All-The-Marked-Elements-of-a-List.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\obj\Debug\net8.0\170-Remove-All-The-Marked-Elements-of-a-List.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\obj\Debug\net8.0\170-Remove-All-The-Marked-Elements-of-a-List.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\170-Remove-All-The-Marked-Elements-of-a-List\obj\Debug\net8.0\ref\170-Remove-All-The-Marked-Elements-of-a-List.dll

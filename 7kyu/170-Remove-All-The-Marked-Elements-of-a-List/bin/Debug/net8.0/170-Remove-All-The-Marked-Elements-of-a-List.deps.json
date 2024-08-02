@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "170-Remove-All-The-Marked-Elements-of-a-List/1.0.0": {
+        "runtime": {
+          "170-Remove-All-The-Marked-Elements-of-a-List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "170-Remove-All-The-Marked-Elements-of-a-List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
