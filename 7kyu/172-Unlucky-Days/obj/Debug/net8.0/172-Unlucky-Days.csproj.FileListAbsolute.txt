@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\bin\Debug\net8.0\172-Unlucky-Days.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\bin\Debug\net8.0\172-Unlucky-Days.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\bin\Debug\net8.0\172-Unlucky-Days.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\bin\Debug\net8.0\172-Unlucky-Days.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\bin\Debug\net8.0\172-Unlucky-Days.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\obj\Debug\net8.0\172-Unlucky-Days.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\obj\Debug\net8.0\172-Unlucky-Days.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\obj\Debug\net8.0\172-Unlucky-Days.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\obj\Debug\net8.0\172-Unlucky-Days.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\obj\Debug\net8.0\172-Unlucky-Days.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\obj\Debug\net8.0\172-Unlucky-Days.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\obj\Debug\net8.0\refint\172-Unlucky-Days.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\obj\Debug\net8.0\172-Unlucky-Days.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\obj\Debug\net8.0\172-Unlucky-Days.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\172-Unlucky-Days\obj\Debug\net8.0\ref\172-Unlucky-Days.dll
