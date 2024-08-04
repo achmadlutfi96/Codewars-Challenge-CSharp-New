@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\bin\Debug\net8.0\173-Return-the-first-M-multiples-of-N.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\bin\Debug\net8.0\173-Return-the-first-M-multiples-of-N.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\bin\Debug\net8.0\173-Return-the-first-M-multiples-of-N.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\bin\Debug\net8.0\173-Return-the-first-M-multiples-of-N.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\bin\Debug\net8.0\173-Return-the-first-M-multiples-of-N.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\obj\Debug\net8.0\173-Return-the-first-M-multiples-of-N.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\obj\Debug\net8.0\173-Return-the-first-M-multiples-of-N.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\obj\Debug\net8.0\173-Return-the-first-M-multiples-of-N.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\obj\Debug\net8.0\173-Return-the-first-M-multiples-of-N.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\obj\Debug\net8.0\173-Return-the-first-M-multiples-of-N.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\obj\Debug\net8.0\173-Return-the-first-M-multiples-of-N.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\obj\Debug\net8.0\refint\173-Return-the-first-M-multiples-of-N.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\obj\Debug\net8.0\173-Return-the-first-M-multiples-of-N.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\obj\Debug\net8.0\173-Return-the-first-M-multiples-of-N.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\173-Return-the-first-M-multiples-of-N\obj\Debug\net8.0\ref\173-Return-the-first-M-multiples-of-N.dll

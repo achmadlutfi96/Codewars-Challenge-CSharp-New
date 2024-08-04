@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "173-Return-the-first-M-multiples-of-N/1.0.0": {
+        "runtime": {
+          "173-Return-the-first-M-multiples-of-N.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "173-Return-the-first-M-multiples-of-N/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
