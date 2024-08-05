@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\bin\Debug\net8.0\176-Discover-The-Original-Price.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\bin\Debug\net8.0\176-Discover-The-Original-Price.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\bin\Debug\net8.0\176-Discover-The-Original-Price.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\bin\Debug\net8.0\176-Discover-The-Original-Price.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\bin\Debug\net8.0\176-Discover-The-Original-Price.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\obj\Debug\net8.0\176-Discover-The-Original-Price.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\obj\Debug\net8.0\176-Discover-The-Original-Price.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\obj\Debug\net8.0\176-Discover-The-Original-Price.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\obj\Debug\net8.0\176-Discover-The-Original-Price.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\obj\Debug\net8.0\176-Discover-The-Original-Price.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\obj\Debug\net8.0\176-Discover-The-Original-Price.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\obj\Debug\net8.0\refint\176-Discover-The-Original-Price.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\obj\Debug\net8.0\176-Discover-The-Original-Price.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\obj\Debug\net8.0\176-Discover-The-Original-Price.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\176-Discover-The-Original-Price\obj\Debug\net8.0\ref\176-Discover-The-Original-Price.dll
