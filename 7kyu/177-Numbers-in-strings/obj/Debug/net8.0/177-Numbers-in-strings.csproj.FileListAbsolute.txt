@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\bin\Debug\net8.0\177-Numbers-in-strings.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\bin\Debug\net8.0\177-Numbers-in-strings.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\bin\Debug\net8.0\177-Numbers-in-strings.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\bin\Debug\net8.0\177-Numbers-in-strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\bin\Debug\net8.0\177-Numbers-in-strings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\obj\Debug\net8.0\177-Numbers-in-strings.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\obj\Debug\net8.0\177-Numbers-in-strings.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\obj\Debug\net8.0\177-Numbers-in-strings.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\obj\Debug\net8.0\177-Numbers-in-strings.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\obj\Debug\net8.0\177-Numbers-in-strings.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\obj\Debug\net8.0\177-Numbers-in-strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\obj\Debug\net8.0\refint\177-Numbers-in-strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\obj\Debug\net8.0\177-Numbers-in-strings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\obj\Debug\net8.0\177-Numbers-in-strings.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\177-Numbers-in-strings\obj\Debug\net8.0\ref\177-Numbers-in-strings.dll
