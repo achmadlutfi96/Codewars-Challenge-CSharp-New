@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "178-Find-Count-of-Most-Frequent-Item-in-an-Array/1.0.0": {
+        "runtime": {
+          "178-Find-Count-of-Most-Frequent-Item-in-an-Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "178-Find-Count-of-Most-Frequent-Item-in-an-Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
