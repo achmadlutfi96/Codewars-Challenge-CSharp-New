@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\bin\Debug\net8.0\180-ToLeetSpeak.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\bin\Debug\net8.0\180-ToLeetSpeak.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\bin\Debug\net8.0\180-ToLeetSpeak.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\bin\Debug\net8.0\180-ToLeetSpeak.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\bin\Debug\net8.0\180-ToLeetSpeak.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\obj\Debug\net8.0\180-ToLeetSpeak.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\obj\Debug\net8.0\180-ToLeetSpeak.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\obj\Debug\net8.0\180-ToLeetSpeak.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\obj\Debug\net8.0\180-ToLeetSpeak.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\obj\Debug\net8.0\180-ToLeetSpeak.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\obj\Debug\net8.0\180-ToLeetSpeak.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\obj\Debug\net8.0\refint\180-ToLeetSpeak.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\obj\Debug\net8.0\180-ToLeetSpeak.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\obj\Debug\net8.0\180-ToLeetSpeak.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\180-ToLeetSpeak\obj\Debug\net8.0\ref\180-ToLeetSpeak.dll
