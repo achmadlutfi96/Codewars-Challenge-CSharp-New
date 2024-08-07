@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\bin\Debug\net8.0\179-Largest-Elements.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\bin\Debug\net8.0\179-Largest-Elements.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\bin\Debug\net8.0\179-Largest-Elements.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\bin\Debug\net8.0\179-Largest-Elements.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\bin\Debug\net8.0\179-Largest-Elements.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\obj\Debug\net8.0\179-Largest-Elements.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\obj\Debug\net8.0\179-Largest-Elements.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\obj\Debug\net8.0\179-Largest-Elements.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\obj\Debug\net8.0\179-Largest-Elements.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\obj\Debug\net8.0\179-Largest-Elements.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\obj\Debug\net8.0\179-Largest-Elements.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\obj\Debug\net8.0\refint\179-Largest-Elements.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\obj\Debug\net8.0\179-Largest-Elements.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\obj\Debug\net8.0\179-Largest-Elements.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\179-Largest-Elements\obj\Debug\net8.0\ref\179-Largest-Elements.dll
