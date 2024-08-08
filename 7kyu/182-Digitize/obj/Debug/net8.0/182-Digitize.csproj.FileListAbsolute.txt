@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\bin\Debug\net8.0\182-Digitize.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\bin\Debug\net8.0\182-Digitize.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\bin\Debug\net8.0\182-Digitize.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\bin\Debug\net8.0\182-Digitize.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\bin\Debug\net8.0\182-Digitize.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\obj\Debug\net8.0\182-Digitize.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\obj\Debug\net8.0\182-Digitize.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\obj\Debug\net8.0\182-Digitize.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\obj\Debug\net8.0\182-Digitize.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\obj\Debug\net8.0\182-Digitize.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\obj\Debug\net8.0\182-Digitize.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\obj\Debug\net8.0\refint\182-Digitize.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\obj\Debug\net8.0\182-Digitize.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\obj\Debug\net8.0\182-Digitize.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\182-Digitize\obj\Debug\net8.0\ref\182-Digitize.dll
