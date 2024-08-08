@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "181-Consecutive-items/1.0.0": {
+        "runtime": {
+          "181-Consecutive-items.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "181-Consecutive-items/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

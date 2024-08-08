@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\bin\Debug\net8.0\181-Consecutive-items.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\bin\Debug\net8.0\181-Consecutive-items.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\bin\Debug\net8.0\181-Consecutive-items.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\bin\Debug\net8.0\181-Consecutive-items.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\bin\Debug\net8.0\181-Consecutive-items.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\obj\Debug\net8.0\181-Consecutive-items.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\obj\Debug\net8.0\181-Consecutive-items.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\obj\Debug\net8.0\181-Consecutive-items.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\obj\Debug\net8.0\181-Consecutive-items.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\obj\Debug\net8.0\181-Consecutive-items.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\obj\Debug\net8.0\181-Consecutive-items.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\obj\Debug\net8.0\refint\181-Consecutive-items.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\obj\Debug\net8.0\181-Consecutive-items.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\obj\Debug\net8.0\181-Consecutive-items.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\181-Consecutive-items\obj\Debug\net8.0\ref\181-Consecutive-items.dll
