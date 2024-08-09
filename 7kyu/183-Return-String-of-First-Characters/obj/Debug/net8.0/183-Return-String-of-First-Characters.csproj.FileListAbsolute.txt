@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\bin\Debug\net8.0\183-Return-String-of-First-Characters.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\bin\Debug\net8.0\183-Return-String-of-First-Characters.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\bin\Debug\net8.0\183-Return-String-of-First-Characters.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\bin\Debug\net8.0\183-Return-String-of-First-Characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\bin\Debug\net8.0\183-Return-String-of-First-Characters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\obj\Debug\net8.0\183-Return-String-of-First-Characters.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\obj\Debug\net8.0\183-Return-String-of-First-Characters.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\obj\Debug\net8.0\183-Return-String-of-First-Characters.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\obj\Debug\net8.0\183-Return-String-of-First-Characters.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\obj\Debug\net8.0\183-Return-String-of-First-Characters.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\obj\Debug\net8.0\183-Return-String-of-First-Characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\obj\Debug\net8.0\refint\183-Return-String-of-First-Characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\obj\Debug\net8.0\183-Return-String-of-First-Characters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\obj\Debug\net8.0\183-Return-String-of-First-Characters.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\183-Return-String-of-First-Characters\obj\Debug\net8.0\ref\183-Return-String-of-First-Characters.dll
