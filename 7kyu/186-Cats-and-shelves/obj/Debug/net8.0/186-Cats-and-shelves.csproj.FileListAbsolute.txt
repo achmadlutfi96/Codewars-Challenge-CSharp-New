@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\bin\Debug\net8.0\186-Cats-and-shelves.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\bin\Debug\net8.0\186-Cats-and-shelves.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\bin\Debug\net8.0\186-Cats-and-shelves.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\bin\Debug\net8.0\186-Cats-and-shelves.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\bin\Debug\net8.0\186-Cats-and-shelves.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\obj\Debug\net8.0\186-Cats-and-shelves.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\obj\Debug\net8.0\186-Cats-and-shelves.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\obj\Debug\net8.0\186-Cats-and-shelves.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\obj\Debug\net8.0\186-Cats-and-shelves.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\obj\Debug\net8.0\186-Cats-and-shelves.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\obj\Debug\net8.0\186-Cats-and-shelves.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\obj\Debug\net8.0\refint\186-Cats-and-shelves.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\obj\Debug\net8.0\186-Cats-and-shelves.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\obj\Debug\net8.0\186-Cats-and-shelves.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\186-Cats-and-shelves\obj\Debug\net8.0\ref\186-Cats-and-shelves.dll
