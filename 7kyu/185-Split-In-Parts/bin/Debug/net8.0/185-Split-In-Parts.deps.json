@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "185-Split-In-Parts/1.0.0": {
+        "runtime": {
+          "185-Split-In-Parts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "185-Split-In-Parts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

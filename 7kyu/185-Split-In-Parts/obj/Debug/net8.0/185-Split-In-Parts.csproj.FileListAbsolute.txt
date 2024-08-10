@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\bin\Debug\net8.0\185-Split-In-Parts.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\bin\Debug\net8.0\185-Split-In-Parts.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\bin\Debug\net8.0\185-Split-In-Parts.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\bin\Debug\net8.0\185-Split-In-Parts.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\bin\Debug\net8.0\185-Split-In-Parts.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\obj\Debug\net8.0\185-Split-In-Parts.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\obj\Debug\net8.0\185-Split-In-Parts.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\obj\Debug\net8.0\185-Split-In-Parts.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\obj\Debug\net8.0\185-Split-In-Parts.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\obj\Debug\net8.0\185-Split-In-Parts.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\obj\Debug\net8.0\185-Split-In-Parts.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\obj\Debug\net8.0\refint\185-Split-In-Parts.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\obj\Debug\net8.0\185-Split-In-Parts.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\obj\Debug\net8.0\185-Split-In-Parts.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\185-Split-In-Parts\obj\Debug\net8.0\ref\185-Split-In-Parts.dll
