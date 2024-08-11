@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\bin\Debug\net8.0\187-Convert-a-linked-list-to-a-string.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\bin\Debug\net8.0\187-Convert-a-linked-list-to-a-string.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\bin\Debug\net8.0\187-Convert-a-linked-list-to-a-string.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\bin\Debug\net8.0\187-Convert-a-linked-list-to-a-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\bin\Debug\net8.0\187-Convert-a-linked-list-to-a-string.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\obj\Debug\net8.0\187-Convert-a-linked-list-to-a-string.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\obj\Debug\net8.0\187-Convert-a-linked-list-to-a-string.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\obj\Debug\net8.0\187-Convert-a-linked-list-to-a-string.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\obj\Debug\net8.0\187-Convert-a-linked-list-to-a-string.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\obj\Debug\net8.0\187-Convert-a-linked-list-to-a-string.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\obj\Debug\net8.0\187-Convert-a-linked-list-to-a-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\obj\Debug\net8.0\refint\187-Convert-a-linked-list-to-a-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\obj\Debug\net8.0\187-Convert-a-linked-list-to-a-string.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\obj\Debug\net8.0\187-Convert-a-linked-list-to-a-string.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\187-Convert-a-linked-list-to-a-string\obj\Debug\net8.0\ref\187-Convert-a-linked-list-to-a-string.dll

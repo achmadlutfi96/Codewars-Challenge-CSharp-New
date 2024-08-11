@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "187-Convert-a-linked-list-to-a-string/1.0.0": {
+        "runtime": {
+          "187-Convert-a-linked-list-to-a-string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "187-Convert-a-linked-list-to-a-string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
