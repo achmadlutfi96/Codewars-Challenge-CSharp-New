@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\bin\Debug\net8.0\188-Unique-string-characters.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\bin\Debug\net8.0\188-Unique-string-characters.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\bin\Debug\net8.0\188-Unique-string-characters.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\bin\Debug\net8.0\188-Unique-string-characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\bin\Debug\net8.0\188-Unique-string-characters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\obj\Debug\net8.0\188-Unique-string-characters.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\obj\Debug\net8.0\188-Unique-string-characters.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\obj\Debug\net8.0\188-Unique-string-characters.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\obj\Debug\net8.0\188-Unique-string-characters.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\obj\Debug\net8.0\188-Unique-string-characters.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\obj\Debug\net8.0\188-Unique-string-characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\obj\Debug\net8.0\refint\188-Unique-string-characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\obj\Debug\net8.0\188-Unique-string-characters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\obj\Debug\net8.0\188-Unique-string-characters.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\188-Unique-string-characters\obj\Debug\net8.0\ref\188-Unique-string-characters.dll
