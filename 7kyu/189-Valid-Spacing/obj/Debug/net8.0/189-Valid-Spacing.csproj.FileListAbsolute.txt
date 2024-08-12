@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\bin\Debug\net8.0\189-Valid-Spacing.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\bin\Debug\net8.0\189-Valid-Spacing.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\bin\Debug\net8.0\189-Valid-Spacing.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\bin\Debug\net8.0\189-Valid-Spacing.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\bin\Debug\net8.0\189-Valid-Spacing.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\obj\Debug\net8.0\189-Valid-Spacing.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\obj\Debug\net8.0\189-Valid-Spacing.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\obj\Debug\net8.0\189-Valid-Spacing.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\obj\Debug\net8.0\189-Valid-Spacing.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\obj\Debug\net8.0\189-Valid-Spacing.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\obj\Debug\net8.0\189-Valid-Spacing.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\obj\Debug\net8.0\refint\189-Valid-Spacing.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\obj\Debug\net8.0\189-Valid-Spacing.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\obj\Debug\net8.0\189-Valid-Spacing.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\189-Valid-Spacing\obj\Debug\net8.0\ref\189-Valid-Spacing.dll
