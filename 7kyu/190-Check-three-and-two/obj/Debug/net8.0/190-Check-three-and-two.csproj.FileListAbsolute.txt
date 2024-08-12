@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\bin\Debug\net8.0\190-Check-three-and-two.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\bin\Debug\net8.0\190-Check-three-and-two.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\bin\Debug\net8.0\190-Check-three-and-two.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\bin\Debug\net8.0\190-Check-three-and-two.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\bin\Debug\net8.0\190-Check-three-and-two.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\obj\Debug\net8.0\190-Check-three-and-two.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\obj\Debug\net8.0\190-Check-three-and-two.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\obj\Debug\net8.0\190-Check-three-and-two.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\obj\Debug\net8.0\190-Check-three-and-two.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\obj\Debug\net8.0\190-Check-three-and-two.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\obj\Debug\net8.0\190-Check-three-and-two.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\obj\Debug\net8.0\refint\190-Check-three-and-two.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\obj\Debug\net8.0\190-Check-three-and-two.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\obj\Debug\net8.0\190-Check-three-and-two.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\190-Check-three-and-two\obj\Debug\net8.0\ref\190-Check-three-and-two.dll

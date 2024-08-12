@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "190-Check-three-and-two", "190-Check-three-and-two.csproj", "{07A53CDC-25F8-4013-AF47-4CBA59C4F540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A53CDC-25F8-4013-AF47-4CBA59C4F540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A53CDC-25F8-4013-AF47-4CBA59C4F540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A53CDC-25F8-4013-AF47-4CBA59C4F540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A53CDC-25F8-4013-AF47-4CBA59C4F540}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F550ED7C-17DE-4261-AE7C-F0373C79CA66}
+	EndGlobalSection
+EndGlobal
