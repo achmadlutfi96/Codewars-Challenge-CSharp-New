@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "191-Find-the-lucky-numbers/1.0.0": {
+        "runtime": {
+          "191-Find-the-lucky-numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "191-Find-the-lucky-numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

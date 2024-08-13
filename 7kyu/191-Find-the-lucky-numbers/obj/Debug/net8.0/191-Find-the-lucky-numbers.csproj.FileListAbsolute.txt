@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\bin\Debug\net8.0\191-Find-the-lucky-numbers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\bin\Debug\net8.0\191-Find-the-lucky-numbers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\bin\Debug\net8.0\191-Find-the-lucky-numbers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\bin\Debug\net8.0\191-Find-the-lucky-numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\bin\Debug\net8.0\191-Find-the-lucky-numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\obj\Debug\net8.0\191-Find-the-lucky-numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\obj\Debug\net8.0\191-Find-the-lucky-numbers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\obj\Debug\net8.0\191-Find-the-lucky-numbers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\obj\Debug\net8.0\191-Find-the-lucky-numbers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\obj\Debug\net8.0\191-Find-the-lucky-numbers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\obj\Debug\net8.0\191-Find-the-lucky-numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\obj\Debug\net8.0\refint\191-Find-the-lucky-numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\obj\Debug\net8.0\191-Find-the-lucky-numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\obj\Debug\net8.0\191-Find-the-lucky-numbers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\191-Find-the-lucky-numbers\obj\Debug\net8.0\ref\191-Find-the-lucky-numbers.dll
