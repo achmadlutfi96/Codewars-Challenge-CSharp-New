@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\bin\Debug\net8.0\192-Clean-up-after-your-dog.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\bin\Debug\net8.0\192-Clean-up-after-your-dog.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\bin\Debug\net8.0\192-Clean-up-after-your-dog.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\bin\Debug\net8.0\192-Clean-up-after-your-dog.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\bin\Debug\net8.0\192-Clean-up-after-your-dog.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\obj\Debug\net8.0\192-Clean-up-after-your-dog.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\obj\Debug\net8.0\192-Clean-up-after-your-dog.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\obj\Debug\net8.0\192-Clean-up-after-your-dog.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\obj\Debug\net8.0\192-Clean-up-after-your-dog.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\obj\Debug\net8.0\192-Clean-up-after-your-dog.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\obj\Debug\net8.0\192-Clean-up-after-your-dog.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\obj\Debug\net8.0\refint\192-Clean-up-after-your-dog.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\obj\Debug\net8.0\192-Clean-up-after-your-dog.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\obj\Debug\net8.0\192-Clean-up-after-your-dog.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\192-Clean-up-after-your-dog\obj\Debug\net8.0\ref\192-Clean-up-after-your-dog.dll
