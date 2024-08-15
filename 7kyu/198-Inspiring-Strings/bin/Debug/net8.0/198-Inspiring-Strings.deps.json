@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "198-Inspiring-Strings/1.0.0": {
+        "runtime": {
+          "198-Inspiring-Strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "198-Inspiring-Strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
