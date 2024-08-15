@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\bin\Debug\net8.0\197-Insert-dashes.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\bin\Debug\net8.0\197-Insert-dashes.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\bin\Debug\net8.0\197-Insert-dashes.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\bin\Debug\net8.0\197-Insert-dashes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\bin\Debug\net8.0\197-Insert-dashes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\obj\Debug\net8.0\197-Insert-dashes.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\obj\Debug\net8.0\197-Insert-dashes.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\obj\Debug\net8.0\197-Insert-dashes.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\obj\Debug\net8.0\197-Insert-dashes.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\obj\Debug\net8.0\197-Insert-dashes.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\obj\Debug\net8.0\197-Insert-dashes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\obj\Debug\net8.0\refint\197-Insert-dashes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\obj\Debug\net8.0\197-Insert-dashes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\obj\Debug\net8.0\197-Insert-dashes.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\197-Insert-dashes\obj\Debug\net8.0\ref\197-Insert-dashes.dll
