@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\bin\Debug\net8.0\195-Evens-and-Odds.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\bin\Debug\net8.0\195-Evens-and-Odds.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\bin\Debug\net8.0\195-Evens-and-Odds.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\bin\Debug\net8.0\195-Evens-and-Odds.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\bin\Debug\net8.0\195-Evens-and-Odds.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\obj\Debug\net8.0\195-Evens-and-Odds.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\obj\Debug\net8.0\195-Evens-and-Odds.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\obj\Debug\net8.0\195-Evens-and-Odds.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\obj\Debug\net8.0\195-Evens-and-Odds.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\obj\Debug\net8.0\195-Evens-and-Odds.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\obj\Debug\net8.0\195-Evens-and-Odds.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\obj\Debug\net8.0\refint\195-Evens-and-Odds.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\obj\Debug\net8.0\195-Evens-and-Odds.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\obj\Debug\net8.0\195-Evens-and-Odds.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\195-Evens-and-Odds\obj\Debug\net8.0\ref\195-Evens-and-Odds.dll
