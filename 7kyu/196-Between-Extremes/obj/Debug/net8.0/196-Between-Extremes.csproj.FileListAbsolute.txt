@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\bin\Debug\net8.0\196-Between-Extremes.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\bin\Debug\net8.0\196-Between-Extremes.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\bin\Debug\net8.0\196-Between-Extremes.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\bin\Debug\net8.0\196-Between-Extremes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\bin\Debug\net8.0\196-Between-Extremes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\obj\Debug\net8.0\196-Between-Extremes.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\obj\Debug\net8.0\196-Between-Extremes.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\obj\Debug\net8.0\196-Between-Extremes.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\obj\Debug\net8.0\196-Between-Extremes.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\obj\Debug\net8.0\196-Between-Extremes.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\obj\Debug\net8.0\196-Between-Extremes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\obj\Debug\net8.0\refint\196-Between-Extremes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\obj\Debug\net8.0\196-Between-Extremes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\obj\Debug\net8.0\196-Between-Extremes.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\196-Between-Extremes\obj\Debug\net8.0\ref\196-Between-Extremes.dll
