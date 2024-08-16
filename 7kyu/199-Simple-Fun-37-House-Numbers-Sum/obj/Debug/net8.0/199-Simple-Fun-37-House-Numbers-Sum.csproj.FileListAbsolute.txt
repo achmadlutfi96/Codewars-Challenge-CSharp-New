@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\bin\Debug\net8.0\199-Simple-Fun-37-House-Numbers-Sum.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\bin\Debug\net8.0\199-Simple-Fun-37-House-Numbers-Sum.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\bin\Debug\net8.0\199-Simple-Fun-37-House-Numbers-Sum.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\bin\Debug\net8.0\199-Simple-Fun-37-House-Numbers-Sum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\bin\Debug\net8.0\199-Simple-Fun-37-House-Numbers-Sum.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\obj\Debug\net8.0\199-Simple-Fun-37-House-Numbers-Sum.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\obj\Debug\net8.0\199-Simple-Fun-37-House-Numbers-Sum.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\obj\Debug\net8.0\199-Simple-Fun-37-House-Numbers-Sum.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\obj\Debug\net8.0\199-Simple-Fun-37-House-Numbers-Sum.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\obj\Debug\net8.0\199-Simple-Fun-37-House-Numbers-Sum.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\obj\Debug\net8.0\199-Simple-Fun-37-House-Numbers-Sum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\obj\Debug\net8.0\refint\199-Simple-Fun-37-House-Numbers-Sum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\obj\Debug\net8.0\199-Simple-Fun-37-House-Numbers-Sum.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\obj\Debug\net8.0\199-Simple-Fun-37-House-Numbers-Sum.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\199-Simple-Fun-37-House-Numbers-Sum\obj\Debug\net8.0\ref\199-Simple-Fun-37-House-Numbers-Sum.dll
