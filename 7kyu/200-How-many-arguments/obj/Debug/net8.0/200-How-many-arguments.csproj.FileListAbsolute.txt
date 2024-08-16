@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\bin\Debug\net8.0\200-How-many-arguments.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\bin\Debug\net8.0\200-How-many-arguments.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\bin\Debug\net8.0\200-How-many-arguments.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\bin\Debug\net8.0\200-How-many-arguments.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\bin\Debug\net8.0\200-How-many-arguments.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\obj\Debug\net8.0\200-How-many-arguments.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\obj\Debug\net8.0\200-How-many-arguments.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\obj\Debug\net8.0\200-How-many-arguments.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\obj\Debug\net8.0\200-How-many-arguments.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\obj\Debug\net8.0\200-How-many-arguments.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\obj\Debug\net8.0\200-How-many-arguments.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\obj\Debug\net8.0\refint\200-How-many-arguments.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\obj\Debug\net8.0\200-How-many-arguments.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\obj\Debug\net8.0\200-How-many-arguments.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\200-How-many-arguments\obj\Debug\net8.0\ref\200-How-many-arguments.dll
