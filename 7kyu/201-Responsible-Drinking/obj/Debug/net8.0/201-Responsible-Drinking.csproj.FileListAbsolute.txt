@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\bin\Debug\net8.0\201-Responsible-Drinking.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\bin\Debug\net8.0\201-Responsible-Drinking.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\bin\Debug\net8.0\201-Responsible-Drinking.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\bin\Debug\net8.0\201-Responsible-Drinking.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\bin\Debug\net8.0\201-Responsible-Drinking.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\obj\Debug\net8.0\201-Responsible-Drinking.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\obj\Debug\net8.0\201-Responsible-Drinking.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\obj\Debug\net8.0\201-Responsible-Drinking.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\obj\Debug\net8.0\201-Responsible-Drinking.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\obj\Debug\net8.0\201-Responsible-Drinking.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\obj\Debug\net8.0\201-Responsible-Drinking.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\obj\Debug\net8.0\refint\201-Responsible-Drinking.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\obj\Debug\net8.0\201-Responsible-Drinking.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\obj\Debug\net8.0\201-Responsible-Drinking.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\201-Responsible-Drinking\obj\Debug\net8.0\ref\201-Responsible-Drinking.dll
