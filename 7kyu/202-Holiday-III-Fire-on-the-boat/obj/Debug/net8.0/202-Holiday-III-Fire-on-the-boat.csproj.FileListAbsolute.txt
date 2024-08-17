@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\bin\Debug\net8.0\202-Holiday-III-Fire-on-the-boat.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\bin\Debug\net8.0\202-Holiday-III-Fire-on-the-boat.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\bin\Debug\net8.0\202-Holiday-III-Fire-on-the-boat.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\bin\Debug\net8.0\202-Holiday-III-Fire-on-the-boat.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\bin\Debug\net8.0\202-Holiday-III-Fire-on-the-boat.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\obj\Debug\net8.0\202-Holiday-III-Fire-on-the-boat.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\obj\Debug\net8.0\202-Holiday-III-Fire-on-the-boat.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\obj\Debug\net8.0\202-Holiday-III-Fire-on-the-boat.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\obj\Debug\net8.0\202-Holiday-III-Fire-on-the-boat.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\obj\Debug\net8.0\202-Holiday-III-Fire-on-the-boat.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\obj\Debug\net8.0\202-Holiday-III-Fire-on-the-boat.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\obj\Debug\net8.0\refint\202-Holiday-III-Fire-on-the-boat.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\obj\Debug\net8.0\202-Holiday-III-Fire-on-the-boat.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\obj\Debug\net8.0\202-Holiday-III-Fire-on-the-boat.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\202-Holiday-III-Fire-on-the-boat\obj\Debug\net8.0\ref\202-Holiday-III-Fire-on-the-boat.dll

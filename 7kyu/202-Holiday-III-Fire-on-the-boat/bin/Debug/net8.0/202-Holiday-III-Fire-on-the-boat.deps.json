@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "202-Holiday-III-Fire-on-the-boat/1.0.0": {
+        "runtime": {
+          "202-Holiday-III-Fire-on-the-boat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "202-Holiday-III-Fire-on-the-boat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
