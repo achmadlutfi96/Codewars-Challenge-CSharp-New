@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\bin\Debug\net8.0\203-Return-the-Missing-Element.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\bin\Debug\net8.0\203-Return-the-Missing-Element.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\bin\Debug\net8.0\203-Return-the-Missing-Element.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\bin\Debug\net8.0\203-Return-the-Missing-Element.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\bin\Debug\net8.0\203-Return-the-Missing-Element.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\obj\Debug\net8.0\203-Return-the-Missing-Element.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\obj\Debug\net8.0\203-Return-the-Missing-Element.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\obj\Debug\net8.0\203-Return-the-Missing-Element.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\obj\Debug\net8.0\203-Return-the-Missing-Element.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\obj\Debug\net8.0\203-Return-the-Missing-Element.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\obj\Debug\net8.0\203-Return-the-Missing-Element.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\obj\Debug\net8.0\refint\203-Return-the-Missing-Element.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\obj\Debug\net8.0\203-Return-the-Missing-Element.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\obj\Debug\net8.0\203-Return-the-Missing-Element.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\203-Return-the-Missing-Element\obj\Debug\net8.0\ref\203-Return-the-Missing-Element.dll
