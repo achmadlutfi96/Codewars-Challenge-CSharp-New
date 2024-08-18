@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\bin\Debug\net8.0\204-Two-numbers-are-positive.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\bin\Debug\net8.0\204-Two-numbers-are-positive.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\bin\Debug\net8.0\204-Two-numbers-are-positive.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\bin\Debug\net8.0\204-Two-numbers-are-positive.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\bin\Debug\net8.0\204-Two-numbers-are-positive.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\obj\Debug\net8.0\204-Two-numbers-are-positive.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\obj\Debug\net8.0\204-Two-numbers-are-positive.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\obj\Debug\net8.0\204-Two-numbers-are-positive.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\obj\Debug\net8.0\204-Two-numbers-are-positive.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\obj\Debug\net8.0\204-Two-numbers-are-positive.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\obj\Debug\net8.0\204-Two-numbers-are-positive.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\obj\Debug\net8.0\refint\204-Two-numbers-are-positive.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\obj\Debug\net8.0\204-Two-numbers-are-positive.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\obj\Debug\net8.0\204-Two-numbers-are-positive.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\204-Two-numbers-are-positive\obj\Debug\net8.0\ref\204-Two-numbers-are-positive.dll

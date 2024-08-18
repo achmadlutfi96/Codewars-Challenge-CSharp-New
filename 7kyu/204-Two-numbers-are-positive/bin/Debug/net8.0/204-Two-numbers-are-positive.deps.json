@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "204-Two-numbers-are-positive/1.0.0": {
+        "runtime": {
+          "204-Two-numbers-are-positive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "204-Two-numbers-are-positive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
