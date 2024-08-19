@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\bin\Debug\net8.0\206-Elevator-Distance.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\bin\Debug\net8.0\206-Elevator-Distance.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\bin\Debug\net8.0\206-Elevator-Distance.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\bin\Debug\net8.0\206-Elevator-Distance.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\bin\Debug\net8.0\206-Elevator-Distance.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\obj\Debug\net8.0\206-Elevator-Distance.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\obj\Debug\net8.0\206-Elevator-Distance.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\obj\Debug\net8.0\206-Elevator-Distance.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\obj\Debug\net8.0\206-Elevator-Distance.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\obj\Debug\net8.0\206-Elevator-Distance.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\obj\Debug\net8.0\206-Elevator-Distance.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\obj\Debug\net8.0\refint\206-Elevator-Distance.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\obj\Debug\net8.0\206-Elevator-Distance.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\obj\Debug\net8.0\206-Elevator-Distance.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\206-Elevator-Distance\obj\Debug\net8.0\ref\206-Elevator-Distance.dll
