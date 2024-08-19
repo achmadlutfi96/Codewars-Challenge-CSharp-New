@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\bin\Debug\net8.0\205-shorter-concat-reverse-longer.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\bin\Debug\net8.0\205-shorter-concat-reverse-longer.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\bin\Debug\net8.0\205-shorter-concat-reverse-longer.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\bin\Debug\net8.0\205-shorter-concat-reverse-longer.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\bin\Debug\net8.0\205-shorter-concat-reverse-longer.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\obj\Debug\net8.0\205-shorter-concat-reverse-longer.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\obj\Debug\net8.0\205-shorter-concat-reverse-longer.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\obj\Debug\net8.0\205-shorter-concat-reverse-longer.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\obj\Debug\net8.0\205-shorter-concat-reverse-longer.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\obj\Debug\net8.0\205-shorter-concat-reverse-longer.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\obj\Debug\net8.0\205-shorter-concat-reverse-longer.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\obj\Debug\net8.0\refint\205-shorter-concat-reverse-longer.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\obj\Debug\net8.0\205-shorter-concat-reverse-longer.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\obj\Debug\net8.0\205-shorter-concat-reverse-longer.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\205-shorter-concat-reverse-longer\obj\Debug\net8.0\ref\205-shorter-concat-reverse-longer.dll
