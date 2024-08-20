@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\bin\Debug\net8.0\208-Band-name-generator.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\bin\Debug\net8.0\208-Band-name-generator.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\bin\Debug\net8.0\208-Band-name-generator.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\bin\Debug\net8.0\208-Band-name-generator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\bin\Debug\net8.0\208-Band-name-generator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\obj\Debug\net8.0\208-Band-name-generator.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\obj\Debug\net8.0\208-Band-name-generator.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\obj\Debug\net8.0\208-Band-name-generator.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\obj\Debug\net8.0\208-Band-name-generator.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\obj\Debug\net8.0\208-Band-name-generator.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\obj\Debug\net8.0\208-Band-name-generator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\obj\Debug\net8.0\refint\208-Band-name-generator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\obj\Debug\net8.0\208-Band-name-generator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\obj\Debug\net8.0\208-Band-name-generator.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\208-Band-name-generator\obj\Debug\net8.0\ref\208-Band-name-generator.dll
