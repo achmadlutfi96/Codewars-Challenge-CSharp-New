@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _207_Count_all_the_sheep_on_farm_in_the_heights_of_New_Zealand
+build_property.ProjectDir = c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\207-Count-all-the-sheep-on-farm-in-the-heights-of-New-Zealand\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
