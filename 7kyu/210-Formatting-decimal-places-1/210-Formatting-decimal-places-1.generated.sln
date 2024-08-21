@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "210-Formatting-decimal-places-1", "210-Formatting-decimal-places-1.csproj", "{AE91DD52-A99B-4DD0-9304-6639656EDB8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE91DD52-A99B-4DD0-9304-6639656EDB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE91DD52-A99B-4DD0-9304-6639656EDB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE91DD52-A99B-4DD0-9304-6639656EDB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE91DD52-A99B-4DD0-9304-6639656EDB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67C6BA04-CDD8-4FA6-A5C5-0C7A556F6087}
+	EndGlobalSection
+EndGlobal
