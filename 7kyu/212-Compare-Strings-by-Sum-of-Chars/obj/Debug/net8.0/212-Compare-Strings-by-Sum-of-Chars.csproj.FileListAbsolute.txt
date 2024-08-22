@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\bin\Debug\net8.0\212-Compare-Strings-by-Sum-of-Chars.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\bin\Debug\net8.0\212-Compare-Strings-by-Sum-of-Chars.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\bin\Debug\net8.0\212-Compare-Strings-by-Sum-of-Chars.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\bin\Debug\net8.0\212-Compare-Strings-by-Sum-of-Chars.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\bin\Debug\net8.0\212-Compare-Strings-by-Sum-of-Chars.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\obj\Debug\net8.0\212-Compare-Strings-by-Sum-of-Chars.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\obj\Debug\net8.0\212-Compare-Strings-by-Sum-of-Chars.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\obj\Debug\net8.0\212-Compare-Strings-by-Sum-of-Chars.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\obj\Debug\net8.0\212-Compare-Strings-by-Sum-of-Chars.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\obj\Debug\net8.0\212-Compare-Strings-by-Sum-of-Chars.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\obj\Debug\net8.0\212-Compare-Strings-by-Sum-of-Chars.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\obj\Debug\net8.0\refint\212-Compare-Strings-by-Sum-of-Chars.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\obj\Debug\net8.0\212-Compare-Strings-by-Sum-of-Chars.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\obj\Debug\net8.0\212-Compare-Strings-by-Sum-of-Chars.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\212-Compare-Strings-by-Sum-of-Chars\obj\Debug\net8.0\ref\212-Compare-Strings-by-Sum-of-Chars.dll
