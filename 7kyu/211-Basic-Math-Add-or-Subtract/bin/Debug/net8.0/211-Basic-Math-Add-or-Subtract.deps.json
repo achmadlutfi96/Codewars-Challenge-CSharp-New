@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "211-Basic-Math-Add-or-Subtract/1.0.0": {
+        "runtime": {
+          "211-Basic-Math-Add-or-Subtract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "211-Basic-Math-Add-or-Subtract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

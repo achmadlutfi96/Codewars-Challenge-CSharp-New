@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\bin\Debug\net8.0\211-Basic-Math-Add-or-Subtract.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\bin\Debug\net8.0\211-Basic-Math-Add-or-Subtract.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\bin\Debug\net8.0\211-Basic-Math-Add-or-Subtract.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\bin\Debug\net8.0\211-Basic-Math-Add-or-Subtract.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\bin\Debug\net8.0\211-Basic-Math-Add-or-Subtract.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\obj\Debug\net8.0\211-Basic-Math-Add-or-Subtract.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\obj\Debug\net8.0\211-Basic-Math-Add-or-Subtract.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\obj\Debug\net8.0\211-Basic-Math-Add-or-Subtract.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\obj\Debug\net8.0\211-Basic-Math-Add-or-Subtract.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\obj\Debug\net8.0\211-Basic-Math-Add-or-Subtract.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\obj\Debug\net8.0\211-Basic-Math-Add-or-Subtract.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\obj\Debug\net8.0\refint\211-Basic-Math-Add-or-Subtract.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\obj\Debug\net8.0\211-Basic-Math-Add-or-Subtract.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\obj\Debug\net8.0\211-Basic-Math-Add-or-Subtract.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\211-Basic-Math-Add-or-Subtract\obj\Debug\net8.0\ref\211-Basic-Math-Add-or-Subtract.dll
