@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\bin\Debug\net8.0\214-Stanton-measure.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\bin\Debug\net8.0\214-Stanton-measure.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\bin\Debug\net8.0\214-Stanton-measure.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\bin\Debug\net8.0\214-Stanton-measure.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\bin\Debug\net8.0\214-Stanton-measure.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\obj\Debug\net8.0\214-Stanton-measure.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\obj\Debug\net8.0\214-Stanton-measure.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\obj\Debug\net8.0\214-Stanton-measure.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\obj\Debug\net8.0\214-Stanton-measure.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\obj\Debug\net8.0\214-Stanton-measure.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\obj\Debug\net8.0\214-Stanton-measure.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\obj\Debug\net8.0\refint\214-Stanton-measure.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\obj\Debug\net8.0\214-Stanton-measure.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\obj\Debug\net8.0\214-Stanton-measure.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\214-Stanton-measure\obj\Debug\net8.0\ref\214-Stanton-measure.dll
