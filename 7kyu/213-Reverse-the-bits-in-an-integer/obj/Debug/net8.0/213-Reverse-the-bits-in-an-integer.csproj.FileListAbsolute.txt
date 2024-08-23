@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\bin\Debug\net8.0\213-Reverse-the-bits-in-an-integer.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\bin\Debug\net8.0\213-Reverse-the-bits-in-an-integer.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\bin\Debug\net8.0\213-Reverse-the-bits-in-an-integer.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\bin\Debug\net8.0\213-Reverse-the-bits-in-an-integer.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\bin\Debug\net8.0\213-Reverse-the-bits-in-an-integer.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\obj\Debug\net8.0\213-Reverse-the-bits-in-an-integer.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\obj\Debug\net8.0\213-Reverse-the-bits-in-an-integer.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\obj\Debug\net8.0\213-Reverse-the-bits-in-an-integer.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\obj\Debug\net8.0\213-Reverse-the-bits-in-an-integer.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\obj\Debug\net8.0\213-Reverse-the-bits-in-an-integer.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\obj\Debug\net8.0\213-Reverse-the-bits-in-an-integer.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\obj\Debug\net8.0\refint\213-Reverse-the-bits-in-an-integer.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\obj\Debug\net8.0\213-Reverse-the-bits-in-an-integer.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\obj\Debug\net8.0\213-Reverse-the-bits-in-an-integer.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\213-Reverse-the-bits-in-an-integer\obj\Debug\net8.0\ref\213-Reverse-the-bits-in-an-integer.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "213-Reverse-the-bits-in-an-integer/1.0.0": {
+        "runtime": {
+          "213-Reverse-the-bits-in-an-integer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "213-Reverse-the-bits-in-an-integer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
