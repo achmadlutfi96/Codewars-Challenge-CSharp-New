@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\bin\Debug\net8.0\215-Letterbox-Paint-Squad.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\bin\Debug\net8.0\215-Letterbox-Paint-Squad.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\bin\Debug\net8.0\215-Letterbox-Paint-Squad.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\bin\Debug\net8.0\215-Letterbox-Paint-Squad.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\bin\Debug\net8.0\215-Letterbox-Paint-Squad.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\obj\Debug\net8.0\215-Letterbox-Paint-Squad.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\obj\Debug\net8.0\215-Letterbox-Paint-Squad.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\obj\Debug\net8.0\215-Letterbox-Paint-Squad.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\obj\Debug\net8.0\215-Letterbox-Paint-Squad.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\obj\Debug\net8.0\215-Letterbox-Paint-Squad.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\obj\Debug\net8.0\215-Letterbox-Paint-Squad.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\obj\Debug\net8.0\refint\215-Letterbox-Paint-Squad.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\obj\Debug\net8.0\215-Letterbox-Paint-Squad.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\obj\Debug\net8.0\215-Letterbox-Paint-Squad.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\215-Letterbox-Paint-Squad\obj\Debug\net8.0\ref\215-Letterbox-Paint-Squad.dll
