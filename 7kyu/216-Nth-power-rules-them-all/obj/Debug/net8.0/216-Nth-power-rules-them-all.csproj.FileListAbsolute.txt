@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\bin\Debug\net8.0\216-Nth-power-rules-them-all.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\bin\Debug\net8.0\216-Nth-power-rules-them-all.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\bin\Debug\net8.0\216-Nth-power-rules-them-all.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\bin\Debug\net8.0\216-Nth-power-rules-them-all.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\bin\Debug\net8.0\216-Nth-power-rules-them-all.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\obj\Debug\net8.0\216-Nth-power-rules-them-all.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\obj\Debug\net8.0\216-Nth-power-rules-them-all.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\obj\Debug\net8.0\216-Nth-power-rules-them-all.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\obj\Debug\net8.0\216-Nth-power-rules-them-all.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\obj\Debug\net8.0\216-Nth-power-rules-them-all.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\obj\Debug\net8.0\216-Nth-power-rules-them-all.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\obj\Debug\net8.0\refint\216-Nth-power-rules-them-all.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\obj\Debug\net8.0\216-Nth-power-rules-them-all.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\obj\Debug\net8.0\216-Nth-power-rules-them-all.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\216-Nth-power-rules-them-all\obj\Debug\net8.0\ref\216-Nth-power-rules-them-all.dll
