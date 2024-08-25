@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\bin\Debug\net8.0\217-Average-Scores.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\bin\Debug\net8.0\217-Average-Scores.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\bin\Debug\net8.0\217-Average-Scores.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\bin\Debug\net8.0\217-Average-Scores.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\bin\Debug\net8.0\217-Average-Scores.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\obj\Debug\net8.0\217-Average-Scores.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\obj\Debug\net8.0\217-Average-Scores.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\obj\Debug\net8.0\217-Average-Scores.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\obj\Debug\net8.0\217-Average-Scores.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\obj\Debug\net8.0\217-Average-Scores.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\obj\Debug\net8.0\217-Average-Scores.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\obj\Debug\net8.0\refint\217-Average-Scores.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\obj\Debug\net8.0\217-Average-Scores.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\obj\Debug\net8.0\217-Average-Scores.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\217-Average-Scores\obj\Debug\net8.0\ref\217-Average-Scores.dll

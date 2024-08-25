@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "217-Average-Scores/1.0.0": {
+        "runtime": {
+          "217-Average-Scores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "217-Average-Scores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
