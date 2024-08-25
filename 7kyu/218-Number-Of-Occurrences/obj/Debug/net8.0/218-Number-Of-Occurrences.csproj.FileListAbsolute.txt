@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\bin\Debug\net8.0\218-Number-Of-Occurrences.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\bin\Debug\net8.0\218-Number-Of-Occurrences.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\bin\Debug\net8.0\218-Number-Of-Occurrences.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\bin\Debug\net8.0\218-Number-Of-Occurrences.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\bin\Debug\net8.0\218-Number-Of-Occurrences.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\obj\Debug\net8.0\218-Number-Of-Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\obj\Debug\net8.0\218-Number-Of-Occurrences.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\obj\Debug\net8.0\218-Number-Of-Occurrences.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\obj\Debug\net8.0\218-Number-Of-Occurrences.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\obj\Debug\net8.0\218-Number-Of-Occurrences.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\obj\Debug\net8.0\218-Number-Of-Occurrences.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\obj\Debug\net8.0\refint\218-Number-Of-Occurrences.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\obj\Debug\net8.0\218-Number-Of-Occurrences.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\obj\Debug\net8.0\218-Number-Of-Occurrences.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\218-Number-Of-Occurrences\obj\Debug\net8.0\ref\218-Number-Of-Occurrences.dll
