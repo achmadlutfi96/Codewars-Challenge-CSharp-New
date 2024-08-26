@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "220-By-3-or-not-by-3-That-is-the-question/1.0.0": {
+        "runtime": {
+          "220-By-3-or-not-by-3-That-is-the-question.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "220-By-3-or-not-by-3-That-is-the-question/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\bin\Debug\net8.0\220-By-3-or-not-by-3-That-is-the-question.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\bin\Debug\net8.0\220-By-3-or-not-by-3-That-is-the-question.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\bin\Debug\net8.0\220-By-3-or-not-by-3-That-is-the-question.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\bin\Debug\net8.0\220-By-3-or-not-by-3-That-is-the-question.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\bin\Debug\net8.0\220-By-3-or-not-by-3-That-is-the-question.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\obj\Debug\net8.0\220-By-3-or-not-by-3-That-is-the-question.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\obj\Debug\net8.0\220-By-3-or-not-by-3-That-is-the-question.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\obj\Debug\net8.0\220-By-3-or-not-by-3-That-is-the-question.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\obj\Debug\net8.0\220-By-3-or-not-by-3-That-is-the-question.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\obj\Debug\net8.0\220-By-3-or-not-by-3-That-is-the-question.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\obj\Debug\net8.0\220-By-3-or-not-by-3-That-is-the-question.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\obj\Debug\net8.0\refint\220-By-3-or-not-by-3-That-is-the-question.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\obj\Debug\net8.0\220-By-3-or-not-by-3-That-is-the-question.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\obj\Debug\net8.0\220-By-3-or-not-by-3-That-is-the-question.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\220-By-3-or-not-by-3-That-is-the-question\obj\Debug\net8.0\ref\220-By-3-or-not-by-3-That-is-the-question.dll
