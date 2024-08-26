@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "219-Length-and-two-values/1.0.0": {
+        "runtime": {
+          "219-Length-and-two-values.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "219-Length-and-two-values/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

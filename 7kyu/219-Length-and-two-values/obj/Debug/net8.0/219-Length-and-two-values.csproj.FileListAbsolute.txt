@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\bin\Debug\net8.0\219-Length-and-two-values.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\bin\Debug\net8.0\219-Length-and-two-values.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\bin\Debug\net8.0\219-Length-and-two-values.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\bin\Debug\net8.0\219-Length-and-two-values.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\bin\Debug\net8.0\219-Length-and-two-values.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\obj\Debug\net8.0\219-Length-and-two-values.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\obj\Debug\net8.0\219-Length-and-two-values.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\obj\Debug\net8.0\219-Length-and-two-values.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\obj\Debug\net8.0\219-Length-and-two-values.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\obj\Debug\net8.0\219-Length-and-two-values.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\obj\Debug\net8.0\219-Length-and-two-values.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\obj\Debug\net8.0\refint\219-Length-and-two-values.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\obj\Debug\net8.0\219-Length-and-two-values.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\obj\Debug\net8.0\219-Length-and-two-values.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\219-Length-and-two-values\obj\Debug\net8.0\ref\219-Length-and-two-values.dll
