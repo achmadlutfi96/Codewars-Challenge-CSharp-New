@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\bin\Debug\net8.0\222-Say-hello.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\bin\Debug\net8.0\222-Say-hello.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\bin\Debug\net8.0\222-Say-hello.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\bin\Debug\net8.0\222-Say-hello.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\bin\Debug\net8.0\222-Say-hello.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\obj\Debug\net8.0\222-Say-hello.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\obj\Debug\net8.0\222-Say-hello.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\obj\Debug\net8.0\222-Say-hello.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\obj\Debug\net8.0\222-Say-hello.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\obj\Debug\net8.0\222-Say-hello.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\obj\Debug\net8.0\222-Say-hello.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\obj\Debug\net8.0\refint\222-Say-hello.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\obj\Debug\net8.0\222-Say-hello.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\obj\Debug\net8.0\222-Say-hello.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\222-Say-hello\obj\Debug\net8.0\ref\222-Say-hello.dll
