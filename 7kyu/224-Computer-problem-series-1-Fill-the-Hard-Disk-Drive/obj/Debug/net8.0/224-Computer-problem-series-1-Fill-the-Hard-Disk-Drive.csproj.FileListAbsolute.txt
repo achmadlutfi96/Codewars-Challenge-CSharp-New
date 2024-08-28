@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\bin\Debug\net8.0\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\bin\Debug\net8.0\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\bin\Debug\net8.0\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\bin\Debug\net8.0\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\bin\Debug\net8.0\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\obj\Debug\net8.0\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\obj\Debug\net8.0\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\obj\Debug\net8.0\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\obj\Debug\net8.0\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\obj\Debug\net8.0\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\obj\Debug\net8.0\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\obj\Debug\net8.0\refint\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\obj\Debug\net8.0\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\obj\Debug\net8.0\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive\obj\Debug\net8.0\ref\224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.dll

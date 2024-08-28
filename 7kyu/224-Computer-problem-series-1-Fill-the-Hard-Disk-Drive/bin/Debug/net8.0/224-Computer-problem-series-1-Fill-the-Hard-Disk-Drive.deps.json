@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive/1.0.0": {
+        "runtime": {
+          "224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "224-Computer-problem-series-1-Fill-the-Hard-Disk-Drive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
