@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\bin\Debug\net8.0\223-Simple-Fun-2-Circle-of-Numbers.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\bin\Debug\net8.0\223-Simple-Fun-2-Circle-of-Numbers.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\bin\Debug\net8.0\223-Simple-Fun-2-Circle-of-Numbers.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\bin\Debug\net8.0\223-Simple-Fun-2-Circle-of-Numbers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\bin\Debug\net8.0\223-Simple-Fun-2-Circle-of-Numbers.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\obj\Debug\net8.0\223-Simple-Fun-2-Circle-of-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\obj\Debug\net8.0\223-Simple-Fun-2-Circle-of-Numbers.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\obj\Debug\net8.0\223-Simple-Fun-2-Circle-of-Numbers.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\obj\Debug\net8.0\223-Simple-Fun-2-Circle-of-Numbers.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\obj\Debug\net8.0\223-Simple-Fun-2-Circle-of-Numbers.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\obj\Debug\net8.0\223-Simple-Fun-2-Circle-of-Numbers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\obj\Debug\net8.0\refint\223-Simple-Fun-2-Circle-of-Numbers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\obj\Debug\net8.0\223-Simple-Fun-2-Circle-of-Numbers.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\obj\Debug\net8.0\223-Simple-Fun-2-Circle-of-Numbers.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\223-Simple-Fun-2-Circle-of-Numbers\obj\Debug\net8.0\ref\223-Simple-Fun-2-Circle-of-Numbers.dll
