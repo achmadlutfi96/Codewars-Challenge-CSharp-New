@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\bin\Debug\net8.0\225-Evens-times-last.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\bin\Debug\net8.0\225-Evens-times-last.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\bin\Debug\net8.0\225-Evens-times-last.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\bin\Debug\net8.0\225-Evens-times-last.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\bin\Debug\net8.0\225-Evens-times-last.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\obj\Debug\net8.0\225-Evens-times-last.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\obj\Debug\net8.0\225-Evens-times-last.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\obj\Debug\net8.0\225-Evens-times-last.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\obj\Debug\net8.0\225-Evens-times-last.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\obj\Debug\net8.0\225-Evens-times-last.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\obj\Debug\net8.0\225-Evens-times-last.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\obj\Debug\net8.0\refint\225-Evens-times-last.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\obj\Debug\net8.0\225-Evens-times-last.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\obj\Debug\net8.0\225-Evens-times-last.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\225-Evens-times-last\obj\Debug\net8.0\ref\225-Evens-times-last.dll
