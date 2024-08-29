@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "226-Building-Strings-From-a-Hash/1.0.0": {
+        "runtime": {
+          "226-Building-Strings-From-a-Hash.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "226-Building-Strings-From-a-Hash/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

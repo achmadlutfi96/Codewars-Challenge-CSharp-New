@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\bin\Debug\net8.0\226-Building-Strings-From-a-Hash.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\bin\Debug\net8.0\226-Building-Strings-From-a-Hash.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\bin\Debug\net8.0\226-Building-Strings-From-a-Hash.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\bin\Debug\net8.0\226-Building-Strings-From-a-Hash.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\bin\Debug\net8.0\226-Building-Strings-From-a-Hash.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\obj\Debug\net8.0\226-Building-Strings-From-a-Hash.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\obj\Debug\net8.0\226-Building-Strings-From-a-Hash.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\obj\Debug\net8.0\226-Building-Strings-From-a-Hash.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\obj\Debug\net8.0\226-Building-Strings-From-a-Hash.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\obj\Debug\net8.0\226-Building-Strings-From-a-Hash.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\obj\Debug\net8.0\226-Building-Strings-From-a-Hash.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\obj\Debug\net8.0\refint\226-Building-Strings-From-a-Hash.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\obj\Debug\net8.0\226-Building-Strings-From-a-Hash.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\obj\Debug\net8.0\226-Building-Strings-From-a-Hash.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\226-Building-Strings-From-a-Hash\obj\Debug\net8.0\ref\226-Building-Strings-From-a-Hash.dll
