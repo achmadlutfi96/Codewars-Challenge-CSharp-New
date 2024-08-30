@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\bin\Debug\net8.0\227-Interview-Question-easy.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\bin\Debug\net8.0\227-Interview-Question-easy.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\bin\Debug\net8.0\227-Interview-Question-easy.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\bin\Debug\net8.0\227-Interview-Question-easy.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\bin\Debug\net8.0\227-Interview-Question-easy.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\obj\Debug\net8.0\227-Interview-Question-easy.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\obj\Debug\net8.0\227-Interview-Question-easy.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\obj\Debug\net8.0\227-Interview-Question-easy.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\obj\Debug\net8.0\227-Interview-Question-easy.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\obj\Debug\net8.0\227-Interview-Question-easy.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\obj\Debug\net8.0\227-Interview-Question-easy.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\obj\Debug\net8.0\refint\227-Interview-Question-easy.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\obj\Debug\net8.0\227-Interview-Question-easy.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\obj\Debug\net8.0\227-Interview-Question-easy.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\227-Interview-Question-easy\obj\Debug\net8.0\ref\227-Interview-Question-easy.dll
