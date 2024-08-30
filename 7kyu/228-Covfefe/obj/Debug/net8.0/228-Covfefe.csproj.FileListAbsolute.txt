@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\bin\Debug\net8.0\228-Covfefe.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\bin\Debug\net8.0\228-Covfefe.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\bin\Debug\net8.0\228-Covfefe.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\bin\Debug\net8.0\228-Covfefe.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\bin\Debug\net8.0\228-Covfefe.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\obj\Debug\net8.0\228-Covfefe.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\obj\Debug\net8.0\228-Covfefe.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\obj\Debug\net8.0\228-Covfefe.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\obj\Debug\net8.0\228-Covfefe.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\obj\Debug\net8.0\228-Covfefe.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\obj\Debug\net8.0\228-Covfefe.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\obj\Debug\net8.0\refint\228-Covfefe.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\obj\Debug\net8.0\228-Covfefe.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\obj\Debug\net8.0\228-Covfefe.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\228-Covfefe\obj\Debug\net8.0\ref\228-Covfefe.dll
