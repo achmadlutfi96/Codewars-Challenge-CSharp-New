@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\bin\Debug\net8.0\229-Character-Counter.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\bin\Debug\net8.0\229-Character-Counter.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\bin\Debug\net8.0\229-Character-Counter.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\bin\Debug\net8.0\229-Character-Counter.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\bin\Debug\net8.0\229-Character-Counter.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\obj\Debug\net8.0\229-Character-Counter.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\obj\Debug\net8.0\229-Character-Counter.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\obj\Debug\net8.0\229-Character-Counter.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\obj\Debug\net8.0\229-Character-Counter.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\obj\Debug\net8.0\229-Character-Counter.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\obj\Debug\net8.0\229-Character-Counter.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\obj\Debug\net8.0\refint\229-Character-Counter.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\obj\Debug\net8.0\229-Character-Counter.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\obj\Debug\net8.0\229-Character-Counter.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\229-Character-Counter\obj\Debug\net8.0\ref\229-Character-Counter.dll
