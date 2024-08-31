@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\bin\Debug\net8.0\230-Initialize-my-name.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\bin\Debug\net8.0\230-Initialize-my-name.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\bin\Debug\net8.0\230-Initialize-my-name.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\bin\Debug\net8.0\230-Initialize-my-name.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\bin\Debug\net8.0\230-Initialize-my-name.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\obj\Debug\net8.0\230-Initialize-my-name.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\obj\Debug\net8.0\230-Initialize-my-name.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\obj\Debug\net8.0\230-Initialize-my-name.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\obj\Debug\net8.0\230-Initialize-my-name.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\obj\Debug\net8.0\230-Initialize-my-name.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\obj\Debug\net8.0\230-Initialize-my-name.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\obj\Debug\net8.0\refint\230-Initialize-my-name.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\obj\Debug\net8.0\230-Initialize-my-name.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\obj\Debug\net8.0\230-Initialize-my-name.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\230-Initialize-my-name\obj\Debug\net8.0\ref\230-Initialize-my-name.dll
