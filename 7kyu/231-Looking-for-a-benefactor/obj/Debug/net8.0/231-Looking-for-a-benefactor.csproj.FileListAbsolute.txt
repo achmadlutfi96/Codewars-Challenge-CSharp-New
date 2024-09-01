@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\bin\Debug\net8.0\231-Looking-for-a-benefactor.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\bin\Debug\net8.0\231-Looking-for-a-benefactor.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\bin\Debug\net8.0\231-Looking-for-a-benefactor.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\bin\Debug\net8.0\231-Looking-for-a-benefactor.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\bin\Debug\net8.0\231-Looking-for-a-benefactor.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\obj\Debug\net8.0\231-Looking-for-a-benefactor.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\obj\Debug\net8.0\231-Looking-for-a-benefactor.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\obj\Debug\net8.0\231-Looking-for-a-benefactor.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\obj\Debug\net8.0\231-Looking-for-a-benefactor.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\obj\Debug\net8.0\231-Looking-for-a-benefactor.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\obj\Debug\net8.0\231-Looking-for-a-benefactor.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\obj\Debug\net8.0\refint\231-Looking-for-a-benefactor.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\obj\Debug\net8.0\231-Looking-for-a-benefactor.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\obj\Debug\net8.0\231-Looking-for-a-benefactor.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\231-Looking-for-a-benefactor\obj\Debug\net8.0\ref\231-Looking-for-a-benefactor.dll
