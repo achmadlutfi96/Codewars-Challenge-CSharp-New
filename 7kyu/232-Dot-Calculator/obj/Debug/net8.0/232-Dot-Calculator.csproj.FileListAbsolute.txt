@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\bin\Debug\net8.0\232-Dot-Calculator.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\bin\Debug\net8.0\232-Dot-Calculator.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\bin\Debug\net8.0\232-Dot-Calculator.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\bin\Debug\net8.0\232-Dot-Calculator.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\bin\Debug\net8.0\232-Dot-Calculator.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\obj\Debug\net8.0\232-Dot-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\obj\Debug\net8.0\232-Dot-Calculator.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\obj\Debug\net8.0\232-Dot-Calculator.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\obj\Debug\net8.0\232-Dot-Calculator.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\obj\Debug\net8.0\232-Dot-Calculator.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\obj\Debug\net8.0\232-Dot-Calculator.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\obj\Debug\net8.0\refint\232-Dot-Calculator.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\obj\Debug\net8.0\232-Dot-Calculator.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\obj\Debug\net8.0\232-Dot-Calculator.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\232-Dot-Calculator\obj\Debug\net8.0\ref\232-Dot-Calculator.dll
