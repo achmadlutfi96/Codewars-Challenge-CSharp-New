@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\bin\Debug\net8.0\233-Regexp-Basics-is-it-a-vowel.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\bin\Debug\net8.0\233-Regexp-Basics-is-it-a-vowel.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\bin\Debug\net8.0\233-Regexp-Basics-is-it-a-vowel.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\bin\Debug\net8.0\233-Regexp-Basics-is-it-a-vowel.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\bin\Debug\net8.0\233-Regexp-Basics-is-it-a-vowel.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\obj\Debug\net8.0\233-Regexp-Basics-is-it-a-vowel.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\obj\Debug\net8.0\233-Regexp-Basics-is-it-a-vowel.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\obj\Debug\net8.0\233-Regexp-Basics-is-it-a-vowel.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\obj\Debug\net8.0\233-Regexp-Basics-is-it-a-vowel.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\obj\Debug\net8.0\233-Regexp-Basics-is-it-a-vowel.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\obj\Debug\net8.0\233-Regexp-Basics-is-it-a-vowel.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\obj\Debug\net8.0\refint\233-Regexp-Basics-is-it-a-vowel.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\obj\Debug\net8.0\233-Regexp-Basics-is-it-a-vowel.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\obj\Debug\net8.0\233-Regexp-Basics-is-it-a-vowel.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\233-Regexp-Basics-is-it-a-vowel\obj\Debug\net8.0\ref\233-Regexp-Basics-is-it-a-vowel.dll
