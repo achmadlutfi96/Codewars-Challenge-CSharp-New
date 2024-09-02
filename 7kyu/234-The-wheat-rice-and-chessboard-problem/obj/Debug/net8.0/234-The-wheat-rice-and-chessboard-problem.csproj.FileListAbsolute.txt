@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\bin\Debug\net8.0\234-The-wheat-rice-and-chessboard-problem.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\bin\Debug\net8.0\234-The-wheat-rice-and-chessboard-problem.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\bin\Debug\net8.0\234-The-wheat-rice-and-chessboard-problem.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\bin\Debug\net8.0\234-The-wheat-rice-and-chessboard-problem.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\bin\Debug\net8.0\234-The-wheat-rice-and-chessboard-problem.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\obj\Debug\net8.0\234-The-wheat-rice-and-chessboard-problem.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\obj\Debug\net8.0\234-The-wheat-rice-and-chessboard-problem.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\obj\Debug\net8.0\234-The-wheat-rice-and-chessboard-problem.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\obj\Debug\net8.0\234-The-wheat-rice-and-chessboard-problem.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\obj\Debug\net8.0\234-The-wheat-rice-and-chessboard-problem.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\obj\Debug\net8.0\234-The-wheat-rice-and-chessboard-problem.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\obj\Debug\net8.0\refint\234-The-wheat-rice-and-chessboard-problem.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\obj\Debug\net8.0\234-The-wheat-rice-and-chessboard-problem.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\obj\Debug\net8.0\234-The-wheat-rice-and-chessboard-problem.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\234-The-wheat-rice-and-chessboard-problem\obj\Debug\net8.0\ref\234-The-wheat-rice-and-chessboard-problem.dll

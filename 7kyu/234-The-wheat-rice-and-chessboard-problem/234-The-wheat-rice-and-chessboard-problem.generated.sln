@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "234-The-wheat-rice-and-chessboard-problem", "234-The-wheat-rice-and-chessboard-problem.csproj", "{9315E15F-A5A2-491D-B09F-996ACA262792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9315E15F-A5A2-491D-B09F-996ACA262792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9315E15F-A5A2-491D-B09F-996ACA262792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9315E15F-A5A2-491D-B09F-996ACA262792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9315E15F-A5A2-491D-B09F-996ACA262792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5A84768-AA91-48D2-AB9E-2ABAD94F86E9}
+	EndGlobalSection
+EndGlobal
