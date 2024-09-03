@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\bin\Debug\net8.0\236-Is-n-divisible-by.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\bin\Debug\net8.0\236-Is-n-divisible-by.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\bin\Debug\net8.0\236-Is-n-divisible-by.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\bin\Debug\net8.0\236-Is-n-divisible-by.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\bin\Debug\net8.0\236-Is-n-divisible-by.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\obj\Debug\net8.0\236-Is-n-divisible-by.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\obj\Debug\net8.0\236-Is-n-divisible-by.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\obj\Debug\net8.0\236-Is-n-divisible-by.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\obj\Debug\net8.0\236-Is-n-divisible-by.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\obj\Debug\net8.0\236-Is-n-divisible-by.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\obj\Debug\net8.0\236-Is-n-divisible-by.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\obj\Debug\net8.0\refint\236-Is-n-divisible-by.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\obj\Debug\net8.0\236-Is-n-divisible-by.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\obj\Debug\net8.0\236-Is-n-divisible-by.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\236-Is-n-divisible-by\obj\Debug\net8.0\ref\236-Is-n-divisible-by.dll
