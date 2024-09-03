@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "235-Nice-Array/1.0.0": {
+        "runtime": {
+          "235-Nice-Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "235-Nice-Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

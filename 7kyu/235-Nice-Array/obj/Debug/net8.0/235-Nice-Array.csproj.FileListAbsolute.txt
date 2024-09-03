@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\bin\Debug\net8.0\235-Nice-Array.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\bin\Debug\net8.0\235-Nice-Array.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\bin\Debug\net8.0\235-Nice-Array.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\bin\Debug\net8.0\235-Nice-Array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\bin\Debug\net8.0\235-Nice-Array.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\obj\Debug\net8.0\235-Nice-Array.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\obj\Debug\net8.0\235-Nice-Array.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\obj\Debug\net8.0\235-Nice-Array.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\obj\Debug\net8.0\235-Nice-Array.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\obj\Debug\net8.0\235-Nice-Array.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\obj\Debug\net8.0\235-Nice-Array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\obj\Debug\net8.0\refint\235-Nice-Array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\obj\Debug\net8.0\235-Nice-Array.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\obj\Debug\net8.0\235-Nice-Array.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\235-Nice-Array\obj\Debug\net8.0\ref\235-Nice-Array.dll
