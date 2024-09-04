@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\bin\Debug\net8.0\237-Unscrambled-eggs.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\bin\Debug\net8.0\237-Unscrambled-eggs.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\bin\Debug\net8.0\237-Unscrambled-eggs.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\bin\Debug\net8.0\237-Unscrambled-eggs.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\bin\Debug\net8.0\237-Unscrambled-eggs.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\obj\Debug\net8.0\237-Unscrambled-eggs.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\obj\Debug\net8.0\237-Unscrambled-eggs.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\obj\Debug\net8.0\237-Unscrambled-eggs.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\obj\Debug\net8.0\237-Unscrambled-eggs.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\obj\Debug\net8.0\237-Unscrambled-eggs.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\obj\Debug\net8.0\237-Unscrambled-eggs.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\obj\Debug\net8.0\refint\237-Unscrambled-eggs.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\obj\Debug\net8.0\237-Unscrambled-eggs.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\obj\Debug\net8.0\237-Unscrambled-eggs.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\237-Unscrambled-eggs\obj\Debug\net8.0\ref\237-Unscrambled-eggs.dll
