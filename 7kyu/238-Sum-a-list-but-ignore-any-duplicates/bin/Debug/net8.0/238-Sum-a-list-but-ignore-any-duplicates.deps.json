@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "238-Sum-a-list-but-ignore-any-duplicates/1.0.0": {
+        "runtime": {
+          "238-Sum-a-list-but-ignore-any-duplicates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "238-Sum-a-list-but-ignore-any-duplicates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

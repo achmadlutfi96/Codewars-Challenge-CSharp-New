@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\bin\Debug\net8.0\238-Sum-a-list-but-ignore-any-duplicates.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\bin\Debug\net8.0\238-Sum-a-list-but-ignore-any-duplicates.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\bin\Debug\net8.0\238-Sum-a-list-but-ignore-any-duplicates.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\bin\Debug\net8.0\238-Sum-a-list-but-ignore-any-duplicates.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\bin\Debug\net8.0\238-Sum-a-list-but-ignore-any-duplicates.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\obj\Debug\net8.0\238-Sum-a-list-but-ignore-any-duplicates.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\obj\Debug\net8.0\238-Sum-a-list-but-ignore-any-duplicates.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\obj\Debug\net8.0\238-Sum-a-list-but-ignore-any-duplicates.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\obj\Debug\net8.0\238-Sum-a-list-but-ignore-any-duplicates.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\obj\Debug\net8.0\238-Sum-a-list-but-ignore-any-duplicates.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\obj\Debug\net8.0\238-Sum-a-list-but-ignore-any-duplicates.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\obj\Debug\net8.0\refint\238-Sum-a-list-but-ignore-any-duplicates.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\obj\Debug\net8.0\238-Sum-a-list-but-ignore-any-duplicates.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\obj\Debug\net8.0\238-Sum-a-list-but-ignore-any-duplicates.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\238-Sum-a-list-but-ignore-any-duplicates\obj\Debug\net8.0\ref\238-Sum-a-list-but-ignore-any-duplicates.dll
