@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\bin\Debug\net8.0\240-Exclamation-marks-series-13.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\bin\Debug\net8.0\240-Exclamation-marks-series-13.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\bin\Debug\net8.0\240-Exclamation-marks-series-13.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\bin\Debug\net8.0\240-Exclamation-marks-series-13.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\bin\Debug\net8.0\240-Exclamation-marks-series-13.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\obj\Debug\net8.0\240-Exclamation-marks-series-13.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\obj\Debug\net8.0\240-Exclamation-marks-series-13.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\obj\Debug\net8.0\240-Exclamation-marks-series-13.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\obj\Debug\net8.0\240-Exclamation-marks-series-13.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\obj\Debug\net8.0\240-Exclamation-marks-series-13.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\obj\Debug\net8.0\240-Exclamation-marks-series-13.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\obj\Debug\net8.0\refint\240-Exclamation-marks-series-13.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\obj\Debug\net8.0\240-Exclamation-marks-series-13.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\obj\Debug\net8.0\240-Exclamation-marks-series-13.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\240-Exclamation-marks-series-13\obj\Debug\net8.0\ref\240-Exclamation-marks-series-13.dll

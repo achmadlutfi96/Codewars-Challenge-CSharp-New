@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "240-Exclamation-marks-series-13", "240-Exclamation-marks-series-13.csproj", "{BC9E9F7E-E659-4573-8DB9-A3089FE883DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9E9F7E-E659-4573-8DB9-A3089FE883DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9E9F7E-E659-4573-8DB9-A3089FE883DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9E9F7E-E659-4573-8DB9-A3089FE883DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9E9F7E-E659-4573-8DB9-A3089FE883DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EF7B417-BF9F-4A3D-AB54-2267FA16FD55}
+	EndGlobalSection
+EndGlobal
