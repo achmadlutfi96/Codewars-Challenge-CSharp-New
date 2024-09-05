@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\bin\Debug\net8.0\239-Find-the-Missing-Number.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\bin\Debug\net8.0\239-Find-the-Missing-Number.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\bin\Debug\net8.0\239-Find-the-Missing-Number.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\bin\Debug\net8.0\239-Find-the-Missing-Number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\bin\Debug\net8.0\239-Find-the-Missing-Number.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\obj\Debug\net8.0\239-Find-the-Missing-Number.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\obj\Debug\net8.0\239-Find-the-Missing-Number.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\obj\Debug\net8.0\239-Find-the-Missing-Number.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\obj\Debug\net8.0\239-Find-the-Missing-Number.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\obj\Debug\net8.0\239-Find-the-Missing-Number.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\obj\Debug\net8.0\239-Find-the-Missing-Number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\obj\Debug\net8.0\refint\239-Find-the-Missing-Number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\obj\Debug\net8.0\239-Find-the-Missing-Number.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\obj\Debug\net8.0\239-Find-the-Missing-Number.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\239-Find-the-Missing-Number\obj\Debug\net8.0\ref\239-Find-the-Missing-Number.dll
