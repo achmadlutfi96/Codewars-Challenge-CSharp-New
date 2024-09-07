@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\bin\Debug\net8.0\241-How-many-consecutive-numbers-are-needed.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\bin\Debug\net8.0\241-How-many-consecutive-numbers-are-needed.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\bin\Debug\net8.0\241-How-many-consecutive-numbers-are-needed.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\bin\Debug\net8.0\241-How-many-consecutive-numbers-are-needed.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\bin\Debug\net8.0\241-How-many-consecutive-numbers-are-needed.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\obj\Debug\net8.0\241-How-many-consecutive-numbers-are-needed.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\obj\Debug\net8.0\241-How-many-consecutive-numbers-are-needed.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\obj\Debug\net8.0\241-How-many-consecutive-numbers-are-needed.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\obj\Debug\net8.0\241-How-many-consecutive-numbers-are-needed.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\obj\Debug\net8.0\241-How-many-consecutive-numbers-are-needed.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\obj\Debug\net8.0\241-How-many-consecutive-numbers-are-needed.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\obj\Debug\net8.0\refint\241-How-many-consecutive-numbers-are-needed.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\obj\Debug\net8.0\241-How-many-consecutive-numbers-are-needed.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\obj\Debug\net8.0\241-How-many-consecutive-numbers-are-needed.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\241-How-many-consecutive-numbers-are-needed\obj\Debug\net8.0\ref\241-How-many-consecutive-numbers-are-needed.dll
