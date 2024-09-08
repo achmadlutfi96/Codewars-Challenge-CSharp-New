@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _244_Find_The_Duplicated_Number_in_a_Consecutive_Unsorted_List
+build_property.ProjectDir = f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

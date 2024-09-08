@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List", "244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.csproj", "{F77AC2C7-86EB-41EF-B32A-0DC293ED7419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F77AC2C7-86EB-41EF-B32A-0DC293ED7419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77AC2C7-86EB-41EF-B32A-0DC293ED7419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77AC2C7-86EB-41EF-B32A-0DC293ED7419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77AC2C7-86EB-41EF-B32A-0DC293ED7419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E18A7D-8A23-4A70-900E-8E0DD04BC67A}
+	EndGlobalSection
+EndGlobal

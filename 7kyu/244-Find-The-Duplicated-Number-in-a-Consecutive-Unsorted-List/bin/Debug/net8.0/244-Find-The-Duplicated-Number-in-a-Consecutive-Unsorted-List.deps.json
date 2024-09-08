@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List/1.0.0": {
+        "runtime": {
+          "244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

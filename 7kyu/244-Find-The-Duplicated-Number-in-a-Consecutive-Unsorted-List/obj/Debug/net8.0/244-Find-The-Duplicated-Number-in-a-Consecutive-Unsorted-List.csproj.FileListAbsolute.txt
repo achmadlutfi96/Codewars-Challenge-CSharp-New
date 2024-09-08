@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\bin\Debug\net8.0\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\bin\Debug\net8.0\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\bin\Debug\net8.0\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\bin\Debug\net8.0\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\bin\Debug\net8.0\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\obj\Debug\net8.0\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\obj\Debug\net8.0\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\obj\Debug\net8.0\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\obj\Debug\net8.0\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\obj\Debug\net8.0\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\obj\Debug\net8.0\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\obj\Debug\net8.0\refint\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\obj\Debug\net8.0\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\obj\Debug\net8.0\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List\obj\Debug\net8.0\ref\244-Find-The-Duplicated-Number-in-a-Consecutive-Unsorted-List.dll
