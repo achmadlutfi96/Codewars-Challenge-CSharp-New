@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\bin\Debug\net8.0\243-Find-all-occurrences-of-an-element-in-an-array.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\bin\Debug\net8.0\243-Find-all-occurrences-of-an-element-in-an-array.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\bin\Debug\net8.0\243-Find-all-occurrences-of-an-element-in-an-array.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\bin\Debug\net8.0\243-Find-all-occurrences-of-an-element-in-an-array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\bin\Debug\net8.0\243-Find-all-occurrences-of-an-element-in-an-array.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\obj\Debug\net8.0\243-Find-all-occurrences-of-an-element-in-an-array.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\obj\Debug\net8.0\243-Find-all-occurrences-of-an-element-in-an-array.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\obj\Debug\net8.0\243-Find-all-occurrences-of-an-element-in-an-array.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\obj\Debug\net8.0\243-Find-all-occurrences-of-an-element-in-an-array.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\obj\Debug\net8.0\243-Find-all-occurrences-of-an-element-in-an-array.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\obj\Debug\net8.0\243-Find-all-occurrences-of-an-element-in-an-array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\obj\Debug\net8.0\refint\243-Find-all-occurrences-of-an-element-in-an-array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\obj\Debug\net8.0\243-Find-all-occurrences-of-an-element-in-an-array.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\obj\Debug\net8.0\243-Find-all-occurrences-of-an-element-in-an-array.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\243-Find-all-occurrences-of-an-element-in-an-array\obj\Debug\net8.0\ref\243-Find-all-occurrences-of-an-element-in-an-array.dll
