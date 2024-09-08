@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\bin\Debug\net8.0\242-See-You-Next-Happy-Year.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\bin\Debug\net8.0\242-See-You-Next-Happy-Year.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\bin\Debug\net8.0\242-See-You-Next-Happy-Year.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\bin\Debug\net8.0\242-See-You-Next-Happy-Year.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\bin\Debug\net8.0\242-See-You-Next-Happy-Year.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\obj\Debug\net8.0\242-See-You-Next-Happy-Year.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\obj\Debug\net8.0\242-See-You-Next-Happy-Year.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\obj\Debug\net8.0\242-See-You-Next-Happy-Year.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\obj\Debug\net8.0\242-See-You-Next-Happy-Year.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\obj\Debug\net8.0\242-See-You-Next-Happy-Year.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\obj\Debug\net8.0\242-See-You-Next-Happy-Year.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\obj\Debug\net8.0\refint\242-See-You-Next-Happy-Year.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\obj\Debug\net8.0\242-See-You-Next-Happy-Year.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\obj\Debug\net8.0\242-See-You-Next-Happy-Year.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\242-See-You-Next-Happy-Year\obj\Debug\net8.0\ref\242-See-You-Next-Happy-Year.dll
