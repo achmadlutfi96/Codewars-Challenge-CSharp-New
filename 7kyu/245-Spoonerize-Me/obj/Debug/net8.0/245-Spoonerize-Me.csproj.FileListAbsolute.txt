@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\bin\Debug\net8.0\245-Spoonerize-Me.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\bin\Debug\net8.0\245-Spoonerize-Me.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\bin\Debug\net8.0\245-Spoonerize-Me.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\bin\Debug\net8.0\245-Spoonerize-Me.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\bin\Debug\net8.0\245-Spoonerize-Me.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\obj\Debug\net8.0\245-Spoonerize-Me.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\obj\Debug\net8.0\245-Spoonerize-Me.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\obj\Debug\net8.0\245-Spoonerize-Me.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\obj\Debug\net8.0\245-Spoonerize-Me.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\obj\Debug\net8.0\245-Spoonerize-Me.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\obj\Debug\net8.0\245-Spoonerize-Me.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\obj\Debug\net8.0\refint\245-Spoonerize-Me.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\obj\Debug\net8.0\245-Spoonerize-Me.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\obj\Debug\net8.0\245-Spoonerize-Me.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\245-Spoonerize-Me\obj\Debug\net8.0\ref\245-Spoonerize-Me.dll
