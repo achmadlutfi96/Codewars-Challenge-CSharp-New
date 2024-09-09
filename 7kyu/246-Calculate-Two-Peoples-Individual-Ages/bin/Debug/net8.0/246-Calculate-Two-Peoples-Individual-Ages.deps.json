@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "246-Calculate-Two-Peoples-Individual-Ages/1.0.0": {
+        "runtime": {
+          "246-Calculate-Two-Peoples-Individual-Ages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "246-Calculate-Two-Peoples-Individual-Ages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

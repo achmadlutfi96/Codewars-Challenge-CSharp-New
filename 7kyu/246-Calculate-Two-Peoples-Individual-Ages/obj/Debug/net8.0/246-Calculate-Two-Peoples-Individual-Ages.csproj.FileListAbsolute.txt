@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\bin\Debug\net8.0\246-Calculate-Two-Peoples-Individual-Ages.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\bin\Debug\net8.0\246-Calculate-Two-Peoples-Individual-Ages.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\bin\Debug\net8.0\246-Calculate-Two-Peoples-Individual-Ages.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\bin\Debug\net8.0\246-Calculate-Two-Peoples-Individual-Ages.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\bin\Debug\net8.0\246-Calculate-Two-Peoples-Individual-Ages.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\obj\Debug\net8.0\246-Calculate-Two-Peoples-Individual-Ages.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\obj\Debug\net8.0\246-Calculate-Two-Peoples-Individual-Ages.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\obj\Debug\net8.0\246-Calculate-Two-Peoples-Individual-Ages.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\obj\Debug\net8.0\246-Calculate-Two-Peoples-Individual-Ages.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\obj\Debug\net8.0\246-Calculate-Two-Peoples-Individual-Ages.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\obj\Debug\net8.0\246-Calculate-Two-Peoples-Individual-Ages.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\obj\Debug\net8.0\refint\246-Calculate-Two-Peoples-Individual-Ages.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\obj\Debug\net8.0\246-Calculate-Two-Peoples-Individual-Ages.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\obj\Debug\net8.0\246-Calculate-Two-Peoples-Individual-Ages.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\246-Calculate-Two-Peoples-Individual-Ages\obj\Debug\net8.0\ref\246-Calculate-Two-Peoples-Individual-Ages.dll
