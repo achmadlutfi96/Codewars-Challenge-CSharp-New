@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\bin\Debug\net8.0\248-Scaling-Squared-Strings.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\bin\Debug\net8.0\248-Scaling-Squared-Strings.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\bin\Debug\net8.0\248-Scaling-Squared-Strings.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\bin\Debug\net8.0\248-Scaling-Squared-Strings.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\bin\Debug\net8.0\248-Scaling-Squared-Strings.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\obj\Debug\net8.0\248-Scaling-Squared-Strings.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\obj\Debug\net8.0\248-Scaling-Squared-Strings.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\obj\Debug\net8.0\248-Scaling-Squared-Strings.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\obj\Debug\net8.0\248-Scaling-Squared-Strings.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\obj\Debug\net8.0\248-Scaling-Squared-Strings.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\obj\Debug\net8.0\248-Scaling-Squared-Strings.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\obj\Debug\net8.0\refint\248-Scaling-Squared-Strings.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\obj\Debug\net8.0\248-Scaling-Squared-Strings.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\obj\Debug\net8.0\248-Scaling-Squared-Strings.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\248-Scaling-Squared-Strings\obj\Debug\net8.0\ref\248-Scaling-Squared-Strings.dll
