@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "247-Sort-arrays-1/1.0.0": {
+        "runtime": {
+          "247-Sort-arrays-1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "247-Sort-arrays-1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

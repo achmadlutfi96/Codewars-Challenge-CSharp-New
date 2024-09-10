@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\bin\Debug\net8.0\247-Sort-arrays-1.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\bin\Debug\net8.0\247-Sort-arrays-1.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\bin\Debug\net8.0\247-Sort-arrays-1.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\bin\Debug\net8.0\247-Sort-arrays-1.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\bin\Debug\net8.0\247-Sort-arrays-1.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\obj\Debug\net8.0\247-Sort-arrays-1.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\obj\Debug\net8.0\247-Sort-arrays-1.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\obj\Debug\net8.0\247-Sort-arrays-1.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\obj\Debug\net8.0\247-Sort-arrays-1.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\obj\Debug\net8.0\247-Sort-arrays-1.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\obj\Debug\net8.0\247-Sort-arrays-1.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\obj\Debug\net8.0\refint\247-Sort-arrays-1.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\obj\Debug\net8.0\247-Sort-arrays-1.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\obj\Debug\net8.0\247-Sort-arrays-1.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\247-Sort-arrays-1\obj\Debug\net8.0\ref\247-Sort-arrays-1.dll
