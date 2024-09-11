@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\bin\Debug\net8.0\250-Help-Bob-count-letters-and-digits.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\bin\Debug\net8.0\250-Help-Bob-count-letters-and-digits.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\bin\Debug\net8.0\250-Help-Bob-count-letters-and-digits.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\bin\Debug\net8.0\250-Help-Bob-count-letters-and-digits.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\bin\Debug\net8.0\250-Help-Bob-count-letters-and-digits.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\obj\Debug\net8.0\250-Help-Bob-count-letters-and-digits.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\obj\Debug\net8.0\250-Help-Bob-count-letters-and-digits.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\obj\Debug\net8.0\250-Help-Bob-count-letters-and-digits.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\obj\Debug\net8.0\250-Help-Bob-count-letters-and-digits.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\obj\Debug\net8.0\250-Help-Bob-count-letters-and-digits.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\obj\Debug\net8.0\250-Help-Bob-count-letters-and-digits.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\obj\Debug\net8.0\refint\250-Help-Bob-count-letters-and-digits.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\obj\Debug\net8.0\250-Help-Bob-count-letters-and-digits.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\obj\Debug\net8.0\250-Help-Bob-count-letters-and-digits.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\250-Help-Bob-count-letters-and-digits\obj\Debug\net8.0\ref\250-Help-Bob-count-letters-and-digits.dll
