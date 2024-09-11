@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\bin\Debug\net8.0\249-Plus-minus-plus-plus-Count.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\bin\Debug\net8.0\249-Plus-minus-plus-plus-Count.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\bin\Debug\net8.0\249-Plus-minus-plus-plus-Count.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\bin\Debug\net8.0\249-Plus-minus-plus-plus-Count.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\bin\Debug\net8.0\249-Plus-minus-plus-plus-Count.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\obj\Debug\net8.0\249-Plus-minus-plus-plus-Count.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\obj\Debug\net8.0\249-Plus-minus-plus-plus-Count.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\obj\Debug\net8.0\249-Plus-minus-plus-plus-Count.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\obj\Debug\net8.0\249-Plus-minus-plus-plus-Count.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\obj\Debug\net8.0\249-Plus-minus-plus-plus-Count.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\obj\Debug\net8.0\249-Plus-minus-plus-plus-Count.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\obj\Debug\net8.0\refint\249-Plus-minus-plus-plus-Count.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\obj\Debug\net8.0\249-Plus-minus-plus-plus-Count.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\obj\Debug\net8.0\249-Plus-minus-plus-plus-Count.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\249-Plus-minus-plus-plus-Count\obj\Debug\net8.0\ref\249-Plus-minus-plus-plus-Count.dll
