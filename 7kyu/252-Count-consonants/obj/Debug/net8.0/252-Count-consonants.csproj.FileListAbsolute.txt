@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\bin\Debug\net8.0\252-Count-consonants.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\bin\Debug\net8.0\252-Count-consonants.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\bin\Debug\net8.0\252-Count-consonants.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\bin\Debug\net8.0\252-Count-consonants.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\bin\Debug\net8.0\252-Count-consonants.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\obj\Debug\net8.0\252-Count-consonants.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\obj\Debug\net8.0\252-Count-consonants.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\obj\Debug\net8.0\252-Count-consonants.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\obj\Debug\net8.0\252-Count-consonants.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\obj\Debug\net8.0\252-Count-consonants.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\obj\Debug\net8.0\252-Count-consonants.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\obj\Debug\net8.0\refint\252-Count-consonants.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\obj\Debug\net8.0\252-Count-consonants.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\obj\Debug\net8.0\252-Count-consonants.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\252-Count-consonants\obj\Debug\net8.0\ref\252-Count-consonants.dll

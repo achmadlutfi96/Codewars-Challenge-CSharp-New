@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "252-Count-consonants", "252-Count-consonants.csproj", "{ABD56120-6844-496B-B6AA-1279F1881218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD56120-6844-496B-B6AA-1279F1881218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD56120-6844-496B-B6AA-1279F1881218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD56120-6844-496B-B6AA-1279F1881218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD56120-6844-496B-B6AA-1279F1881218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1722ACE6-A16E-4B46-A081-BFD095351AE0}
+	EndGlobalSection
+EndGlobal
