@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\bin\Debug\net8.0\254-last-digits-of-a-number.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\bin\Debug\net8.0\254-last-digits-of-a-number.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\bin\Debug\net8.0\254-last-digits-of-a-number.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\bin\Debug\net8.0\254-last-digits-of-a-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\bin\Debug\net8.0\254-last-digits-of-a-number.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\obj\Debug\net8.0\254-last-digits-of-a-number.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\obj\Debug\net8.0\254-last-digits-of-a-number.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\obj\Debug\net8.0\254-last-digits-of-a-number.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\obj\Debug\net8.0\254-last-digits-of-a-number.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\obj\Debug\net8.0\254-last-digits-of-a-number.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\obj\Debug\net8.0\254-last-digits-of-a-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\obj\Debug\net8.0\refint\254-last-digits-of-a-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\obj\Debug\net8.0\254-last-digits-of-a-number.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\obj\Debug\net8.0\254-last-digits-of-a-number.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\254-last-digits-of-a-number\obj\Debug\net8.0\ref\254-last-digits-of-a-number.dll
