@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\bin\Debug\net8.0\255-Tail-Swap.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\bin\Debug\net8.0\255-Tail-Swap.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\bin\Debug\net8.0\255-Tail-Swap.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\bin\Debug\net8.0\255-Tail-Swap.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\bin\Debug\net8.0\255-Tail-Swap.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\obj\Debug\net8.0\255-Tail-Swap.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\obj\Debug\net8.0\255-Tail-Swap.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\obj\Debug\net8.0\255-Tail-Swap.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\obj\Debug\net8.0\255-Tail-Swap.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\obj\Debug\net8.0\255-Tail-Swap.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\obj\Debug\net8.0\255-Tail-Swap.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\obj\Debug\net8.0\refint\255-Tail-Swap.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\obj\Debug\net8.0\255-Tail-Swap.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\obj\Debug\net8.0\255-Tail-Swap.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\255-Tail-Swap\obj\Debug\net8.0\ref\255-Tail-Swap.dll
