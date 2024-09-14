@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\bin\Debug\net8.0\256-Previous-multiple-of-three.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\bin\Debug\net8.0\256-Previous-multiple-of-three.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\bin\Debug\net8.0\256-Previous-multiple-of-three.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\bin\Debug\net8.0\256-Previous-multiple-of-three.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\bin\Debug\net8.0\256-Previous-multiple-of-three.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\obj\Debug\net8.0\256-Previous-multiple-of-three.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\obj\Debug\net8.0\256-Previous-multiple-of-three.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\obj\Debug\net8.0\256-Previous-multiple-of-three.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\obj\Debug\net8.0\256-Previous-multiple-of-three.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\obj\Debug\net8.0\256-Previous-multiple-of-three.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\obj\Debug\net8.0\256-Previous-multiple-of-three.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\obj\Debug\net8.0\refint\256-Previous-multiple-of-three.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\obj\Debug\net8.0\256-Previous-multiple-of-three.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\obj\Debug\net8.0\256-Previous-multiple-of-three.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\256-Previous-multiple-of-three\obj\Debug\net8.0\ref\256-Previous-multiple-of-three.dll

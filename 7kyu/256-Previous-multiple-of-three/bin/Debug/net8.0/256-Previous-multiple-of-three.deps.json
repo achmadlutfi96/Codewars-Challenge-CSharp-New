@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "256-Previous-multiple-of-three/1.0.0": {
+        "runtime": {
+          "256-Previous-multiple-of-three.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "256-Previous-multiple-of-three/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
