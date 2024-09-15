@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\obj\Debug\net8.0\258-Max-min-arrays.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\obj\Debug\net8.0\258-Max-min-arrays.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\obj\Debug\net8.0\258-Max-min-arrays.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\obj\Debug\net8.0\258-Max-min-arrays.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\obj\Debug\net8.0\258-Max-min-arrays.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\bin\Debug\net8.0\258-Max-min-arrays.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\bin\Debug\net8.0\258-Max-min-arrays.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\bin\Debug\net8.0\258-Max-min-arrays.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\bin\Debug\net8.0\258-Max-min-arrays.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\bin\Debug\net8.0\258-Max-min-arrays.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\obj\Debug\net8.0\258-Max-min-arrays.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\obj\Debug\net8.0\refint\258-Max-min-arrays.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\obj\Debug\net8.0\258-Max-min-arrays.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\obj\Debug\net8.0\258-Max-min-arrays.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\258-Max-min-arrays\obj\Debug\net8.0\ref\258-Max-min-arrays.dll
