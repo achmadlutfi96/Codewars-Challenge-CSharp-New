@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\bin\Debug\net8.0\260-Replace-every-nth.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\bin\Debug\net8.0\260-Replace-every-nth.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\bin\Debug\net8.0\260-Replace-every-nth.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\bin\Debug\net8.0\260-Replace-every-nth.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\bin\Debug\net8.0\260-Replace-every-nth.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\obj\Debug\net8.0\260-Replace-every-nth.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\obj\Debug\net8.0\260-Replace-every-nth.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\obj\Debug\net8.0\260-Replace-every-nth.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\obj\Debug\net8.0\260-Replace-every-nth.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\obj\Debug\net8.0\260-Replace-every-nth.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\obj\Debug\net8.0\260-Replace-every-nth.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\obj\Debug\net8.0\refint\260-Replace-every-nth.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\obj\Debug\net8.0\260-Replace-every-nth.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\obj\Debug\net8.0\260-Replace-every-nth.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\260-Replace-every-nth\obj\Debug\net8.0\ref\260-Replace-every-nth.dll
