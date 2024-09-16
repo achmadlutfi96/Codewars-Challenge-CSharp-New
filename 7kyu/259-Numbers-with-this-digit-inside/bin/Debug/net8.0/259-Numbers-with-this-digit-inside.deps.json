@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "259-Numbers-with-this-digit-inside/1.0.0": {
+        "runtime": {
+          "259-Numbers-with-this-digit-inside.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "259-Numbers-with-this-digit-inside/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\bin\Debug\net8.0\259-Numbers-with-this-digit-inside.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\bin\Debug\net8.0\259-Numbers-with-this-digit-inside.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\bin\Debug\net8.0\259-Numbers-with-this-digit-inside.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\bin\Debug\net8.0\259-Numbers-with-this-digit-inside.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\bin\Debug\net8.0\259-Numbers-with-this-digit-inside.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\obj\Debug\net8.0\259-Numbers-with-this-digit-inside.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\obj\Debug\net8.0\259-Numbers-with-this-digit-inside.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\obj\Debug\net8.0\259-Numbers-with-this-digit-inside.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\obj\Debug\net8.0\259-Numbers-with-this-digit-inside.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\obj\Debug\net8.0\259-Numbers-with-this-digit-inside.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\obj\Debug\net8.0\259-Numbers-with-this-digit-inside.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\obj\Debug\net8.0\refint\259-Numbers-with-this-digit-inside.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\obj\Debug\net8.0\259-Numbers-with-this-digit-inside.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\obj\Debug\net8.0\259-Numbers-with-this-digit-inside.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\259-Numbers-with-this-digit-inside\obj\Debug\net8.0\ref\259-Numbers-with-this-digit-inside.dll
