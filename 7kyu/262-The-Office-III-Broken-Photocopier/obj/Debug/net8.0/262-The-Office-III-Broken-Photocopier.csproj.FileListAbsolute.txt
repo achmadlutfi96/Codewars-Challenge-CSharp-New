@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\bin\Debug\net8.0\262-The-Office-III-Broken-Photocopier.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\bin\Debug\net8.0\262-The-Office-III-Broken-Photocopier.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\bin\Debug\net8.0\262-The-Office-III-Broken-Photocopier.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\bin\Debug\net8.0\262-The-Office-III-Broken-Photocopier.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\bin\Debug\net8.0\262-The-Office-III-Broken-Photocopier.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\obj\Debug\net8.0\262-The-Office-III-Broken-Photocopier.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\obj\Debug\net8.0\262-The-Office-III-Broken-Photocopier.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\obj\Debug\net8.0\262-The-Office-III-Broken-Photocopier.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\obj\Debug\net8.0\262-The-Office-III-Broken-Photocopier.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\obj\Debug\net8.0\262-The-Office-III-Broken-Photocopier.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\obj\Debug\net8.0\262-The-Office-III-Broken-Photocopier.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\obj\Debug\net8.0\refint\262-The-Office-III-Broken-Photocopier.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\obj\Debug\net8.0\262-The-Office-III-Broken-Photocopier.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\obj\Debug\net8.0\262-The-Office-III-Broken-Photocopier.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\262-The-Office-III-Broken-Photocopier\obj\Debug\net8.0\ref\262-The-Office-III-Broken-Photocopier.dll
