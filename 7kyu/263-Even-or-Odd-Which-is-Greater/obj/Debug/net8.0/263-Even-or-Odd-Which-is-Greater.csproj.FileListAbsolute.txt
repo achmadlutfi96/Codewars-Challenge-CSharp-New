@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\bin\Debug\net8.0\263-Even-or-Odd-Which-is-Greater.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\bin\Debug\net8.0\263-Even-or-Odd-Which-is-Greater.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\bin\Debug\net8.0\263-Even-or-Odd-Which-is-Greater.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\bin\Debug\net8.0\263-Even-or-Odd-Which-is-Greater.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\bin\Debug\net8.0\263-Even-or-Odd-Which-is-Greater.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\obj\Debug\net8.0\263-Even-or-Odd-Which-is-Greater.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\obj\Debug\net8.0\263-Even-or-Odd-Which-is-Greater.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\obj\Debug\net8.0\263-Even-or-Odd-Which-is-Greater.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\obj\Debug\net8.0\263-Even-or-Odd-Which-is-Greater.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\obj\Debug\net8.0\263-Even-or-Odd-Which-is-Greater.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\obj\Debug\net8.0\263-Even-or-Odd-Which-is-Greater.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\obj\Debug\net8.0\refint\263-Even-or-Odd-Which-is-Greater.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\obj\Debug\net8.0\263-Even-or-Odd-Which-is-Greater.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\obj\Debug\net8.0\263-Even-or-Odd-Which-is-Greater.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\263-Even-or-Odd-Which-is-Greater\obj\Debug\net8.0\ref\263-Even-or-Odd-Which-is-Greater.dll
