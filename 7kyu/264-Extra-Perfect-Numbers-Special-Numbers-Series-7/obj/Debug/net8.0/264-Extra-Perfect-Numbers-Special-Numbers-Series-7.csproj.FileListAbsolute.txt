@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\bin\Debug\net8.0\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\bin\Debug\net8.0\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\bin\Debug\net8.0\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\bin\Debug\net8.0\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\bin\Debug\net8.0\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\obj\Debug\net8.0\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\obj\Debug\net8.0\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\obj\Debug\net8.0\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\obj\Debug\net8.0\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\obj\Debug\net8.0\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\obj\Debug\net8.0\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\obj\Debug\net8.0\refint\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\obj\Debug\net8.0\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\obj\Debug\net8.0\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\264-Extra-Perfect-Numbers-Special-Numbers-Series-7\obj\Debug\net8.0\ref\264-Extra-Perfect-Numbers-Special-Numbers-Series-7.dll
