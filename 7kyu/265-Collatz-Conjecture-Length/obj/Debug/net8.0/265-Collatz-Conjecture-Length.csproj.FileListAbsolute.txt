@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\bin\Debug\net8.0\265-Collatz-Conjecture-Length.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\bin\Debug\net8.0\265-Collatz-Conjecture-Length.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\bin\Debug\net8.0\265-Collatz-Conjecture-Length.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\bin\Debug\net8.0\265-Collatz-Conjecture-Length.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\bin\Debug\net8.0\265-Collatz-Conjecture-Length.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\obj\Debug\net8.0\265-Collatz-Conjecture-Length.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\obj\Debug\net8.0\265-Collatz-Conjecture-Length.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\obj\Debug\net8.0\265-Collatz-Conjecture-Length.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\obj\Debug\net8.0\265-Collatz-Conjecture-Length.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\obj\Debug\net8.0\265-Collatz-Conjecture-Length.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\obj\Debug\net8.0\265-Collatz-Conjecture-Length.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\obj\Debug\net8.0\refint\265-Collatz-Conjecture-Length.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\obj\Debug\net8.0\265-Collatz-Conjecture-Length.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\obj\Debug\net8.0\265-Collatz-Conjecture-Length.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\265-Collatz-Conjecture-Length\obj\Debug\net8.0\ref\265-Collatz-Conjecture-Length.dll

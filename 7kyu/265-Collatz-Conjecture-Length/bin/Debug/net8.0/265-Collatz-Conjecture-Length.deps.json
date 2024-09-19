@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "265-Collatz-Conjecture-Length/1.0.0": {
+        "runtime": {
+          "265-Collatz-Conjecture-Length.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "265-Collatz-Conjecture-Length/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
