@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\bin\Debug\net8.0\266-Simple-string-reversal.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\bin\Debug\net8.0\266-Simple-string-reversal.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\bin\Debug\net8.0\266-Simple-string-reversal.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\bin\Debug\net8.0\266-Simple-string-reversal.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\bin\Debug\net8.0\266-Simple-string-reversal.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\obj\Debug\net8.0\266-Simple-string-reversal.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\obj\Debug\net8.0\266-Simple-string-reversal.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\obj\Debug\net8.0\266-Simple-string-reversal.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\obj\Debug\net8.0\266-Simple-string-reversal.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\obj\Debug\net8.0\266-Simple-string-reversal.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\obj\Debug\net8.0\266-Simple-string-reversal.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\obj\Debug\net8.0\refint\266-Simple-string-reversal.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\obj\Debug\net8.0\266-Simple-string-reversal.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\obj\Debug\net8.0\266-Simple-string-reversal.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\266-Simple-string-reversal\obj\Debug\net8.0\ref\266-Simple-string-reversal.dll

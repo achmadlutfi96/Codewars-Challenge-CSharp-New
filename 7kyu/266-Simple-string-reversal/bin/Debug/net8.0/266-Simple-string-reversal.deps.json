@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "266-Simple-string-reversal/1.0.0": {
+        "runtime": {
+          "266-Simple-string-reversal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "266-Simple-string-reversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
