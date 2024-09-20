@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\bin\Debug\net8.0\267-Unique-Sum.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\bin\Debug\net8.0\267-Unique-Sum.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\bin\Debug\net8.0\267-Unique-Sum.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\bin\Debug\net8.0\267-Unique-Sum.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\bin\Debug\net8.0\267-Unique-Sum.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\obj\Debug\net8.0\267-Unique-Sum.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\obj\Debug\net8.0\267-Unique-Sum.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\obj\Debug\net8.0\267-Unique-Sum.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\obj\Debug\net8.0\267-Unique-Sum.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\obj\Debug\net8.0\267-Unique-Sum.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\obj\Debug\net8.0\267-Unique-Sum.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\obj\Debug\net8.0\refint\267-Unique-Sum.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\obj\Debug\net8.0\267-Unique-Sum.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\obj\Debug\net8.0\267-Unique-Sum.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\267-Unique-Sum\obj\Debug\net8.0\ref\267-Unique-Sum.dll
