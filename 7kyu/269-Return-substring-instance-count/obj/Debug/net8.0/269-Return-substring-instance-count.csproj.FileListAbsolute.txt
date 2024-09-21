@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\bin\Debug\net8.0\269-Return-substring-instance-count.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\bin\Debug\net8.0\269-Return-substring-instance-count.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\bin\Debug\net8.0\269-Return-substring-instance-count.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\bin\Debug\net8.0\269-Return-substring-instance-count.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\bin\Debug\net8.0\269-Return-substring-instance-count.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\obj\Debug\net8.0\269-Return-substring-instance-count.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\obj\Debug\net8.0\269-Return-substring-instance-count.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\obj\Debug\net8.0\269-Return-substring-instance-count.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\obj\Debug\net8.0\269-Return-substring-instance-count.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\obj\Debug\net8.0\269-Return-substring-instance-count.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\obj\Debug\net8.0\269-Return-substring-instance-count.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\obj\Debug\net8.0\refint\269-Return-substring-instance-count.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\obj\Debug\net8.0\269-Return-substring-instance-count.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\obj\Debug\net8.0\269-Return-substring-instance-count.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\269-Return-substring-instance-count\obj\Debug\net8.0\ref\269-Return-substring-instance-count.dll
