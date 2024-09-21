@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\bin\Debug\net8.0\270-Hells-Kitchen.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\bin\Debug\net8.0\270-Hells-Kitchen.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\bin\Debug\net8.0\270-Hells-Kitchen.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\bin\Debug\net8.0\270-Hells-Kitchen.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\bin\Debug\net8.0\270-Hells-Kitchen.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\obj\Debug\net8.0\270-Hells-Kitchen.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\obj\Debug\net8.0\270-Hells-Kitchen.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\obj\Debug\net8.0\270-Hells-Kitchen.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\obj\Debug\net8.0\270-Hells-Kitchen.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\obj\Debug\net8.0\270-Hells-Kitchen.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\obj\Debug\net8.0\270-Hells-Kitchen.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\obj\Debug\net8.0\refint\270-Hells-Kitchen.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\obj\Debug\net8.0\270-Hells-Kitchen.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\obj\Debug\net8.0\270-Hells-Kitchen.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\270-Hells-Kitchen\obj\Debug\net8.0\ref\270-Hells-Kitchen.dll
