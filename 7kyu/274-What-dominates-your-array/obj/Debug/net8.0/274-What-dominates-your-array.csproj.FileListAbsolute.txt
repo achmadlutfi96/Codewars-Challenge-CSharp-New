@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\bin\Debug\net8.0\274-What-dominates-your-array.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\bin\Debug\net8.0\274-What-dominates-your-array.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\bin\Debug\net8.0\274-What-dominates-your-array.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\bin\Debug\net8.0\274-What-dominates-your-array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\bin\Debug\net8.0\274-What-dominates-your-array.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\obj\Debug\net8.0\274-What-dominates-your-array.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\obj\Debug\net8.0\274-What-dominates-your-array.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\obj\Debug\net8.0\274-What-dominates-your-array.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\obj\Debug\net8.0\274-What-dominates-your-array.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\obj\Debug\net8.0\274-What-dominates-your-array.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\obj\Debug\net8.0\274-What-dominates-your-array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\obj\Debug\net8.0\refint\274-What-dominates-your-array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\obj\Debug\net8.0\274-What-dominates-your-array.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\obj\Debug\net8.0\274-What-dominates-your-array.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\274-What-dominates-your-array\obj\Debug\net8.0\ref\274-What-dominates-your-array.dll
