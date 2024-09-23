@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\bin\Debug\net8.0\273-Correct-the-time-string.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\bin\Debug\net8.0\273-Correct-the-time-string.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\bin\Debug\net8.0\273-Correct-the-time-string.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\bin\Debug\net8.0\273-Correct-the-time-string.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\bin\Debug\net8.0\273-Correct-the-time-string.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\obj\Debug\net8.0\273-Correct-the-time-string.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\obj\Debug\net8.0\273-Correct-the-time-string.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\obj\Debug\net8.0\273-Correct-the-time-string.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\obj\Debug\net8.0\273-Correct-the-time-string.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\obj\Debug\net8.0\273-Correct-the-time-string.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\obj\Debug\net8.0\273-Correct-the-time-string.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\obj\Debug\net8.0\refint\273-Correct-the-time-string.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\obj\Debug\net8.0\273-Correct-the-time-string.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\obj\Debug\net8.0\273-Correct-the-time-string.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\273-Correct-the-time-string\obj\Debug\net8.0\ref\273-Correct-the-time-string.dll
