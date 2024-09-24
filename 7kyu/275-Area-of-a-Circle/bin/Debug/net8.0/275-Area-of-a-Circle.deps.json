@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "275-Area-of-a-Circle/1.0.0": {
+        "runtime": {
+          "275-Area-of-a-Circle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "275-Area-of-a-Circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

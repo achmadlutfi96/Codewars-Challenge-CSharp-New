@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\bin\Debug\net8.0\275-Area-of-a-Circle.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\bin\Debug\net8.0\275-Area-of-a-Circle.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\bin\Debug\net8.0\275-Area-of-a-Circle.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\bin\Debug\net8.0\275-Area-of-a-Circle.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\bin\Debug\net8.0\275-Area-of-a-Circle.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\obj\Debug\net8.0\275-Area-of-a-Circle.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\obj\Debug\net8.0\275-Area-of-a-Circle.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\obj\Debug\net8.0\275-Area-of-a-Circle.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\obj\Debug\net8.0\275-Area-of-a-Circle.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\obj\Debug\net8.0\275-Area-of-a-Circle.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\obj\Debug\net8.0\275-Area-of-a-Circle.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\obj\Debug\net8.0\refint\275-Area-of-a-Circle.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\obj\Debug\net8.0\275-Area-of-a-Circle.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\obj\Debug\net8.0\275-Area-of-a-Circle.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\275-Area-of-a-Circle\obj\Debug\net8.0\ref\275-Area-of-a-Circle.dll
