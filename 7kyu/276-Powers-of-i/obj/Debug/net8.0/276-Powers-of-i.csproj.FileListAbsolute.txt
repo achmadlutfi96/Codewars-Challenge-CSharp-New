@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\bin\Debug\net8.0\276-Powers-of-i.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\bin\Debug\net8.0\276-Powers-of-i.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\bin\Debug\net8.0\276-Powers-of-i.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\bin\Debug\net8.0\276-Powers-of-i.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\bin\Debug\net8.0\276-Powers-of-i.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\obj\Debug\net8.0\276-Powers-of-i.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\obj\Debug\net8.0\276-Powers-of-i.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\obj\Debug\net8.0\276-Powers-of-i.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\obj\Debug\net8.0\276-Powers-of-i.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\obj\Debug\net8.0\276-Powers-of-i.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\obj\Debug\net8.0\276-Powers-of-i.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\obj\Debug\net8.0\refint\276-Powers-of-i.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\obj\Debug\net8.0\276-Powers-of-i.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\obj\Debug\net8.0\276-Powers-of-i.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\276-Powers-of-i\obj\Debug\net8.0\ref\276-Powers-of-i.dll
