@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\bin\Debug\net8.0\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\bin\Debug\net8.0\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\bin\Debug\net8.0\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\bin\Debug\net8.0\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\bin\Debug\net8.0\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\obj\Debug\net8.0\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\obj\Debug\net8.0\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\obj\Debug\net8.0\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\obj\Debug\net8.0\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\obj\Debug\net8.0\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\obj\Debug\net8.0\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\obj\Debug\net8.0\refint\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\obj\Debug\net8.0\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\obj\Debug\net8.0\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\277-Exclamation-marks-series-5-Remove-all-exclamation-marks\obj\Debug\net8.0\ref\277-Exclamation-marks-series-5-Remove-all-exclamation-marks.dll
