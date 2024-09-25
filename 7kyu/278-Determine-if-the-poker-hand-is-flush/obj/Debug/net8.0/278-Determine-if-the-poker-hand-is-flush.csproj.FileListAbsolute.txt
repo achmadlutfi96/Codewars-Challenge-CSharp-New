@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\bin\Debug\net8.0\278-Determine-if-the-poker-hand-is-flush.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\bin\Debug\net8.0\278-Determine-if-the-poker-hand-is-flush.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\bin\Debug\net8.0\278-Determine-if-the-poker-hand-is-flush.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\bin\Debug\net8.0\278-Determine-if-the-poker-hand-is-flush.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\bin\Debug\net8.0\278-Determine-if-the-poker-hand-is-flush.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\obj\Debug\net8.0\278-Determine-if-the-poker-hand-is-flush.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\obj\Debug\net8.0\278-Determine-if-the-poker-hand-is-flush.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\obj\Debug\net8.0\278-Determine-if-the-poker-hand-is-flush.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\obj\Debug\net8.0\278-Determine-if-the-poker-hand-is-flush.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\obj\Debug\net8.0\278-Determine-if-the-poker-hand-is-flush.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\obj\Debug\net8.0\278-Determine-if-the-poker-hand-is-flush.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\obj\Debug\net8.0\refint\278-Determine-if-the-poker-hand-is-flush.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\obj\Debug\net8.0\278-Determine-if-the-poker-hand-is-flush.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\obj\Debug\net8.0\278-Determine-if-the-poker-hand-is-flush.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\278-Determine-if-the-poker-hand-is-flush\obj\Debug\net8.0\ref\278-Determine-if-the-poker-hand-is-flush.dll
