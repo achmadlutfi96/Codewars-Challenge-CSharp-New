@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\bin\Debug\net8.0\280-Calculate-mean-and-concatenate-string.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\bin\Debug\net8.0\280-Calculate-mean-and-concatenate-string.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\bin\Debug\net8.0\280-Calculate-mean-and-concatenate-string.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\bin\Debug\net8.0\280-Calculate-mean-and-concatenate-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\bin\Debug\net8.0\280-Calculate-mean-and-concatenate-string.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\obj\Debug\net8.0\280-Calculate-mean-and-concatenate-string.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\obj\Debug\net8.0\280-Calculate-mean-and-concatenate-string.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\obj\Debug\net8.0\280-Calculate-mean-and-concatenate-string.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\obj\Debug\net8.0\280-Calculate-mean-and-concatenate-string.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\obj\Debug\net8.0\280-Calculate-mean-and-concatenate-string.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\obj\Debug\net8.0\280-Calculate-mean-and-concatenate-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\obj\Debug\net8.0\refint\280-Calculate-mean-and-concatenate-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\obj\Debug\net8.0\280-Calculate-mean-and-concatenate-string.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\obj\Debug\net8.0\280-Calculate-mean-and-concatenate-string.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\280-Calculate-mean-and-concatenate-string\obj\Debug\net8.0\ref\280-Calculate-mean-and-concatenate-string.dll

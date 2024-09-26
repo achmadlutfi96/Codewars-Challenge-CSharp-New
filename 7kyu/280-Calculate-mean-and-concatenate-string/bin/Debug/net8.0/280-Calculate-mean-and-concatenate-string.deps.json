@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "280-Calculate-mean-and-concatenate-string/1.0.0": {
+        "runtime": {
+          "280-Calculate-mean-and-concatenate-string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "280-Calculate-mean-and-concatenate-string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
