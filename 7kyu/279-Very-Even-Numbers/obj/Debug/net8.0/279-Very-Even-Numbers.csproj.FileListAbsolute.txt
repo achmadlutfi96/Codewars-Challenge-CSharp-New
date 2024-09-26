@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\bin\Debug\net8.0\279-Very-Even-Numbers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\bin\Debug\net8.0\279-Very-Even-Numbers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\bin\Debug\net8.0\279-Very-Even-Numbers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\bin\Debug\net8.0\279-Very-Even-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\bin\Debug\net8.0\279-Very-Even-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\obj\Debug\net8.0\279-Very-Even-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\obj\Debug\net8.0\279-Very-Even-Numbers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\obj\Debug\net8.0\279-Very-Even-Numbers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\obj\Debug\net8.0\279-Very-Even-Numbers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\obj\Debug\net8.0\279-Very-Even-Numbers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\obj\Debug\net8.0\279-Very-Even-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\obj\Debug\net8.0\refint\279-Very-Even-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\obj\Debug\net8.0\279-Very-Even-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\obj\Debug\net8.0\279-Very-Even-Numbers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\279-Very-Even-Numbers\obj\Debug\net8.0\ref\279-Very-Even-Numbers.dll
