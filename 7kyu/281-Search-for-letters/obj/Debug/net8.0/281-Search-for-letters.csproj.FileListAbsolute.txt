@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\bin\Debug\net8.0\281-Search-for-letters.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\bin\Debug\net8.0\281-Search-for-letters.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\bin\Debug\net8.0\281-Search-for-letters.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\bin\Debug\net8.0\281-Search-for-letters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\bin\Debug\net8.0\281-Search-for-letters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\obj\Debug\net8.0\281-Search-for-letters.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\obj\Debug\net8.0\281-Search-for-letters.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\obj\Debug\net8.0\281-Search-for-letters.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\obj\Debug\net8.0\281-Search-for-letters.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\obj\Debug\net8.0\281-Search-for-letters.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\obj\Debug\net8.0\281-Search-for-letters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\obj\Debug\net8.0\refint\281-Search-for-letters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\obj\Debug\net8.0\281-Search-for-letters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\obj\Debug\net8.0\281-Search-for-letters.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\281-Search-for-letters\obj\Debug\net8.0\ref\281-Search-for-letters.dll
