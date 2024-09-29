@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\bin\Debug\net8.0\284-Help-Suzuki-rake-his-garden.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\bin\Debug\net8.0\284-Help-Suzuki-rake-his-garden.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\bin\Debug\net8.0\284-Help-Suzuki-rake-his-garden.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\bin\Debug\net8.0\284-Help-Suzuki-rake-his-garden.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\bin\Debug\net8.0\284-Help-Suzuki-rake-his-garden.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\obj\Debug\net8.0\284-Help-Suzuki-rake-his-garden.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\obj\Debug\net8.0\284-Help-Suzuki-rake-his-garden.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\obj\Debug\net8.0\284-Help-Suzuki-rake-his-garden.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\obj\Debug\net8.0\284-Help-Suzuki-rake-his-garden.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\obj\Debug\net8.0\284-Help-Suzuki-rake-his-garden.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\obj\Debug\net8.0\284-Help-Suzuki-rake-his-garden.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\obj\Debug\net8.0\refint\284-Help-Suzuki-rake-his-garden.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\obj\Debug\net8.0\284-Help-Suzuki-rake-his-garden.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\obj\Debug\net8.0\284-Help-Suzuki-rake-his-garden.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\284-Help-Suzuki-rake-his-garden\obj\Debug\net8.0\ref\284-Help-Suzuki-rake-his-garden.dll
