@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\bin\Debug\net8.0\283-Chain-me.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\bin\Debug\net8.0\283-Chain-me.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\bin\Debug\net8.0\283-Chain-me.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\bin\Debug\net8.0\283-Chain-me.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\bin\Debug\net8.0\283-Chain-me.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\obj\Debug\net8.0\283-Chain-me.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\obj\Debug\net8.0\283-Chain-me.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\obj\Debug\net8.0\283-Chain-me.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\obj\Debug\net8.0\283-Chain-me.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\obj\Debug\net8.0\283-Chain-me.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\obj\Debug\net8.0\283-Chain-me.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\obj\Debug\net8.0\refint\283-Chain-me.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\obj\Debug\net8.0\283-Chain-me.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\obj\Debug\net8.0\283-Chain-me.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\283-Chain-me\obj\Debug\net8.0\ref\283-Chain-me.dll
