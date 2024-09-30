@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\bin\Debug\net8.0\286-Partial-Word-Searching.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\bin\Debug\net8.0\286-Partial-Word-Searching.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\bin\Debug\net8.0\286-Partial-Word-Searching.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\bin\Debug\net8.0\286-Partial-Word-Searching.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\bin\Debug\net8.0\286-Partial-Word-Searching.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\obj\Debug\net8.0\286-Partial-Word-Searching.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\obj\Debug\net8.0\286-Partial-Word-Searching.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\obj\Debug\net8.0\286-Partial-Word-Searching.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\obj\Debug\net8.0\286-Partial-Word-Searching.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\obj\Debug\net8.0\286-Partial-Word-Searching.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\obj\Debug\net8.0\286-Partial-Word-Searching.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\obj\Debug\net8.0\refint\286-Partial-Word-Searching.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\obj\Debug\net8.0\286-Partial-Word-Searching.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\obj\Debug\net8.0\286-Partial-Word-Searching.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\286-Partial-Word-Searching\obj\Debug\net8.0\ref\286-Partial-Word-Searching.dll
