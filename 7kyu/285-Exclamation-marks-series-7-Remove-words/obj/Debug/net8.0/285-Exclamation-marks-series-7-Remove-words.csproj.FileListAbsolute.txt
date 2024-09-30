@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\bin\Debug\net8.0\285-Exclamation-marks-series-7-Remove-words.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\bin\Debug\net8.0\285-Exclamation-marks-series-7-Remove-words.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\bin\Debug\net8.0\285-Exclamation-marks-series-7-Remove-words.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\bin\Debug\net8.0\285-Exclamation-marks-series-7-Remove-words.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\bin\Debug\net8.0\285-Exclamation-marks-series-7-Remove-words.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\obj\Debug\net8.0\285-Exclamation-marks-series-7-Remove-words.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\obj\Debug\net8.0\285-Exclamation-marks-series-7-Remove-words.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\obj\Debug\net8.0\285-Exclamation-marks-series-7-Remove-words.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\obj\Debug\net8.0\285-Exclamation-marks-series-7-Remove-words.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\obj\Debug\net8.0\285-Exclamation-marks-series-7-Remove-words.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\obj\Debug\net8.0\285-Exclamation-marks-series-7-Remove-words.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\obj\Debug\net8.0\refint\285-Exclamation-marks-series-7-Remove-words.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\obj\Debug\net8.0\285-Exclamation-marks-series-7-Remove-words.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\obj\Debug\net8.0\285-Exclamation-marks-series-7-Remove-words.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\285-Exclamation-marks-series-7-Remove-words\obj\Debug\net8.0\ref\285-Exclamation-marks-series-7-Remove-words.dll
