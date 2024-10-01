@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\bin\Debug\net8.0\287-Multiply-Word-in-String.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\bin\Debug\net8.0\287-Multiply-Word-in-String.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\bin\Debug\net8.0\287-Multiply-Word-in-String.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\bin\Debug\net8.0\287-Multiply-Word-in-String.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\bin\Debug\net8.0\287-Multiply-Word-in-String.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\obj\Debug\net8.0\287-Multiply-Word-in-String.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\obj\Debug\net8.0\287-Multiply-Word-in-String.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\obj\Debug\net8.0\287-Multiply-Word-in-String.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\obj\Debug\net8.0\287-Multiply-Word-in-String.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\obj\Debug\net8.0\287-Multiply-Word-in-String.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\obj\Debug\net8.0\287-Multiply-Word-in-String.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\obj\Debug\net8.0\refint\287-Multiply-Word-in-String.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\obj\Debug\net8.0\287-Multiply-Word-in-String.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\obj\Debug\net8.0\287-Multiply-Word-in-String.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\287-Multiply-Word-in-String\obj\Debug\net8.0\ref\287-Multiply-Word-in-String.dll
