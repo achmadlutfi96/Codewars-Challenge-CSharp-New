@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\bin\Debug\net8.0\288-Sum-of-a-Beach.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\bin\Debug\net8.0\288-Sum-of-a-Beach.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\bin\Debug\net8.0\288-Sum-of-a-Beach.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\bin\Debug\net8.0\288-Sum-of-a-Beach.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\bin\Debug\net8.0\288-Sum-of-a-Beach.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\obj\Debug\net8.0\288-Sum-of-a-Beach.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\obj\Debug\net8.0\288-Sum-of-a-Beach.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\obj\Debug\net8.0\288-Sum-of-a-Beach.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\obj\Debug\net8.0\288-Sum-of-a-Beach.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\obj\Debug\net8.0\288-Sum-of-a-Beach.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\obj\Debug\net8.0\288-Sum-of-a-Beach.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\obj\Debug\net8.0\refint\288-Sum-of-a-Beach.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\obj\Debug\net8.0\288-Sum-of-a-Beach.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\obj\Debug\net8.0\288-Sum-of-a-Beach.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\288-Sum-of-a-Beach\obj\Debug\net8.0\ref\288-Sum-of-a-Beach.dll
