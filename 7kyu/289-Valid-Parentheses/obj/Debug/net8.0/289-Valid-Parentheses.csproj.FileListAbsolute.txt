@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\bin\Debug\net8.0\289-Valid-Parentheses.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\bin\Debug\net8.0\289-Valid-Parentheses.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\bin\Debug\net8.0\289-Valid-Parentheses.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\bin\Debug\net8.0\289-Valid-Parentheses.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\bin\Debug\net8.0\289-Valid-Parentheses.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\obj\Debug\net8.0\289-Valid-Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\obj\Debug\net8.0\289-Valid-Parentheses.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\obj\Debug\net8.0\289-Valid-Parentheses.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\obj\Debug\net8.0\289-Valid-Parentheses.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\obj\Debug\net8.0\289-Valid-Parentheses.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\obj\Debug\net8.0\289-Valid-Parentheses.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\obj\Debug\net8.0\refint\289-Valid-Parentheses.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\obj\Debug\net8.0\289-Valid-Parentheses.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\obj\Debug\net8.0\289-Valid-Parentheses.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\289-Valid-Parentheses\obj\Debug\net8.0\ref\289-Valid-Parentheses.dll
