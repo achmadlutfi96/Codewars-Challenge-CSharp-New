@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\bin\Debug\net8.0\290-Pandemia.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\bin\Debug\net8.0\290-Pandemia.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\bin\Debug\net8.0\290-Pandemia.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\bin\Debug\net8.0\290-Pandemia.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\bin\Debug\net8.0\290-Pandemia.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\obj\Debug\net8.0\290-Pandemia.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\obj\Debug\net8.0\290-Pandemia.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\obj\Debug\net8.0\290-Pandemia.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\obj\Debug\net8.0\290-Pandemia.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\obj\Debug\net8.0\290-Pandemia.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\obj\Debug\net8.0\290-Pandemia.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\obj\Debug\net8.0\refint\290-Pandemia.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\obj\Debug\net8.0\290-Pandemia.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\obj\Debug\net8.0\290-Pandemia.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\290-Pandemia\obj\Debug\net8.0\ref\290-Pandemia.dll
