@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\bin\Debug\net8.0\291-We-Have-Liftoff.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\bin\Debug\net8.0\291-We-Have-Liftoff.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\bin\Debug\net8.0\291-We-Have-Liftoff.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\bin\Debug\net8.0\291-We-Have-Liftoff.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\bin\Debug\net8.0\291-We-Have-Liftoff.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\obj\Debug\net8.0\291-We-Have-Liftoff.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\obj\Debug\net8.0\291-We-Have-Liftoff.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\obj\Debug\net8.0\291-We-Have-Liftoff.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\obj\Debug\net8.0\291-We-Have-Liftoff.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\obj\Debug\net8.0\291-We-Have-Liftoff.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\obj\Debug\net8.0\291-We-Have-Liftoff.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\obj\Debug\net8.0\refint\291-We-Have-Liftoff.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\obj\Debug\net8.0\291-We-Have-Liftoff.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\obj\Debug\net8.0\291-We-Have-Liftoff.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\291-We-Have-Liftoff\obj\Debug\net8.0\ref\291-We-Have-Liftoff.dll
