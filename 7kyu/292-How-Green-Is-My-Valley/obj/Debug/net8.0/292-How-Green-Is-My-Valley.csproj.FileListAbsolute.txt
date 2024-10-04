@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\bin\Debug\net8.0\292-How-Green-Is-My-Valley.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\bin\Debug\net8.0\292-How-Green-Is-My-Valley.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\bin\Debug\net8.0\292-How-Green-Is-My-Valley.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\bin\Debug\net8.0\292-How-Green-Is-My-Valley.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\bin\Debug\net8.0\292-How-Green-Is-My-Valley.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\obj\Debug\net8.0\292-How-Green-Is-My-Valley.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\obj\Debug\net8.0\292-How-Green-Is-My-Valley.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\obj\Debug\net8.0\292-How-Green-Is-My-Valley.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\obj\Debug\net8.0\292-How-Green-Is-My-Valley.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\obj\Debug\net8.0\292-How-Green-Is-My-Valley.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\obj\Debug\net8.0\292-How-Green-Is-My-Valley.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\obj\Debug\net8.0\refint\292-How-Green-Is-My-Valley.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\obj\Debug\net8.0\292-How-Green-Is-My-Valley.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\obj\Debug\net8.0\292-How-Green-Is-My-Valley.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\292-How-Green-Is-My-Valley\obj\Debug\net8.0\ref\292-How-Green-Is-My-Valley.dll
