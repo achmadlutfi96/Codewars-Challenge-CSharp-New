@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\bin\Debug\net8.0\293-Battle-of-the-characters.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\bin\Debug\net8.0\293-Battle-of-the-characters.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\bin\Debug\net8.0\293-Battle-of-the-characters.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\bin\Debug\net8.0\293-Battle-of-the-characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\bin\Debug\net8.0\293-Battle-of-the-characters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\obj\Debug\net8.0\293-Battle-of-the-characters.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\obj\Debug\net8.0\293-Battle-of-the-characters.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\obj\Debug\net8.0\293-Battle-of-the-characters.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\obj\Debug\net8.0\293-Battle-of-the-characters.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\obj\Debug\net8.0\293-Battle-of-the-characters.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\obj\Debug\net8.0\293-Battle-of-the-characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\obj\Debug\net8.0\refint\293-Battle-of-the-characters.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\obj\Debug\net8.0\293-Battle-of-the-characters.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\obj\Debug\net8.0\293-Battle-of-the-characters.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\293-Battle-of-the-characters\obj\Debug\net8.0\ref\293-Battle-of-the-characters.dll
