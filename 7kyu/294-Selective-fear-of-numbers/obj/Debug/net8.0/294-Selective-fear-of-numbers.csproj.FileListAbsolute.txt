@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\bin\Debug\net8.0\294-Selective-fear-of-numbers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\bin\Debug\net8.0\294-Selective-fear-of-numbers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\bin\Debug\net8.0\294-Selective-fear-of-numbers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\bin\Debug\net8.0\294-Selective-fear-of-numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\bin\Debug\net8.0\294-Selective-fear-of-numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\obj\Debug\net8.0\294-Selective-fear-of-numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\obj\Debug\net8.0\294-Selective-fear-of-numbers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\obj\Debug\net8.0\294-Selective-fear-of-numbers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\obj\Debug\net8.0\294-Selective-fear-of-numbers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\obj\Debug\net8.0\294-Selective-fear-of-numbers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\obj\Debug\net8.0\294-Selective-fear-of-numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\obj\Debug\net8.0\refint\294-Selective-fear-of-numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\obj\Debug\net8.0\294-Selective-fear-of-numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\obj\Debug\net8.0\294-Selective-fear-of-numbers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\294-Selective-fear-of-numbers\obj\Debug\net8.0\ref\294-Selective-fear-of-numbers.dll
