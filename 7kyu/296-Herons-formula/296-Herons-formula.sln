@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "296-Herons-formula", "296-Herons-formula.csproj", "{2ACDDC3D-C9C3-43E2-899A-8BD5ACFD42AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ACDDC3D-C9C3-43E2-899A-8BD5ACFD42AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACDDC3D-C9C3-43E2-899A-8BD5ACFD42AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACDDC3D-C9C3-43E2-899A-8BD5ACFD42AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACDDC3D-C9C3-43E2-899A-8BD5ACFD42AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06B23309-8014-4010-BF27-D3D4C1BBF2D1}
+	EndGlobalSection
+EndGlobal

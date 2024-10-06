@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\bin\Debug\net8.0\296-Herons-formula.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\bin\Debug\net8.0\296-Herons-formula.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\bin\Debug\net8.0\296-Herons-formula.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\bin\Debug\net8.0\296-Herons-formula.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\bin\Debug\net8.0\296-Herons-formula.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\obj\Debug\net8.0\296-Herons-formula.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\obj\Debug\net8.0\296-Herons-formula.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\obj\Debug\net8.0\296-Herons-formula.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\obj\Debug\net8.0\296-Herons-formula.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\obj\Debug\net8.0\296-Herons-formula.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\obj\Debug\net8.0\296-Herons-formula.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\obj\Debug\net8.0\refint\296-Herons-formula.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\obj\Debug\net8.0\296-Herons-formula.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\obj\Debug\net8.0\296-Herons-formula.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\296-Herons-formula\obj\Debug\net8.0\ref\296-Herons-formula.dll
