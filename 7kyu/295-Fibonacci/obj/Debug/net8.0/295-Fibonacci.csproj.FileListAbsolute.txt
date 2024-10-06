@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\bin\Debug\net8.0\295-Fibonacci.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\bin\Debug\net8.0\295-Fibonacci.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\bin\Debug\net8.0\295-Fibonacci.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\bin\Debug\net8.0\295-Fibonacci.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\bin\Debug\net8.0\295-Fibonacci.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\obj\Debug\net8.0\295-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\obj\Debug\net8.0\295-Fibonacci.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\obj\Debug\net8.0\295-Fibonacci.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\obj\Debug\net8.0\295-Fibonacci.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\obj\Debug\net8.0\295-Fibonacci.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\obj\Debug\net8.0\295-Fibonacci.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\obj\Debug\net8.0\refint\295-Fibonacci.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\obj\Debug\net8.0\295-Fibonacci.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\obj\Debug\net8.0\295-Fibonacci.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\295-Fibonacci\obj\Debug\net8.0\ref\295-Fibonacci.dll
