@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "297-MinMaxMin-Bounded-Nums/1.0.0": {
+        "runtime": {
+          "297-MinMaxMin-Bounded-Nums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "297-MinMaxMin-Bounded-Nums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

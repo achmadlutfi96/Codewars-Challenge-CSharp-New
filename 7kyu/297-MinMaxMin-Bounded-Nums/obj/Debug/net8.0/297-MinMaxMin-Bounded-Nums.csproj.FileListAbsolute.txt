@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\bin\Debug\net8.0\297-MinMaxMin-Bounded-Nums.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\bin\Debug\net8.0\297-MinMaxMin-Bounded-Nums.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\bin\Debug\net8.0\297-MinMaxMin-Bounded-Nums.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\bin\Debug\net8.0\297-MinMaxMin-Bounded-Nums.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\bin\Debug\net8.0\297-MinMaxMin-Bounded-Nums.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\obj\Debug\net8.0\297-MinMaxMin-Bounded-Nums.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\obj\Debug\net8.0\297-MinMaxMin-Bounded-Nums.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\obj\Debug\net8.0\297-MinMaxMin-Bounded-Nums.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\obj\Debug\net8.0\297-MinMaxMin-Bounded-Nums.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\obj\Debug\net8.0\297-MinMaxMin-Bounded-Nums.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\obj\Debug\net8.0\297-MinMaxMin-Bounded-Nums.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\obj\Debug\net8.0\refint\297-MinMaxMin-Bounded-Nums.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\obj\Debug\net8.0\297-MinMaxMin-Bounded-Nums.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\obj\Debug\net8.0\297-MinMaxMin-Bounded-Nums.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\297-MinMaxMin-Bounded-Nums\obj\Debug\net8.0\ref\297-MinMaxMin-Bounded-Nums.dll
