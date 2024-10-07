@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\obj\Debug\net8.0\298-Vampire-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\obj\Debug\net8.0\298-Vampire-Numbers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\obj\Debug\net8.0\298-Vampire-Numbers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\obj\Debug\net8.0\298-Vampire-Numbers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\obj\Debug\net8.0\298-Vampire-Numbers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\bin\Debug\net8.0\298-Vampire-Numbers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\bin\Debug\net8.0\298-Vampire-Numbers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\bin\Debug\net8.0\298-Vampire-Numbers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\bin\Debug\net8.0\298-Vampire-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\bin\Debug\net8.0\298-Vampire-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\obj\Debug\net8.0\298-Vampire-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\obj\Debug\net8.0\refint\298-Vampire-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\obj\Debug\net8.0\298-Vampire-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\obj\Debug\net8.0\298-Vampire-Numbers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\298-Vampire-Numbers\obj\Debug\net8.0\ref\298-Vampire-Numbers.dll
