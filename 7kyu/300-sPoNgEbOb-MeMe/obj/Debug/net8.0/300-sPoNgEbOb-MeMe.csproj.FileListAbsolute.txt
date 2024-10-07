@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\bin\Debug\net8.0\300-sPoNgEbOb-MeMe.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\bin\Debug\net8.0\300-sPoNgEbOb-MeMe.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\bin\Debug\net8.0\300-sPoNgEbOb-MeMe.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\bin\Debug\net8.0\300-sPoNgEbOb-MeMe.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\bin\Debug\net8.0\300-sPoNgEbOb-MeMe.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\obj\Debug\net8.0\300-sPoNgEbOb-MeMe.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\obj\Debug\net8.0\300-sPoNgEbOb-MeMe.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\obj\Debug\net8.0\300-sPoNgEbOb-MeMe.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\obj\Debug\net8.0\300-sPoNgEbOb-MeMe.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\obj\Debug\net8.0\300-sPoNgEbOb-MeMe.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\obj\Debug\net8.0\300-sPoNgEbOb-MeMe.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\obj\Debug\net8.0\refint\300-sPoNgEbOb-MeMe.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\obj\Debug\net8.0\300-sPoNgEbOb-MeMe.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\obj\Debug\net8.0\300-sPoNgEbOb-MeMe.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\300-sPoNgEbOb-MeMe\obj\Debug\net8.0\ref\300-sPoNgEbOb-MeMe.dll
