@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "299-Find-the-index-of-the-second-occurrence-of-a-letter-in-a-string/1.0.0": {
+        "runtime": {
+          "299-Find-the-index-of-the-second-occurrence-of-a-letter-in-a-string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "299-Find-the-index-of-the-second-occurrence-of-a-letter-in-a-string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
