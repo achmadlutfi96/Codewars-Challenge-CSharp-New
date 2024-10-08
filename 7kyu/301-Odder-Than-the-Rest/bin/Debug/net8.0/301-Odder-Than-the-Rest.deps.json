@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "301-Odder-Than-the-Rest/1.0.0": {
+        "runtime": {
+          "301-Odder-Than-the-Rest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "301-Odder-Than-the-Rest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

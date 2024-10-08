@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\bin\Debug\net8.0\301-Odder-Than-the-Rest.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\bin\Debug\net8.0\301-Odder-Than-the-Rest.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\bin\Debug\net8.0\301-Odder-Than-the-Rest.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\bin\Debug\net8.0\301-Odder-Than-the-Rest.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\bin\Debug\net8.0\301-Odder-Than-the-Rest.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\obj\Debug\net8.0\301-Odder-Than-the-Rest.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\obj\Debug\net8.0\301-Odder-Than-the-Rest.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\obj\Debug\net8.0\301-Odder-Than-the-Rest.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\obj\Debug\net8.0\301-Odder-Than-the-Rest.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\obj\Debug\net8.0\301-Odder-Than-the-Rest.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\obj\Debug\net8.0\301-Odder-Than-the-Rest.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\obj\Debug\net8.0\refint\301-Odder-Than-the-Rest.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\obj\Debug\net8.0\301-Odder-Than-the-Rest.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\obj\Debug\net8.0\301-Odder-Than-the-Rest.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\301-Odder-Than-the-Rest\obj\Debug\net8.0\ref\301-Odder-Than-the-Rest.dll
