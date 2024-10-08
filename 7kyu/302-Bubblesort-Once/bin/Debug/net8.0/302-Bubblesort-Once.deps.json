@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "302-Bubblesort-Once/1.0.0": {
+        "runtime": {
+          "302-Bubblesort-Once.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "302-Bubblesort-Once/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

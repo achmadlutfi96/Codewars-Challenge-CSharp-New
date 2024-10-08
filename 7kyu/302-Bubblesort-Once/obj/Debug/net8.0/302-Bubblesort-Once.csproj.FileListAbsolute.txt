@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\bin\Debug\net8.0\302-Bubblesort-Once.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\bin\Debug\net8.0\302-Bubblesort-Once.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\bin\Debug\net8.0\302-Bubblesort-Once.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\bin\Debug\net8.0\302-Bubblesort-Once.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\bin\Debug\net8.0\302-Bubblesort-Once.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\obj\Debug\net8.0\302-Bubblesort-Once.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\obj\Debug\net8.0\302-Bubblesort-Once.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\obj\Debug\net8.0\302-Bubblesort-Once.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\obj\Debug\net8.0\302-Bubblesort-Once.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\obj\Debug\net8.0\302-Bubblesort-Once.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\obj\Debug\net8.0\302-Bubblesort-Once.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\obj\Debug\net8.0\refint\302-Bubblesort-Once.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\obj\Debug\net8.0\302-Bubblesort-Once.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\obj\Debug\net8.0\302-Bubblesort-Once.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\302-Bubblesort-Once\obj\Debug\net8.0\ref\302-Bubblesort-Once.dll
