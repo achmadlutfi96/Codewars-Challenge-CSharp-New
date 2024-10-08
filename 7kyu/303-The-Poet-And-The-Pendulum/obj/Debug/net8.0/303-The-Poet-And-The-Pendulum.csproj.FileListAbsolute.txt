@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\bin\Debug\net8.0\303-The-Poet-And-The-Pendulum.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\bin\Debug\net8.0\303-The-Poet-And-The-Pendulum.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\bin\Debug\net8.0\303-The-Poet-And-The-Pendulum.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\bin\Debug\net8.0\303-The-Poet-And-The-Pendulum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\bin\Debug\net8.0\303-The-Poet-And-The-Pendulum.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\obj\Debug\net8.0\303-The-Poet-And-The-Pendulum.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\obj\Debug\net8.0\303-The-Poet-And-The-Pendulum.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\obj\Debug\net8.0\303-The-Poet-And-The-Pendulum.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\obj\Debug\net8.0\303-The-Poet-And-The-Pendulum.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\obj\Debug\net8.0\303-The-Poet-And-The-Pendulum.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\obj\Debug\net8.0\303-The-Poet-And-The-Pendulum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\obj\Debug\net8.0\refint\303-The-Poet-And-The-Pendulum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\obj\Debug\net8.0\303-The-Poet-And-The-Pendulum.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\obj\Debug\net8.0\303-The-Poet-And-The-Pendulum.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\303-The-Poet-And-The-Pendulum\obj\Debug\net8.0\ref\303-The-Poet-And-The-Pendulum.dll
