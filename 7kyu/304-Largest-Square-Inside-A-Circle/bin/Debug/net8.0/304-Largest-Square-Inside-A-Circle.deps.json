@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "304-Largest-Square-Inside-A-Circle/1.0.0": {
+        "runtime": {
+          "304-Largest-Square-Inside-A-Circle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "304-Largest-Square-Inside-A-Circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

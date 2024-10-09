@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\bin\Debug\net8.0\304-Largest-Square-Inside-A-Circle.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\bin\Debug\net8.0\304-Largest-Square-Inside-A-Circle.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\bin\Debug\net8.0\304-Largest-Square-Inside-A-Circle.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\bin\Debug\net8.0\304-Largest-Square-Inside-A-Circle.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\bin\Debug\net8.0\304-Largest-Square-Inside-A-Circle.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\obj\Debug\net8.0\304-Largest-Square-Inside-A-Circle.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\obj\Debug\net8.0\304-Largest-Square-Inside-A-Circle.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\obj\Debug\net8.0\304-Largest-Square-Inside-A-Circle.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\obj\Debug\net8.0\304-Largest-Square-Inside-A-Circle.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\obj\Debug\net8.0\304-Largest-Square-Inside-A-Circle.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\obj\Debug\net8.0\304-Largest-Square-Inside-A-Circle.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\obj\Debug\net8.0\refint\304-Largest-Square-Inside-A-Circle.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\obj\Debug\net8.0\304-Largest-Square-Inside-A-Circle.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\obj\Debug\net8.0\304-Largest-Square-Inside-A-Circle.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\304-Largest-Square-Inside-A-Circle\obj\Debug\net8.0\ref\304-Largest-Square-Inside-A-Circle.dll
