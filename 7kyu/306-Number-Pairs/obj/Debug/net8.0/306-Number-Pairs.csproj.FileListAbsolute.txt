@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\bin\Debug\net8.0\306-Number-Pairs.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\bin\Debug\net8.0\306-Number-Pairs.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\bin\Debug\net8.0\306-Number-Pairs.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\bin\Debug\net8.0\306-Number-Pairs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\bin\Debug\net8.0\306-Number-Pairs.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\obj\Debug\net8.0\306-Number-Pairs.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\obj\Debug\net8.0\306-Number-Pairs.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\obj\Debug\net8.0\306-Number-Pairs.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\obj\Debug\net8.0\306-Number-Pairs.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\obj\Debug\net8.0\306-Number-Pairs.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\obj\Debug\net8.0\306-Number-Pairs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\obj\Debug\net8.0\refint\306-Number-Pairs.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\obj\Debug\net8.0\306-Number-Pairs.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\obj\Debug\net8.0\306-Number-Pairs.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\306-Number-Pairs\obj\Debug\net8.0\ref\306-Number-Pairs.dll
