@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\bin\Debug\net8.0\307-Fix-My-Phone-Numbers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\bin\Debug\net8.0\307-Fix-My-Phone-Numbers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\bin\Debug\net8.0\307-Fix-My-Phone-Numbers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\bin\Debug\net8.0\307-Fix-My-Phone-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\bin\Debug\net8.0\307-Fix-My-Phone-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\obj\Debug\net8.0\307-Fix-My-Phone-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\obj\Debug\net8.0\307-Fix-My-Phone-Numbers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\obj\Debug\net8.0\307-Fix-My-Phone-Numbers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\obj\Debug\net8.0\307-Fix-My-Phone-Numbers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\obj\Debug\net8.0\307-Fix-My-Phone-Numbers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\obj\Debug\net8.0\307-Fix-My-Phone-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\obj\Debug\net8.0\refint\307-Fix-My-Phone-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\obj\Debug\net8.0\307-Fix-My-Phone-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\obj\Debug\net8.0\307-Fix-My-Phone-Numbers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\307-Fix-My-Phone-Numbers\obj\Debug\net8.0\ref\307-Fix-My-Phone-Numbers.dll
