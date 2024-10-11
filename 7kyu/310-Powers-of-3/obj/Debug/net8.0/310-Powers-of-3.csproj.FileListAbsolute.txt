@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\bin\Debug\net8.0\310-Powers-of-3.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\bin\Debug\net8.0\310-Powers-of-3.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\bin\Debug\net8.0\310-Powers-of-3.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\bin\Debug\net8.0\310-Powers-of-3.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\bin\Debug\net8.0\310-Powers-of-3.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\obj\Debug\net8.0\310-Powers-of-3.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\obj\Debug\net8.0\310-Powers-of-3.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\obj\Debug\net8.0\310-Powers-of-3.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\obj\Debug\net8.0\310-Powers-of-3.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\obj\Debug\net8.0\310-Powers-of-3.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\obj\Debug\net8.0\310-Powers-of-3.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\obj\Debug\net8.0\refint\310-Powers-of-3.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\obj\Debug\net8.0\310-Powers-of-3.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\obj\Debug\net8.0\310-Powers-of-3.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\310-Powers-of-3\obj\Debug\net8.0\ref\310-Powers-of-3.dll
