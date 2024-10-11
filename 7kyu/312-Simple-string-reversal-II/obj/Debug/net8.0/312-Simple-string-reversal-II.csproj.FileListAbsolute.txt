@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\bin\Debug\net8.0\312-Simple-string-reversal-II.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\bin\Debug\net8.0\312-Simple-string-reversal-II.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\bin\Debug\net8.0\312-Simple-string-reversal-II.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\bin\Debug\net8.0\312-Simple-string-reversal-II.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\bin\Debug\net8.0\312-Simple-string-reversal-II.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\obj\Debug\net8.0\312-Simple-string-reversal-II.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\obj\Debug\net8.0\312-Simple-string-reversal-II.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\obj\Debug\net8.0\312-Simple-string-reversal-II.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\obj\Debug\net8.0\312-Simple-string-reversal-II.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\obj\Debug\net8.0\312-Simple-string-reversal-II.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\obj\Debug\net8.0\312-Simple-string-reversal-II.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\obj\Debug\net8.0\refint\312-Simple-string-reversal-II.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\obj\Debug\net8.0\312-Simple-string-reversal-II.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\obj\Debug\net8.0\312-Simple-string-reversal-II.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\312-Simple-string-reversal-II\obj\Debug\net8.0\ref\312-Simple-string-reversal-II.dll
