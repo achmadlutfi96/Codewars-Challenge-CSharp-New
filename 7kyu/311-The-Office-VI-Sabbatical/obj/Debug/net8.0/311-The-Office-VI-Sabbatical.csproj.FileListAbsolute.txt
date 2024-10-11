@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\bin\Debug\net8.0\311-The-Office-VI-Sabbatical.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\bin\Debug\net8.0\311-The-Office-VI-Sabbatical.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\bin\Debug\net8.0\311-The-Office-VI-Sabbatical.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\bin\Debug\net8.0\311-The-Office-VI-Sabbatical.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\bin\Debug\net8.0\311-The-Office-VI-Sabbatical.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\obj\Debug\net8.0\311-The-Office-VI-Sabbatical.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\obj\Debug\net8.0\311-The-Office-VI-Sabbatical.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\obj\Debug\net8.0\311-The-Office-VI-Sabbatical.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\obj\Debug\net8.0\311-The-Office-VI-Sabbatical.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\obj\Debug\net8.0\311-The-Office-VI-Sabbatical.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\obj\Debug\net8.0\311-The-Office-VI-Sabbatical.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\obj\Debug\net8.0\refint\311-The-Office-VI-Sabbatical.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\obj\Debug\net8.0\311-The-Office-VI-Sabbatical.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\obj\Debug\net8.0\311-The-Office-VI-Sabbatical.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\311-The-Office-VI-Sabbatical\obj\Debug\net8.0\ref\311-The-Office-VI-Sabbatical.dll
