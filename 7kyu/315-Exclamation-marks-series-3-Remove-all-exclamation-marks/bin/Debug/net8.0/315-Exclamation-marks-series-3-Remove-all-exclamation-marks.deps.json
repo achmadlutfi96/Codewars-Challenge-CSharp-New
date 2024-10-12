@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "315-Exclamation-marks-series-3-Remove-all-exclamation-marks/1.0.0": {
+        "runtime": {
+          "315-Exclamation-marks-series-3-Remove-all-exclamation-marks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "315-Exclamation-marks-series-3-Remove-all-exclamation-marks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
