@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\bin\Debug\net8.0\314-Is-It-Negative-Zero-0.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\bin\Debug\net8.0\314-Is-It-Negative-Zero-0.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\bin\Debug\net8.0\314-Is-It-Negative-Zero-0.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\bin\Debug\net8.0\314-Is-It-Negative-Zero-0.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\bin\Debug\net8.0\314-Is-It-Negative-Zero-0.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\obj\Debug\net8.0\314-Is-It-Negative-Zero-0.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\obj\Debug\net8.0\314-Is-It-Negative-Zero-0.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\obj\Debug\net8.0\314-Is-It-Negative-Zero-0.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\obj\Debug\net8.0\314-Is-It-Negative-Zero-0.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\obj\Debug\net8.0\314-Is-It-Negative-Zero-0.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\obj\Debug\net8.0\314-Is-It-Negative-Zero-0.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\obj\Debug\net8.0\refint\314-Is-It-Negative-Zero-0.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\obj\Debug\net8.0\314-Is-It-Negative-Zero-0.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\obj\Debug\net8.0\314-Is-It-Negative-Zero-0.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\314-Is-It-Negative-Zero-0\obj\Debug\net8.0\ref\314-Is-It-Negative-Zero-0.dll
