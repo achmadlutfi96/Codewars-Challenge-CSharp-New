@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\bin\Debug\net8.0\313-Reverse-list.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\bin\Debug\net8.0\313-Reverse-list.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\bin\Debug\net8.0\313-Reverse-list.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\bin\Debug\net8.0\313-Reverse-list.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\bin\Debug\net8.0\313-Reverse-list.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\obj\Debug\net8.0\313-Reverse-list.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\obj\Debug\net8.0\313-Reverse-list.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\obj\Debug\net8.0\313-Reverse-list.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\obj\Debug\net8.0\313-Reverse-list.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\obj\Debug\net8.0\313-Reverse-list.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\obj\Debug\net8.0\313-Reverse-list.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\obj\Debug\net8.0\refint\313-Reverse-list.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\obj\Debug\net8.0\313-Reverse-list.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\obj\Debug\net8.0\313-Reverse-list.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\313-Reverse-list\obj\Debug\net8.0\ref\313-Reverse-list.dll
