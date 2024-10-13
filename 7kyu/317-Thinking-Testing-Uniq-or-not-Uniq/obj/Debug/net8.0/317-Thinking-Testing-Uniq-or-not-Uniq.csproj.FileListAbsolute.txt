@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\bin\Debug\net8.0\317-Thinking-Testing-Uniq-or-not-Uniq.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\bin\Debug\net8.0\317-Thinking-Testing-Uniq-or-not-Uniq.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\bin\Debug\net8.0\317-Thinking-Testing-Uniq-or-not-Uniq.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\bin\Debug\net8.0\317-Thinking-Testing-Uniq-or-not-Uniq.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\bin\Debug\net8.0\317-Thinking-Testing-Uniq-or-not-Uniq.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\obj\Debug\net8.0\317-Thinking-Testing-Uniq-or-not-Uniq.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\obj\Debug\net8.0\317-Thinking-Testing-Uniq-or-not-Uniq.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\obj\Debug\net8.0\317-Thinking-Testing-Uniq-or-not-Uniq.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\obj\Debug\net8.0\317-Thinking-Testing-Uniq-or-not-Uniq.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\obj\Debug\net8.0\317-Thinking-Testing-Uniq-or-not-Uniq.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\obj\Debug\net8.0\317-Thinking-Testing-Uniq-or-not-Uniq.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\obj\Debug\net8.0\refint\317-Thinking-Testing-Uniq-or-not-Uniq.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\obj\Debug\net8.0\317-Thinking-Testing-Uniq-or-not-Uniq.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\obj\Debug\net8.0\317-Thinking-Testing-Uniq-or-not-Uniq.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\317-Thinking-Testing-Uniq-or-not-Uniq\obj\Debug\net8.0\ref\317-Thinking-Testing-Uniq-or-not-Uniq.dll
