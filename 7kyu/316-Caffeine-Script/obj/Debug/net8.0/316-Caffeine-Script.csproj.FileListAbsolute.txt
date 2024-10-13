@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\bin\Debug\net8.0\316-Caffeine-Script.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\bin\Debug\net8.0\316-Caffeine-Script.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\bin\Debug\net8.0\316-Caffeine-Script.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\bin\Debug\net8.0\316-Caffeine-Script.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\bin\Debug\net8.0\316-Caffeine-Script.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\obj\Debug\net8.0\316-Caffeine-Script.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\obj\Debug\net8.0\316-Caffeine-Script.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\obj\Debug\net8.0\316-Caffeine-Script.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\obj\Debug\net8.0\316-Caffeine-Script.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\obj\Debug\net8.0\316-Caffeine-Script.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\obj\Debug\net8.0\316-Caffeine-Script.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\obj\Debug\net8.0\refint\316-Caffeine-Script.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\obj\Debug\net8.0\316-Caffeine-Script.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\obj\Debug\net8.0\316-Caffeine-Script.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\316-Caffeine-Script\obj\Debug\net8.0\ref\316-Caffeine-Script.dll
