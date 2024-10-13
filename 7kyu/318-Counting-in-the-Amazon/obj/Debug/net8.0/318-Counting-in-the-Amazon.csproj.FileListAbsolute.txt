@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\bin\Debug\net8.0\318-Counting-in-the-Amazon.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\bin\Debug\net8.0\318-Counting-in-the-Amazon.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\bin\Debug\net8.0\318-Counting-in-the-Amazon.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\bin\Debug\net8.0\318-Counting-in-the-Amazon.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\bin\Debug\net8.0\318-Counting-in-the-Amazon.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\obj\Debug\net8.0\318-Counting-in-the-Amazon.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\obj\Debug\net8.0\318-Counting-in-the-Amazon.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\obj\Debug\net8.0\318-Counting-in-the-Amazon.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\obj\Debug\net8.0\318-Counting-in-the-Amazon.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\obj\Debug\net8.0\318-Counting-in-the-Amazon.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\obj\Debug\net8.0\318-Counting-in-the-Amazon.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\obj\Debug\net8.0\refint\318-Counting-in-the-Amazon.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\obj\Debug\net8.0\318-Counting-in-the-Amazon.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\obj\Debug\net8.0\318-Counting-in-the-Amazon.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\318-Counting-in-the-Amazon\obj\Debug\net8.0\ref\318-Counting-in-the-Amazon.dll
