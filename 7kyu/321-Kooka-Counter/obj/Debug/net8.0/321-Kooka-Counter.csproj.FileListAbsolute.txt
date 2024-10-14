@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\bin\Debug\net8.0\321-Kooka-Counter.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\bin\Debug\net8.0\321-Kooka-Counter.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\bin\Debug\net8.0\321-Kooka-Counter.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\bin\Debug\net8.0\321-Kooka-Counter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\bin\Debug\net8.0\321-Kooka-Counter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\obj\Debug\net8.0\321-Kooka-Counter.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\obj\Debug\net8.0\321-Kooka-Counter.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\obj\Debug\net8.0\321-Kooka-Counter.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\obj\Debug\net8.0\321-Kooka-Counter.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\obj\Debug\net8.0\321-Kooka-Counter.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\obj\Debug\net8.0\321-Kooka-Counter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\obj\Debug\net8.0\refint\321-Kooka-Counter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\obj\Debug\net8.0\321-Kooka-Counter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\obj\Debug\net8.0\321-Kooka-Counter.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\321-Kooka-Counter\obj\Debug\net8.0\ref\321-Kooka-Counter.dll
