@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\bin\Debug\net8.0\320-Simple-equation-reversal.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\bin\Debug\net8.0\320-Simple-equation-reversal.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\bin\Debug\net8.0\320-Simple-equation-reversal.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\bin\Debug\net8.0\320-Simple-equation-reversal.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\bin\Debug\net8.0\320-Simple-equation-reversal.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\obj\Debug\net8.0\320-Simple-equation-reversal.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\obj\Debug\net8.0\320-Simple-equation-reversal.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\obj\Debug\net8.0\320-Simple-equation-reversal.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\obj\Debug\net8.0\320-Simple-equation-reversal.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\obj\Debug\net8.0\320-Simple-equation-reversal.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\obj\Debug\net8.0\320-Simple-equation-reversal.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\obj\Debug\net8.0\refint\320-Simple-equation-reversal.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\obj\Debug\net8.0\320-Simple-equation-reversal.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\obj\Debug\net8.0\320-Simple-equation-reversal.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\320-Simple-equation-reversal\obj\Debug\net8.0\ref\320-Simple-equation-reversal.dll
