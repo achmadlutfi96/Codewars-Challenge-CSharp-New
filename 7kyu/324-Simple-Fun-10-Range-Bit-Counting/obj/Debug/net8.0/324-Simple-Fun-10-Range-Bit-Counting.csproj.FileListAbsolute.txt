@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\bin\Debug\net8.0\324-Simple-Fun-10-Range-Bit-Counting.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\bin\Debug\net8.0\324-Simple-Fun-10-Range-Bit-Counting.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\bin\Debug\net8.0\324-Simple-Fun-10-Range-Bit-Counting.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\bin\Debug\net8.0\324-Simple-Fun-10-Range-Bit-Counting.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\bin\Debug\net8.0\324-Simple-Fun-10-Range-Bit-Counting.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\obj\Debug\net8.0\324-Simple-Fun-10-Range-Bit-Counting.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\obj\Debug\net8.0\324-Simple-Fun-10-Range-Bit-Counting.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\obj\Debug\net8.0\324-Simple-Fun-10-Range-Bit-Counting.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\obj\Debug\net8.0\324-Simple-Fun-10-Range-Bit-Counting.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\obj\Debug\net8.0\324-Simple-Fun-10-Range-Bit-Counting.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\obj\Debug\net8.0\324-Simple-Fun-10-Range-Bit-Counting.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\obj\Debug\net8.0\refint\324-Simple-Fun-10-Range-Bit-Counting.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\obj\Debug\net8.0\324-Simple-Fun-10-Range-Bit-Counting.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\obj\Debug\net8.0\324-Simple-Fun-10-Range-Bit-Counting.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\324-Simple-Fun-10-Range-Bit-Counting\obj\Debug\net8.0\ref\324-Simple-Fun-10-Range-Bit-Counting.dll
