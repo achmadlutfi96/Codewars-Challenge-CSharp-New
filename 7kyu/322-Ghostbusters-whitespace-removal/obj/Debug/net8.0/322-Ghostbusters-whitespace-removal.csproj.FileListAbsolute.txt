@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\bin\Debug\net8.0\322-Ghostbusters-whitespace-removal.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\bin\Debug\net8.0\322-Ghostbusters-whitespace-removal.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\bin\Debug\net8.0\322-Ghostbusters-whitespace-removal.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\bin\Debug\net8.0\322-Ghostbusters-whitespace-removal.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\bin\Debug\net8.0\322-Ghostbusters-whitespace-removal.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\obj\Debug\net8.0\322-Ghostbusters-whitespace-removal.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\obj\Debug\net8.0\322-Ghostbusters-whitespace-removal.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\obj\Debug\net8.0\322-Ghostbusters-whitespace-removal.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\obj\Debug\net8.0\322-Ghostbusters-whitespace-removal.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\obj\Debug\net8.0\322-Ghostbusters-whitespace-removal.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\obj\Debug\net8.0\322-Ghostbusters-whitespace-removal.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\obj\Debug\net8.0\refint\322-Ghostbusters-whitespace-removal.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\obj\Debug\net8.0\322-Ghostbusters-whitespace-removal.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\obj\Debug\net8.0\322-Ghostbusters-whitespace-removal.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\322-Ghostbusters-whitespace-removal\obj\Debug\net8.0\ref\322-Ghostbusters-whitespace-removal.dll
