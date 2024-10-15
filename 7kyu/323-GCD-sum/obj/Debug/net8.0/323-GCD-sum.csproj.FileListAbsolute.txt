@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\bin\Debug\net8.0\323-GCD-sum.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\bin\Debug\net8.0\323-GCD-sum.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\bin\Debug\net8.0\323-GCD-sum.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\bin\Debug\net8.0\323-GCD-sum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\bin\Debug\net8.0\323-GCD-sum.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\obj\Debug\net8.0\323-GCD-sum.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\obj\Debug\net8.0\323-GCD-sum.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\obj\Debug\net8.0\323-GCD-sum.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\obj\Debug\net8.0\323-GCD-sum.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\obj\Debug\net8.0\323-GCD-sum.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\obj\Debug\net8.0\323-GCD-sum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\obj\Debug\net8.0\refint\323-GCD-sum.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\obj\Debug\net8.0\323-GCD-sum.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\obj\Debug\net8.0\323-GCD-sum.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\323-GCD-sum\obj\Debug\net8.0\ref\323-GCD-sum.dll

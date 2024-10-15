@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\144-Greatest-common-divisor\\144-Greatest-common-divisor.csproj",
-      "projectName": "144-Greatest-common-divisor",
-      "projectPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\144-Greatest-common-divisor\\144-Greatest-common-divisor.csproj",
+      "projectUniqueName": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\323-GCD-sum\\323-GCD-sum.csproj",
+      "projectName": "323-GCD-sum",
+      "projectPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\323-GCD-sum\\323-GCD-sum.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\144-Greatest-common-divisor\\obj\\",
+      "outputPath": "C:\\DATA 2\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\323-GCD-sum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Users\\HP\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
