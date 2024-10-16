@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\bin\Debug\net8.0\325-Drying-Potatoes.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\bin\Debug\net8.0\325-Drying-Potatoes.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\bin\Debug\net8.0\325-Drying-Potatoes.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\bin\Debug\net8.0\325-Drying-Potatoes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\bin\Debug\net8.0\325-Drying-Potatoes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\obj\Debug\net8.0\325-Drying-Potatoes.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\obj\Debug\net8.0\325-Drying-Potatoes.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\obj\Debug\net8.0\325-Drying-Potatoes.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\obj\Debug\net8.0\325-Drying-Potatoes.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\obj\Debug\net8.0\325-Drying-Potatoes.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\obj\Debug\net8.0\325-Drying-Potatoes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\obj\Debug\net8.0\refint\325-Drying-Potatoes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\obj\Debug\net8.0\325-Drying-Potatoes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\obj\Debug\net8.0\325-Drying-Potatoes.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\325-Drying-Potatoes\obj\Debug\net8.0\ref\325-Drying-Potatoes.dll

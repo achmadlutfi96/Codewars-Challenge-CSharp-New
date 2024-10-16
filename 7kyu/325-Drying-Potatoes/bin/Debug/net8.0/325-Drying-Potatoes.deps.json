@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "325-Drying-Potatoes/1.0.0": {
+        "runtime": {
+          "325-Drying-Potatoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "325-Drying-Potatoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
