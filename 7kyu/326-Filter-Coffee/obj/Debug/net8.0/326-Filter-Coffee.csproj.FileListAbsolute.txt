@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\bin\Debug\net8.0\326-Filter-Coffee.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\bin\Debug\net8.0\326-Filter-Coffee.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\bin\Debug\net8.0\326-Filter-Coffee.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\bin\Debug\net8.0\326-Filter-Coffee.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\bin\Debug\net8.0\326-Filter-Coffee.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\obj\Debug\net8.0\326-Filter-Coffee.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\obj\Debug\net8.0\326-Filter-Coffee.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\obj\Debug\net8.0\326-Filter-Coffee.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\obj\Debug\net8.0\326-Filter-Coffee.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\obj\Debug\net8.0\326-Filter-Coffee.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\obj\Debug\net8.0\326-Filter-Coffee.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\obj\Debug\net8.0\refint\326-Filter-Coffee.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\obj\Debug\net8.0\326-Filter-Coffee.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\obj\Debug\net8.0\326-Filter-Coffee.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\326-Filter-Coffee\obj\Debug\net8.0\ref\326-Filter-Coffee.dll

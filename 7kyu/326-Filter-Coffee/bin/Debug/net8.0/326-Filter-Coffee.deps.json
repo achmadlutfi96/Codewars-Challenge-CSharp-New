@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "326-Filter-Coffee/1.0.0": {
+        "runtime": {
+          "326-Filter-Coffee.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "326-Filter-Coffee/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
