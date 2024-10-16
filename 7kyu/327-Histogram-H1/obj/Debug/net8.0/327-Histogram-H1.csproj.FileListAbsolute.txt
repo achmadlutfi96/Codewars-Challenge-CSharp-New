@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\bin\Debug\net8.0\327-Histogram-H1.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\bin\Debug\net8.0\327-Histogram-H1.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\bin\Debug\net8.0\327-Histogram-H1.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\bin\Debug\net8.0\327-Histogram-H1.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\bin\Debug\net8.0\327-Histogram-H1.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\obj\Debug\net8.0\327-Histogram-H1.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\obj\Debug\net8.0\327-Histogram-H1.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\obj\Debug\net8.0\327-Histogram-H1.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\obj\Debug\net8.0\327-Histogram-H1.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\obj\Debug\net8.0\327-Histogram-H1.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\obj\Debug\net8.0\327-Histogram-H1.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\obj\Debug\net8.0\refint\327-Histogram-H1.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\obj\Debug\net8.0\327-Histogram-H1.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\obj\Debug\net8.0\327-Histogram-H1.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\327-Histogram-H1\obj\Debug\net8.0\ref\327-Histogram-H1.dll
