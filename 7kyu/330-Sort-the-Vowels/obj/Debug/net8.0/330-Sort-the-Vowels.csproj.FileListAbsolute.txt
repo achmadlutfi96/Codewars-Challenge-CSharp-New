@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\bin\Debug\net8.0\330-Sort-the-Vowels.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\bin\Debug\net8.0\330-Sort-the-Vowels.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\bin\Debug\net8.0\330-Sort-the-Vowels.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\bin\Debug\net8.0\330-Sort-the-Vowels.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\bin\Debug\net8.0\330-Sort-the-Vowels.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\obj\Debug\net8.0\330-Sort-the-Vowels.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\obj\Debug\net8.0\330-Sort-the-Vowels.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\obj\Debug\net8.0\330-Sort-the-Vowels.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\obj\Debug\net8.0\330-Sort-the-Vowels.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\obj\Debug\net8.0\330-Sort-the-Vowels.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\obj\Debug\net8.0\330-Sort-the-Vowels.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\obj\Debug\net8.0\refint\330-Sort-the-Vowels.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\obj\Debug\net8.0\330-Sort-the-Vowels.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\obj\Debug\net8.0\330-Sort-the-Vowels.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\330-Sort-the-Vowels\obj\Debug\net8.0\ref\330-Sort-the-Vowels.dll
