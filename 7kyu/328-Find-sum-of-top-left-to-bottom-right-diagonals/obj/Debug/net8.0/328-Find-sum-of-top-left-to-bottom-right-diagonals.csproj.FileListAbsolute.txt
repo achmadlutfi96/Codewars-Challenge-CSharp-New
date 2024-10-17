@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\bin\Debug\net8.0\328-Find-sum-of-top-left-to-bottom-right-diagonals.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\bin\Debug\net8.0\328-Find-sum-of-top-left-to-bottom-right-diagonals.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\bin\Debug\net8.0\328-Find-sum-of-top-left-to-bottom-right-diagonals.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\bin\Debug\net8.0\328-Find-sum-of-top-left-to-bottom-right-diagonals.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\bin\Debug\net8.0\328-Find-sum-of-top-left-to-bottom-right-diagonals.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\obj\Debug\net8.0\328-Find-sum-of-top-left-to-bottom-right-diagonals.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\obj\Debug\net8.0\328-Find-sum-of-top-left-to-bottom-right-diagonals.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\obj\Debug\net8.0\328-Find-sum-of-top-left-to-bottom-right-diagonals.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\obj\Debug\net8.0\328-Find-sum-of-top-left-to-bottom-right-diagonals.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\obj\Debug\net8.0\328-Find-sum-of-top-left-to-bottom-right-diagonals.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\obj\Debug\net8.0\328-Find-sum-of-top-left-to-bottom-right-diagonals.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\obj\Debug\net8.0\refint\328-Find-sum-of-top-left-to-bottom-right-diagonals.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\obj\Debug\net8.0\328-Find-sum-of-top-left-to-bottom-right-diagonals.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\obj\Debug\net8.0\328-Find-sum-of-top-left-to-bottom-right-diagonals.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\328-Find-sum-of-top-left-to-bottom-right-diagonals\obj\Debug\net8.0\ref\328-Find-sum-of-top-left-to-bottom-right-diagonals.dll

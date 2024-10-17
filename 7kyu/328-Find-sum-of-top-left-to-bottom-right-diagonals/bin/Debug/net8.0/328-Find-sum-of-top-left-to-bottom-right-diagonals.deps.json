@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "328-Find-sum-of-top-left-to-bottom-right-diagonals/1.0.0": {
+        "runtime": {
+          "328-Find-sum-of-top-left-to-bottom-right-diagonals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "328-Find-sum-of-top-left-to-bottom-right-diagonals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
