@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\bin\Debug\net8.0\329-Four-Or-Seven.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\bin\Debug\net8.0\329-Four-Or-Seven.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\bin\Debug\net8.0\329-Four-Or-Seven.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\bin\Debug\net8.0\329-Four-Or-Seven.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\bin\Debug\net8.0\329-Four-Or-Seven.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\obj\Debug\net8.0\329-Four-Or-Seven.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\obj\Debug\net8.0\329-Four-Or-Seven.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\obj\Debug\net8.0\329-Four-Or-Seven.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\obj\Debug\net8.0\329-Four-Or-Seven.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\obj\Debug\net8.0\329-Four-Or-Seven.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\obj\Debug\net8.0\329-Four-Or-Seven.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\obj\Debug\net8.0\refint\329-Four-Or-Seven.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\obj\Debug\net8.0\329-Four-Or-Seven.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\obj\Debug\net8.0\329-Four-Or-Seven.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\329-Four-Or-Seven\obj\Debug\net8.0\ref\329-Four-Or-Seven.dll
