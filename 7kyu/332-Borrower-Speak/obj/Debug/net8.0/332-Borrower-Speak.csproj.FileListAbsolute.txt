@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\bin\Debug\net8.0\332-Borrower-Speak.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\bin\Debug\net8.0\332-Borrower-Speak.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\bin\Debug\net8.0\332-Borrower-Speak.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\bin\Debug\net8.0\332-Borrower-Speak.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\bin\Debug\net8.0\332-Borrower-Speak.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\obj\Debug\net8.0\332-Borrower-Speak.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\obj\Debug\net8.0\332-Borrower-Speak.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\obj\Debug\net8.0\332-Borrower-Speak.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\obj\Debug\net8.0\332-Borrower-Speak.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\obj\Debug\net8.0\332-Borrower-Speak.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\obj\Debug\net8.0\332-Borrower-Speak.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\obj\Debug\net8.0\refint\332-Borrower-Speak.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\obj\Debug\net8.0\332-Borrower-Speak.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\obj\Debug\net8.0\332-Borrower-Speak.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\332-Borrower-Speak\obj\Debug\net8.0\ref\332-Borrower-Speak.dll
