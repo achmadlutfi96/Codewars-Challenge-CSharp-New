@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\bin\Debug\net8.0\331-The-Pony-Express.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\bin\Debug\net8.0\331-The-Pony-Express.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\bin\Debug\net8.0\331-The-Pony-Express.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\bin\Debug\net8.0\331-The-Pony-Express.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\bin\Debug\net8.0\331-The-Pony-Express.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\obj\Debug\net8.0\331-The-Pony-Express.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\obj\Debug\net8.0\331-The-Pony-Express.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\obj\Debug\net8.0\331-The-Pony-Express.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\obj\Debug\net8.0\331-The-Pony-Express.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\obj\Debug\net8.0\331-The-Pony-Express.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\obj\Debug\net8.0\331-The-Pony-Express.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\obj\Debug\net8.0\refint\331-The-Pony-Express.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\obj\Debug\net8.0\331-The-Pony-Express.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\obj\Debug\net8.0\331-The-Pony-Express.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\331-The-Pony-Express\obj\Debug\net8.0\ref\331-The-Pony-Express.dll
