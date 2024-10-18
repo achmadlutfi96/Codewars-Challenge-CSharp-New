@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\bin\Debug\net8.0\333-Exclamation-marks-series-8-Move-all-exclamation-marks.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\bin\Debug\net8.0\333-Exclamation-marks-series-8-Move-all-exclamation-marks.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\bin\Debug\net8.0\333-Exclamation-marks-series-8-Move-all-exclamation-marks.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\bin\Debug\net8.0\333-Exclamation-marks-series-8-Move-all-exclamation-marks.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\bin\Debug\net8.0\333-Exclamation-marks-series-8-Move-all-exclamation-marks.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\obj\Debug\net8.0\333-Exclamation-marks-series-8-Move-all-exclamation-marks.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\obj\Debug\net8.0\333-Exclamation-marks-series-8-Move-all-exclamation-marks.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\obj\Debug\net8.0\333-Exclamation-marks-series-8-Move-all-exclamation-marks.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\obj\Debug\net8.0\333-Exclamation-marks-series-8-Move-all-exclamation-marks.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\obj\Debug\net8.0\333-Exclamation-marks-series-8-Move-all-exclamation-marks.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\obj\Debug\net8.0\333-Exclamation-marks-series-8-Move-all-exclamation-marks.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\obj\Debug\net8.0\refint\333-Exclamation-marks-series-8-Move-all-exclamation-marks.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\obj\Debug\net8.0\333-Exclamation-marks-series-8-Move-all-exclamation-marks.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\obj\Debug\net8.0\333-Exclamation-marks-series-8-Move-all-exclamation-marks.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\333-Exclamation-marks-series-8-Move-all-exclamation-marks\obj\Debug\net8.0\ref\333-Exclamation-marks-series-8-Move-all-exclamation-marks.dll
