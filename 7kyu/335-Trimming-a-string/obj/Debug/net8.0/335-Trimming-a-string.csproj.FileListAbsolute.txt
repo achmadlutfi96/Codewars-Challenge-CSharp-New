@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\bin\Debug\net8.0\335-Trimming-a-string.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\bin\Debug\net8.0\335-Trimming-a-string.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\bin\Debug\net8.0\335-Trimming-a-string.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\bin\Debug\net8.0\335-Trimming-a-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\bin\Debug\net8.0\335-Trimming-a-string.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\obj\Debug\net8.0\335-Trimming-a-string.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\obj\Debug\net8.0\335-Trimming-a-string.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\obj\Debug\net8.0\335-Trimming-a-string.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\obj\Debug\net8.0\335-Trimming-a-string.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\obj\Debug\net8.0\335-Trimming-a-string.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\obj\Debug\net8.0\335-Trimming-a-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\obj\Debug\net8.0\refint\335-Trimming-a-string.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\obj\Debug\net8.0\335-Trimming-a-string.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\obj\Debug\net8.0\335-Trimming-a-string.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\335-Trimming-a-string\obj\Debug\net8.0\ref\335-Trimming-a-string.dll
