@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\bin\Debug\net8.0\334-Monotone-travel.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\bin\Debug\net8.0\334-Monotone-travel.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\bin\Debug\net8.0\334-Monotone-travel.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\bin\Debug\net8.0\334-Monotone-travel.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\bin\Debug\net8.0\334-Monotone-travel.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\obj\Debug\net8.0\334-Monotone-travel.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\obj\Debug\net8.0\334-Monotone-travel.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\obj\Debug\net8.0\334-Monotone-travel.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\obj\Debug\net8.0\334-Monotone-travel.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\obj\Debug\net8.0\334-Monotone-travel.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\obj\Debug\net8.0\334-Monotone-travel.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\obj\Debug\net8.0\refint\334-Monotone-travel.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\obj\Debug\net8.0\334-Monotone-travel.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\obj\Debug\net8.0\334-Monotone-travel.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\334-Monotone-travel\obj\Debug\net8.0\ref\334-Monotone-travel.dll

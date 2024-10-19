@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "334-Monotone-travel/1.0.0": {
+        "runtime": {
+          "334-Monotone-travel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "334-Monotone-travel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
