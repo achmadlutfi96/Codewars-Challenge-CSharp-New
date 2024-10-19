@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\bin\Debug\net8.0\336-Difference-between-years-Level-1.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\bin\Debug\net8.0\336-Difference-between-years-Level-1.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\bin\Debug\net8.0\336-Difference-between-years-Level-1.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\bin\Debug\net8.0\336-Difference-between-years-Level-1.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\bin\Debug\net8.0\336-Difference-between-years-Level-1.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\obj\Debug\net8.0\336-Difference-between-years-Level-1.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\obj\Debug\net8.0\336-Difference-between-years-Level-1.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\obj\Debug\net8.0\336-Difference-between-years-Level-1.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\obj\Debug\net8.0\336-Difference-between-years-Level-1.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\obj\Debug\net8.0\336-Difference-between-years-Level-1.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\obj\Debug\net8.0\336-Difference-between-years-Level-1.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\obj\Debug\net8.0\refint\336-Difference-between-years-Level-1.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\obj\Debug\net8.0\336-Difference-between-years-Level-1.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\obj\Debug\net8.0\336-Difference-between-years-Level-1.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\336-Difference-between-years-Level-1\obj\Debug\net8.0\ref\336-Difference-between-years-Level-1.dll
