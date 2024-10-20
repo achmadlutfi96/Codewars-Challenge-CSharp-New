@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\bin\Debug\net8.0\337-Number-of-Divisions.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\bin\Debug\net8.0\337-Number-of-Divisions.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\bin\Debug\net8.0\337-Number-of-Divisions.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\bin\Debug\net8.0\337-Number-of-Divisions.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\bin\Debug\net8.0\337-Number-of-Divisions.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\obj\Debug\net8.0\337-Number-of-Divisions.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\obj\Debug\net8.0\337-Number-of-Divisions.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\obj\Debug\net8.0\337-Number-of-Divisions.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\obj\Debug\net8.0\337-Number-of-Divisions.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\obj\Debug\net8.0\337-Number-of-Divisions.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\obj\Debug\net8.0\337-Number-of-Divisions.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\obj\Debug\net8.0\refint\337-Number-of-Divisions.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\obj\Debug\net8.0\337-Number-of-Divisions.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\obj\Debug\net8.0\337-Number-of-Divisions.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\337-Number-of-Divisions\obj\Debug\net8.0\ref\337-Number-of-Divisions.dll
