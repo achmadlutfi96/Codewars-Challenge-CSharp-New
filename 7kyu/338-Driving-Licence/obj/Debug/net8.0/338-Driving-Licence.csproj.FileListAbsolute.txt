@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\bin\Debug\net8.0\338-Driving-Licence.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\bin\Debug\net8.0\338-Driving-Licence.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\bin\Debug\net8.0\338-Driving-Licence.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\bin\Debug\net8.0\338-Driving-Licence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\bin\Debug\net8.0\338-Driving-Licence.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\obj\Debug\net8.0\338-Driving-Licence.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\obj\Debug\net8.0\338-Driving-Licence.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\obj\Debug\net8.0\338-Driving-Licence.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\obj\Debug\net8.0\338-Driving-Licence.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\obj\Debug\net8.0\338-Driving-Licence.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\obj\Debug\net8.0\338-Driving-Licence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\obj\Debug\net8.0\refint\338-Driving-Licence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\obj\Debug\net8.0\338-Driving-Licence.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\obj\Debug\net8.0\338-Driving-Licence.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\338-Driving-Licence\obj\Debug\net8.0\ref\338-Driving-Licence.dll
