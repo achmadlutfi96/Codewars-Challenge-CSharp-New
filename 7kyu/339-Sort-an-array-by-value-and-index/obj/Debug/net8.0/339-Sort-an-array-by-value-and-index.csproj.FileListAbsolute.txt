@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\bin\Debug\net8.0\339-Sort-an-array-by-value-and-index.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\bin\Debug\net8.0\339-Sort-an-array-by-value-and-index.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\bin\Debug\net8.0\339-Sort-an-array-by-value-and-index.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\bin\Debug\net8.0\339-Sort-an-array-by-value-and-index.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\bin\Debug\net8.0\339-Sort-an-array-by-value-and-index.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\obj\Debug\net8.0\339-Sort-an-array-by-value-and-index.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\obj\Debug\net8.0\339-Sort-an-array-by-value-and-index.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\obj\Debug\net8.0\339-Sort-an-array-by-value-and-index.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\obj\Debug\net8.0\339-Sort-an-array-by-value-and-index.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\obj\Debug\net8.0\339-Sort-an-array-by-value-and-index.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\obj\Debug\net8.0\339-Sort-an-array-by-value-and-index.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\obj\Debug\net8.0\refint\339-Sort-an-array-by-value-and-index.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\obj\Debug\net8.0\339-Sort-an-array-by-value-and-index.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\obj\Debug\net8.0\339-Sort-an-array-by-value-and-index.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\339-Sort-an-array-by-value-and-index\obj\Debug\net8.0\ref\339-Sort-an-array-by-value-and-index.dll

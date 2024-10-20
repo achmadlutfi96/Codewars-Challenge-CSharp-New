@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "339-Sort-an-array-by-value-and-index/1.0.0": {
+        "runtime": {
+          "339-Sort-an-array-by-value-and-index.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "339-Sort-an-array-by-value-and-index/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
