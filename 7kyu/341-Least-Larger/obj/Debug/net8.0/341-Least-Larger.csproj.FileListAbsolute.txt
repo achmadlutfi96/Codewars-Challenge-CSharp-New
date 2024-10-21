@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\bin\Debug\net8.0\341-Least-Larger.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\bin\Debug\net8.0\341-Least-Larger.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\bin\Debug\net8.0\341-Least-Larger.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\bin\Debug\net8.0\341-Least-Larger.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\bin\Debug\net8.0\341-Least-Larger.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\obj\Debug\net8.0\341-Least-Larger.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\obj\Debug\net8.0\341-Least-Larger.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\obj\Debug\net8.0\341-Least-Larger.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\obj\Debug\net8.0\341-Least-Larger.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\obj\Debug\net8.0\341-Least-Larger.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\obj\Debug\net8.0\341-Least-Larger.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\obj\Debug\net8.0\refint\341-Least-Larger.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\obj\Debug\net8.0\341-Least-Larger.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\obj\Debug\net8.0\341-Least-Larger.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\341-Least-Larger\obj\Debug\net8.0\ref\341-Least-Larger.dll
