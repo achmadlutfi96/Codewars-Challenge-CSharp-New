@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\bin\Debug\net8.0\342-Simple-Fun-3-Late-Ride.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\bin\Debug\net8.0\342-Simple-Fun-3-Late-Ride.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\bin\Debug\net8.0\342-Simple-Fun-3-Late-Ride.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\bin\Debug\net8.0\342-Simple-Fun-3-Late-Ride.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\bin\Debug\net8.0\342-Simple-Fun-3-Late-Ride.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\obj\Debug\net8.0\342-Simple-Fun-3-Late-Ride.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\obj\Debug\net8.0\342-Simple-Fun-3-Late-Ride.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\obj\Debug\net8.0\342-Simple-Fun-3-Late-Ride.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\obj\Debug\net8.0\342-Simple-Fun-3-Late-Ride.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\obj\Debug\net8.0\342-Simple-Fun-3-Late-Ride.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\obj\Debug\net8.0\342-Simple-Fun-3-Late-Ride.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\obj\Debug\net8.0\refint\342-Simple-Fun-3-Late-Ride.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\obj\Debug\net8.0\342-Simple-Fun-3-Late-Ride.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\obj\Debug\net8.0\342-Simple-Fun-3-Late-Ride.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\342-Simple-Fun-3-Late-Ride\obj\Debug\net8.0\ref\342-Simple-Fun-3-Late-Ride.dll
