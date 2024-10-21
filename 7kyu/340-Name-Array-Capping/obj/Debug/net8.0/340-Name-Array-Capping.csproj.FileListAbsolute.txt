@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\bin\Debug\net8.0\340-Name-Array-Capping.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\bin\Debug\net8.0\340-Name-Array-Capping.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\bin\Debug\net8.0\340-Name-Array-Capping.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\bin\Debug\net8.0\340-Name-Array-Capping.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\bin\Debug\net8.0\340-Name-Array-Capping.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\obj\Debug\net8.0\340-Name-Array-Capping.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\obj\Debug\net8.0\340-Name-Array-Capping.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\obj\Debug\net8.0\340-Name-Array-Capping.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\obj\Debug\net8.0\340-Name-Array-Capping.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\obj\Debug\net8.0\340-Name-Array-Capping.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\obj\Debug\net8.0\340-Name-Array-Capping.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\obj\Debug\net8.0\refint\340-Name-Array-Capping.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\obj\Debug\net8.0\340-Name-Array-Capping.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\obj\Debug\net8.0\340-Name-Array-Capping.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\340-Name-Array-Capping\obj\Debug\net8.0\ref\340-Name-Array-Capping.dll
