@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\bin\Debug\net8.0\343-Hungarian-Vowel-Harmony-easy.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\bin\Debug\net8.0\343-Hungarian-Vowel-Harmony-easy.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\bin\Debug\net8.0\343-Hungarian-Vowel-Harmony-easy.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\bin\Debug\net8.0\343-Hungarian-Vowel-Harmony-easy.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\bin\Debug\net8.0\343-Hungarian-Vowel-Harmony-easy.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\obj\Debug\net8.0\343-Hungarian-Vowel-Harmony-easy.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\obj\Debug\net8.0\343-Hungarian-Vowel-Harmony-easy.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\obj\Debug\net8.0\343-Hungarian-Vowel-Harmony-easy.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\obj\Debug\net8.0\343-Hungarian-Vowel-Harmony-easy.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\obj\Debug\net8.0\343-Hungarian-Vowel-Harmony-easy.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\obj\Debug\net8.0\343-Hungarian-Vowel-Harmony-easy.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\obj\Debug\net8.0\refint\343-Hungarian-Vowel-Harmony-easy.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\obj\Debug\net8.0\343-Hungarian-Vowel-Harmony-easy.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\obj\Debug\net8.0\343-Hungarian-Vowel-Harmony-easy.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\343-Hungarian-Vowel-Harmony-easy\obj\Debug\net8.0\ref\343-Hungarian-Vowel-Harmony-easy.dll

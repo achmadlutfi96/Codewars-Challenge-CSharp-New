@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "343-Hungarian-Vowel-Harmony-easy/1.0.0": {
+        "runtime": {
+          "343-Hungarian-Vowel-Harmony-easy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "343-Hungarian-Vowel-Harmony-easy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
