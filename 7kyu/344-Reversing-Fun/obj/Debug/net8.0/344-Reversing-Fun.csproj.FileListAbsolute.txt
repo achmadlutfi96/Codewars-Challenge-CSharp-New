@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\bin\Debug\net8.0\344-Reversing-Fun.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\bin\Debug\net8.0\344-Reversing-Fun.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\bin\Debug\net8.0\344-Reversing-Fun.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\bin\Debug\net8.0\344-Reversing-Fun.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\bin\Debug\net8.0\344-Reversing-Fun.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\obj\Debug\net8.0\344-Reversing-Fun.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\obj\Debug\net8.0\344-Reversing-Fun.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\obj\Debug\net8.0\344-Reversing-Fun.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\obj\Debug\net8.0\344-Reversing-Fun.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\obj\Debug\net8.0\344-Reversing-Fun.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\obj\Debug\net8.0\344-Reversing-Fun.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\obj\Debug\net8.0\refint\344-Reversing-Fun.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\obj\Debug\net8.0\344-Reversing-Fun.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\obj\Debug\net8.0\344-Reversing-Fun.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\344-Reversing-Fun\obj\Debug\net8.0\ref\344-Reversing-Fun.dll
