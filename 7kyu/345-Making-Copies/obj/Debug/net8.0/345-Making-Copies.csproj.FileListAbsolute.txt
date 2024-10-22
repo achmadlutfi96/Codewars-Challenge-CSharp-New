@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\bin\Debug\net8.0\345-Making-Copies.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\bin\Debug\net8.0\345-Making-Copies.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\bin\Debug\net8.0\345-Making-Copies.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\bin\Debug\net8.0\345-Making-Copies.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\bin\Debug\net8.0\345-Making-Copies.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\obj\Debug\net8.0\345-Making-Copies.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\obj\Debug\net8.0\345-Making-Copies.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\obj\Debug\net8.0\345-Making-Copies.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\obj\Debug\net8.0\345-Making-Copies.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\obj\Debug\net8.0\345-Making-Copies.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\obj\Debug\net8.0\345-Making-Copies.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\obj\Debug\net8.0\refint\345-Making-Copies.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\obj\Debug\net8.0\345-Making-Copies.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\obj\Debug\net8.0\345-Making-Copies.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\345-Making-Copies\obj\Debug\net8.0\ref\345-Making-Copies.dll
