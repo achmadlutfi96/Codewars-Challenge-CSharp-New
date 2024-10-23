@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\bin\Debug\net8.0\348-TV-Remote.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\bin\Debug\net8.0\348-TV-Remote.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\bin\Debug\net8.0\348-TV-Remote.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\bin\Debug\net8.0\348-TV-Remote.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\bin\Debug\net8.0\348-TV-Remote.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\obj\Debug\net8.0\348-TV-Remote.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\obj\Debug\net8.0\348-TV-Remote.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\obj\Debug\net8.0\348-TV-Remote.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\obj\Debug\net8.0\348-TV-Remote.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\obj\Debug\net8.0\348-TV-Remote.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\obj\Debug\net8.0\348-TV-Remote.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\obj\Debug\net8.0\refint\348-TV-Remote.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\obj\Debug\net8.0\348-TV-Remote.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\obj\Debug\net8.0\348-TV-Remote.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\348-TV-Remote\obj\Debug\net8.0\ref\348-TV-Remote.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "348-TV-Remote/1.0.0": {
+        "runtime": {
+          "348-TV-Remote.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "348-TV-Remote/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
