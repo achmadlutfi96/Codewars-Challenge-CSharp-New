@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\bin\Debug\net8.0\346-MOD-256-without-the-MOD-operator.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\bin\Debug\net8.0\346-MOD-256-without-the-MOD-operator.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\bin\Debug\net8.0\346-MOD-256-without-the-MOD-operator.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\bin\Debug\net8.0\346-MOD-256-without-the-MOD-operator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\bin\Debug\net8.0\346-MOD-256-without-the-MOD-operator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\obj\Debug\net8.0\346-MOD-256-without-the-MOD-operator.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\obj\Debug\net8.0\346-MOD-256-without-the-MOD-operator.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\obj\Debug\net8.0\346-MOD-256-without-the-MOD-operator.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\obj\Debug\net8.0\346-MOD-256-without-the-MOD-operator.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\obj\Debug\net8.0\346-MOD-256-without-the-MOD-operator.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\obj\Debug\net8.0\346-MOD-256-without-the-MOD-operator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\obj\Debug\net8.0\refint\346-MOD-256-without-the-MOD-operator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\obj\Debug\net8.0\346-MOD-256-without-the-MOD-operator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\obj\Debug\net8.0\346-MOD-256-without-the-MOD-operator.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\346-MOD-256-without-the-MOD-operator\obj\Debug\net8.0\ref\346-MOD-256-without-the-MOD-operator.dll
