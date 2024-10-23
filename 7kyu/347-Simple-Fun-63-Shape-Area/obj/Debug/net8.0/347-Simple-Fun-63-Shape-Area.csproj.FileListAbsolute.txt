@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\bin\Debug\net8.0\347-Simple-Fun-63-Shape-Area.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\bin\Debug\net8.0\347-Simple-Fun-63-Shape-Area.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\bin\Debug\net8.0\347-Simple-Fun-63-Shape-Area.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\bin\Debug\net8.0\347-Simple-Fun-63-Shape-Area.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\bin\Debug\net8.0\347-Simple-Fun-63-Shape-Area.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\obj\Debug\net8.0\347-Simple-Fun-63-Shape-Area.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\obj\Debug\net8.0\347-Simple-Fun-63-Shape-Area.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\obj\Debug\net8.0\347-Simple-Fun-63-Shape-Area.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\obj\Debug\net8.0\347-Simple-Fun-63-Shape-Area.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\obj\Debug\net8.0\347-Simple-Fun-63-Shape-Area.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\obj\Debug\net8.0\347-Simple-Fun-63-Shape-Area.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\obj\Debug\net8.0\refint\347-Simple-Fun-63-Shape-Area.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\obj\Debug\net8.0\347-Simple-Fun-63-Shape-Area.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\obj\Debug\net8.0\347-Simple-Fun-63-Shape-Area.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\347-Simple-Fun-63-Shape-Area\obj\Debug\net8.0\ref\347-Simple-Fun-63-Shape-Area.dll
