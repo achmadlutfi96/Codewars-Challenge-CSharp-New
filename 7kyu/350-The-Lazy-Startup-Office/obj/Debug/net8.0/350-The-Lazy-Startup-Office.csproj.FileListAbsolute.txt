@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\bin\Debug\net8.0\350-The-Lazy-Startup-Office.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\bin\Debug\net8.0\350-The-Lazy-Startup-Office.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\bin\Debug\net8.0\350-The-Lazy-Startup-Office.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\bin\Debug\net8.0\350-The-Lazy-Startup-Office.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\bin\Debug\net8.0\350-The-Lazy-Startup-Office.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\obj\Debug\net8.0\350-The-Lazy-Startup-Office.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\obj\Debug\net8.0\350-The-Lazy-Startup-Office.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\obj\Debug\net8.0\350-The-Lazy-Startup-Office.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\obj\Debug\net8.0\350-The-Lazy-Startup-Office.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\obj\Debug\net8.0\350-The-Lazy-Startup-Office.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\obj\Debug\net8.0\350-The-Lazy-Startup-Office.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\obj\Debug\net8.0\refint\350-The-Lazy-Startup-Office.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\obj\Debug\net8.0\350-The-Lazy-Startup-Office.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\obj\Debug\net8.0\350-The-Lazy-Startup-Office.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\350-The-Lazy-Startup-Office\obj\Debug\net8.0\ref\350-The-Lazy-Startup-Office.dll
