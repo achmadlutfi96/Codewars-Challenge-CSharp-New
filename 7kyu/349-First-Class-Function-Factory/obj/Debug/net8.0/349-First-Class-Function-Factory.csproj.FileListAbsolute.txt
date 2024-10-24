@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\bin\Debug\net8.0\349-First-Class-Function-Factory.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\bin\Debug\net8.0\349-First-Class-Function-Factory.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\bin\Debug\net8.0\349-First-Class-Function-Factory.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\bin\Debug\net8.0\349-First-Class-Function-Factory.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\bin\Debug\net8.0\349-First-Class-Function-Factory.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\obj\Debug\net8.0\349-First-Class-Function-Factory.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\obj\Debug\net8.0\349-First-Class-Function-Factory.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\obj\Debug\net8.0\349-First-Class-Function-Factory.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\obj\Debug\net8.0\349-First-Class-Function-Factory.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\obj\Debug\net8.0\349-First-Class-Function-Factory.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\obj\Debug\net8.0\349-First-Class-Function-Factory.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\obj\Debug\net8.0\refint\349-First-Class-Function-Factory.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\obj\Debug\net8.0\349-First-Class-Function-Factory.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\obj\Debug\net8.0\349-First-Class-Function-Factory.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\349-First-Class-Function-Factory\obj\Debug\net8.0\ref\349-First-Class-Function-Factory.dll
