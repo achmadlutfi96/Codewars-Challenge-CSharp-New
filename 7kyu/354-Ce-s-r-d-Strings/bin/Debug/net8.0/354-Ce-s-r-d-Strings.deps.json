@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "354-Ce-s-r-d-Strings/1.0.0": {
+        "runtime": {
+          "354-Ce-s-r-d-Strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "354-Ce-s-r-d-Strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

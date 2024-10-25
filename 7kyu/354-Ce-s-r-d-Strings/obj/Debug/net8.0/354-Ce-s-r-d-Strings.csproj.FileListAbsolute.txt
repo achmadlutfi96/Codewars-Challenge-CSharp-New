@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\bin\Debug\net8.0\354-Ce-s-r-d-Strings.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\bin\Debug\net8.0\354-Ce-s-r-d-Strings.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\bin\Debug\net8.0\354-Ce-s-r-d-Strings.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\bin\Debug\net8.0\354-Ce-s-r-d-Strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\bin\Debug\net8.0\354-Ce-s-r-d-Strings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\obj\Debug\net8.0\354-Ce-s-r-d-Strings.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\obj\Debug\net8.0\354-Ce-s-r-d-Strings.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\obj\Debug\net8.0\354-Ce-s-r-d-Strings.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\obj\Debug\net8.0\354-Ce-s-r-d-Strings.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\obj\Debug\net8.0\354-Ce-s-r-d-Strings.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\obj\Debug\net8.0\354-Ce-s-r-d-Strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\obj\Debug\net8.0\refint\354-Ce-s-r-d-Strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\obj\Debug\net8.0\354-Ce-s-r-d-Strings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\obj\Debug\net8.0\354-Ce-s-r-d-Strings.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\354-Ce-s-r-d-Strings\obj\Debug\net8.0\ref\354-Ce-s-r-d-Strings.dll
