@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\bin\Debug\net8.0\352-Circle-area-inside-square.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\bin\Debug\net8.0\352-Circle-area-inside-square.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\bin\Debug\net8.0\352-Circle-area-inside-square.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\bin\Debug\net8.0\352-Circle-area-inside-square.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\bin\Debug\net8.0\352-Circle-area-inside-square.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\obj\Debug\net8.0\352-Circle-area-inside-square.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\obj\Debug\net8.0\352-Circle-area-inside-square.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\obj\Debug\net8.0\352-Circle-area-inside-square.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\obj\Debug\net8.0\352-Circle-area-inside-square.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\obj\Debug\net8.0\352-Circle-area-inside-square.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\obj\Debug\net8.0\352-Circle-area-inside-square.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\obj\Debug\net8.0\refint\352-Circle-area-inside-square.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\obj\Debug\net8.0\352-Circle-area-inside-square.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\obj\Debug\net8.0\352-Circle-area-inside-square.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\352-Circle-area-inside-square\obj\Debug\net8.0\ref\352-Circle-area-inside-square.dll
