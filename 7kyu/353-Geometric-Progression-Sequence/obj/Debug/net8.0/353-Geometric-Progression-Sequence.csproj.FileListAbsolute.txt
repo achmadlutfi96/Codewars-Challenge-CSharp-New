@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\bin\Debug\net8.0\353-Geometric-Progression-Sequence.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\bin\Debug\net8.0\353-Geometric-Progression-Sequence.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\bin\Debug\net8.0\353-Geometric-Progression-Sequence.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\bin\Debug\net8.0\353-Geometric-Progression-Sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\bin\Debug\net8.0\353-Geometric-Progression-Sequence.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\obj\Debug\net8.0\353-Geometric-Progression-Sequence.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\obj\Debug\net8.0\353-Geometric-Progression-Sequence.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\obj\Debug\net8.0\353-Geometric-Progression-Sequence.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\obj\Debug\net8.0\353-Geometric-Progression-Sequence.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\obj\Debug\net8.0\353-Geometric-Progression-Sequence.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\obj\Debug\net8.0\353-Geometric-Progression-Sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\obj\Debug\net8.0\refint\353-Geometric-Progression-Sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\obj\Debug\net8.0\353-Geometric-Progression-Sequence.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\obj\Debug\net8.0\353-Geometric-Progression-Sequence.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\353-Geometric-Progression-Sequence\obj\Debug\net8.0\ref\353-Geometric-Progression-Sequence.dll
