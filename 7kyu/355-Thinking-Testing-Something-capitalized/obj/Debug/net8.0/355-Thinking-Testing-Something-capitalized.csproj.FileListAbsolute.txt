@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\bin\Debug\net8.0\355-Thinking-Testing-Something-capitalized.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\bin\Debug\net8.0\355-Thinking-Testing-Something-capitalized.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\bin\Debug\net8.0\355-Thinking-Testing-Something-capitalized.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\bin\Debug\net8.0\355-Thinking-Testing-Something-capitalized.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\bin\Debug\net8.0\355-Thinking-Testing-Something-capitalized.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\obj\Debug\net8.0\355-Thinking-Testing-Something-capitalized.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\obj\Debug\net8.0\355-Thinking-Testing-Something-capitalized.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\obj\Debug\net8.0\355-Thinking-Testing-Something-capitalized.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\obj\Debug\net8.0\355-Thinking-Testing-Something-capitalized.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\obj\Debug\net8.0\355-Thinking-Testing-Something-capitalized.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\obj\Debug\net8.0\355-Thinking-Testing-Something-capitalized.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\obj\Debug\net8.0\refint\355-Thinking-Testing-Something-capitalized.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\obj\Debug\net8.0\355-Thinking-Testing-Something-capitalized.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\obj\Debug\net8.0\355-Thinking-Testing-Something-capitalized.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\355-Thinking-Testing-Something-capitalized\obj\Debug\net8.0\ref\355-Thinking-Testing-Something-capitalized.dll
