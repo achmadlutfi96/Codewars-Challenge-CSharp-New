@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\bin\Debug\net8.0\356-Cartesian-neighbors.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\bin\Debug\net8.0\356-Cartesian-neighbors.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\bin\Debug\net8.0\356-Cartesian-neighbors.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\bin\Debug\net8.0\356-Cartesian-neighbors.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\bin\Debug\net8.0\356-Cartesian-neighbors.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\obj\Debug\net8.0\356-Cartesian-neighbors.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\obj\Debug\net8.0\356-Cartesian-neighbors.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\obj\Debug\net8.0\356-Cartesian-neighbors.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\obj\Debug\net8.0\356-Cartesian-neighbors.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\obj\Debug\net8.0\356-Cartesian-neighbors.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\obj\Debug\net8.0\356-Cartesian-neighbors.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\obj\Debug\net8.0\refint\356-Cartesian-neighbors.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\obj\Debug\net8.0\356-Cartesian-neighbors.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\obj\Debug\net8.0\356-Cartesian-neighbors.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\356-Cartesian-neighbors\obj\Debug\net8.0\ref\356-Cartesian-neighbors.dll
