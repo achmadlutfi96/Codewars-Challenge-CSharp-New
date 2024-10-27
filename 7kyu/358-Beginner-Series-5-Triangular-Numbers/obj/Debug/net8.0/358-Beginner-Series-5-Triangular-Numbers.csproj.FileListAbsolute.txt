@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\bin\Debug\net8.0\358-Beginner-Series-5-Triangular-Numbers.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\bin\Debug\net8.0\358-Beginner-Series-5-Triangular-Numbers.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\bin\Debug\net8.0\358-Beginner-Series-5-Triangular-Numbers.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\bin\Debug\net8.0\358-Beginner-Series-5-Triangular-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\bin\Debug\net8.0\358-Beginner-Series-5-Triangular-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\obj\Debug\net8.0\358-Beginner-Series-5-Triangular-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\obj\Debug\net8.0\358-Beginner-Series-5-Triangular-Numbers.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\obj\Debug\net8.0\358-Beginner-Series-5-Triangular-Numbers.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\obj\Debug\net8.0\358-Beginner-Series-5-Triangular-Numbers.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\obj\Debug\net8.0\358-Beginner-Series-5-Triangular-Numbers.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\obj\Debug\net8.0\358-Beginner-Series-5-Triangular-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\obj\Debug\net8.0\refint\358-Beginner-Series-5-Triangular-Numbers.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\obj\Debug\net8.0\358-Beginner-Series-5-Triangular-Numbers.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\obj\Debug\net8.0\358-Beginner-Series-5-Triangular-Numbers.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\358-Beginner-Series-5-Triangular-Numbers\obj\Debug\net8.0\ref\358-Beginner-Series-5-Triangular-Numbers.dll
