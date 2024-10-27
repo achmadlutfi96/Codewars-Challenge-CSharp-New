@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\bin\Debug\net8.0\360-Rock-Paper-Scissors-Lizard-Spock.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\bin\Debug\net8.0\360-Rock-Paper-Scissors-Lizard-Spock.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\bin\Debug\net8.0\360-Rock-Paper-Scissors-Lizard-Spock.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\bin\Debug\net8.0\360-Rock-Paper-Scissors-Lizard-Spock.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\bin\Debug\net8.0\360-Rock-Paper-Scissors-Lizard-Spock.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\obj\Debug\net8.0\360-Rock-Paper-Scissors-Lizard-Spock.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\obj\Debug\net8.0\360-Rock-Paper-Scissors-Lizard-Spock.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\obj\Debug\net8.0\360-Rock-Paper-Scissors-Lizard-Spock.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\obj\Debug\net8.0\360-Rock-Paper-Scissors-Lizard-Spock.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\obj\Debug\net8.0\360-Rock-Paper-Scissors-Lizard-Spock.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\obj\Debug\net8.0\360-Rock-Paper-Scissors-Lizard-Spock.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\obj\Debug\net8.0\refint\360-Rock-Paper-Scissors-Lizard-Spock.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\obj\Debug\net8.0\360-Rock-Paper-Scissors-Lizard-Spock.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\obj\Debug\net8.0\360-Rock-Paper-Scissors-Lizard-Spock.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\360-Rock-Paper-Scissors-Lizard-Spock\obj\Debug\net8.0\ref\360-Rock-Paper-Scissors-Lizard-Spock.dll

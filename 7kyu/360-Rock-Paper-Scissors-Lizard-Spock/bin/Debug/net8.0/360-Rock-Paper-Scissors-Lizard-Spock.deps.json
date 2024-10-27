@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "360-Rock-Paper-Scissors-Lizard-Spock/1.0.0": {
+        "runtime": {
+          "360-Rock-Paper-Scissors-Lizard-Spock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "360-Rock-Paper-Scissors-Lizard-Spock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
