@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\bin\Debug\net8.0\359-Complete-Series.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\bin\Debug\net8.0\359-Complete-Series.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\bin\Debug\net8.0\359-Complete-Series.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\bin\Debug\net8.0\359-Complete-Series.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\bin\Debug\net8.0\359-Complete-Series.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\obj\Debug\net8.0\359-Complete-Series.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\obj\Debug\net8.0\359-Complete-Series.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\obj\Debug\net8.0\359-Complete-Series.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\obj\Debug\net8.0\359-Complete-Series.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\obj\Debug\net8.0\359-Complete-Series.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\obj\Debug\net8.0\359-Complete-Series.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\obj\Debug\net8.0\refint\359-Complete-Series.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\obj\Debug\net8.0\359-Complete-Series.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\obj\Debug\net8.0\359-Complete-Series.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\359-Complete-Series\obj\Debug\net8.0\ref\359-Complete-Series.dll

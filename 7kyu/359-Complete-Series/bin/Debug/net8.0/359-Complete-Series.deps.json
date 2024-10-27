@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "359-Complete-Series/1.0.0": {
+        "runtime": {
+          "359-Complete-Series.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "359-Complete-Series/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
