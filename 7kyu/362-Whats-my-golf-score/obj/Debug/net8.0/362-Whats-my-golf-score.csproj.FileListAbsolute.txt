@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\bin\Debug\net8.0\362-Whats-my-golf-score.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\bin\Debug\net8.0\362-Whats-my-golf-score.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\bin\Debug\net8.0\362-Whats-my-golf-score.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\bin\Debug\net8.0\362-Whats-my-golf-score.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\bin\Debug\net8.0\362-Whats-my-golf-score.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\obj\Debug\net8.0\362-Whats-my-golf-score.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\obj\Debug\net8.0\362-Whats-my-golf-score.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\obj\Debug\net8.0\362-Whats-my-golf-score.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\obj\Debug\net8.0\362-Whats-my-golf-score.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\obj\Debug\net8.0\362-Whats-my-golf-score.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\obj\Debug\net8.0\362-Whats-my-golf-score.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\obj\Debug\net8.0\refint\362-Whats-my-golf-score.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\obj\Debug\net8.0\362-Whats-my-golf-score.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\obj\Debug\net8.0\362-Whats-my-golf-score.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\362-Whats-my-golf-score\obj\Debug\net8.0\ref\362-Whats-my-golf-score.dll
