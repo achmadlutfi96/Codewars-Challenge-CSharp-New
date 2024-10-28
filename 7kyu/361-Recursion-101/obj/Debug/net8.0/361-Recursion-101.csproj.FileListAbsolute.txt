@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\bin\Debug\net8.0\361-Recursion-101.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\bin\Debug\net8.0\361-Recursion-101.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\bin\Debug\net8.0\361-Recursion-101.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\bin\Debug\net8.0\361-Recursion-101.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\bin\Debug\net8.0\361-Recursion-101.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\obj\Debug\net8.0\361-Recursion-101.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\obj\Debug\net8.0\361-Recursion-101.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\obj\Debug\net8.0\361-Recursion-101.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\obj\Debug\net8.0\361-Recursion-101.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\obj\Debug\net8.0\361-Recursion-101.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\obj\Debug\net8.0\361-Recursion-101.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\obj\Debug\net8.0\refint\361-Recursion-101.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\obj\Debug\net8.0\361-Recursion-101.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\obj\Debug\net8.0\361-Recursion-101.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\361-Recursion-101\obj\Debug\net8.0\ref\361-Recursion-101.dll
