@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\bin\Debug\net8.0\363-Delta-Bits.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\bin\Debug\net8.0\363-Delta-Bits.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\bin\Debug\net8.0\363-Delta-Bits.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\bin\Debug\net8.0\363-Delta-Bits.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\bin\Debug\net8.0\363-Delta-Bits.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\obj\Debug\net8.0\363-Delta-Bits.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\obj\Debug\net8.0\363-Delta-Bits.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\obj\Debug\net8.0\363-Delta-Bits.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\obj\Debug\net8.0\363-Delta-Bits.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\obj\Debug\net8.0\363-Delta-Bits.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\obj\Debug\net8.0\363-Delta-Bits.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\obj\Debug\net8.0\refint\363-Delta-Bits.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\obj\Debug\net8.0\363-Delta-Bits.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\obj\Debug\net8.0\363-Delta-Bits.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\363-Delta-Bits\obj\Debug\net8.0\ref\363-Delta-Bits.dll
