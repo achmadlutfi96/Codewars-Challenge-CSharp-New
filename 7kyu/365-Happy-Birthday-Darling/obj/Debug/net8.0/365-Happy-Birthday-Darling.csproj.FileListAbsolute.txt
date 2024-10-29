@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\bin\Debug\net8.0\365-Happy-Birthday-Darling.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\bin\Debug\net8.0\365-Happy-Birthday-Darling.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\bin\Debug\net8.0\365-Happy-Birthday-Darling.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\bin\Debug\net8.0\365-Happy-Birthday-Darling.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\bin\Debug\net8.0\365-Happy-Birthday-Darling.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\obj\Debug\net8.0\365-Happy-Birthday-Darling.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\obj\Debug\net8.0\365-Happy-Birthday-Darling.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\obj\Debug\net8.0\365-Happy-Birthday-Darling.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\obj\Debug\net8.0\365-Happy-Birthday-Darling.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\obj\Debug\net8.0\365-Happy-Birthday-Darling.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\obj\Debug\net8.0\365-Happy-Birthday-Darling.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\obj\Debug\net8.0\refint\365-Happy-Birthday-Darling.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\obj\Debug\net8.0\365-Happy-Birthday-Darling.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\obj\Debug\net8.0\365-Happy-Birthday-Darling.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\365-Happy-Birthday-Darling\obj\Debug\net8.0\ref\365-Happy-Birthday-Darling.dll

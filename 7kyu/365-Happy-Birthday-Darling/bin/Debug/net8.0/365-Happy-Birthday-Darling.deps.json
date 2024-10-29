@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "365-Happy-Birthday-Darling/1.0.0": {
+        "runtime": {
+          "365-Happy-Birthday-Darling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "365-Happy-Birthday-Darling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
