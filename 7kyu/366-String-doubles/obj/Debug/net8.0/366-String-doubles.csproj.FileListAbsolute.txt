@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\bin\Debug\net8.0\366-String-doubles.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\bin\Debug\net8.0\366-String-doubles.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\bin\Debug\net8.0\366-String-doubles.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\bin\Debug\net8.0\366-String-doubles.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\bin\Debug\net8.0\366-String-doubles.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\obj\Debug\net8.0\366-String-doubles.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\obj\Debug\net8.0\366-String-doubles.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\obj\Debug\net8.0\366-String-doubles.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\obj\Debug\net8.0\366-String-doubles.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\obj\Debug\net8.0\366-String-doubles.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\obj\Debug\net8.0\366-String-doubles.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\obj\Debug\net8.0\refint\366-String-doubles.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\obj\Debug\net8.0\366-String-doubles.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\obj\Debug\net8.0\366-String-doubles.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\366-String-doubles\obj\Debug\net8.0\ref\366-String-doubles.dll

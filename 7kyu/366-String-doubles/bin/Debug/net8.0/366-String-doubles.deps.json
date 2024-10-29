@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "366-String-doubles/1.0.0": {
+        "runtime": {
+          "366-String-doubles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "366-String-doubles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
