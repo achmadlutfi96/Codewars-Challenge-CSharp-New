@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\bin\Debug\net8.0\364-Possibilities-Array.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\bin\Debug\net8.0\364-Possibilities-Array.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\bin\Debug\net8.0\364-Possibilities-Array.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\bin\Debug\net8.0\364-Possibilities-Array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\bin\Debug\net8.0\364-Possibilities-Array.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\obj\Debug\net8.0\364-Possibilities-Array.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\obj\Debug\net8.0\364-Possibilities-Array.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\obj\Debug\net8.0\364-Possibilities-Array.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\obj\Debug\net8.0\364-Possibilities-Array.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\obj\Debug\net8.0\364-Possibilities-Array.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\obj\Debug\net8.0\364-Possibilities-Array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\obj\Debug\net8.0\refint\364-Possibilities-Array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\obj\Debug\net8.0\364-Possibilities-Array.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\obj\Debug\net8.0\364-Possibilities-Array.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\364-Possibilities-Array\obj\Debug\net8.0\ref\364-Possibilities-Array.dll
