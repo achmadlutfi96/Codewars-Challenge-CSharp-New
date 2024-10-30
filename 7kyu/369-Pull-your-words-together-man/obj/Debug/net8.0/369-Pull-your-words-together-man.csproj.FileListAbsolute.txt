@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\bin\Debug\net8.0\369-Pull-your-words-together-man.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\bin\Debug\net8.0\369-Pull-your-words-together-man.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\bin\Debug\net8.0\369-Pull-your-words-together-man.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\bin\Debug\net8.0\369-Pull-your-words-together-man.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\bin\Debug\net8.0\369-Pull-your-words-together-man.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\obj\Debug\net8.0\369-Pull-your-words-together-man.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\obj\Debug\net8.0\369-Pull-your-words-together-man.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\obj\Debug\net8.0\369-Pull-your-words-together-man.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\obj\Debug\net8.0\369-Pull-your-words-together-man.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\obj\Debug\net8.0\369-Pull-your-words-together-man.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\obj\Debug\net8.0\369-Pull-your-words-together-man.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\obj\Debug\net8.0\refint\369-Pull-your-words-together-man.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\obj\Debug\net8.0\369-Pull-your-words-together-man.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\obj\Debug\net8.0\369-Pull-your-words-together-man.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\369-Pull-your-words-together-man\obj\Debug\net8.0\ref\369-Pull-your-words-together-man.dll
