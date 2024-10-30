@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\bin\Debug\net8.0\368-Easy-Time-Convert.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\bin\Debug\net8.0\368-Easy-Time-Convert.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\bin\Debug\net8.0\368-Easy-Time-Convert.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\bin\Debug\net8.0\368-Easy-Time-Convert.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\bin\Debug\net8.0\368-Easy-Time-Convert.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\obj\Debug\net8.0\368-Easy-Time-Convert.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\obj\Debug\net8.0\368-Easy-Time-Convert.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\obj\Debug\net8.0\368-Easy-Time-Convert.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\obj\Debug\net8.0\368-Easy-Time-Convert.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\obj\Debug\net8.0\368-Easy-Time-Convert.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\obj\Debug\net8.0\368-Easy-Time-Convert.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\obj\Debug\net8.0\refint\368-Easy-Time-Convert.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\obj\Debug\net8.0\368-Easy-Time-Convert.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\obj\Debug\net8.0\368-Easy-Time-Convert.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\368-Easy-Time-Convert\obj\Debug\net8.0\ref\368-Easy-Time-Convert.dll
