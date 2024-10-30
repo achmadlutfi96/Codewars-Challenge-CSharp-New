@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "367-Find-the-Squares/1.0.0": {
+        "runtime": {
+          "367-Find-the-Squares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "367-Find-the-Squares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

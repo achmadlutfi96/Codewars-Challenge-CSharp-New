@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\bin\Debug\net8.0\367-Find-the-Squares.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\bin\Debug\net8.0\367-Find-the-Squares.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\bin\Debug\net8.0\367-Find-the-Squares.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\bin\Debug\net8.0\367-Find-the-Squares.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\bin\Debug\net8.0\367-Find-the-Squares.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\obj\Debug\net8.0\367-Find-the-Squares.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\obj\Debug\net8.0\367-Find-the-Squares.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\obj\Debug\net8.0\367-Find-the-Squares.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\obj\Debug\net8.0\367-Find-the-Squares.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\obj\Debug\net8.0\367-Find-the-Squares.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\obj\Debug\net8.0\367-Find-the-Squares.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\obj\Debug\net8.0\refint\367-Find-the-Squares.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\obj\Debug\net8.0\367-Find-the-Squares.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\obj\Debug\net8.0\367-Find-the-Squares.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\367-Find-the-Squares\obj\Debug\net8.0\ref\367-Find-the-Squares.dll
