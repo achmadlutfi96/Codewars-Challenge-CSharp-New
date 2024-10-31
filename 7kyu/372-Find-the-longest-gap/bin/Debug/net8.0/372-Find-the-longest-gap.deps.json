@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "372-Find-the-longest-gap/1.0.0": {
+        "runtime": {
+          "372-Find-the-longest-gap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "372-Find-the-longest-gap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

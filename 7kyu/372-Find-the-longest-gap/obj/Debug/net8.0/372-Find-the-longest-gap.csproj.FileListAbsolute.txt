@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\bin\Debug\net8.0\372-Find-the-longest-gap.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\bin\Debug\net8.0\372-Find-the-longest-gap.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\bin\Debug\net8.0\372-Find-the-longest-gap.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\bin\Debug\net8.0\372-Find-the-longest-gap.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\bin\Debug\net8.0\372-Find-the-longest-gap.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\obj\Debug\net8.0\372-Find-the-longest-gap.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\obj\Debug\net8.0\372-Find-the-longest-gap.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\obj\Debug\net8.0\372-Find-the-longest-gap.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\obj\Debug\net8.0\372-Find-the-longest-gap.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\obj\Debug\net8.0\372-Find-the-longest-gap.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\obj\Debug\net8.0\372-Find-the-longest-gap.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\obj\Debug\net8.0\refint\372-Find-the-longest-gap.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\obj\Debug\net8.0\372-Find-the-longest-gap.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\obj\Debug\net8.0\372-Find-the-longest-gap.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\372-Find-the-longest-gap\obj\Debug\net8.0\ref\372-Find-the-longest-gap.dll
