@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\bin\Debug\net8.0\371-Ch4113ng3.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\bin\Debug\net8.0\371-Ch4113ng3.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\bin\Debug\net8.0\371-Ch4113ng3.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\bin\Debug\net8.0\371-Ch4113ng3.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\bin\Debug\net8.0\371-Ch4113ng3.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\obj\Debug\net8.0\371-Ch4113ng3.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\obj\Debug\net8.0\371-Ch4113ng3.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\obj\Debug\net8.0\371-Ch4113ng3.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\obj\Debug\net8.0\371-Ch4113ng3.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\obj\Debug\net8.0\371-Ch4113ng3.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\obj\Debug\net8.0\371-Ch4113ng3.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\obj\Debug\net8.0\refint\371-Ch4113ng3.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\obj\Debug\net8.0\371-Ch4113ng3.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\obj\Debug\net8.0\371-Ch4113ng3.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\371-Ch4113ng3\obj\Debug\net8.0\ref\371-Ch4113ng3.dll

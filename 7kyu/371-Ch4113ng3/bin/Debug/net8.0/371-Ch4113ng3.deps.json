@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "371-Ch4113ng3/1.0.0": {
+        "runtime": {
+          "371-Ch4113ng3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "371-Ch4113ng3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
