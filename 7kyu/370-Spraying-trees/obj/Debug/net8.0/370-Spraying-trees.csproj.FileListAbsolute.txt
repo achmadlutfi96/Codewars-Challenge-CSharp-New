@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\bin\Debug\net8.0\370-Spraying-trees.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\bin\Debug\net8.0\370-Spraying-trees.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\bin\Debug\net8.0\370-Spraying-trees.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\bin\Debug\net8.0\370-Spraying-trees.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\bin\Debug\net8.0\370-Spraying-trees.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\obj\Debug\net8.0\370-Spraying-trees.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\obj\Debug\net8.0\370-Spraying-trees.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\obj\Debug\net8.0\370-Spraying-trees.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\obj\Debug\net8.0\370-Spraying-trees.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\obj\Debug\net8.0\370-Spraying-trees.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\obj\Debug\net8.0\370-Spraying-trees.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\obj\Debug\net8.0\refint\370-Spraying-trees.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\obj\Debug\net8.0\370-Spraying-trees.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\obj\Debug\net8.0\370-Spraying-trees.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\370-Spraying-trees\obj\Debug\net8.0\ref\370-Spraying-trees.dll

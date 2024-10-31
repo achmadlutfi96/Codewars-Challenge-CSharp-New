@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "370-Spraying-trees/1.0.0": {
+        "runtime": {
+          "370-Spraying-trees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "370-Spraying-trees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
