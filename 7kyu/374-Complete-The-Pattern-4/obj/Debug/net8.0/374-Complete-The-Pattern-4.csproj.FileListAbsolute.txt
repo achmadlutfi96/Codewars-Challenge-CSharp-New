@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\bin\Debug\net8.0\374-Complete-The-Pattern-4.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\bin\Debug\net8.0\374-Complete-The-Pattern-4.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\bin\Debug\net8.0\374-Complete-The-Pattern-4.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\bin\Debug\net8.0\374-Complete-The-Pattern-4.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\bin\Debug\net8.0\374-Complete-The-Pattern-4.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\obj\Debug\net8.0\374-Complete-The-Pattern-4.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\obj\Debug\net8.0\374-Complete-The-Pattern-4.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\obj\Debug\net8.0\374-Complete-The-Pattern-4.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\obj\Debug\net8.0\374-Complete-The-Pattern-4.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\obj\Debug\net8.0\374-Complete-The-Pattern-4.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\obj\Debug\net8.0\374-Complete-The-Pattern-4.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\obj\Debug\net8.0\refint\374-Complete-The-Pattern-4.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\obj\Debug\net8.0\374-Complete-The-Pattern-4.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\obj\Debug\net8.0\374-Complete-The-Pattern-4.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\374-Complete-The-Pattern-4\obj\Debug\net8.0\ref\374-Complete-The-Pattern-4.dll
