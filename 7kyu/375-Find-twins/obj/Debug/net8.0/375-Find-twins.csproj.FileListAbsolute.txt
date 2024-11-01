@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\bin\Debug\net8.0\375-Find-twins.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\bin\Debug\net8.0\375-Find-twins.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\bin\Debug\net8.0\375-Find-twins.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\bin\Debug\net8.0\375-Find-twins.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\bin\Debug\net8.0\375-Find-twins.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\obj\Debug\net8.0\375-Find-twins.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\obj\Debug\net8.0\375-Find-twins.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\obj\Debug\net8.0\375-Find-twins.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\obj\Debug\net8.0\375-Find-twins.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\obj\Debug\net8.0\375-Find-twins.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\obj\Debug\net8.0\375-Find-twins.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\obj\Debug\net8.0\refint\375-Find-twins.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\obj\Debug\net8.0\375-Find-twins.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\obj\Debug\net8.0\375-Find-twins.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\375-Find-twins\obj\Debug\net8.0\ref\375-Find-twins.dll
