@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\bin\Debug\net8.0\373-Move-all-vowels.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\bin\Debug\net8.0\373-Move-all-vowels.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\bin\Debug\net8.0\373-Move-all-vowels.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\bin\Debug\net8.0\373-Move-all-vowels.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\bin\Debug\net8.0\373-Move-all-vowels.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\obj\Debug\net8.0\373-Move-all-vowels.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\obj\Debug\net8.0\373-Move-all-vowels.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\obj\Debug\net8.0\373-Move-all-vowels.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\obj\Debug\net8.0\373-Move-all-vowels.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\obj\Debug\net8.0\373-Move-all-vowels.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\obj\Debug\net8.0\373-Move-all-vowels.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\obj\Debug\net8.0\refint\373-Move-all-vowels.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\obj\Debug\net8.0\373-Move-all-vowels.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\obj\Debug\net8.0\373-Move-all-vowels.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\373-Move-all-vowels\obj\Debug\net8.0\ref\373-Move-all-vowels.dll
