@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\bin\Debug\net8.0\377-Easy-wallpaper.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\bin\Debug\net8.0\377-Easy-wallpaper.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\bin\Debug\net8.0\377-Easy-wallpaper.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\bin\Debug\net8.0\377-Easy-wallpaper.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\bin\Debug\net8.0\377-Easy-wallpaper.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\obj\Debug\net8.0\377-Easy-wallpaper.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\obj\Debug\net8.0\377-Easy-wallpaper.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\obj\Debug\net8.0\377-Easy-wallpaper.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\obj\Debug\net8.0\377-Easy-wallpaper.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\obj\Debug\net8.0\377-Easy-wallpaper.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\obj\Debug\net8.0\377-Easy-wallpaper.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\obj\Debug\net8.0\refint\377-Easy-wallpaper.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\obj\Debug\net8.0\377-Easy-wallpaper.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\obj\Debug\net8.0\377-Easy-wallpaper.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\377-Easy-wallpaper\obj\Debug\net8.0\ref\377-Easy-wallpaper.dll
