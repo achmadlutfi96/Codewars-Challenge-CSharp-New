@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "376-Turkish-Numbers-0-99/1.0.0": {
+        "runtime": {
+          "376-Turkish-Numbers-0-99.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "376-Turkish-Numbers-0-99/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

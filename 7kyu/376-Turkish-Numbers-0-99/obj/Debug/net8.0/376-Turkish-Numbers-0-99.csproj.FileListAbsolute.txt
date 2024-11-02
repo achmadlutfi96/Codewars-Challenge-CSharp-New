@@ -1,0 +1,15 @@
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\bin\Debug\net8.0\376-Turkish-Numbers-0-99.exe
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\bin\Debug\net8.0\376-Turkish-Numbers-0-99.deps.json
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\bin\Debug\net8.0\376-Turkish-Numbers-0-99.runtimeconfig.json
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\bin\Debug\net8.0\376-Turkish-Numbers-0-99.dll
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\bin\Debug\net8.0\376-Turkish-Numbers-0-99.pdb
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\obj\Debug\net8.0\376-Turkish-Numbers-0-99.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\obj\Debug\net8.0\376-Turkish-Numbers-0-99.AssemblyInfoInputs.cache
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\obj\Debug\net8.0\376-Turkish-Numbers-0-99.AssemblyInfo.cs
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\obj\Debug\net8.0\376-Turkish-Numbers-0-99.csproj.CoreCompileInputs.cache
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\obj\Debug\net8.0\376-Turkish-Numbers-0-99.sourcelink.json
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\obj\Debug\net8.0\376-Turkish-Numbers-0-99.dll
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\obj\Debug\net8.0\refint\376-Turkish-Numbers-0-99.dll
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\obj\Debug\net8.0\376-Turkish-Numbers-0-99.pdb
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\obj\Debug\net8.0\376-Turkish-Numbers-0-99.genruntimeconfig.cache
+F:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\376-Turkish-Numbers-0-99\obj\Debug\net8.0\ref\376-Turkish-Numbers-0-99.dll
