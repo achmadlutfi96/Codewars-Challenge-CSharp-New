@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\bin\Debug\net8.0\378-Simple-fibonacci-strings.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\bin\Debug\net8.0\378-Simple-fibonacci-strings.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\bin\Debug\net8.0\378-Simple-fibonacci-strings.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\bin\Debug\net8.0\378-Simple-fibonacci-strings.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\bin\Debug\net8.0\378-Simple-fibonacci-strings.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\obj\Debug\net8.0\378-Simple-fibonacci-strings.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\obj\Debug\net8.0\378-Simple-fibonacci-strings.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\obj\Debug\net8.0\378-Simple-fibonacci-strings.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\obj\Debug\net8.0\378-Simple-fibonacci-strings.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\obj\Debug\net8.0\378-Simple-fibonacci-strings.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\obj\Debug\net8.0\378-Simple-fibonacci-strings.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\obj\Debug\net8.0\refint\378-Simple-fibonacci-strings.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\obj\Debug\net8.0\378-Simple-fibonacci-strings.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\obj\Debug\net8.0\378-Simple-fibonacci-strings.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\378-Simple-fibonacci-strings\obj\Debug\net8.0\ref\378-Simple-fibonacci-strings.dll
