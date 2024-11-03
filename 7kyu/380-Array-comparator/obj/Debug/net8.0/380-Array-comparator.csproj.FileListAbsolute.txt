@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\bin\Debug\net8.0\380-Array-comparator.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\bin\Debug\net8.0\380-Array-comparator.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\bin\Debug\net8.0\380-Array-comparator.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\bin\Debug\net8.0\380-Array-comparator.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\bin\Debug\net8.0\380-Array-comparator.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\obj\Debug\net8.0\380-Array-comparator.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\obj\Debug\net8.0\380-Array-comparator.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\obj\Debug\net8.0\380-Array-comparator.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\obj\Debug\net8.0\380-Array-comparator.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\obj\Debug\net8.0\380-Array-comparator.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\obj\Debug\net8.0\380-Array-comparator.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\obj\Debug\net8.0\refint\380-Array-comparator.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\obj\Debug\net8.0\380-Array-comparator.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\obj\Debug\net8.0\380-Array-comparator.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\380-Array-comparator\obj\Debug\net8.0\ref\380-Array-comparator.dll
