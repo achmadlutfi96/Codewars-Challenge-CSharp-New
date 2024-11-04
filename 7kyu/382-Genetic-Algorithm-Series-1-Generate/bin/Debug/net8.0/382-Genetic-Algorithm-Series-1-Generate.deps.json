@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "382-Genetic-Algorithm-Series-1-Generate/1.0.0": {
+        "runtime": {
+          "382-Genetic-Algorithm-Series-1-Generate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "382-Genetic-Algorithm-Series-1-Generate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

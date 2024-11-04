@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\bin\Debug\net8.0\382-Genetic-Algorithm-Series-1-Generate.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\bin\Debug\net8.0\382-Genetic-Algorithm-Series-1-Generate.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\bin\Debug\net8.0\382-Genetic-Algorithm-Series-1-Generate.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\bin\Debug\net8.0\382-Genetic-Algorithm-Series-1-Generate.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\bin\Debug\net8.0\382-Genetic-Algorithm-Series-1-Generate.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\obj\Debug\net8.0\382-Genetic-Algorithm-Series-1-Generate.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\obj\Debug\net8.0\382-Genetic-Algorithm-Series-1-Generate.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\obj\Debug\net8.0\382-Genetic-Algorithm-Series-1-Generate.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\obj\Debug\net8.0\382-Genetic-Algorithm-Series-1-Generate.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\obj\Debug\net8.0\382-Genetic-Algorithm-Series-1-Generate.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\obj\Debug\net8.0\382-Genetic-Algorithm-Series-1-Generate.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\obj\Debug\net8.0\refint\382-Genetic-Algorithm-Series-1-Generate.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\obj\Debug\net8.0\382-Genetic-Algorithm-Series-1-Generate.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\obj\Debug\net8.0\382-Genetic-Algorithm-Series-1-Generate.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\382-Genetic-Algorithm-Series-1-Generate\obj\Debug\net8.0\ref\382-Genetic-Algorithm-Series-1-Generate.dll
