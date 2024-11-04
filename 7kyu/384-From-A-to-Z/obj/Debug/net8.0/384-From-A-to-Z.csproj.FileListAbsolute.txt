@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\obj\Debug\net8.0\384-From-A-to-Z.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\obj\Debug\net8.0\384-From-A-to-Z.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\obj\Debug\net8.0\384-From-A-to-Z.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\obj\Debug\net8.0\384-From-A-to-Z.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\obj\Debug\net8.0\384-From-A-to-Z.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\bin\Debug\net8.0\384-From-A-to-Z.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\bin\Debug\net8.0\384-From-A-to-Z.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\bin\Debug\net8.0\384-From-A-to-Z.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\bin\Debug\net8.0\384-From-A-to-Z.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\bin\Debug\net8.0\384-From-A-to-Z.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\obj\Debug\net8.0\384-From-A-to-Z.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\obj\Debug\net8.0\refint\384-From-A-to-Z.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\obj\Debug\net8.0\384-From-A-to-Z.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\obj\Debug\net8.0\384-From-A-to-Z.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\384-From-A-to-Z\obj\Debug\net8.0\ref\384-From-A-to-Z.dll
