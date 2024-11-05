@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\bin\Debug\net8.0\386-Slaphead.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\bin\Debug\net8.0\386-Slaphead.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\bin\Debug\net8.0\386-Slaphead.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\bin\Debug\net8.0\386-Slaphead.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\bin\Debug\net8.0\386-Slaphead.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\obj\Debug\net8.0\386-Slaphead.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\obj\Debug\net8.0\386-Slaphead.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\obj\Debug\net8.0\386-Slaphead.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\obj\Debug\net8.0\386-Slaphead.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\obj\Debug\net8.0\386-Slaphead.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\obj\Debug\net8.0\386-Slaphead.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\obj\Debug\net8.0\refint\386-Slaphead.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\obj\Debug\net8.0\386-Slaphead.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\obj\Debug\net8.0\386-Slaphead.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\386-Slaphead\obj\Debug\net8.0\ref\386-Slaphead.dll
