@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\bin\Debug\net8.0\385-Simple-Fun-136-Missing-Values.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\bin\Debug\net8.0\385-Simple-Fun-136-Missing-Values.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\bin\Debug\net8.0\385-Simple-Fun-136-Missing-Values.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\bin\Debug\net8.0\385-Simple-Fun-136-Missing-Values.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\bin\Debug\net8.0\385-Simple-Fun-136-Missing-Values.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\obj\Debug\net8.0\385-Simple-Fun-136-Missing-Values.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\obj\Debug\net8.0\385-Simple-Fun-136-Missing-Values.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\obj\Debug\net8.0\385-Simple-Fun-136-Missing-Values.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\obj\Debug\net8.0\385-Simple-Fun-136-Missing-Values.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\obj\Debug\net8.0\385-Simple-Fun-136-Missing-Values.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\obj\Debug\net8.0\385-Simple-Fun-136-Missing-Values.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\obj\Debug\net8.0\refint\385-Simple-Fun-136-Missing-Values.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\obj\Debug\net8.0\385-Simple-Fun-136-Missing-Values.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\obj\Debug\net8.0\385-Simple-Fun-136-Missing-Values.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\385-Simple-Fun-136-Missing-Values\obj\Debug\net8.0\ref\385-Simple-Fun-136-Missing-Values.dll
