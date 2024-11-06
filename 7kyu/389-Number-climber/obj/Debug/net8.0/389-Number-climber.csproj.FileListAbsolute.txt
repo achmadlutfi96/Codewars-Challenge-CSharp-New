@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\bin\Debug\net8.0\389-Number-climber.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\bin\Debug\net8.0\389-Number-climber.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\bin\Debug\net8.0\389-Number-climber.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\bin\Debug\net8.0\389-Number-climber.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\bin\Debug\net8.0\389-Number-climber.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\obj\Debug\net8.0\389-Number-climber.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\obj\Debug\net8.0\389-Number-climber.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\obj\Debug\net8.0\389-Number-climber.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\obj\Debug\net8.0\389-Number-climber.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\obj\Debug\net8.0\389-Number-climber.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\obj\Debug\net8.0\389-Number-climber.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\obj\Debug\net8.0\refint\389-Number-climber.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\obj\Debug\net8.0\389-Number-climber.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\obj\Debug\net8.0\389-Number-climber.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\389-Number-climber\obj\Debug\net8.0\ref\389-Number-climber.dll
