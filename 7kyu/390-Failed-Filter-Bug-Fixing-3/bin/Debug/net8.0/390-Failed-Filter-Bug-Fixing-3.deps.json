@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "390-Failed-Filter-Bug-Fixing-3/1.0.0": {
+        "runtime": {
+          "390-Failed-Filter-Bug-Fixing-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "390-Failed-Filter-Bug-Fixing-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
