@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "387-Suzuki-needs-help-lining-up-his-students/1.0.0": {
+        "runtime": {
+          "387-Suzuki-needs-help-lining-up-his-students.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "387-Suzuki-needs-help-lining-up-his-students/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

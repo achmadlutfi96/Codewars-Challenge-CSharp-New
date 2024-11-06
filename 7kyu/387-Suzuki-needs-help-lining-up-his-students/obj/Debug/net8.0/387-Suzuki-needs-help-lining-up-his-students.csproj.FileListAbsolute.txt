@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\bin\Debug\net8.0\387-Suzuki-needs-help-lining-up-his-students.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\bin\Debug\net8.0\387-Suzuki-needs-help-lining-up-his-students.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\bin\Debug\net8.0\387-Suzuki-needs-help-lining-up-his-students.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\bin\Debug\net8.0\387-Suzuki-needs-help-lining-up-his-students.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\bin\Debug\net8.0\387-Suzuki-needs-help-lining-up-his-students.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\obj\Debug\net8.0\387-Suzuki-needs-help-lining-up-his-students.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\obj\Debug\net8.0\387-Suzuki-needs-help-lining-up-his-students.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\obj\Debug\net8.0\387-Suzuki-needs-help-lining-up-his-students.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\obj\Debug\net8.0\387-Suzuki-needs-help-lining-up-his-students.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\obj\Debug\net8.0\387-Suzuki-needs-help-lining-up-his-students.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\obj\Debug\net8.0\387-Suzuki-needs-help-lining-up-his-students.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\obj\Debug\net8.0\refint\387-Suzuki-needs-help-lining-up-his-students.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\obj\Debug\net8.0\387-Suzuki-needs-help-lining-up-his-students.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\obj\Debug\net8.0\387-Suzuki-needs-help-lining-up-his-students.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\387-Suzuki-needs-help-lining-up-his-students\obj\Debug\net8.0\ref\387-Suzuki-needs-help-lining-up-his-students.dll
