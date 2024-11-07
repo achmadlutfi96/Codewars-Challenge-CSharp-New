@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\bin\Debug\net8.0\391-Product-of-Largest-Pair.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\bin\Debug\net8.0\391-Product-of-Largest-Pair.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\bin\Debug\net8.0\391-Product-of-Largest-Pair.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\bin\Debug\net8.0\391-Product-of-Largest-Pair.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\bin\Debug\net8.0\391-Product-of-Largest-Pair.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\obj\Debug\net8.0\391-Product-of-Largest-Pair.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\obj\Debug\net8.0\391-Product-of-Largest-Pair.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\obj\Debug\net8.0\391-Product-of-Largest-Pair.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\obj\Debug\net8.0\391-Product-of-Largest-Pair.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\obj\Debug\net8.0\391-Product-of-Largest-Pair.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\obj\Debug\net8.0\391-Product-of-Largest-Pair.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\obj\Debug\net8.0\refint\391-Product-of-Largest-Pair.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\obj\Debug\net8.0\391-Product-of-Largest-Pair.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\obj\Debug\net8.0\391-Product-of-Largest-Pair.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\391-Product-of-Largest-Pair\obj\Debug\net8.0\ref\391-Product-of-Largest-Pair.dll
