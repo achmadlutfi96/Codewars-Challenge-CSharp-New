@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "393-Find-array/1.0.0": {
+        "runtime": {
+          "393-Find-array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "393-Find-array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
