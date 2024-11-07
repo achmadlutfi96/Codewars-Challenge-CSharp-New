@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\bin\Debug\net8.0\392-Candy-problem.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\bin\Debug\net8.0\392-Candy-problem.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\bin\Debug\net8.0\392-Candy-problem.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\bin\Debug\net8.0\392-Candy-problem.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\bin\Debug\net8.0\392-Candy-problem.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\obj\Debug\net8.0\392-Candy-problem.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\obj\Debug\net8.0\392-Candy-problem.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\obj\Debug\net8.0\392-Candy-problem.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\obj\Debug\net8.0\392-Candy-problem.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\obj\Debug\net8.0\392-Candy-problem.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\obj\Debug\net8.0\392-Candy-problem.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\obj\Debug\net8.0\refint\392-Candy-problem.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\obj\Debug\net8.0\392-Candy-problem.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\obj\Debug\net8.0\392-Candy-problem.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\392-Candy-problem\obj\Debug\net8.0\ref\392-Candy-problem.dll
