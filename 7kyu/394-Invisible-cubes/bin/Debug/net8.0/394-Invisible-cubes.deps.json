@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "394-Invisible-cubes/1.0.0": {
+        "runtime": {
+          "394-Invisible-cubes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "394-Invisible-cubes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\bin\Debug\net8.0\394-Invisible-cubes.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\bin\Debug\net8.0\394-Invisible-cubes.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\bin\Debug\net8.0\394-Invisible-cubes.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\bin\Debug\net8.0\394-Invisible-cubes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\bin\Debug\net8.0\394-Invisible-cubes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\obj\Debug\net8.0\394-Invisible-cubes.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\obj\Debug\net8.0\394-Invisible-cubes.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\obj\Debug\net8.0\394-Invisible-cubes.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\obj\Debug\net8.0\394-Invisible-cubes.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\obj\Debug\net8.0\394-Invisible-cubes.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\obj\Debug\net8.0\394-Invisible-cubes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\obj\Debug\net8.0\refint\394-Invisible-cubes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\obj\Debug\net8.0\394-Invisible-cubes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\obj\Debug\net8.0\394-Invisible-cubes.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\394-Invisible-cubes\obj\Debug\net8.0\ref\394-Invisible-cubes.dll
