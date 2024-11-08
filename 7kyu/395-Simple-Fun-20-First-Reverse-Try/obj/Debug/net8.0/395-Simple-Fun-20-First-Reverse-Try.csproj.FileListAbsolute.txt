@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\bin\Debug\net8.0\395-Simple-Fun-20-First-Reverse-Try.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\bin\Debug\net8.0\395-Simple-Fun-20-First-Reverse-Try.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\bin\Debug\net8.0\395-Simple-Fun-20-First-Reverse-Try.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\bin\Debug\net8.0\395-Simple-Fun-20-First-Reverse-Try.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\bin\Debug\net8.0\395-Simple-Fun-20-First-Reverse-Try.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\obj\Debug\net8.0\395-Simple-Fun-20-First-Reverse-Try.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\obj\Debug\net8.0\395-Simple-Fun-20-First-Reverse-Try.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\obj\Debug\net8.0\395-Simple-Fun-20-First-Reverse-Try.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\obj\Debug\net8.0\395-Simple-Fun-20-First-Reverse-Try.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\obj\Debug\net8.0\395-Simple-Fun-20-First-Reverse-Try.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\obj\Debug\net8.0\395-Simple-Fun-20-First-Reverse-Try.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\obj\Debug\net8.0\refint\395-Simple-Fun-20-First-Reverse-Try.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\obj\Debug\net8.0\395-Simple-Fun-20-First-Reverse-Try.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\obj\Debug\net8.0\395-Simple-Fun-20-First-Reverse-Try.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\395-Simple-Fun-20-First-Reverse-Try\obj\Debug\net8.0\ref\395-Simple-Fun-20-First-Reverse-Try.dll

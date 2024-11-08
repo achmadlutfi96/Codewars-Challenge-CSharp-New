@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "395-Simple-Fun-20-First-Reverse-Try/1.0.0": {
+        "runtime": {
+          "395-Simple-Fun-20-First-Reverse-Try.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "395-Simple-Fun-20-First-Reverse-Try/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
