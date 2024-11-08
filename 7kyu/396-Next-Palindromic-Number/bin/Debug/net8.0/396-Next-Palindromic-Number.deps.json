@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "396-Next-Palindromic-Number/1.0.0": {
+        "runtime": {
+          "396-Next-Palindromic-Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "396-Next-Palindromic-Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

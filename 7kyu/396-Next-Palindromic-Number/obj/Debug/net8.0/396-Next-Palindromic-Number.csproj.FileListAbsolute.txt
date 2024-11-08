@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\bin\Debug\net8.0\396-Next-Palindromic-Number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\bin\Debug\net8.0\396-Next-Palindromic-Number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\bin\Debug\net8.0\396-Next-Palindromic-Number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\bin\Debug\net8.0\396-Next-Palindromic-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\bin\Debug\net8.0\396-Next-Palindromic-Number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\obj\Debug\net8.0\396-Next-Palindromic-Number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\obj\Debug\net8.0\396-Next-Palindromic-Number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\obj\Debug\net8.0\396-Next-Palindromic-Number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\obj\Debug\net8.0\396-Next-Palindromic-Number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\obj\Debug\net8.0\396-Next-Palindromic-Number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\obj\Debug\net8.0\396-Next-Palindromic-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\obj\Debug\net8.0\refint\396-Next-Palindromic-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\obj\Debug\net8.0\396-Next-Palindromic-Number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\obj\Debug\net8.0\396-Next-Palindromic-Number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\396-Next-Palindromic-Number\obj\Debug\net8.0\ref\396-Next-Palindromic-Number.dll
