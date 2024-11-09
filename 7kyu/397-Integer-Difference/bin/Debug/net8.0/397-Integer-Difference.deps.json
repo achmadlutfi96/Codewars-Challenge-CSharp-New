@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "397-Integer-Difference/1.0.0": {
+        "runtime": {
+          "397-Integer-Difference.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "397-Integer-Difference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

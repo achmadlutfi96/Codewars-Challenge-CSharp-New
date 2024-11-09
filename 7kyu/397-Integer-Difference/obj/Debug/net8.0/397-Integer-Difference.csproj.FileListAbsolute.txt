@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\bin\Debug\net8.0\397-Integer-Difference.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\bin\Debug\net8.0\397-Integer-Difference.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\bin\Debug\net8.0\397-Integer-Difference.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\bin\Debug\net8.0\397-Integer-Difference.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\bin\Debug\net8.0\397-Integer-Difference.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\obj\Debug\net8.0\397-Integer-Difference.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\obj\Debug\net8.0\397-Integer-Difference.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\obj\Debug\net8.0\397-Integer-Difference.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\obj\Debug\net8.0\397-Integer-Difference.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\obj\Debug\net8.0\397-Integer-Difference.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\obj\Debug\net8.0\397-Integer-Difference.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\obj\Debug\net8.0\refint\397-Integer-Difference.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\obj\Debug\net8.0\397-Integer-Difference.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\obj\Debug\net8.0\397-Integer-Difference.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\397-Integer-Difference\obj\Debug\net8.0\ref\397-Integer-Difference.dll
