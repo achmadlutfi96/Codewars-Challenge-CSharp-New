@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "399-The-reject-function/1.0.0": {
+        "runtime": {
+          "399-The-reject-function.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "399-The-reject-function/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

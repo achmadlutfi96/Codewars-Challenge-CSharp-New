@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\bin\Debug\net8.0\399-The-reject-function.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\bin\Debug\net8.0\399-The-reject-function.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\bin\Debug\net8.0\399-The-reject-function.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\bin\Debug\net8.0\399-The-reject-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\bin\Debug\net8.0\399-The-reject-function.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\obj\Debug\net8.0\399-The-reject-function.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\obj\Debug\net8.0\399-The-reject-function.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\obj\Debug\net8.0\399-The-reject-function.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\obj\Debug\net8.0\399-The-reject-function.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\obj\Debug\net8.0\399-The-reject-function.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\obj\Debug\net8.0\399-The-reject-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\obj\Debug\net8.0\refint\399-The-reject-function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\obj\Debug\net8.0\399-The-reject-function.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\obj\Debug\net8.0\399-The-reject-function.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\399-The-reject-function\obj\Debug\net8.0\ref\399-The-reject-function.dll
