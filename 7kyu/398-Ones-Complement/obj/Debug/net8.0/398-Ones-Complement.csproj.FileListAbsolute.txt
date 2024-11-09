@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\bin\Debug\net8.0\398-Ones-Complement.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\bin\Debug\net8.0\398-Ones-Complement.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\bin\Debug\net8.0\398-Ones-Complement.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\bin\Debug\net8.0\398-Ones-Complement.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\bin\Debug\net8.0\398-Ones-Complement.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\obj\Debug\net8.0\398-Ones-Complement.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\obj\Debug\net8.0\398-Ones-Complement.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\obj\Debug\net8.0\398-Ones-Complement.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\obj\Debug\net8.0\398-Ones-Complement.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\obj\Debug\net8.0\398-Ones-Complement.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\obj\Debug\net8.0\398-Ones-Complement.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\obj\Debug\net8.0\refint\398-Ones-Complement.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\obj\Debug\net8.0\398-Ones-Complement.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\obj\Debug\net8.0\398-Ones-Complement.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\398-Ones-Complement\obj\Debug\net8.0\ref\398-Ones-Complement.dll
