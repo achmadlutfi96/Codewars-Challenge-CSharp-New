@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\bin\Debug\net8.0\400-Pairs-of-integers-from-m-to-n.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\bin\Debug\net8.0\400-Pairs-of-integers-from-m-to-n.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\bin\Debug\net8.0\400-Pairs-of-integers-from-m-to-n.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\bin\Debug\net8.0\400-Pairs-of-integers-from-m-to-n.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\bin\Debug\net8.0\400-Pairs-of-integers-from-m-to-n.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\obj\Debug\net8.0\400-Pairs-of-integers-from-m-to-n.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\obj\Debug\net8.0\400-Pairs-of-integers-from-m-to-n.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\obj\Debug\net8.0\400-Pairs-of-integers-from-m-to-n.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\obj\Debug\net8.0\400-Pairs-of-integers-from-m-to-n.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\obj\Debug\net8.0\400-Pairs-of-integers-from-m-to-n.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\obj\Debug\net8.0\400-Pairs-of-integers-from-m-to-n.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\obj\Debug\net8.0\refint\400-Pairs-of-integers-from-m-to-n.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\obj\Debug\net8.0\400-Pairs-of-integers-from-m-to-n.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\obj\Debug\net8.0\400-Pairs-of-integers-from-m-to-n.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\400-Pairs-of-integers-from-m-to-n\obj\Debug\net8.0\ref\400-Pairs-of-integers-from-m-to-n.dll
