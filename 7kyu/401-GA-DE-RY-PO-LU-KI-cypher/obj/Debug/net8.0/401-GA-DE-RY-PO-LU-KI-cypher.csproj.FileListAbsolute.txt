@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\bin\Debug\net8.0\401-GA-DE-RY-PO-LU-KI-cypher.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\bin\Debug\net8.0\401-GA-DE-RY-PO-LU-KI-cypher.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\bin\Debug\net8.0\401-GA-DE-RY-PO-LU-KI-cypher.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\bin\Debug\net8.0\401-GA-DE-RY-PO-LU-KI-cypher.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\bin\Debug\net8.0\401-GA-DE-RY-PO-LU-KI-cypher.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\obj\Debug\net8.0\401-GA-DE-RY-PO-LU-KI-cypher.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\obj\Debug\net8.0\401-GA-DE-RY-PO-LU-KI-cypher.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\obj\Debug\net8.0\401-GA-DE-RY-PO-LU-KI-cypher.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\obj\Debug\net8.0\401-GA-DE-RY-PO-LU-KI-cypher.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\obj\Debug\net8.0\401-GA-DE-RY-PO-LU-KI-cypher.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\obj\Debug\net8.0\401-GA-DE-RY-PO-LU-KI-cypher.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\obj\Debug\net8.0\refint\401-GA-DE-RY-PO-LU-KI-cypher.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\obj\Debug\net8.0\401-GA-DE-RY-PO-LU-KI-cypher.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\obj\Debug\net8.0\401-GA-DE-RY-PO-LU-KI-cypher.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\401-GA-DE-RY-PO-LU-KI-cypher\obj\Debug\net8.0\ref\401-GA-DE-RY-PO-LU-KI-cypher.dll
