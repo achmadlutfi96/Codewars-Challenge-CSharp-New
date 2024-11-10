@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\bin\Debug\net8.0\402-Simple-Fun-144-Distinct-Digit-Year.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\bin\Debug\net8.0\402-Simple-Fun-144-Distinct-Digit-Year.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\bin\Debug\net8.0\402-Simple-Fun-144-Distinct-Digit-Year.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\bin\Debug\net8.0\402-Simple-Fun-144-Distinct-Digit-Year.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\bin\Debug\net8.0\402-Simple-Fun-144-Distinct-Digit-Year.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\obj\Debug\net8.0\402-Simple-Fun-144-Distinct-Digit-Year.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\obj\Debug\net8.0\402-Simple-Fun-144-Distinct-Digit-Year.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\obj\Debug\net8.0\402-Simple-Fun-144-Distinct-Digit-Year.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\obj\Debug\net8.0\402-Simple-Fun-144-Distinct-Digit-Year.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\obj\Debug\net8.0\402-Simple-Fun-144-Distinct-Digit-Year.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\obj\Debug\net8.0\402-Simple-Fun-144-Distinct-Digit-Year.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\obj\Debug\net8.0\refint\402-Simple-Fun-144-Distinct-Digit-Year.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\obj\Debug\net8.0\402-Simple-Fun-144-Distinct-Digit-Year.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\obj\Debug\net8.0\402-Simple-Fun-144-Distinct-Digit-Year.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\402-Simple-Fun-144-Distinct-Digit-Year\obj\Debug\net8.0\ref\402-Simple-Fun-144-Distinct-Digit-Year.dll
