@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "405-Most-valuable-character/1.0.0": {
+        "runtime": {
+          "405-Most-valuable-character.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "405-Most-valuable-character/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

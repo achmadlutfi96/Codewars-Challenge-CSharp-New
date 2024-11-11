@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\bin\Debug\net8.0\405-Most-valuable-character.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\bin\Debug\net8.0\405-Most-valuable-character.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\bin\Debug\net8.0\405-Most-valuable-character.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\bin\Debug\net8.0\405-Most-valuable-character.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\bin\Debug\net8.0\405-Most-valuable-character.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\obj\Debug\net8.0\405-Most-valuable-character.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\obj\Debug\net8.0\405-Most-valuable-character.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\obj\Debug\net8.0\405-Most-valuable-character.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\obj\Debug\net8.0\405-Most-valuable-character.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\obj\Debug\net8.0\405-Most-valuable-character.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\obj\Debug\net8.0\405-Most-valuable-character.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\obj\Debug\net8.0\refint\405-Most-valuable-character.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\obj\Debug\net8.0\405-Most-valuable-character.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\obj\Debug\net8.0\405-Most-valuable-character.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\405-Most-valuable-character\obj\Debug\net8.0\ref\405-Most-valuable-character.dll
