@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\bin\Debug\net8.0\404-Composing-squared-strings.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\bin\Debug\net8.0\404-Composing-squared-strings.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\bin\Debug\net8.0\404-Composing-squared-strings.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\bin\Debug\net8.0\404-Composing-squared-strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\bin\Debug\net8.0\404-Composing-squared-strings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\obj\Debug\net8.0\404-Composing-squared-strings.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\obj\Debug\net8.0\404-Composing-squared-strings.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\obj\Debug\net8.0\404-Composing-squared-strings.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\obj\Debug\net8.0\404-Composing-squared-strings.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\obj\Debug\net8.0\404-Composing-squared-strings.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\obj\Debug\net8.0\404-Composing-squared-strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\obj\Debug\net8.0\refint\404-Composing-squared-strings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\obj\Debug\net8.0\404-Composing-squared-strings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\obj\Debug\net8.0\404-Composing-squared-strings.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\404-Composing-squared-strings\obj\Debug\net8.0\ref\404-Composing-squared-strings.dll
