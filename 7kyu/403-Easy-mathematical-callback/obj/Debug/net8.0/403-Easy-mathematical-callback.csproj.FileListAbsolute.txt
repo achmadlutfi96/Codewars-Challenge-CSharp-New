@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\bin\Debug\net8.0\403-Easy-mathematical-callback.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\bin\Debug\net8.0\403-Easy-mathematical-callback.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\bin\Debug\net8.0\403-Easy-mathematical-callback.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\bin\Debug\net8.0\403-Easy-mathematical-callback.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\bin\Debug\net8.0\403-Easy-mathematical-callback.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\obj\Debug\net8.0\403-Easy-mathematical-callback.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\obj\Debug\net8.0\403-Easy-mathematical-callback.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\obj\Debug\net8.0\403-Easy-mathematical-callback.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\obj\Debug\net8.0\403-Easy-mathematical-callback.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\obj\Debug\net8.0\403-Easy-mathematical-callback.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\obj\Debug\net8.0\403-Easy-mathematical-callback.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\obj\Debug\net8.0\refint\403-Easy-mathematical-callback.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\obj\Debug\net8.0\403-Easy-mathematical-callback.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\obj\Debug\net8.0\403-Easy-mathematical-callback.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\403-Easy-mathematical-callback\obj\Debug\net8.0\ref\403-Easy-mathematical-callback.dll
