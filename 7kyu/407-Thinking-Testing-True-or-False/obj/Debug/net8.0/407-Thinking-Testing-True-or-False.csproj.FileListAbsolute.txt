@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\bin\Debug\net8.0\407-Thinking-Testing-True-or-False.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\bin\Debug\net8.0\407-Thinking-Testing-True-or-False.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\bin\Debug\net8.0\407-Thinking-Testing-True-or-False.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\bin\Debug\net8.0\407-Thinking-Testing-True-or-False.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\bin\Debug\net8.0\407-Thinking-Testing-True-or-False.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\obj\Debug\net8.0\407-Thinking-Testing-True-or-False.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\obj\Debug\net8.0\407-Thinking-Testing-True-or-False.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\obj\Debug\net8.0\407-Thinking-Testing-True-or-False.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\obj\Debug\net8.0\407-Thinking-Testing-True-or-False.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\obj\Debug\net8.0\407-Thinking-Testing-True-or-False.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\obj\Debug\net8.0\407-Thinking-Testing-True-or-False.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\obj\Debug\net8.0\refint\407-Thinking-Testing-True-or-False.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\obj\Debug\net8.0\407-Thinking-Testing-True-or-False.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\obj\Debug\net8.0\407-Thinking-Testing-True-or-False.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\407-Thinking-Testing-True-or-False\obj\Debug\net8.0\ref\407-Thinking-Testing-True-or-False.dll
