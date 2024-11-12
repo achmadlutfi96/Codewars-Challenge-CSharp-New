@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\bin\Debug\net8.0\408-Triangle-area.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\bin\Debug\net8.0\408-Triangle-area.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\bin\Debug\net8.0\408-Triangle-area.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\bin\Debug\net8.0\408-Triangle-area.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\bin\Debug\net8.0\408-Triangle-area.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\obj\Debug\net8.0\408-Triangle-area.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\obj\Debug\net8.0\408-Triangle-area.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\obj\Debug\net8.0\408-Triangle-area.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\obj\Debug\net8.0\408-Triangle-area.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\obj\Debug\net8.0\408-Triangle-area.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\obj\Debug\net8.0\408-Triangle-area.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\obj\Debug\net8.0\refint\408-Triangle-area.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\obj\Debug\net8.0\408-Triangle-area.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\obj\Debug\net8.0\408-Triangle-area.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\408-Triangle-area\obj\Debug\net8.0\ref\408-Triangle-area.dll
