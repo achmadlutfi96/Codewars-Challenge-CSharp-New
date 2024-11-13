@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\bin\Debug\net9.0\409-The-dropWhile-Function.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\bin\Debug\net9.0\409-The-dropWhile-Function.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\bin\Debug\net9.0\409-The-dropWhile-Function.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\bin\Debug\net9.0\409-The-dropWhile-Function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\bin\Debug\net9.0\409-The-dropWhile-Function.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\obj\Debug\net9.0\409-The-dropWhile-Function.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\obj\Debug\net9.0\409-The-dropWhile-Function.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\obj\Debug\net9.0\409-The-dropWhile-Function.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\obj\Debug\net9.0\409-The-dropWhile-Function.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\obj\Debug\net9.0\409-The-dropWhile-Function.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\obj\Debug\net9.0\409-The-dropWhile-Function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\obj\Debug\net9.0\refint\409-The-dropWhile-Function.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\obj\Debug\net9.0\409-The-dropWhile-Function.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\obj\Debug\net9.0\409-The-dropWhile-Function.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\409-The-dropWhile-Function\obj\Debug\net9.0\ref\409-The-dropWhile-Function.dll
