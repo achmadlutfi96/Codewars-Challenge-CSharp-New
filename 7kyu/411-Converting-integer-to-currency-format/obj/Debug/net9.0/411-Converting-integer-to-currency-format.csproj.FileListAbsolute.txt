@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\bin\Debug\net9.0\411-Converting-integer-to-currency-format.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\bin\Debug\net9.0\411-Converting-integer-to-currency-format.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\bin\Debug\net9.0\411-Converting-integer-to-currency-format.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\bin\Debug\net9.0\411-Converting-integer-to-currency-format.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\bin\Debug\net9.0\411-Converting-integer-to-currency-format.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\obj\Debug\net9.0\411-Converting-integer-to-currency-format.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\obj\Debug\net9.0\411-Converting-integer-to-currency-format.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\obj\Debug\net9.0\411-Converting-integer-to-currency-format.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\obj\Debug\net9.0\411-Converting-integer-to-currency-format.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\obj\Debug\net9.0\411-Converting-integer-to-currency-format.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\obj\Debug\net9.0\411-Converting-integer-to-currency-format.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\obj\Debug\net9.0\refint\411-Converting-integer-to-currency-format.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\obj\Debug\net9.0\411-Converting-integer-to-currency-format.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\obj\Debug\net9.0\411-Converting-integer-to-currency-format.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\411-Converting-integer-to-currency-format\obj\Debug\net9.0\ref\411-Converting-integer-to-currency-format.dll
