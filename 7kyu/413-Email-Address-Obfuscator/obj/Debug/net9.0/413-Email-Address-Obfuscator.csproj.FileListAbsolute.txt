@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\bin\Debug\net9.0\413-Email-Address-Obfuscator.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\bin\Debug\net9.0\413-Email-Address-Obfuscator.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\bin\Debug\net9.0\413-Email-Address-Obfuscator.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\bin\Debug\net9.0\413-Email-Address-Obfuscator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\bin\Debug\net9.0\413-Email-Address-Obfuscator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\obj\Debug\net9.0\413-Email-Address-Obfuscator.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\obj\Debug\net9.0\413-Email-Address-Obfuscator.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\obj\Debug\net9.0\413-Email-Address-Obfuscator.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\obj\Debug\net9.0\413-Email-Address-Obfuscator.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\obj\Debug\net9.0\413-Email-Address-Obfuscator.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\obj\Debug\net9.0\413-Email-Address-Obfuscator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\obj\Debug\net9.0\refint\413-Email-Address-Obfuscator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\obj\Debug\net9.0\413-Email-Address-Obfuscator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\obj\Debug\net9.0\413-Email-Address-Obfuscator.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\413-Email-Address-Obfuscator\obj\Debug\net9.0\ref\413-Email-Address-Obfuscator.dll
