@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\bin\Debug\net9.0\412-Simple-Fun-87-Shuffled-Array.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\bin\Debug\net9.0\412-Simple-Fun-87-Shuffled-Array.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\bin\Debug\net9.0\412-Simple-Fun-87-Shuffled-Array.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\bin\Debug\net9.0\412-Simple-Fun-87-Shuffled-Array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\bin\Debug\net9.0\412-Simple-Fun-87-Shuffled-Array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\obj\Debug\net9.0\412-Simple-Fun-87-Shuffled-Array.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\obj\Debug\net9.0\412-Simple-Fun-87-Shuffled-Array.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\obj\Debug\net9.0\412-Simple-Fun-87-Shuffled-Array.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\obj\Debug\net9.0\412-Simple-Fun-87-Shuffled-Array.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\obj\Debug\net9.0\412-Simple-Fun-87-Shuffled-Array.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\obj\Debug\net9.0\412-Simple-Fun-87-Shuffled-Array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\obj\Debug\net9.0\refint\412-Simple-Fun-87-Shuffled-Array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\obj\Debug\net9.0\412-Simple-Fun-87-Shuffled-Array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\obj\Debug\net9.0\412-Simple-Fun-87-Shuffled-Array.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\412-Simple-Fun-87-Shuffled-Array\obj\Debug\net9.0\ref\412-Simple-Fun-87-Shuffled-Array.dll

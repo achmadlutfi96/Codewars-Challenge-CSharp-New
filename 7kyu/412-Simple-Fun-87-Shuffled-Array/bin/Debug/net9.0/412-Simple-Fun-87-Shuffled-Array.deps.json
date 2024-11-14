@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "412-Simple-Fun-87-Shuffled-Array/1.0.0": {
+        "runtime": {
+          "412-Simple-Fun-87-Shuffled-Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "412-Simple-Fun-87-Shuffled-Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
