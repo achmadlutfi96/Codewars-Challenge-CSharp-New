@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\bin\Debug\net9.0\414-Building-Spheres.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\bin\Debug\net9.0\414-Building-Spheres.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\bin\Debug\net9.0\414-Building-Spheres.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\bin\Debug\net9.0\414-Building-Spheres.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\bin\Debug\net9.0\414-Building-Spheres.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\obj\Debug\net9.0\414-Building-Spheres.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\obj\Debug\net9.0\414-Building-Spheres.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\obj\Debug\net9.0\414-Building-Spheres.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\obj\Debug\net9.0\414-Building-Spheres.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\obj\Debug\net9.0\414-Building-Spheres.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\obj\Debug\net9.0\414-Building-Spheres.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\obj\Debug\net9.0\refint\414-Building-Spheres.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\obj\Debug\net9.0\414-Building-Spheres.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\obj\Debug\net9.0\414-Building-Spheres.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\414-Building-Spheres\obj\Debug\net9.0\ref\414-Building-Spheres.dll
