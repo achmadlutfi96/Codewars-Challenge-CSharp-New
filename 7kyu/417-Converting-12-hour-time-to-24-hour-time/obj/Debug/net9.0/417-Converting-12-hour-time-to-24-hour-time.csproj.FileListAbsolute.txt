@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\bin\Debug\net9.0\417-Converting-12-hour-time-to-24-hour-time.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\bin\Debug\net9.0\417-Converting-12-hour-time-to-24-hour-time.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\bin\Debug\net9.0\417-Converting-12-hour-time-to-24-hour-time.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\bin\Debug\net9.0\417-Converting-12-hour-time-to-24-hour-time.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\bin\Debug\net9.0\417-Converting-12-hour-time-to-24-hour-time.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\obj\Debug\net9.0\417-Converting-12-hour-time-to-24-hour-time.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\obj\Debug\net9.0\417-Converting-12-hour-time-to-24-hour-time.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\obj\Debug\net9.0\417-Converting-12-hour-time-to-24-hour-time.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\obj\Debug\net9.0\417-Converting-12-hour-time-to-24-hour-time.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\obj\Debug\net9.0\417-Converting-12-hour-time-to-24-hour-time.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\obj\Debug\net9.0\417-Converting-12-hour-time-to-24-hour-time.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\obj\Debug\net9.0\refint\417-Converting-12-hour-time-to-24-hour-time.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\obj\Debug\net9.0\417-Converting-12-hour-time-to-24-hour-time.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\obj\Debug\net9.0\417-Converting-12-hour-time-to-24-hour-time.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\417-Converting-12-hour-time-to-24-hour-time\obj\Debug\net9.0\ref\417-Converting-12-hour-time-to-24-hour-time.dll

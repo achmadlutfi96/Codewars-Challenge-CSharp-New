@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "417-Converting-12-hour-time-to-24-hour-time/1.0.0": {
+        "runtime": {
+          "417-Converting-12-hour-time-to-24-hour-time.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "417-Converting-12-hour-time-to-24-hour-time/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
