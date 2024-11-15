@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\bin\Debug\net9.0\415-254-shades-of-grey.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\bin\Debug\net9.0\415-254-shades-of-grey.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\bin\Debug\net9.0\415-254-shades-of-grey.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\bin\Debug\net9.0\415-254-shades-of-grey.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\bin\Debug\net9.0\415-254-shades-of-grey.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\obj\Debug\net9.0\415-254-shades-of-grey.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\obj\Debug\net9.0\415-254-shades-of-grey.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\obj\Debug\net9.0\415-254-shades-of-grey.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\obj\Debug\net9.0\415-254-shades-of-grey.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\obj\Debug\net9.0\415-254-shades-of-grey.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\obj\Debug\net9.0\415-254-shades-of-grey.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\obj\Debug\net9.0\refint\415-254-shades-of-grey.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\obj\Debug\net9.0\415-254-shades-of-grey.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\obj\Debug\net9.0\415-254-shades-of-grey.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\415-254-shades-of-grey\obj\Debug\net9.0\ref\415-254-shades-of-grey.dll
