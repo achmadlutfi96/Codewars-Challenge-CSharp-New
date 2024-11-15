@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\bin\Debug\net9.0\416-Figurate-Numbers-2-Pronic-Number.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\bin\Debug\net9.0\416-Figurate-Numbers-2-Pronic-Number.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\bin\Debug\net9.0\416-Figurate-Numbers-2-Pronic-Number.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\bin\Debug\net9.0\416-Figurate-Numbers-2-Pronic-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\bin\Debug\net9.0\416-Figurate-Numbers-2-Pronic-Number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\obj\Debug\net9.0\416-Figurate-Numbers-2-Pronic-Number.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\obj\Debug\net9.0\416-Figurate-Numbers-2-Pronic-Number.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\obj\Debug\net9.0\416-Figurate-Numbers-2-Pronic-Number.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\obj\Debug\net9.0\416-Figurate-Numbers-2-Pronic-Number.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\obj\Debug\net9.0\416-Figurate-Numbers-2-Pronic-Number.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\obj\Debug\net9.0\416-Figurate-Numbers-2-Pronic-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\obj\Debug\net9.0\refint\416-Figurate-Numbers-2-Pronic-Number.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\obj\Debug\net9.0\416-Figurate-Numbers-2-Pronic-Number.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\obj\Debug\net9.0\416-Figurate-Numbers-2-Pronic-Number.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\416-Figurate-Numbers-2-Pronic-Number\obj\Debug\net9.0\ref\416-Figurate-Numbers-2-Pronic-Number.dll
