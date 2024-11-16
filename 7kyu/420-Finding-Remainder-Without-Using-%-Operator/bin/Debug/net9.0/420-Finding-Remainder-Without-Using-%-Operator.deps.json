@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "420-Finding-Remainder-Without-Using-%-Operator/1.0.0": {
+        "runtime": {
+          "420-Finding-Remainder-Without-Using-%-Operator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "420-Finding-Remainder-Without-Using-%-Operator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

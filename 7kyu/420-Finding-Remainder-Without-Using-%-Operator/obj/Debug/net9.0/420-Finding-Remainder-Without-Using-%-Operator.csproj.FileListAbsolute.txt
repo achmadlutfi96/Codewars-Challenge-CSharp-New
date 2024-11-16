@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\bin\Debug\net9.0\420-Finding-Remainder-Without-Using-%-Operator.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\bin\Debug\net9.0\420-Finding-Remainder-Without-Using-%-Operator.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\bin\Debug\net9.0\420-Finding-Remainder-Without-Using-%-Operator.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\bin\Debug\net9.0\420-Finding-Remainder-Without-Using-%-Operator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\bin\Debug\net9.0\420-Finding-Remainder-Without-Using-%-Operator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\obj\Debug\net9.0\420-Finding-Remainder-Without-Using-%-Operator.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\obj\Debug\net9.0\420-Finding-Remainder-Without-Using-%-Operator.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\obj\Debug\net9.0\420-Finding-Remainder-Without-Using-%-Operator.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\obj\Debug\net9.0\420-Finding-Remainder-Without-Using-%-Operator.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\obj\Debug\net9.0\420-Finding-Remainder-Without-Using-%-Operator.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\obj\Debug\net9.0\420-Finding-Remainder-Without-Using-%-Operator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\obj\Debug\net9.0\refint\420-Finding-Remainder-Without-Using-%-Operator.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\obj\Debug\net9.0\420-Finding-Remainder-Without-Using-%-Operator.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\obj\Debug\net9.0\420-Finding-Remainder-Without-Using-%-Operator.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\420-Finding-Remainder-Without-Using-%-Operator\obj\Debug\net9.0\ref\420-Finding-Remainder-Without-Using-%-Operator.dll
