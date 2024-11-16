@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "419-Average-Array/1.0.0": {
+        "runtime": {
+          "419-Average-Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "419-Average-Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

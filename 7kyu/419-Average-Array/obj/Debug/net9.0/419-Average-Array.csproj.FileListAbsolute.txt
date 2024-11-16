@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\bin\Debug\net9.0\419-Average-Array.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\bin\Debug\net9.0\419-Average-Array.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\bin\Debug\net9.0\419-Average-Array.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\bin\Debug\net9.0\419-Average-Array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\bin\Debug\net9.0\419-Average-Array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\obj\Debug\net9.0\419-Average-Array.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\obj\Debug\net9.0\419-Average-Array.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\obj\Debug\net9.0\419-Average-Array.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\obj\Debug\net9.0\419-Average-Array.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\obj\Debug\net9.0\419-Average-Array.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\obj\Debug\net9.0\419-Average-Array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\obj\Debug\net9.0\refint\419-Average-Array.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\obj\Debug\net9.0\419-Average-Array.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\obj\Debug\net9.0\419-Average-Array.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\419-Average-Array\obj\Debug\net9.0\ref\419-Average-Array.dll
