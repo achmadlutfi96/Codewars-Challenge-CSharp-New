@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\bin\Debug\net9.0\418-Arithmetic-Sequence.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\bin\Debug\net9.0\418-Arithmetic-Sequence.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\bin\Debug\net9.0\418-Arithmetic-Sequence.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\bin\Debug\net9.0\418-Arithmetic-Sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\bin\Debug\net9.0\418-Arithmetic-Sequence.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\obj\Debug\net9.0\418-Arithmetic-Sequence.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\obj\Debug\net9.0\418-Arithmetic-Sequence.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\obj\Debug\net9.0\418-Arithmetic-Sequence.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\obj\Debug\net9.0\418-Arithmetic-Sequence.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\obj\Debug\net9.0\418-Arithmetic-Sequence.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\obj\Debug\net9.0\418-Arithmetic-Sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\obj\Debug\net9.0\refint\418-Arithmetic-Sequence.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\obj\Debug\net9.0\418-Arithmetic-Sequence.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\obj\Debug\net9.0\418-Arithmetic-Sequence.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\418-Arithmetic-Sequence\obj\Debug\net9.0\ref\418-Arithmetic-Sequence.dll

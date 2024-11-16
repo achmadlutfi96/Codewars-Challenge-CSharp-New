@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "418-Arithmetic-Sequence/1.0.0": {
+        "runtime": {
+          "418-Arithmetic-Sequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "418-Arithmetic-Sequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
