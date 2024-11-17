@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "421-draw-me-a-chessboard/1.0.0": {
+        "runtime": {
+          "421-draw-me-a-chessboard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "421-draw-me-a-chessboard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\bin\Debug\net9.0\421-draw-me-a-chessboard.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\bin\Debug\net9.0\421-draw-me-a-chessboard.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\bin\Debug\net9.0\421-draw-me-a-chessboard.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\bin\Debug\net9.0\421-draw-me-a-chessboard.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\bin\Debug\net9.0\421-draw-me-a-chessboard.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\obj\Debug\net9.0\421-draw-me-a-chessboard.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\obj\Debug\net9.0\421-draw-me-a-chessboard.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\obj\Debug\net9.0\421-draw-me-a-chessboard.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\obj\Debug\net9.0\421-draw-me-a-chessboard.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\obj\Debug\net9.0\421-draw-me-a-chessboard.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\obj\Debug\net9.0\421-draw-me-a-chessboard.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\obj\Debug\net9.0\refint\421-draw-me-a-chessboard.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\obj\Debug\net9.0\421-draw-me-a-chessboard.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\obj\Debug\net9.0\421-draw-me-a-chessboard.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\421-draw-me-a-chessboard\obj\Debug\net9.0\ref\421-draw-me-a-chessboard.dll
