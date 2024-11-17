@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\bin\Debug\net9.0\423-Elapsed-Seconds.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\bin\Debug\net9.0\423-Elapsed-Seconds.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\bin\Debug\net9.0\423-Elapsed-Seconds.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\bin\Debug\net9.0\423-Elapsed-Seconds.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\bin\Debug\net9.0\423-Elapsed-Seconds.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\obj\Debug\net9.0\423-Elapsed-Seconds.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\obj\Debug\net9.0\423-Elapsed-Seconds.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\obj\Debug\net9.0\423-Elapsed-Seconds.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\obj\Debug\net9.0\423-Elapsed-Seconds.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\obj\Debug\net9.0\423-Elapsed-Seconds.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\obj\Debug\net9.0\423-Elapsed-Seconds.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\obj\Debug\net9.0\refint\423-Elapsed-Seconds.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\obj\Debug\net9.0\423-Elapsed-Seconds.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\obj\Debug\net9.0\423-Elapsed-Seconds.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\423-Elapsed-Seconds\obj\Debug\net9.0\ref\423-Elapsed-Seconds.dll
