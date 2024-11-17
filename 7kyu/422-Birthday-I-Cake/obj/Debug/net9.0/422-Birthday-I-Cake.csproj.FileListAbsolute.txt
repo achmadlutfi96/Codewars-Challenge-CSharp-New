@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\bin\Debug\net9.0\422-Birthday-I-Cake.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\bin\Debug\net9.0\422-Birthday-I-Cake.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\bin\Debug\net9.0\422-Birthday-I-Cake.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\bin\Debug\net9.0\422-Birthday-I-Cake.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\bin\Debug\net9.0\422-Birthday-I-Cake.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\obj\Debug\net9.0\422-Birthday-I-Cake.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\obj\Debug\net9.0\422-Birthday-I-Cake.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\obj\Debug\net9.0\422-Birthday-I-Cake.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\obj\Debug\net9.0\422-Birthday-I-Cake.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\obj\Debug\net9.0\422-Birthday-I-Cake.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\obj\Debug\net9.0\422-Birthday-I-Cake.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\obj\Debug\net9.0\refint\422-Birthday-I-Cake.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\obj\Debug\net9.0\422-Birthday-I-Cake.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\obj\Debug\net9.0\422-Birthday-I-Cake.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\422-Birthday-I-Cake\obj\Debug\net9.0\ref\422-Birthday-I-Cake.dll
