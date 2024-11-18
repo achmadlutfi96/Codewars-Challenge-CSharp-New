@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "424-Count-the-Ones/1.0.0": {
+        "runtime": {
+          "424-Count-the-Ones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "424-Count-the-Ones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

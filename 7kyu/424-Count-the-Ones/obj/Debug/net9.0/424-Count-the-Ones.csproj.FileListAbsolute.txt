@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\bin\Debug\net9.0\424-Count-the-Ones.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\bin\Debug\net9.0\424-Count-the-Ones.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\bin\Debug\net9.0\424-Count-the-Ones.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\bin\Debug\net9.0\424-Count-the-Ones.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\bin\Debug\net9.0\424-Count-the-Ones.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\obj\Debug\net9.0\424-Count-the-Ones.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\obj\Debug\net9.0\424-Count-the-Ones.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\obj\Debug\net9.0\424-Count-the-Ones.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\obj\Debug\net9.0\424-Count-the-Ones.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\obj\Debug\net9.0\424-Count-the-Ones.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\obj\Debug\net9.0\424-Count-the-Ones.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\obj\Debug\net9.0\refint\424-Count-the-Ones.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\obj\Debug\net9.0\424-Count-the-Ones.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\obj\Debug\net9.0\424-Count-the-Ones.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\424-Count-the-Ones\obj\Debug\net9.0\ref\424-Count-the-Ones.dll
