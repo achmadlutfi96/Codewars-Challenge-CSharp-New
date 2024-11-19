@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\bin\Debug\net9.0\428-Count-salutes.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\bin\Debug\net9.0\428-Count-salutes.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\bin\Debug\net9.0\428-Count-salutes.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\bin\Debug\net9.0\428-Count-salutes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\bin\Debug\net9.0\428-Count-salutes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\obj\Debug\net9.0\428-Count-salutes.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\obj\Debug\net9.0\428-Count-salutes.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\obj\Debug\net9.0\428-Count-salutes.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\obj\Debug\net9.0\428-Count-salutes.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\obj\Debug\net9.0\428-Count-salutes.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\obj\Debug\net9.0\428-Count-salutes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\obj\Debug\net9.0\refint\428-Count-salutes.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\obj\Debug\net9.0\428-Count-salutes.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\obj\Debug\net9.0\428-Count-salutes.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\428-Count-salutes\obj\Debug\net9.0\ref\428-Count-salutes.dll

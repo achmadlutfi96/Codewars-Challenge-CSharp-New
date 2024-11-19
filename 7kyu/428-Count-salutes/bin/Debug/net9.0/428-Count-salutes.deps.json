@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "428-Count-salutes/1.0.0": {
+        "runtime": {
+          "428-Count-salutes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "428-Count-salutes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
