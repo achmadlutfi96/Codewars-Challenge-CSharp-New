@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "429-Sushi-go-round-Beginners/1.0.0": {
+        "runtime": {
+          "429-Sushi-go-round-Beginners.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "429-Sushi-go-round-Beginners/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

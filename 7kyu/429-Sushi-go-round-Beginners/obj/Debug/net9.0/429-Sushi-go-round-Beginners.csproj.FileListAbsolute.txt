@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\bin\Debug\net9.0\429-Sushi-go-round-Beginners.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\bin\Debug\net9.0\429-Sushi-go-round-Beginners.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\bin\Debug\net9.0\429-Sushi-go-round-Beginners.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\bin\Debug\net9.0\429-Sushi-go-round-Beginners.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\bin\Debug\net9.0\429-Sushi-go-round-Beginners.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\obj\Debug\net9.0\429-Sushi-go-round-Beginners.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\obj\Debug\net9.0\429-Sushi-go-round-Beginners.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\obj\Debug\net9.0\429-Sushi-go-round-Beginners.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\obj\Debug\net9.0\429-Sushi-go-round-Beginners.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\obj\Debug\net9.0\429-Sushi-go-round-Beginners.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\obj\Debug\net9.0\429-Sushi-go-round-Beginners.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\obj\Debug\net9.0\refint\429-Sushi-go-round-Beginners.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\obj\Debug\net9.0\429-Sushi-go-round-Beginners.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\obj\Debug\net9.0\429-Sushi-go-round-Beginners.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\429-Sushi-go-round-Beginners\obj\Debug\net9.0\ref\429-Sushi-go-round-Beginners.dll
