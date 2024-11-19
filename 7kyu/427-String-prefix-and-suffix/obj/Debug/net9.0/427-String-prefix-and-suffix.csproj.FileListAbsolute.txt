@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\bin\Debug\net9.0\427-String-prefix-and-suffix.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\bin\Debug\net9.0\427-String-prefix-and-suffix.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\bin\Debug\net9.0\427-String-prefix-and-suffix.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\bin\Debug\net9.0\427-String-prefix-and-suffix.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\bin\Debug\net9.0\427-String-prefix-and-suffix.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\obj\Debug\net9.0\427-String-prefix-and-suffix.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\obj\Debug\net9.0\427-String-prefix-and-suffix.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\obj\Debug\net9.0\427-String-prefix-and-suffix.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\obj\Debug\net9.0\427-String-prefix-and-suffix.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\obj\Debug\net9.0\427-String-prefix-and-suffix.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\obj\Debug\net9.0\427-String-prefix-and-suffix.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\obj\Debug\net9.0\refint\427-String-prefix-and-suffix.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\obj\Debug\net9.0\427-String-prefix-and-suffix.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\obj\Debug\net9.0\427-String-prefix-and-suffix.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\427-String-prefix-and-suffix\obj\Debug\net9.0\ref\427-String-prefix-and-suffix.dll
