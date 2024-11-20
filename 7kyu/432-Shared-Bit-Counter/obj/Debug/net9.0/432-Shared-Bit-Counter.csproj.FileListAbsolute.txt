@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\bin\Debug\net9.0\432-Shared-Bit-Counter.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\bin\Debug\net9.0\432-Shared-Bit-Counter.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\bin\Debug\net9.0\432-Shared-Bit-Counter.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\bin\Debug\net9.0\432-Shared-Bit-Counter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\bin\Debug\net9.0\432-Shared-Bit-Counter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\obj\Debug\net9.0\432-Shared-Bit-Counter.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\obj\Debug\net9.0\432-Shared-Bit-Counter.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\obj\Debug\net9.0\432-Shared-Bit-Counter.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\obj\Debug\net9.0\432-Shared-Bit-Counter.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\obj\Debug\net9.0\432-Shared-Bit-Counter.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\obj\Debug\net9.0\432-Shared-Bit-Counter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\obj\Debug\net9.0\refint\432-Shared-Bit-Counter.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\obj\Debug\net9.0\432-Shared-Bit-Counter.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\obj\Debug\net9.0\432-Shared-Bit-Counter.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\432-Shared-Bit-Counter\obj\Debug\net9.0\ref\432-Shared-Bit-Counter.dll
