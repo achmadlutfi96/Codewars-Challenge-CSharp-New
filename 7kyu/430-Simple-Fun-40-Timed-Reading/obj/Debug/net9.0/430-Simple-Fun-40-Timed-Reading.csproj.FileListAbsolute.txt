@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\bin\Debug\net9.0\430-Simple-Fun-40-Timed-Reading.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\bin\Debug\net9.0\430-Simple-Fun-40-Timed-Reading.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\bin\Debug\net9.0\430-Simple-Fun-40-Timed-Reading.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\bin\Debug\net9.0\430-Simple-Fun-40-Timed-Reading.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\bin\Debug\net9.0\430-Simple-Fun-40-Timed-Reading.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\obj\Debug\net9.0\430-Simple-Fun-40-Timed-Reading.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\obj\Debug\net9.0\430-Simple-Fun-40-Timed-Reading.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\obj\Debug\net9.0\430-Simple-Fun-40-Timed-Reading.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\obj\Debug\net9.0\430-Simple-Fun-40-Timed-Reading.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\obj\Debug\net9.0\430-Simple-Fun-40-Timed-Reading.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\obj\Debug\net9.0\430-Simple-Fun-40-Timed-Reading.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\obj\Debug\net9.0\refint\430-Simple-Fun-40-Timed-Reading.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\obj\Debug\net9.0\430-Simple-Fun-40-Timed-Reading.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\obj\Debug\net9.0\430-Simple-Fun-40-Timed-Reading.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\430-Simple-Fun-40-Timed-Reading\obj\Debug\net9.0\ref\430-Simple-Fun-40-Timed-Reading.dll

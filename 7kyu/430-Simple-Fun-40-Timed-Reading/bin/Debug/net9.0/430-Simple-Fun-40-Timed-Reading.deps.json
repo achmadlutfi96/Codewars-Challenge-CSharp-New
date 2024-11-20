@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "430-Simple-Fun-40-Timed-Reading/1.0.0": {
+        "runtime": {
+          "430-Simple-Fun-40-Timed-Reading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "430-Simple-Fun-40-Timed-Reading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
