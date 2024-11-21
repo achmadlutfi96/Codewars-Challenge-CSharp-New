@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\bin\Debug\net9.0\434-String-reverse-slicing-101.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\bin\Debug\net9.0\434-String-reverse-slicing-101.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\bin\Debug\net9.0\434-String-reverse-slicing-101.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\bin\Debug\net9.0\434-String-reverse-slicing-101.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\bin\Debug\net9.0\434-String-reverse-slicing-101.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\obj\Debug\net9.0\434-String-reverse-slicing-101.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\obj\Debug\net9.0\434-String-reverse-slicing-101.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\obj\Debug\net9.0\434-String-reverse-slicing-101.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\obj\Debug\net9.0\434-String-reverse-slicing-101.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\obj\Debug\net9.0\434-String-reverse-slicing-101.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\obj\Debug\net9.0\434-String-reverse-slicing-101.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\obj\Debug\net9.0\refint\434-String-reverse-slicing-101.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\obj\Debug\net9.0\434-String-reverse-slicing-101.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\obj\Debug\net9.0\434-String-reverse-slicing-101.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\434-String-reverse-slicing-101\obj\Debug\net9.0\ref\434-String-reverse-slicing-101.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "434-String-reverse-slicing-101/1.0.0": {
+        "runtime": {
+          "434-String-reverse-slicing-101.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "434-String-reverse-slicing-101/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
