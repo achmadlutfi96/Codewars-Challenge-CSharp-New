@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\bin\Debug\net9.0\435-Regex-Failure-Bug-Fixing-2.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\bin\Debug\net9.0\435-Regex-Failure-Bug-Fixing-2.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\bin\Debug\net9.0\435-Regex-Failure-Bug-Fixing-2.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\bin\Debug\net9.0\435-Regex-Failure-Bug-Fixing-2.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\bin\Debug\net9.0\435-Regex-Failure-Bug-Fixing-2.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\obj\Debug\net9.0\435-Regex-Failure-Bug-Fixing-2.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\obj\Debug\net9.0\435-Regex-Failure-Bug-Fixing-2.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\obj\Debug\net9.0\435-Regex-Failure-Bug-Fixing-2.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\obj\Debug\net9.0\435-Regex-Failure-Bug-Fixing-2.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\obj\Debug\net9.0\435-Regex-Failure-Bug-Fixing-2.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\obj\Debug\net9.0\435-Regex-Failure-Bug-Fixing-2.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\obj\Debug\net9.0\refint\435-Regex-Failure-Bug-Fixing-2.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\obj\Debug\net9.0\435-Regex-Failure-Bug-Fixing-2.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\obj\Debug\net9.0\435-Regex-Failure-Bug-Fixing-2.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\435-Regex-Failure-Bug-Fixing-2\obj\Debug\net9.0\ref\435-Regex-Failure-Bug-Fixing-2.dll
