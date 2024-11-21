@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\bin\Debug\net9.0\433-Spot-the-Differences.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\bin\Debug\net9.0\433-Spot-the-Differences.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\bin\Debug\net9.0\433-Spot-the-Differences.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\bin\Debug\net9.0\433-Spot-the-Differences.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\bin\Debug\net9.0\433-Spot-the-Differences.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\obj\Debug\net9.0\433-Spot-the-Differences.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\obj\Debug\net9.0\433-Spot-the-Differences.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\obj\Debug\net9.0\433-Spot-the-Differences.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\obj\Debug\net9.0\433-Spot-the-Differences.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\obj\Debug\net9.0\433-Spot-the-Differences.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\obj\Debug\net9.0\433-Spot-the-Differences.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\obj\Debug\net9.0\refint\433-Spot-the-Differences.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\obj\Debug\net9.0\433-Spot-the-Differences.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\obj\Debug\net9.0\433-Spot-the-Differences.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\433-Spot-the-Differences\obj\Debug\net9.0\ref\433-Spot-the-Differences.dll
