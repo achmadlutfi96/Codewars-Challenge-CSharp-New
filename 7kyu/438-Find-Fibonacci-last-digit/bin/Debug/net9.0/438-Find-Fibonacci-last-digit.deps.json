@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "438-Find-Fibonacci-last-digit/1.0.0": {
+        "runtime": {
+          "438-Find-Fibonacci-last-digit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "438-Find-Fibonacci-last-digit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

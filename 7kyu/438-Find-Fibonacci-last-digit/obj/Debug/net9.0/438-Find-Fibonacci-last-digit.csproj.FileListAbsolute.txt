@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\bin\Debug\net9.0\438-Find-Fibonacci-last-digit.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\bin\Debug\net9.0\438-Find-Fibonacci-last-digit.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\bin\Debug\net9.0\438-Find-Fibonacci-last-digit.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\bin\Debug\net9.0\438-Find-Fibonacci-last-digit.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\bin\Debug\net9.0\438-Find-Fibonacci-last-digit.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\obj\Debug\net9.0\438-Find-Fibonacci-last-digit.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\obj\Debug\net9.0\438-Find-Fibonacci-last-digit.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\obj\Debug\net9.0\438-Find-Fibonacci-last-digit.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\obj\Debug\net9.0\438-Find-Fibonacci-last-digit.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\obj\Debug\net9.0\438-Find-Fibonacci-last-digit.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\obj\Debug\net9.0\438-Find-Fibonacci-last-digit.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\obj\Debug\net9.0\refint\438-Find-Fibonacci-last-digit.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\obj\Debug\net9.0\438-Find-Fibonacci-last-digit.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\obj\Debug\net9.0\438-Find-Fibonacci-last-digit.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\438-Find-Fibonacci-last-digit\obj\Debug\net9.0\ref\438-Find-Fibonacci-last-digit.dll
