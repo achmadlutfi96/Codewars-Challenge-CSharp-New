@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "436-Complete-The-Pattern-6-Odd-Ladder/1.0.0": {
+        "runtime": {
+          "436-Complete-The-Pattern-6-Odd-Ladder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "436-Complete-The-Pattern-6-Odd-Ladder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

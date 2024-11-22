@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\bin\Debug\net9.0\436-Complete-The-Pattern-6-Odd-Ladder.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\bin\Debug\net9.0\436-Complete-The-Pattern-6-Odd-Ladder.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\bin\Debug\net9.0\436-Complete-The-Pattern-6-Odd-Ladder.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\bin\Debug\net9.0\436-Complete-The-Pattern-6-Odd-Ladder.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\bin\Debug\net9.0\436-Complete-The-Pattern-6-Odd-Ladder.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\obj\Debug\net9.0\436-Complete-The-Pattern-6-Odd-Ladder.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\obj\Debug\net9.0\436-Complete-The-Pattern-6-Odd-Ladder.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\obj\Debug\net9.0\436-Complete-The-Pattern-6-Odd-Ladder.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\obj\Debug\net9.0\436-Complete-The-Pattern-6-Odd-Ladder.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\obj\Debug\net9.0\436-Complete-The-Pattern-6-Odd-Ladder.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\obj\Debug\net9.0\436-Complete-The-Pattern-6-Odd-Ladder.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\obj\Debug\net9.0\refint\436-Complete-The-Pattern-6-Odd-Ladder.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\obj\Debug\net9.0\436-Complete-The-Pattern-6-Odd-Ladder.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\obj\Debug\net9.0\436-Complete-The-Pattern-6-Odd-Ladder.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\436-Complete-The-Pattern-6-Odd-Ladder\obj\Debug\net9.0\ref\436-Complete-The-Pattern-6-Odd-Ladder.dll
