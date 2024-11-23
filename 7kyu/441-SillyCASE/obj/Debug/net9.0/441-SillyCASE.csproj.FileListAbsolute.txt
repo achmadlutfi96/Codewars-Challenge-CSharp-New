@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\bin\Debug\net9.0\441-SillyCASE.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\bin\Debug\net9.0\441-SillyCASE.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\bin\Debug\net9.0\441-SillyCASE.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\bin\Debug\net9.0\441-SillyCASE.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\bin\Debug\net9.0\441-SillyCASE.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\obj\Debug\net9.0\441-SillyCASE.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\obj\Debug\net9.0\441-SillyCASE.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\obj\Debug\net9.0\441-SillyCASE.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\obj\Debug\net9.0\441-SillyCASE.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\obj\Debug\net9.0\441-SillyCASE.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\obj\Debug\net9.0\441-SillyCASE.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\obj\Debug\net9.0\refint\441-SillyCASE.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\obj\Debug\net9.0\441-SillyCASE.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\obj\Debug\net9.0\441-SillyCASE.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\441-SillyCASE\obj\Debug\net9.0\ref\441-SillyCASE.dll
