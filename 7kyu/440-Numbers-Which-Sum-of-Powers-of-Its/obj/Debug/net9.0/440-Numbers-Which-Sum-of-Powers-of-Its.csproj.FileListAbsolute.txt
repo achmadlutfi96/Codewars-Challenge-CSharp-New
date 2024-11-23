@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\bin\Debug\net9.0\440-Numbers-Which-Sum-of-Powers-of-Its.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\bin\Debug\net9.0\440-Numbers-Which-Sum-of-Powers-of-Its.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\bin\Debug\net9.0\440-Numbers-Which-Sum-of-Powers-of-Its.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\bin\Debug\net9.0\440-Numbers-Which-Sum-of-Powers-of-Its.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\bin\Debug\net9.0\440-Numbers-Which-Sum-of-Powers-of-Its.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\obj\Debug\net9.0\440-Numbers-Which-Sum-of-Powers-of-Its.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\obj\Debug\net9.0\440-Numbers-Which-Sum-of-Powers-of-Its.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\obj\Debug\net9.0\440-Numbers-Which-Sum-of-Powers-of-Its.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\obj\Debug\net9.0\440-Numbers-Which-Sum-of-Powers-of-Its.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\obj\Debug\net9.0\440-Numbers-Which-Sum-of-Powers-of-Its.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\obj\Debug\net9.0\440-Numbers-Which-Sum-of-Powers-of-Its.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\obj\Debug\net9.0\refint\440-Numbers-Which-Sum-of-Powers-of-Its.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\obj\Debug\net9.0\440-Numbers-Which-Sum-of-Powers-of-Its.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\obj\Debug\net9.0\440-Numbers-Which-Sum-of-Powers-of-Its.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\440-Numbers-Which-Sum-of-Powers-of-Its\obj\Debug\net9.0\ref\440-Numbers-Which-Sum-of-Powers-of-Its.dll
