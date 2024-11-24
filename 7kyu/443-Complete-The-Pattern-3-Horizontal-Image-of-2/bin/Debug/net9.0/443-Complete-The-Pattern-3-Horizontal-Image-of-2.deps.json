@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "443-Complete-The-Pattern-3-Horizontal-Image-of-2/1.0.0": {
+        "runtime": {
+          "443-Complete-The-Pattern-3-Horizontal-Image-of-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "443-Complete-The-Pattern-3-Horizontal-Image-of-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
