@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\bin\Debug\net9.0\444-Mean-vs-Median.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\bin\Debug\net9.0\444-Mean-vs-Median.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\bin\Debug\net9.0\444-Mean-vs-Median.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\bin\Debug\net9.0\444-Mean-vs-Median.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\bin\Debug\net9.0\444-Mean-vs-Median.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\obj\Debug\net9.0\444-Mean-vs-Median.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\obj\Debug\net9.0\444-Mean-vs-Median.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\obj\Debug\net9.0\444-Mean-vs-Median.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\obj\Debug\net9.0\444-Mean-vs-Median.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\obj\Debug\net9.0\444-Mean-vs-Median.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\obj\Debug\net9.0\444-Mean-vs-Median.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\obj\Debug\net9.0\refint\444-Mean-vs-Median.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\obj\Debug\net9.0\444-Mean-vs-Median.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\obj\Debug\net9.0\444-Mean-vs-Median.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\444-Mean-vs-Median\obj\Debug\net9.0\ref\444-Mean-vs-Median.dll
