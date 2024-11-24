@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "442-Genetic-Algorithm-Series-3-Crossover/1.0.0": {
+        "runtime": {
+          "442-Genetic-Algorithm-Series-3-Crossover.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "442-Genetic-Algorithm-Series-3-Crossover/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

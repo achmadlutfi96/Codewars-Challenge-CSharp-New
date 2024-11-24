@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\bin\Debug\net9.0\442-Genetic-Algorithm-Series-3-Crossover.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\bin\Debug\net9.0\442-Genetic-Algorithm-Series-3-Crossover.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\bin\Debug\net9.0\442-Genetic-Algorithm-Series-3-Crossover.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\bin\Debug\net9.0\442-Genetic-Algorithm-Series-3-Crossover.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\bin\Debug\net9.0\442-Genetic-Algorithm-Series-3-Crossover.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\obj\Debug\net9.0\442-Genetic-Algorithm-Series-3-Crossover.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\obj\Debug\net9.0\442-Genetic-Algorithm-Series-3-Crossover.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\obj\Debug\net9.0\442-Genetic-Algorithm-Series-3-Crossover.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\obj\Debug\net9.0\442-Genetic-Algorithm-Series-3-Crossover.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\obj\Debug\net9.0\442-Genetic-Algorithm-Series-3-Crossover.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\obj\Debug\net9.0\442-Genetic-Algorithm-Series-3-Crossover.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\obj\Debug\net9.0\refint\442-Genetic-Algorithm-Series-3-Crossover.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\obj\Debug\net9.0\442-Genetic-Algorithm-Series-3-Crossover.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\obj\Debug\net9.0\442-Genetic-Algorithm-Series-3-Crossover.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\442-Genetic-Algorithm-Series-3-Crossover\obj\Debug\net9.0\ref\442-Genetic-Algorithm-Series-3-Crossover.dll
