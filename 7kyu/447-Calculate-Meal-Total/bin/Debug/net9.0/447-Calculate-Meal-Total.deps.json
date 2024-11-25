@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "447-Calculate-Meal-Total/1.0.0": {
+        "runtime": {
+          "447-Calculate-Meal-Total.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "447-Calculate-Meal-Total/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

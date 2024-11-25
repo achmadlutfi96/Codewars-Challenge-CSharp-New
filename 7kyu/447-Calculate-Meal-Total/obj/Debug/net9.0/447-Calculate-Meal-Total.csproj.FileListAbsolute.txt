@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\bin\Debug\net9.0\447-Calculate-Meal-Total.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\bin\Debug\net9.0\447-Calculate-Meal-Total.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\bin\Debug\net9.0\447-Calculate-Meal-Total.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\bin\Debug\net9.0\447-Calculate-Meal-Total.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\bin\Debug\net9.0\447-Calculate-Meal-Total.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\obj\Debug\net9.0\447-Calculate-Meal-Total.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\obj\Debug\net9.0\447-Calculate-Meal-Total.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\obj\Debug\net9.0\447-Calculate-Meal-Total.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\obj\Debug\net9.0\447-Calculate-Meal-Total.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\obj\Debug\net9.0\447-Calculate-Meal-Total.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\obj\Debug\net9.0\447-Calculate-Meal-Total.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\obj\Debug\net9.0\refint\447-Calculate-Meal-Total.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\obj\Debug\net9.0\447-Calculate-Meal-Total.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\obj\Debug\net9.0\447-Calculate-Meal-Total.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\447-Calculate-Meal-Total\obj\Debug\net9.0\ref\447-Calculate-Meal-Total.dll
