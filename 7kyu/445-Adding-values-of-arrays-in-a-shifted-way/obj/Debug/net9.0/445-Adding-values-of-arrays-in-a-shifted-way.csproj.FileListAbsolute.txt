@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\bin\Debug\net9.0\445-Adding-values-of-arrays-in-a-shifted-way.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\bin\Debug\net9.0\445-Adding-values-of-arrays-in-a-shifted-way.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\bin\Debug\net9.0\445-Adding-values-of-arrays-in-a-shifted-way.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\bin\Debug\net9.0\445-Adding-values-of-arrays-in-a-shifted-way.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\bin\Debug\net9.0\445-Adding-values-of-arrays-in-a-shifted-way.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\obj\Debug\net9.0\445-Adding-values-of-arrays-in-a-shifted-way.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\obj\Debug\net9.0\445-Adding-values-of-arrays-in-a-shifted-way.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\obj\Debug\net9.0\445-Adding-values-of-arrays-in-a-shifted-way.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\obj\Debug\net9.0\445-Adding-values-of-arrays-in-a-shifted-way.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\obj\Debug\net9.0\445-Adding-values-of-arrays-in-a-shifted-way.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\obj\Debug\net9.0\445-Adding-values-of-arrays-in-a-shifted-way.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\obj\Debug\net9.0\refint\445-Adding-values-of-arrays-in-a-shifted-way.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\obj\Debug\net9.0\445-Adding-values-of-arrays-in-a-shifted-way.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\obj\Debug\net9.0\445-Adding-values-of-arrays-in-a-shifted-way.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\445-Adding-values-of-arrays-in-a-shifted-way\obj\Debug\net9.0\ref\445-Adding-values-of-arrays-in-a-shifted-way.dll
