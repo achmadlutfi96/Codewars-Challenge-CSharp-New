@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\bin\Debug\net9.0\448-Alan-Partridge-I-Partridge-Watch.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\bin\Debug\net9.0\448-Alan-Partridge-I-Partridge-Watch.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\bin\Debug\net9.0\448-Alan-Partridge-I-Partridge-Watch.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\bin\Debug\net9.0\448-Alan-Partridge-I-Partridge-Watch.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\bin\Debug\net9.0\448-Alan-Partridge-I-Partridge-Watch.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\obj\Debug\net9.0\448-Alan-Partridge-I-Partridge-Watch.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\obj\Debug\net9.0\448-Alan-Partridge-I-Partridge-Watch.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\obj\Debug\net9.0\448-Alan-Partridge-I-Partridge-Watch.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\obj\Debug\net9.0\448-Alan-Partridge-I-Partridge-Watch.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\obj\Debug\net9.0\448-Alan-Partridge-I-Partridge-Watch.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\obj\Debug\net9.0\448-Alan-Partridge-I-Partridge-Watch.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\obj\Debug\net9.0\refint\448-Alan-Partridge-I-Partridge-Watch.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\obj\Debug\net9.0\448-Alan-Partridge-I-Partridge-Watch.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\obj\Debug\net9.0\448-Alan-Partridge-I-Partridge-Watch.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\448-Alan-Partridge-I-Partridge-Watch\obj\Debug\net9.0\ref\448-Alan-Partridge-I-Partridge-Watch.dll
