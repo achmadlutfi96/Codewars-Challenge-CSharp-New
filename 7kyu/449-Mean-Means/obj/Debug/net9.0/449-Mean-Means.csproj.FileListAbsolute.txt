@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\bin\Debug\net9.0\449-Mean-Means.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\bin\Debug\net9.0\449-Mean-Means.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\bin\Debug\net9.0\449-Mean-Means.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\bin\Debug\net9.0\449-Mean-Means.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\bin\Debug\net9.0\449-Mean-Means.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\obj\Debug\net9.0\449-Mean-Means.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\obj\Debug\net9.0\449-Mean-Means.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\obj\Debug\net9.0\449-Mean-Means.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\obj\Debug\net9.0\449-Mean-Means.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\obj\Debug\net9.0\449-Mean-Means.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\obj\Debug\net9.0\449-Mean-Means.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\obj\Debug\net9.0\refint\449-Mean-Means.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\obj\Debug\net9.0\449-Mean-Means.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\obj\Debug\net9.0\449-Mean-Means.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\449-Mean-Means\obj\Debug\net9.0\ref\449-Mean-Means.dll

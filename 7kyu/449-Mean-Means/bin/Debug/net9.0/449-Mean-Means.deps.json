@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "449-Mean-Means/1.0.0": {
+        "runtime": {
+          "449-Mean-Means.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "449-Mean-Means/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
