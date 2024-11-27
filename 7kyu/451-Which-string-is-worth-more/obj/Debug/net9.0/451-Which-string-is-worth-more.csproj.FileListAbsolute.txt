@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\bin\Debug\net9.0\451-Which-string-is-worth-more.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\bin\Debug\net9.0\451-Which-string-is-worth-more.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\bin\Debug\net9.0\451-Which-string-is-worth-more.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\bin\Debug\net9.0\451-Which-string-is-worth-more.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\bin\Debug\net9.0\451-Which-string-is-worth-more.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\obj\Debug\net9.0\451-Which-string-is-worth-more.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\obj\Debug\net9.0\451-Which-string-is-worth-more.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\obj\Debug\net9.0\451-Which-string-is-worth-more.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\obj\Debug\net9.0\451-Which-string-is-worth-more.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\obj\Debug\net9.0\451-Which-string-is-worth-more.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\obj\Debug\net9.0\451-Which-string-is-worth-more.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\obj\Debug\net9.0\refint\451-Which-string-is-worth-more.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\obj\Debug\net9.0\451-Which-string-is-worth-more.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\obj\Debug\net9.0\451-Which-string-is-worth-more.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\451-Which-string-is-worth-more\obj\Debug\net9.0\ref\451-Which-string-is-worth-more.dll
