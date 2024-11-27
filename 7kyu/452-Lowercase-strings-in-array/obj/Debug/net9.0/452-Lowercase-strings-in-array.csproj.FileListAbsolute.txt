@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\bin\Debug\net9.0\452-Lowercase-strings-in-array.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\bin\Debug\net9.0\452-Lowercase-strings-in-array.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\bin\Debug\net9.0\452-Lowercase-strings-in-array.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\bin\Debug\net9.0\452-Lowercase-strings-in-array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\bin\Debug\net9.0\452-Lowercase-strings-in-array.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\obj\Debug\net9.0\452-Lowercase-strings-in-array.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\obj\Debug\net9.0\452-Lowercase-strings-in-array.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\obj\Debug\net9.0\452-Lowercase-strings-in-array.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\obj\Debug\net9.0\452-Lowercase-strings-in-array.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\obj\Debug\net9.0\452-Lowercase-strings-in-array.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\obj\Debug\net9.0\452-Lowercase-strings-in-array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\obj\Debug\net9.0\refint\452-Lowercase-strings-in-array.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\obj\Debug\net9.0\452-Lowercase-strings-in-array.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\obj\Debug\net9.0\452-Lowercase-strings-in-array.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\452-Lowercase-strings-in-array\obj\Debug\net9.0\ref\452-Lowercase-strings-in-array.dll
