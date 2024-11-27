@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\bin\Debug\net9.0\453-Retrieve-array-value-by-index-with-default.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\bin\Debug\net9.0\453-Retrieve-array-value-by-index-with-default.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\bin\Debug\net9.0\453-Retrieve-array-value-by-index-with-default.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\bin\Debug\net9.0\453-Retrieve-array-value-by-index-with-default.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\bin\Debug\net9.0\453-Retrieve-array-value-by-index-with-default.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\obj\Debug\net9.0\453-Retrieve-array-value-by-index-with-default.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\obj\Debug\net9.0\453-Retrieve-array-value-by-index-with-default.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\obj\Debug\net9.0\453-Retrieve-array-value-by-index-with-default.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\obj\Debug\net9.0\453-Retrieve-array-value-by-index-with-default.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\obj\Debug\net9.0\453-Retrieve-array-value-by-index-with-default.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\obj\Debug\net9.0\453-Retrieve-array-value-by-index-with-default.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\obj\Debug\net9.0\refint\453-Retrieve-array-value-by-index-with-default.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\obj\Debug\net9.0\453-Retrieve-array-value-by-index-with-default.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\obj\Debug\net9.0\453-Retrieve-array-value-by-index-with-default.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\453-Retrieve-array-value-by-index-with-default\obj\Debug\net9.0\ref\453-Retrieve-array-value-by-index-with-default.dll

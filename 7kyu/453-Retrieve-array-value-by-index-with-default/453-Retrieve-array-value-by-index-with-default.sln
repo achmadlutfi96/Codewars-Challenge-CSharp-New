@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "453-Retrieve-array-value-by-index-with-default", "453-Retrieve-array-value-by-index-with-default.csproj", "{E47C44BE-FAA5-4396-A4DD-C83E6408D0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E47C44BE-FAA5-4396-A4DD-C83E6408D0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47C44BE-FAA5-4396-A4DD-C83E6408D0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47C44BE-FAA5-4396-A4DD-C83E6408D0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47C44BE-FAA5-4396-A4DD-C83E6408D0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D4EC2A1-098F-403E-8B4C-0082C555DE9D}
+	EndGlobalSection
+EndGlobal
