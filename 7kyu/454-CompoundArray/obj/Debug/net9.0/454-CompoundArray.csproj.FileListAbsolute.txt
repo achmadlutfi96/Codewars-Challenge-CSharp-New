@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\bin\Debug\net9.0\454-CompoundArray.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\bin\Debug\net9.0\454-CompoundArray.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\bin\Debug\net9.0\454-CompoundArray.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\bin\Debug\net9.0\454-CompoundArray.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\bin\Debug\net9.0\454-CompoundArray.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\obj\Debug\net9.0\454-CompoundArray.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\obj\Debug\net9.0\454-CompoundArray.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\obj\Debug\net9.0\454-CompoundArray.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\obj\Debug\net9.0\454-CompoundArray.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\obj\Debug\net9.0\454-CompoundArray.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\obj\Debug\net9.0\454-CompoundArray.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\obj\Debug\net9.0\refint\454-CompoundArray.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\obj\Debug\net9.0\454-CompoundArray.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\obj\Debug\net9.0\454-CompoundArray.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\454-CompoundArray\obj\Debug\net9.0\ref\454-CompoundArray.dll
