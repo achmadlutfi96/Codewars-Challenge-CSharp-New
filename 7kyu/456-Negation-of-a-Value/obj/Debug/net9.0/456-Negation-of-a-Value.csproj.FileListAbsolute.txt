@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\bin\Debug\net9.0\456-Negation-of-a-Value.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\bin\Debug\net9.0\456-Negation-of-a-Value.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\bin\Debug\net9.0\456-Negation-of-a-Value.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\bin\Debug\net9.0\456-Negation-of-a-Value.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\bin\Debug\net9.0\456-Negation-of-a-Value.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\obj\Debug\net9.0\456-Negation-of-a-Value.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\obj\Debug\net9.0\456-Negation-of-a-Value.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\obj\Debug\net9.0\456-Negation-of-a-Value.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\obj\Debug\net9.0\456-Negation-of-a-Value.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\obj\Debug\net9.0\456-Negation-of-a-Value.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\obj\Debug\net9.0\456-Negation-of-a-Value.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\obj\Debug\net9.0\refint\456-Negation-of-a-Value.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\obj\Debug\net9.0\456-Negation-of-a-Value.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\obj\Debug\net9.0\456-Negation-of-a-Value.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\456-Negation-of-a-Value\obj\Debug\net9.0\ref\456-Negation-of-a-Value.dll
