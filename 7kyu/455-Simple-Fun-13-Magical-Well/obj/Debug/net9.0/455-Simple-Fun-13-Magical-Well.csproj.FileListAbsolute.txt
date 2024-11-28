@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\bin\Debug\net9.0\455-Simple-Fun-13-Magical-Well.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\bin\Debug\net9.0\455-Simple-Fun-13-Magical-Well.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\bin\Debug\net9.0\455-Simple-Fun-13-Magical-Well.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\bin\Debug\net9.0\455-Simple-Fun-13-Magical-Well.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\bin\Debug\net9.0\455-Simple-Fun-13-Magical-Well.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\obj\Debug\net9.0\455-Simple-Fun-13-Magical-Well.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\obj\Debug\net9.0\455-Simple-Fun-13-Magical-Well.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\obj\Debug\net9.0\455-Simple-Fun-13-Magical-Well.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\obj\Debug\net9.0\455-Simple-Fun-13-Magical-Well.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\obj\Debug\net9.0\455-Simple-Fun-13-Magical-Well.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\obj\Debug\net9.0\455-Simple-Fun-13-Magical-Well.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\obj\Debug\net9.0\refint\455-Simple-Fun-13-Magical-Well.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\obj\Debug\net9.0\455-Simple-Fun-13-Magical-Well.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\obj\Debug\net9.0\455-Simple-Fun-13-Magical-Well.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\455-Simple-Fun-13-Magical-Well\obj\Debug\net9.0\ref\455-Simple-Fun-13-Magical-Well.dll
