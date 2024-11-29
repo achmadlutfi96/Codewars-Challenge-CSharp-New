@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\bin\Debug\net9.0\459-Simple-Fun-8-Kill-K-th-Bit.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\bin\Debug\net9.0\459-Simple-Fun-8-Kill-K-th-Bit.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\bin\Debug\net9.0\459-Simple-Fun-8-Kill-K-th-Bit.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\bin\Debug\net9.0\459-Simple-Fun-8-Kill-K-th-Bit.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\bin\Debug\net9.0\459-Simple-Fun-8-Kill-K-th-Bit.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\obj\Debug\net9.0\459-Simple-Fun-8-Kill-K-th-Bit.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\obj\Debug\net9.0\459-Simple-Fun-8-Kill-K-th-Bit.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\obj\Debug\net9.0\459-Simple-Fun-8-Kill-K-th-Bit.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\obj\Debug\net9.0\459-Simple-Fun-8-Kill-K-th-Bit.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\obj\Debug\net9.0\459-Simple-Fun-8-Kill-K-th-Bit.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\obj\Debug\net9.0\459-Simple-Fun-8-Kill-K-th-Bit.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\obj\Debug\net9.0\refint\459-Simple-Fun-8-Kill-K-th-Bit.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\obj\Debug\net9.0\459-Simple-Fun-8-Kill-K-th-Bit.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\obj\Debug\net9.0\459-Simple-Fun-8-Kill-K-th-Bit.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\459-Simple-Fun-8-Kill-K-th-Bit\obj\Debug\net9.0\ref\459-Simple-Fun-8-Kill-K-th-Bit.dll
