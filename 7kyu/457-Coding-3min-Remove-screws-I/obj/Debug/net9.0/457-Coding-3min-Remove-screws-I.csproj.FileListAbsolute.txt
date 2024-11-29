@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\bin\Debug\net9.0\457-Coding-3min-Remove-screws-I.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\bin\Debug\net9.0\457-Coding-3min-Remove-screws-I.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\bin\Debug\net9.0\457-Coding-3min-Remove-screws-I.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\bin\Debug\net9.0\457-Coding-3min-Remove-screws-I.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\bin\Debug\net9.0\457-Coding-3min-Remove-screws-I.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\obj\Debug\net9.0\457-Coding-3min-Remove-screws-I.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\obj\Debug\net9.0\457-Coding-3min-Remove-screws-I.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\obj\Debug\net9.0\457-Coding-3min-Remove-screws-I.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\obj\Debug\net9.0\457-Coding-3min-Remove-screws-I.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\obj\Debug\net9.0\457-Coding-3min-Remove-screws-I.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\obj\Debug\net9.0\457-Coding-3min-Remove-screws-I.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\obj\Debug\net9.0\refint\457-Coding-3min-Remove-screws-I.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\obj\Debug\net9.0\457-Coding-3min-Remove-screws-I.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\obj\Debug\net9.0\457-Coding-3min-Remove-screws-I.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\457-Coding-3min-Remove-screws-I\obj\Debug\net9.0\ref\457-Coding-3min-Remove-screws-I.dll
