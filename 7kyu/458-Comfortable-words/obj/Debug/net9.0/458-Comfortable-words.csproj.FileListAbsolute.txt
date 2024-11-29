@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\bin\Debug\net9.0\458-Comfortable-words.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\bin\Debug\net9.0\458-Comfortable-words.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\bin\Debug\net9.0\458-Comfortable-words.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\bin\Debug\net9.0\458-Comfortable-words.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\bin\Debug\net9.0\458-Comfortable-words.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\obj\Debug\net9.0\458-Comfortable-words.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\obj\Debug\net9.0\458-Comfortable-words.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\obj\Debug\net9.0\458-Comfortable-words.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\obj\Debug\net9.0\458-Comfortable-words.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\obj\Debug\net9.0\458-Comfortable-words.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\obj\Debug\net9.0\458-Comfortable-words.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\obj\Debug\net9.0\refint\458-Comfortable-words.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\obj\Debug\net9.0\458-Comfortable-words.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\obj\Debug\net9.0\458-Comfortable-words.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\458-Comfortable-words\obj\Debug\net9.0\ref\458-Comfortable-words.dll
