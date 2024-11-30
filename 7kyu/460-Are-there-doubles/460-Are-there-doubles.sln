@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "460-Are-there-doubles", "460-Are-there-doubles.csproj", "{F462BA2E-D8D8-4271-A25E-52F91E196CE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F462BA2E-D8D8-4271-A25E-52F91E196CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F462BA2E-D8D8-4271-A25E-52F91E196CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F462BA2E-D8D8-4271-A25E-52F91E196CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F462BA2E-D8D8-4271-A25E-52F91E196CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8F5F593-357C-449F-91C7-80318DEC135A}
+	EndGlobalSection
+EndGlobal

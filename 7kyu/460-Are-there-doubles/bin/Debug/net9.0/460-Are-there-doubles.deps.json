@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "460-Are-there-doubles/1.0.0": {
+        "runtime": {
+          "460-Are-there-doubles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "460-Are-there-doubles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

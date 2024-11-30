@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\bin\Debug\net9.0\460-Are-there-doubles.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\bin\Debug\net9.0\460-Are-there-doubles.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\bin\Debug\net9.0\460-Are-there-doubles.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\bin\Debug\net9.0\460-Are-there-doubles.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\bin\Debug\net9.0\460-Are-there-doubles.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\obj\Debug\net9.0\460-Are-there-doubles.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\obj\Debug\net9.0\460-Are-there-doubles.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\obj\Debug\net9.0\460-Are-there-doubles.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\obj\Debug\net9.0\460-Are-there-doubles.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\obj\Debug\net9.0\460-Are-there-doubles.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\obj\Debug\net9.0\460-Are-there-doubles.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\obj\Debug\net9.0\refint\460-Are-there-doubles.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\obj\Debug\net9.0\460-Are-there-doubles.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\obj\Debug\net9.0\460-Are-there-doubles.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\460-Are-there-doubles\obj\Debug\net9.0\ref\460-Are-there-doubles.dll

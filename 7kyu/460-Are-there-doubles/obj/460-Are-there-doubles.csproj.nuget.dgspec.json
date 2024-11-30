@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\459-Simple-Fun-8-Kill-K-th-Bit\\459-Simple-Fun-8-Kill-K-th-Bit.csproj": {}
+    "f:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\460-Are-there-doubles\\460-Are-there-doubles.csproj": {}
   },
   "projects": {
-    "F:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\459-Simple-Fun-8-Kill-K-th-Bit\\459-Simple-Fun-8-Kill-K-th-Bit.csproj": {
+    "f:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\460-Are-there-doubles\\460-Are-there-doubles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\459-Simple-Fun-8-Kill-K-th-Bit\\459-Simple-Fun-8-Kill-K-th-Bit.csproj",
-        "projectName": "459-Simple-Fun-8-Kill-K-th-Bit",
-        "projectPath": "F:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\459-Simple-Fun-8-Kill-K-th-Bit\\459-Simple-Fun-8-Kill-K-th-Bit.csproj",
+        "projectUniqueName": "f:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\460-Are-there-doubles\\460-Are-there-doubles.csproj",
+        "projectName": "460-Are-there-doubles",
+        "projectPath": "f:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\460-Are-there-doubles\\460-Are-there-doubles.csproj",
         "packagesPath": "C:\\Users\\alhac\\.nuget\\packages\\",
-        "outputPath": "F:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\459-Simple-Fun-8-Kill-K-th-Bit\\obj\\",
+        "outputPath": "f:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\460-Are-there-doubles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\alhac\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
