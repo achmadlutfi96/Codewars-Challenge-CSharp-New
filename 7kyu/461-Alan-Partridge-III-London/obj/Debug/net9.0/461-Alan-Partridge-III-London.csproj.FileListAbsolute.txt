@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\bin\Debug\net9.0\461-Alan-Partridge-III-London.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\bin\Debug\net9.0\461-Alan-Partridge-III-London.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\bin\Debug\net9.0\461-Alan-Partridge-III-London.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\bin\Debug\net9.0\461-Alan-Partridge-III-London.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\bin\Debug\net9.0\461-Alan-Partridge-III-London.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\obj\Debug\net9.0\461-Alan-Partridge-III-London.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\obj\Debug\net9.0\461-Alan-Partridge-III-London.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\obj\Debug\net9.0\461-Alan-Partridge-III-London.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\obj\Debug\net9.0\461-Alan-Partridge-III-London.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\obj\Debug\net9.0\461-Alan-Partridge-III-London.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\obj\Debug\net9.0\461-Alan-Partridge-III-London.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\obj\Debug\net9.0\refint\461-Alan-Partridge-III-London.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\obj\Debug\net9.0\461-Alan-Partridge-III-London.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\obj\Debug\net9.0\461-Alan-Partridge-III-London.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\461-Alan-Partridge-III-London\obj\Debug\net9.0\ref\461-Alan-Partridge-III-London.dll
