@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\bin\Debug\net9.0\462-The-Hidden-Word.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\bin\Debug\net9.0\462-The-Hidden-Word.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\bin\Debug\net9.0\462-The-Hidden-Word.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\bin\Debug\net9.0\462-The-Hidden-Word.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\bin\Debug\net9.0\462-The-Hidden-Word.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\obj\Debug\net9.0\462-The-Hidden-Word.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\obj\Debug\net9.0\462-The-Hidden-Word.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\obj\Debug\net9.0\462-The-Hidden-Word.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\obj\Debug\net9.0\462-The-Hidden-Word.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\obj\Debug\net9.0\462-The-Hidden-Word.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\obj\Debug\net9.0\462-The-Hidden-Word.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\obj\Debug\net9.0\refint\462-The-Hidden-Word.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\obj\Debug\net9.0\462-The-Hidden-Word.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\obj\Debug\net9.0\462-The-Hidden-Word.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\462-The-Hidden-Word\obj\Debug\net9.0\ref\462-The-Hidden-Word.dll
