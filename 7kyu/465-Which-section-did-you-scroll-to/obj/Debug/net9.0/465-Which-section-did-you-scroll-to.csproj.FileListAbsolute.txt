@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\bin\Debug\net9.0\465-Which-section-did-you-scroll-to.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\bin\Debug\net9.0\465-Which-section-did-you-scroll-to.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\bin\Debug\net9.0\465-Which-section-did-you-scroll-to.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\bin\Debug\net9.0\465-Which-section-did-you-scroll-to.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\bin\Debug\net9.0\465-Which-section-did-you-scroll-to.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\obj\Debug\net9.0\465-Which-section-did-you-scroll-to.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\obj\Debug\net9.0\465-Which-section-did-you-scroll-to.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\obj\Debug\net9.0\465-Which-section-did-you-scroll-to.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\obj\Debug\net9.0\465-Which-section-did-you-scroll-to.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\obj\Debug\net9.0\465-Which-section-did-you-scroll-to.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\obj\Debug\net9.0\465-Which-section-did-you-scroll-to.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\obj\Debug\net9.0\refint\465-Which-section-did-you-scroll-to.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\obj\Debug\net9.0\465-Which-section-did-you-scroll-to.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\obj\Debug\net9.0\465-Which-section-did-you-scroll-to.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\465-Which-section-did-you-scroll-to\obj\Debug\net9.0\ref\465-Which-section-did-you-scroll-to.dll
