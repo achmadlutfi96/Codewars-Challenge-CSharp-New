@@ -1,0 +1,15 @@
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\bin\Debug\net9.0\463-Common-Substrings.exe
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\bin\Debug\net9.0\463-Common-Substrings.deps.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\bin\Debug\net9.0\463-Common-Substrings.runtimeconfig.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\bin\Debug\net9.0\463-Common-Substrings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\bin\Debug\net9.0\463-Common-Substrings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\obj\Debug\net9.0\463-Common-Substrings.GeneratedMSBuildEditorConfig.editorconfig
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\obj\Debug\net9.0\463-Common-Substrings.AssemblyInfoInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\obj\Debug\net9.0\463-Common-Substrings.AssemblyInfo.cs
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\obj\Debug\net9.0\463-Common-Substrings.csproj.CoreCompileInputs.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\obj\Debug\net9.0\463-Common-Substrings.sourcelink.json
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\obj\Debug\net9.0\463-Common-Substrings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\obj\Debug\net9.0\refint\463-Common-Substrings.dll
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\obj\Debug\net9.0\463-Common-Substrings.pdb
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\obj\Debug\net9.0\463-Common-Substrings.genruntimeconfig.cache
+c:\DATA 2\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\463-Common-Substrings\obj\Debug\net9.0\ref\463-Common-Substrings.dll
