@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\462-The-Hidden-Word\\462-The-Hidden-Word.csproj": {}
+    "F:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\462-The-Hidden-Word\\462-The-Hidden-Word.csproj": {}
   },
   "projects": {
-    "f:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\462-The-Hidden-Word\\462-The-Hidden-Word.csproj": {
+    "F:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\462-The-Hidden-Word\\462-The-Hidden-Word.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\462-The-Hidden-Word\\462-The-Hidden-Word.csproj",
+        "projectUniqueName": "F:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\462-The-Hidden-Word\\462-The-Hidden-Word.csproj",
         "projectName": "462-The-Hidden-Word",
-        "projectPath": "f:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\462-The-Hidden-Word\\462-The-Hidden-Word.csproj",
+        "projectPath": "F:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\462-The-Hidden-Word\\462-The-Hidden-Word.csproj",
         "packagesPath": "C:\\Users\\alhac\\.nuget\\packages\\",
-        "outputPath": "f:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\462-The-Hidden-Word\\obj\\",
+        "outputPath": "F:\\CODING-CHALLENGE\\Codewars-Challenge-CSharp-New\\7kyu\\462-The-Hidden-Word\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\alhac\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",

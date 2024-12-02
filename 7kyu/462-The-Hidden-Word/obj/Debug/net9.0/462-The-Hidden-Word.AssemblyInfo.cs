@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("462-The-Hidden-Word")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1b4cea78850f1117167973a2c33c19ffdc19a15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22e86912b017ea006cf9e05f4dada5247184a4d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("462-The-Hidden-Word")]
 [assembly: System.Reflection.AssemblyTitleAttribute("462-The-Hidden-Word")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
