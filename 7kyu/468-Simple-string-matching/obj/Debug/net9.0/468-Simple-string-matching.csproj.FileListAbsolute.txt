@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\bin\Debug\net9.0\468-Simple-string-matching.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\bin\Debug\net9.0\468-Simple-string-matching.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\bin\Debug\net9.0\468-Simple-string-matching.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\bin\Debug\net9.0\468-Simple-string-matching.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\bin\Debug\net9.0\468-Simple-string-matching.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\obj\Debug\net9.0\468-Simple-string-matching.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\obj\Debug\net9.0\468-Simple-string-matching.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\obj\Debug\net9.0\468-Simple-string-matching.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\obj\Debug\net9.0\468-Simple-string-matching.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\obj\Debug\net9.0\468-Simple-string-matching.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\obj\Debug\net9.0\468-Simple-string-matching.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\obj\Debug\net9.0\refint\468-Simple-string-matching.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\obj\Debug\net9.0\468-Simple-string-matching.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\obj\Debug\net9.0\468-Simple-string-matching.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\468-Simple-string-matching\obj\Debug\net9.0\ref\468-Simple-string-matching.dll
