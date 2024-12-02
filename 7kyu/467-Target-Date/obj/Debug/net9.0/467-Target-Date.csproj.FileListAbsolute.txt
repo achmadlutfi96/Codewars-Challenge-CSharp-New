@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\bin\Debug\net9.0\467-Target-Date.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\bin\Debug\net9.0\467-Target-Date.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\bin\Debug\net9.0\467-Target-Date.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\bin\Debug\net9.0\467-Target-Date.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\bin\Debug\net9.0\467-Target-Date.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\obj\Debug\net9.0\467-Target-Date.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\obj\Debug\net9.0\467-Target-Date.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\obj\Debug\net9.0\467-Target-Date.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\obj\Debug\net9.0\467-Target-Date.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\obj\Debug\net9.0\467-Target-Date.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\obj\Debug\net9.0\467-Target-Date.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\obj\Debug\net9.0\refint\467-Target-Date.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\obj\Debug\net9.0\467-Target-Date.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\obj\Debug\net9.0\467-Target-Date.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\467-Target-Date\obj\Debug\net9.0\ref\467-Target-Date.dll
