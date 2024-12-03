@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\bin\Debug\net9.0\469-Katastrophe.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\bin\Debug\net9.0\469-Katastrophe.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\bin\Debug\net9.0\469-Katastrophe.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\bin\Debug\net9.0\469-Katastrophe.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\bin\Debug\net9.0\469-Katastrophe.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\obj\Debug\net9.0\469-Katastrophe.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\obj\Debug\net9.0\469-Katastrophe.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\obj\Debug\net9.0\469-Katastrophe.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\obj\Debug\net9.0\469-Katastrophe.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\obj\Debug\net9.0\469-Katastrophe.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\obj\Debug\net9.0\469-Katastrophe.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\obj\Debug\net9.0\refint\469-Katastrophe.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\obj\Debug\net9.0\469-Katastrophe.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\obj\Debug\net9.0\469-Katastrophe.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\469-Katastrophe\obj\Debug\net9.0\ref\469-Katastrophe.dll
