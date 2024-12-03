@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\bin\Debug\net9.0\470-Harvest-Festival.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\bin\Debug\net9.0\470-Harvest-Festival.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\bin\Debug\net9.0\470-Harvest-Festival.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\bin\Debug\net9.0\470-Harvest-Festival.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\bin\Debug\net9.0\470-Harvest-Festival.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\obj\Debug\net9.0\470-Harvest-Festival.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\obj\Debug\net9.0\470-Harvest-Festival.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\obj\Debug\net9.0\470-Harvest-Festival.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\obj\Debug\net9.0\470-Harvest-Festival.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\obj\Debug\net9.0\470-Harvest-Festival.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\obj\Debug\net9.0\470-Harvest-Festival.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\obj\Debug\net9.0\refint\470-Harvest-Festival.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\obj\Debug\net9.0\470-Harvest-Festival.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\obj\Debug\net9.0\470-Harvest-Festival.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\470-Harvest-Festival\obj\Debug\net9.0\ref\470-Harvest-Festival.dll
