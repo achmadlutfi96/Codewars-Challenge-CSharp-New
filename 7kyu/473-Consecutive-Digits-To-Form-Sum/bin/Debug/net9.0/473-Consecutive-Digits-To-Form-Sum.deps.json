@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "473-Consecutive-Digits-To-Form-Sum/1.0.0": {
+        "runtime": {
+          "473-Consecutive-Digits-To-Form-Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "473-Consecutive-Digits-To-Form-Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

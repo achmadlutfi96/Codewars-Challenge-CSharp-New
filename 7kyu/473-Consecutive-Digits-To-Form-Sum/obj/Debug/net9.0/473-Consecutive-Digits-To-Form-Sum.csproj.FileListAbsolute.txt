@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\bin\Debug\net9.0\473-Consecutive-Digits-To-Form-Sum.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\bin\Debug\net9.0\473-Consecutive-Digits-To-Form-Sum.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\bin\Debug\net9.0\473-Consecutive-Digits-To-Form-Sum.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\bin\Debug\net9.0\473-Consecutive-Digits-To-Form-Sum.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\bin\Debug\net9.0\473-Consecutive-Digits-To-Form-Sum.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\obj\Debug\net9.0\473-Consecutive-Digits-To-Form-Sum.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\obj\Debug\net9.0\473-Consecutive-Digits-To-Form-Sum.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\obj\Debug\net9.0\473-Consecutive-Digits-To-Form-Sum.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\obj\Debug\net9.0\473-Consecutive-Digits-To-Form-Sum.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\obj\Debug\net9.0\473-Consecutive-Digits-To-Form-Sum.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\obj\Debug\net9.0\473-Consecutive-Digits-To-Form-Sum.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\obj\Debug\net9.0\refint\473-Consecutive-Digits-To-Form-Sum.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\obj\Debug\net9.0\473-Consecutive-Digits-To-Form-Sum.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\obj\Debug\net9.0\473-Consecutive-Digits-To-Form-Sum.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\473-Consecutive-Digits-To-Form-Sum\obj\Debug\net9.0\ref\473-Consecutive-Digits-To-Form-Sum.dll

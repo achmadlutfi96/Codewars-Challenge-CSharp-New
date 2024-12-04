@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\bin\Debug\net9.0\474-Hands-Up.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\bin\Debug\net9.0\474-Hands-Up.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\bin\Debug\net9.0\474-Hands-Up.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\bin\Debug\net9.0\474-Hands-Up.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\bin\Debug\net9.0\474-Hands-Up.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\obj\Debug\net9.0\474-Hands-Up.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\obj\Debug\net9.0\474-Hands-Up.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\obj\Debug\net9.0\474-Hands-Up.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\obj\Debug\net9.0\474-Hands-Up.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\obj\Debug\net9.0\474-Hands-Up.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\obj\Debug\net9.0\474-Hands-Up.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\obj\Debug\net9.0\refint\474-Hands-Up.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\obj\Debug\net9.0\474-Hands-Up.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\obj\Debug\net9.0\474-Hands-Up.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\474-Hands-Up\obj\Debug\net9.0\ref\474-Hands-Up.dll
