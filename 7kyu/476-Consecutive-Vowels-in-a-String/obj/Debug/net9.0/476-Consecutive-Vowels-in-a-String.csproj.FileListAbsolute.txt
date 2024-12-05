@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\bin\Debug\net9.0\476-Consecutive-Vowels-in-a-String.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\bin\Debug\net9.0\476-Consecutive-Vowels-in-a-String.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\bin\Debug\net9.0\476-Consecutive-Vowels-in-a-String.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\bin\Debug\net9.0\476-Consecutive-Vowels-in-a-String.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\bin\Debug\net9.0\476-Consecutive-Vowels-in-a-String.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\obj\Debug\net9.0\476-Consecutive-Vowels-in-a-String.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\obj\Debug\net9.0\476-Consecutive-Vowels-in-a-String.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\obj\Debug\net9.0\476-Consecutive-Vowels-in-a-String.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\obj\Debug\net9.0\476-Consecutive-Vowels-in-a-String.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\obj\Debug\net9.0\476-Consecutive-Vowels-in-a-String.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\obj\Debug\net9.0\476-Consecutive-Vowels-in-a-String.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\obj\Debug\net9.0\refint\476-Consecutive-Vowels-in-a-String.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\obj\Debug\net9.0\476-Consecutive-Vowels-in-a-String.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\obj\Debug\net9.0\476-Consecutive-Vowels-in-a-String.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\476-Consecutive-Vowels-in-a-String\obj\Debug\net9.0\ref\476-Consecutive-Vowels-in-a-String.dll
