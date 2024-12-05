@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\bin\Debug\net9.0\475-Distance-from-the-average.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\bin\Debug\net9.0\475-Distance-from-the-average.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\bin\Debug\net9.0\475-Distance-from-the-average.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\bin\Debug\net9.0\475-Distance-from-the-average.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\bin\Debug\net9.0\475-Distance-from-the-average.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\obj\Debug\net9.0\475-Distance-from-the-average.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\obj\Debug\net9.0\475-Distance-from-the-average.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\obj\Debug\net9.0\475-Distance-from-the-average.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\obj\Debug\net9.0\475-Distance-from-the-average.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\obj\Debug\net9.0\475-Distance-from-the-average.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\obj\Debug\net9.0\475-Distance-from-the-average.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\obj\Debug\net9.0\refint\475-Distance-from-the-average.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\obj\Debug\net9.0\475-Distance-from-the-average.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\obj\Debug\net9.0\475-Distance-from-the-average.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\475-Distance-from-the-average\obj\Debug\net9.0\ref\475-Distance-from-the-average.dll

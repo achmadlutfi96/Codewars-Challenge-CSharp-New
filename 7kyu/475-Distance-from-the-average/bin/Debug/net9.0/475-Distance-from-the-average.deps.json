@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "475-Distance-from-the-average/1.0.0": {
+        "runtime": {
+          "475-Distance-from-the-average.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "475-Distance-from-the-average/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
