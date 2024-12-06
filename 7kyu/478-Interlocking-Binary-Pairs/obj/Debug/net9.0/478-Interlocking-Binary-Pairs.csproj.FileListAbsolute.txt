@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\bin\Debug\net9.0\478-Interlocking-Binary-Pairs.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\bin\Debug\net9.0\478-Interlocking-Binary-Pairs.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\bin\Debug\net9.0\478-Interlocking-Binary-Pairs.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\bin\Debug\net9.0\478-Interlocking-Binary-Pairs.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\bin\Debug\net9.0\478-Interlocking-Binary-Pairs.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\obj\Debug\net9.0\478-Interlocking-Binary-Pairs.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\obj\Debug\net9.0\478-Interlocking-Binary-Pairs.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\obj\Debug\net9.0\478-Interlocking-Binary-Pairs.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\obj\Debug\net9.0\478-Interlocking-Binary-Pairs.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\obj\Debug\net9.0\478-Interlocking-Binary-Pairs.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\obj\Debug\net9.0\478-Interlocking-Binary-Pairs.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\obj\Debug\net9.0\refint\478-Interlocking-Binary-Pairs.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\obj\Debug\net9.0\478-Interlocking-Binary-Pairs.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\obj\Debug\net9.0\478-Interlocking-Binary-Pairs.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\478-Interlocking-Binary-Pairs\obj\Debug\net9.0\ref\478-Interlocking-Binary-Pairs.dll
