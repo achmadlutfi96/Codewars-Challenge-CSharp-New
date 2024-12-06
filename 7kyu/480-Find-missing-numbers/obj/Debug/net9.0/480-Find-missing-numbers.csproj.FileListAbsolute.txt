@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\bin\Debug\net9.0\480-Find-missing-numbers.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\bin\Debug\net9.0\480-Find-missing-numbers.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\bin\Debug\net9.0\480-Find-missing-numbers.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\bin\Debug\net9.0\480-Find-missing-numbers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\bin\Debug\net9.0\480-Find-missing-numbers.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\obj\Debug\net9.0\480-Find-missing-numbers.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\obj\Debug\net9.0\480-Find-missing-numbers.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\obj\Debug\net9.0\480-Find-missing-numbers.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\obj\Debug\net9.0\480-Find-missing-numbers.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\obj\Debug\net9.0\480-Find-missing-numbers.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\obj\Debug\net9.0\480-Find-missing-numbers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\obj\Debug\net9.0\refint\480-Find-missing-numbers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\obj\Debug\net9.0\480-Find-missing-numbers.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\obj\Debug\net9.0\480-Find-missing-numbers.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\480-Find-missing-numbers\obj\Debug\net9.0\ref\480-Find-missing-numbers.dll
