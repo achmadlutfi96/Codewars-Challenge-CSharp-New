@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\bin\Debug\net9.0\483-Mobile-Display-Keystrokes.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\bin\Debug\net9.0\483-Mobile-Display-Keystrokes.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\bin\Debug\net9.0\483-Mobile-Display-Keystrokes.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\bin\Debug\net9.0\483-Mobile-Display-Keystrokes.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\bin\Debug\net9.0\483-Mobile-Display-Keystrokes.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\obj\Debug\net9.0\483-Mobile-Display-Keystrokes.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\obj\Debug\net9.0\483-Mobile-Display-Keystrokes.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\obj\Debug\net9.0\483-Mobile-Display-Keystrokes.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\obj\Debug\net9.0\483-Mobile-Display-Keystrokes.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\obj\Debug\net9.0\483-Mobile-Display-Keystrokes.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\obj\Debug\net9.0\483-Mobile-Display-Keystrokes.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\obj\Debug\net9.0\refint\483-Mobile-Display-Keystrokes.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\obj\Debug\net9.0\483-Mobile-Display-Keystrokes.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\obj\Debug\net9.0\483-Mobile-Display-Keystrokes.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\483-Mobile-Display-Keystrokes\obj\Debug\net9.0\ref\483-Mobile-Display-Keystrokes.dll
