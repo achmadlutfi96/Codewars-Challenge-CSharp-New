@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\bin\Debug\net9.0\482-Zebulans-Nightmare.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\bin\Debug\net9.0\482-Zebulans-Nightmare.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\bin\Debug\net9.0\482-Zebulans-Nightmare.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\bin\Debug\net9.0\482-Zebulans-Nightmare.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\bin\Debug\net9.0\482-Zebulans-Nightmare.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\obj\Debug\net9.0\482-Zebulans-Nightmare.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\obj\Debug\net9.0\482-Zebulans-Nightmare.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\obj\Debug\net9.0\482-Zebulans-Nightmare.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\obj\Debug\net9.0\482-Zebulans-Nightmare.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\obj\Debug\net9.0\482-Zebulans-Nightmare.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\obj\Debug\net9.0\482-Zebulans-Nightmare.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\obj\Debug\net9.0\refint\482-Zebulans-Nightmare.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\obj\Debug\net9.0\482-Zebulans-Nightmare.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\obj\Debug\net9.0\482-Zebulans-Nightmare.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\482-Zebulans-Nightmare\obj\Debug\net9.0\ref\482-Zebulans-Nightmare.dll
