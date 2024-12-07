@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\bin\Debug\net9.0\481-Point-in-a-unit-circle.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\bin\Debug\net9.0\481-Point-in-a-unit-circle.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\bin\Debug\net9.0\481-Point-in-a-unit-circle.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\bin\Debug\net9.0\481-Point-in-a-unit-circle.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\bin\Debug\net9.0\481-Point-in-a-unit-circle.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\obj\Debug\net9.0\481-Point-in-a-unit-circle.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\obj\Debug\net9.0\481-Point-in-a-unit-circle.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\obj\Debug\net9.0\481-Point-in-a-unit-circle.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\obj\Debug\net9.0\481-Point-in-a-unit-circle.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\obj\Debug\net9.0\481-Point-in-a-unit-circle.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\obj\Debug\net9.0\481-Point-in-a-unit-circle.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\obj\Debug\net9.0\refint\481-Point-in-a-unit-circle.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\obj\Debug\net9.0\481-Point-in-a-unit-circle.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\obj\Debug\net9.0\481-Point-in-a-unit-circle.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\481-Point-in-a-unit-circle\obj\Debug\net9.0\ref\481-Point-in-a-unit-circle.dll
