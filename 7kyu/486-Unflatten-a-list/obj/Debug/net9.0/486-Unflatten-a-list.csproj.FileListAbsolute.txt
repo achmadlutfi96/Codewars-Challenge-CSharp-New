@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\bin\Debug\net9.0\486-Unflatten-a-list.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\bin\Debug\net9.0\486-Unflatten-a-list.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\bin\Debug\net9.0\486-Unflatten-a-list.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\bin\Debug\net9.0\486-Unflatten-a-list.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\bin\Debug\net9.0\486-Unflatten-a-list.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\obj\Debug\net9.0\486-Unflatten-a-list.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\obj\Debug\net9.0\486-Unflatten-a-list.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\obj\Debug\net9.0\486-Unflatten-a-list.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\obj\Debug\net9.0\486-Unflatten-a-list.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\obj\Debug\net9.0\486-Unflatten-a-list.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\obj\Debug\net9.0\486-Unflatten-a-list.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\obj\Debug\net9.0\refint\486-Unflatten-a-list.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\obj\Debug\net9.0\486-Unflatten-a-list.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\obj\Debug\net9.0\486-Unflatten-a-list.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\486-Unflatten-a-list\obj\Debug\net9.0\ref\486-Unflatten-a-list.dll
