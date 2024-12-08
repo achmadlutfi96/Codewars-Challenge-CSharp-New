@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\bin\Debug\net9.0\484-Operations-with-sequence.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\bin\Debug\net9.0\484-Operations-with-sequence.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\bin\Debug\net9.0\484-Operations-with-sequence.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\bin\Debug\net9.0\484-Operations-with-sequence.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\bin\Debug\net9.0\484-Operations-with-sequence.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\obj\Debug\net9.0\484-Operations-with-sequence.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\obj\Debug\net9.0\484-Operations-with-sequence.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\obj\Debug\net9.0\484-Operations-with-sequence.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\obj\Debug\net9.0\484-Operations-with-sequence.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\obj\Debug\net9.0\484-Operations-with-sequence.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\obj\Debug\net9.0\484-Operations-with-sequence.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\obj\Debug\net9.0\refint\484-Operations-with-sequence.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\obj\Debug\net9.0\484-Operations-with-sequence.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\obj\Debug\net9.0\484-Operations-with-sequence.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\484-Operations-with-sequence\obj\Debug\net9.0\ref\484-Operations-with-sequence.dll

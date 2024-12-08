@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "484-Operations-with-sequence/1.0.0": {
+        "runtime": {
+          "484-Operations-with-sequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "484-Operations-with-sequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
