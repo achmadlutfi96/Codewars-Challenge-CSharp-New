@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\bin\Debug\net9.0\485-New-£5-notes-collectors.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\bin\Debug\net9.0\485-New-£5-notes-collectors.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\bin\Debug\net9.0\485-New-£5-notes-collectors.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\bin\Debug\net9.0\485-New-£5-notes-collectors.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\bin\Debug\net9.0\485-New-£5-notes-collectors.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\obj\Debug\net9.0\485-New-£5-notes-collectors.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\obj\Debug\net9.0\485-New-£5-notes-collectors.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\obj\Debug\net9.0\485-New-£5-notes-collectors.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\obj\Debug\net9.0\485-New-£5-notes-collectors.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\obj\Debug\net9.0\485-New-£5-notes-collectors.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\obj\Debug\net9.0\485-New-£5-notes-collectors.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\obj\Debug\net9.0\refint\485-New-£5-notes-collectors.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\obj\Debug\net9.0\485-New-£5-notes-collectors.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\obj\Debug\net9.0\485-New-£5-notes-collectors.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\485-New-£5-notes-collectors\obj\Debug\net9.0\ref\485-New-£5-notes-collectors.dll

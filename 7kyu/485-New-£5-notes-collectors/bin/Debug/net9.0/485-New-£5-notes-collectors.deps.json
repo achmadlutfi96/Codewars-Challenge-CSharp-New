@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "485-New-£5-notes-collectors/1.0.0": {
+        "runtime": {
+          "485-New-£5-notes-collectors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "485-New-£5-notes-collectors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
