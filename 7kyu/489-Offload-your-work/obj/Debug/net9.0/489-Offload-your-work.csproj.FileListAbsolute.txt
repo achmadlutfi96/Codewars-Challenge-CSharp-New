@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\bin\Debug\net9.0\489-Offload-your-work.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\bin\Debug\net9.0\489-Offload-your-work.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\bin\Debug\net9.0\489-Offload-your-work.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\bin\Debug\net9.0\489-Offload-your-work.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\bin\Debug\net9.0\489-Offload-your-work.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\obj\Debug\net9.0\489-Offload-your-work.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\obj\Debug\net9.0\489-Offload-your-work.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\obj\Debug\net9.0\489-Offload-your-work.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\obj\Debug\net9.0\489-Offload-your-work.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\obj\Debug\net9.0\489-Offload-your-work.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\obj\Debug\net9.0\489-Offload-your-work.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\obj\Debug\net9.0\refint\489-Offload-your-work.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\obj\Debug\net9.0\489-Offload-your-work.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\obj\Debug\net9.0\489-Offload-your-work.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\489-Offload-your-work\obj\Debug\net9.0\ref\489-Offload-your-work.dll
