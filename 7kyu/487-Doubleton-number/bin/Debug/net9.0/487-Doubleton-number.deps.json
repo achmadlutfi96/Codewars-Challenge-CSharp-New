@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "487-Doubleton-number/1.0.0": {
+        "runtime": {
+          "487-Doubleton-number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "487-Doubleton-number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

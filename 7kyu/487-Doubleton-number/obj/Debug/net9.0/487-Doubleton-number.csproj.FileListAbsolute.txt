@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\bin\Debug\net9.0\487-Doubleton-number.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\bin\Debug\net9.0\487-Doubleton-number.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\bin\Debug\net9.0\487-Doubleton-number.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\bin\Debug\net9.0\487-Doubleton-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\bin\Debug\net9.0\487-Doubleton-number.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\obj\Debug\net9.0\487-Doubleton-number.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\obj\Debug\net9.0\487-Doubleton-number.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\obj\Debug\net9.0\487-Doubleton-number.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\obj\Debug\net9.0\487-Doubleton-number.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\obj\Debug\net9.0\487-Doubleton-number.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\obj\Debug\net9.0\487-Doubleton-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\obj\Debug\net9.0\refint\487-Doubleton-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\obj\Debug\net9.0\487-Doubleton-number.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\obj\Debug\net9.0\487-Doubleton-number.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\487-Doubleton-number\obj\Debug\net9.0\ref\487-Doubleton-number.dll
