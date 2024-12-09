@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\bin\Debug\net9.0\488-Only-one.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\bin\Debug\net9.0\488-Only-one.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\bin\Debug\net9.0\488-Only-one.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\bin\Debug\net9.0\488-Only-one.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\bin\Debug\net9.0\488-Only-one.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\obj\Debug\net9.0\488-Only-one.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\obj\Debug\net9.0\488-Only-one.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\obj\Debug\net9.0\488-Only-one.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\obj\Debug\net9.0\488-Only-one.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\obj\Debug\net9.0\488-Only-one.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\obj\Debug\net9.0\488-Only-one.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\obj\Debug\net9.0\refint\488-Only-one.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\obj\Debug\net9.0\488-Only-one.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\obj\Debug\net9.0\488-Only-one.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\488-Only-one\obj\Debug\net9.0\ref\488-Only-one.dll
