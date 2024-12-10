@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\bin\Debug\net9.0\490-Simple-Fun-9-Array-Packing.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\bin\Debug\net9.0\490-Simple-Fun-9-Array-Packing.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\bin\Debug\net9.0\490-Simple-Fun-9-Array-Packing.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\bin\Debug\net9.0\490-Simple-Fun-9-Array-Packing.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\bin\Debug\net9.0\490-Simple-Fun-9-Array-Packing.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\obj\Debug\net9.0\490-Simple-Fun-9-Array-Packing.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\obj\Debug\net9.0\490-Simple-Fun-9-Array-Packing.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\obj\Debug\net9.0\490-Simple-Fun-9-Array-Packing.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\obj\Debug\net9.0\490-Simple-Fun-9-Array-Packing.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\obj\Debug\net9.0\490-Simple-Fun-9-Array-Packing.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\obj\Debug\net9.0\490-Simple-Fun-9-Array-Packing.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\obj\Debug\net9.0\refint\490-Simple-Fun-9-Array-Packing.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\obj\Debug\net9.0\490-Simple-Fun-9-Array-Packing.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\obj\Debug\net9.0\490-Simple-Fun-9-Array-Packing.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\490-Simple-Fun-9-Array-Packing\obj\Debug\net9.0\ref\490-Simple-Fun-9-Array-Packing.dll
