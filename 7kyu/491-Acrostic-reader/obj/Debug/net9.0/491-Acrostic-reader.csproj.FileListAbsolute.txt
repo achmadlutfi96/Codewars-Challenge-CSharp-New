@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\bin\Debug\net9.0\491-Acrostic-reader.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\bin\Debug\net9.0\491-Acrostic-reader.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\bin\Debug\net9.0\491-Acrostic-reader.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\bin\Debug\net9.0\491-Acrostic-reader.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\bin\Debug\net9.0\491-Acrostic-reader.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\obj\Debug\net9.0\491-Acrostic-reader.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\obj\Debug\net9.0\491-Acrostic-reader.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\obj\Debug\net9.0\491-Acrostic-reader.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\obj\Debug\net9.0\491-Acrostic-reader.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\obj\Debug\net9.0\491-Acrostic-reader.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\obj\Debug\net9.0\491-Acrostic-reader.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\obj\Debug\net9.0\refint\491-Acrostic-reader.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\obj\Debug\net9.0\491-Acrostic-reader.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\obj\Debug\net9.0\491-Acrostic-reader.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\491-Acrostic-reader\obj\Debug\net9.0\ref\491-Acrostic-reader.dll
