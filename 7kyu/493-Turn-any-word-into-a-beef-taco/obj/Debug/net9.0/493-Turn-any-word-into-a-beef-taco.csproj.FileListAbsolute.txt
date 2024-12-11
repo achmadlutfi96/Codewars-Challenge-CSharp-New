@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\bin\Debug\net9.0\493-Turn-any-word-into-a-beef-taco.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\bin\Debug\net9.0\493-Turn-any-word-into-a-beef-taco.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\bin\Debug\net9.0\493-Turn-any-word-into-a-beef-taco.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\bin\Debug\net9.0\493-Turn-any-word-into-a-beef-taco.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\bin\Debug\net9.0\493-Turn-any-word-into-a-beef-taco.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\obj\Debug\net9.0\493-Turn-any-word-into-a-beef-taco.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\obj\Debug\net9.0\493-Turn-any-word-into-a-beef-taco.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\obj\Debug\net9.0\493-Turn-any-word-into-a-beef-taco.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\obj\Debug\net9.0\493-Turn-any-word-into-a-beef-taco.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\obj\Debug\net9.0\493-Turn-any-word-into-a-beef-taco.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\obj\Debug\net9.0\493-Turn-any-word-into-a-beef-taco.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\obj\Debug\net9.0\refint\493-Turn-any-word-into-a-beef-taco.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\obj\Debug\net9.0\493-Turn-any-word-into-a-beef-taco.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\obj\Debug\net9.0\493-Turn-any-word-into-a-beef-taco.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\493-Turn-any-word-into-a-beef-taco\obj\Debug\net9.0\ref\493-Turn-any-word-into-a-beef-taco.dll
