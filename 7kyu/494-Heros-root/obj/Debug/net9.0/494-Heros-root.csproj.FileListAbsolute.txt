@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\bin\Debug\net9.0\494-Heros-root.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\bin\Debug\net9.0\494-Heros-root.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\bin\Debug\net9.0\494-Heros-root.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\bin\Debug\net9.0\494-Heros-root.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\bin\Debug\net9.0\494-Heros-root.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\obj\Debug\net9.0\494-Heros-root.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\obj\Debug\net9.0\494-Heros-root.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\obj\Debug\net9.0\494-Heros-root.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\obj\Debug\net9.0\494-Heros-root.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\obj\Debug\net9.0\494-Heros-root.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\obj\Debug\net9.0\494-Heros-root.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\obj\Debug\net9.0\refint\494-Heros-root.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\obj\Debug\net9.0\494-Heros-root.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\obj\Debug\net9.0\494-Heros-root.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\494-Heros-root\obj\Debug\net9.0\ref\494-Heros-root.dll

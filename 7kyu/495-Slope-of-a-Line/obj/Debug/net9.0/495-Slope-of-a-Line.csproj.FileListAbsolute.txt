@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\bin\Debug\net9.0\495-Slope-of-a-Line.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\bin\Debug\net9.0\495-Slope-of-a-Line.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\bin\Debug\net9.0\495-Slope-of-a-Line.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\bin\Debug\net9.0\495-Slope-of-a-Line.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\bin\Debug\net9.0\495-Slope-of-a-Line.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\obj\Debug\net9.0\495-Slope-of-a-Line.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\obj\Debug\net9.0\495-Slope-of-a-Line.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\obj\Debug\net9.0\495-Slope-of-a-Line.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\obj\Debug\net9.0\495-Slope-of-a-Line.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\obj\Debug\net9.0\495-Slope-of-a-Line.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\obj\Debug\net9.0\495-Slope-of-a-Line.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\obj\Debug\net9.0\refint\495-Slope-of-a-Line.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\obj\Debug\net9.0\495-Slope-of-a-Line.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\obj\Debug\net9.0\495-Slope-of-a-Line.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\495-Slope-of-a-Line\obj\Debug\net9.0\ref\495-Slope-of-a-Line.dll
