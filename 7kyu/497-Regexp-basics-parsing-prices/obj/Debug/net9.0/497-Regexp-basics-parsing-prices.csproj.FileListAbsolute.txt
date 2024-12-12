@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\bin\Debug\net9.0\497-Regexp-basics-parsing-prices.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\bin\Debug\net9.0\497-Regexp-basics-parsing-prices.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\bin\Debug\net9.0\497-Regexp-basics-parsing-prices.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\bin\Debug\net9.0\497-Regexp-basics-parsing-prices.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\bin\Debug\net9.0\497-Regexp-basics-parsing-prices.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\obj\Debug\net9.0\497-Regexp-basics-parsing-prices.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\obj\Debug\net9.0\497-Regexp-basics-parsing-prices.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\obj\Debug\net9.0\497-Regexp-basics-parsing-prices.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\obj\Debug\net9.0\497-Regexp-basics-parsing-prices.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\obj\Debug\net9.0\497-Regexp-basics-parsing-prices.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\obj\Debug\net9.0\497-Regexp-basics-parsing-prices.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\obj\Debug\net9.0\refint\497-Regexp-basics-parsing-prices.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\obj\Debug\net9.0\497-Regexp-basics-parsing-prices.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\obj\Debug\net9.0\497-Regexp-basics-parsing-prices.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\497-Regexp-basics-parsing-prices\obj\Debug\net9.0\ref\497-Regexp-basics-parsing-prices.dll
