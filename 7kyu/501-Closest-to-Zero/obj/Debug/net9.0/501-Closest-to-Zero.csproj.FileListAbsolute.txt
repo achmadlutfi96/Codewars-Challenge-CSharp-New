@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\bin\Debug\net9.0\501-Closest-to-Zero.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\bin\Debug\net9.0\501-Closest-to-Zero.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\bin\Debug\net9.0\501-Closest-to-Zero.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\bin\Debug\net9.0\501-Closest-to-Zero.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\bin\Debug\net9.0\501-Closest-to-Zero.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\obj\Debug\net9.0\501-Closest-to-Zero.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\obj\Debug\net9.0\501-Closest-to-Zero.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\obj\Debug\net9.0\501-Closest-to-Zero.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\obj\Debug\net9.0\501-Closest-to-Zero.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\obj\Debug\net9.0\501-Closest-to-Zero.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\obj\Debug\net9.0\501-Closest-to-Zero.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\obj\Debug\net9.0\refint\501-Closest-to-Zero.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\obj\Debug\net9.0\501-Closest-to-Zero.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\obj\Debug\net9.0\501-Closest-to-Zero.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\501-Closest-to-Zero\obj\Debug\net9.0\ref\501-Closest-to-Zero.dll
