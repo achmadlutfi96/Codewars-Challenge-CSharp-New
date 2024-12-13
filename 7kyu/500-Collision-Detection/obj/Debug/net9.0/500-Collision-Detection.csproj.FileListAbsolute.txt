@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\bin\Debug\net9.0\500-Collision-Detection.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\bin\Debug\net9.0\500-Collision-Detection.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\bin\Debug\net9.0\500-Collision-Detection.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\bin\Debug\net9.0\500-Collision-Detection.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\bin\Debug\net9.0\500-Collision-Detection.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\obj\Debug\net9.0\500-Collision-Detection.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\obj\Debug\net9.0\500-Collision-Detection.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\obj\Debug\net9.0\500-Collision-Detection.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\obj\Debug\net9.0\500-Collision-Detection.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\obj\Debug\net9.0\500-Collision-Detection.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\obj\Debug\net9.0\500-Collision-Detection.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\obj\Debug\net9.0\refint\500-Collision-Detection.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\obj\Debug\net9.0\500-Collision-Detection.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\obj\Debug\net9.0\500-Collision-Detection.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\500-Collision-Detection\obj\Debug\net9.0\ref\500-Collision-Detection.dll
