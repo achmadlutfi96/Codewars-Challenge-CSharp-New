@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\bin\Debug\net9.0\499-Suitcase-packing.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\bin\Debug\net9.0\499-Suitcase-packing.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\bin\Debug\net9.0\499-Suitcase-packing.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\bin\Debug\net9.0\499-Suitcase-packing.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\bin\Debug\net9.0\499-Suitcase-packing.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\obj\Debug\net9.0\499-Suitcase-packing.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\obj\Debug\net9.0\499-Suitcase-packing.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\obj\Debug\net9.0\499-Suitcase-packing.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\obj\Debug\net9.0\499-Suitcase-packing.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\obj\Debug\net9.0\499-Suitcase-packing.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\obj\Debug\net9.0\499-Suitcase-packing.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\obj\Debug\net9.0\refint\499-Suitcase-packing.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\obj\Debug\net9.0\499-Suitcase-packing.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\obj\Debug\net9.0\499-Suitcase-packing.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\499-Suitcase-packing\obj\Debug\net9.0\ref\499-Suitcase-packing.dll
