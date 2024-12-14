@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "502-Sum-of-differences-between-products-and-LCMs/1.0.0": {
+        "runtime": {
+          "502-Sum-of-differences-between-products-and-LCMs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "502-Sum-of-differences-between-products-and-LCMs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

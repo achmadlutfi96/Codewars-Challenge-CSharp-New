@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\bin\Debug\net9.0\502-Sum-of-differences-between-products-and-LCMs.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\bin\Debug\net9.0\502-Sum-of-differences-between-products-and-LCMs.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\bin\Debug\net9.0\502-Sum-of-differences-between-products-and-LCMs.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\bin\Debug\net9.0\502-Sum-of-differences-between-products-and-LCMs.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\bin\Debug\net9.0\502-Sum-of-differences-between-products-and-LCMs.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\obj\Debug\net9.0\502-Sum-of-differences-between-products-and-LCMs.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\obj\Debug\net9.0\502-Sum-of-differences-between-products-and-LCMs.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\obj\Debug\net9.0\502-Sum-of-differences-between-products-and-LCMs.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\obj\Debug\net9.0\502-Sum-of-differences-between-products-and-LCMs.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\obj\Debug\net9.0\502-Sum-of-differences-between-products-and-LCMs.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\obj\Debug\net9.0\502-Sum-of-differences-between-products-and-LCMs.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\obj\Debug\net9.0\refint\502-Sum-of-differences-between-products-and-LCMs.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\obj\Debug\net9.0\502-Sum-of-differences-between-products-and-LCMs.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\obj\Debug\net9.0\502-Sum-of-differences-between-products-and-LCMs.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\502-Sum-of-differences-between-products-and-LCMs\obj\Debug\net9.0\ref\502-Sum-of-differences-between-products-and-LCMs.dll
