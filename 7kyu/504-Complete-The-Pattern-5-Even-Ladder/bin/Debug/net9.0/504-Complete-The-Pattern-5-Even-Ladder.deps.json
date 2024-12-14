@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "504-Complete-The-Pattern-5-Even-Ladder/1.0.0": {
+        "runtime": {
+          "504-Complete-The-Pattern-5-Even-Ladder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "504-Complete-The-Pattern-5-Even-Ladder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

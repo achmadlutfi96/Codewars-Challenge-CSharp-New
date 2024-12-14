@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\bin\Debug\net9.0\504-Complete-The-Pattern-5-Even-Ladder.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\bin\Debug\net9.0\504-Complete-The-Pattern-5-Even-Ladder.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\bin\Debug\net9.0\504-Complete-The-Pattern-5-Even-Ladder.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\bin\Debug\net9.0\504-Complete-The-Pattern-5-Even-Ladder.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\bin\Debug\net9.0\504-Complete-The-Pattern-5-Even-Ladder.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\obj\Debug\net9.0\504-Complete-The-Pattern-5-Even-Ladder.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\obj\Debug\net9.0\504-Complete-The-Pattern-5-Even-Ladder.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\obj\Debug\net9.0\504-Complete-The-Pattern-5-Even-Ladder.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\obj\Debug\net9.0\504-Complete-The-Pattern-5-Even-Ladder.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\obj\Debug\net9.0\504-Complete-The-Pattern-5-Even-Ladder.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\obj\Debug\net9.0\504-Complete-The-Pattern-5-Even-Ladder.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\obj\Debug\net9.0\refint\504-Complete-The-Pattern-5-Even-Ladder.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\obj\Debug\net9.0\504-Complete-The-Pattern-5-Even-Ladder.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\obj\Debug\net9.0\504-Complete-The-Pattern-5-Even-Ladder.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\504-Complete-The-Pattern-5-Even-Ladder\obj\Debug\net9.0\ref\504-Complete-The-Pattern-5-Even-Ladder.dll
