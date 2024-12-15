@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\bin\Debug\net9.0\506-Concatenated-Sum.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\bin\Debug\net9.0\506-Concatenated-Sum.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\bin\Debug\net9.0\506-Concatenated-Sum.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\bin\Debug\net9.0\506-Concatenated-Sum.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\bin\Debug\net9.0\506-Concatenated-Sum.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\obj\Debug\net9.0\506-Concatenated-Sum.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\obj\Debug\net9.0\506-Concatenated-Sum.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\obj\Debug\net9.0\506-Concatenated-Sum.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\obj\Debug\net9.0\506-Concatenated-Sum.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\obj\Debug\net9.0\506-Concatenated-Sum.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\obj\Debug\net9.0\506-Concatenated-Sum.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\obj\Debug\net9.0\refint\506-Concatenated-Sum.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\obj\Debug\net9.0\506-Concatenated-Sum.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\obj\Debug\net9.0\506-Concatenated-Sum.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\506-Concatenated-Sum\obj\Debug\net9.0\ref\506-Concatenated-Sum.dll
