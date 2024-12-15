@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\bin\Debug\net9.0\507-Reverse-Factorials.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\bin\Debug\net9.0\507-Reverse-Factorials.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\bin\Debug\net9.0\507-Reverse-Factorials.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\bin\Debug\net9.0\507-Reverse-Factorials.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\bin\Debug\net9.0\507-Reverse-Factorials.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\obj\Debug\net9.0\507-Reverse-Factorials.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\obj\Debug\net9.0\507-Reverse-Factorials.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\obj\Debug\net9.0\507-Reverse-Factorials.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\obj\Debug\net9.0\507-Reverse-Factorials.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\obj\Debug\net9.0\507-Reverse-Factorials.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\obj\Debug\net9.0\507-Reverse-Factorials.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\obj\Debug\net9.0\refint\507-Reverse-Factorials.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\obj\Debug\net9.0\507-Reverse-Factorials.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\obj\Debug\net9.0\507-Reverse-Factorials.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\507-Reverse-Factorials\obj\Debug\net9.0\ref\507-Reverse-Factorials.dll
