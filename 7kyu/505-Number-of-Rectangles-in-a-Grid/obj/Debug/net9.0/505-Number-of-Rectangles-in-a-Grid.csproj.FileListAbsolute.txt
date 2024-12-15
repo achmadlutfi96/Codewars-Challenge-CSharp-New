@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\bin\Debug\net9.0\505-Number-of-Rectangles-in-a-Grid.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\bin\Debug\net9.0\505-Number-of-Rectangles-in-a-Grid.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\bin\Debug\net9.0\505-Number-of-Rectangles-in-a-Grid.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\bin\Debug\net9.0\505-Number-of-Rectangles-in-a-Grid.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\bin\Debug\net9.0\505-Number-of-Rectangles-in-a-Grid.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\obj\Debug\net9.0\505-Number-of-Rectangles-in-a-Grid.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\obj\Debug\net9.0\505-Number-of-Rectangles-in-a-Grid.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\obj\Debug\net9.0\505-Number-of-Rectangles-in-a-Grid.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\obj\Debug\net9.0\505-Number-of-Rectangles-in-a-Grid.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\obj\Debug\net9.0\505-Number-of-Rectangles-in-a-Grid.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\obj\Debug\net9.0\505-Number-of-Rectangles-in-a-Grid.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\obj\Debug\net9.0\refint\505-Number-of-Rectangles-in-a-Grid.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\obj\Debug\net9.0\505-Number-of-Rectangles-in-a-Grid.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\obj\Debug\net9.0\505-Number-of-Rectangles-in-a-Grid.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\505-Number-of-Rectangles-in-a-Grid\obj\Debug\net9.0\ref\505-Number-of-Rectangles-in-a-Grid.dll
