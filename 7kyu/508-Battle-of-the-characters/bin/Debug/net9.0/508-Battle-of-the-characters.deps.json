@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "508-Battle-of-the-characters/1.0.0": {
+        "runtime": {
+          "508-Battle-of-the-characters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "508-Battle-of-the-characters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

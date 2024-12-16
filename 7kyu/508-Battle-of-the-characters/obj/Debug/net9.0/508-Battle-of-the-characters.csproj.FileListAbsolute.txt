@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\bin\Debug\net9.0\508-Battle-of-the-characters.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\bin\Debug\net9.0\508-Battle-of-the-characters.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\bin\Debug\net9.0\508-Battle-of-the-characters.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\bin\Debug\net9.0\508-Battle-of-the-characters.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\bin\Debug\net9.0\508-Battle-of-the-characters.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\obj\Debug\net9.0\508-Battle-of-the-characters.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\obj\Debug\net9.0\508-Battle-of-the-characters.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\obj\Debug\net9.0\508-Battle-of-the-characters.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\obj\Debug\net9.0\508-Battle-of-the-characters.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\obj\Debug\net9.0\508-Battle-of-the-characters.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\obj\Debug\net9.0\508-Battle-of-the-characters.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\obj\Debug\net9.0\refint\508-Battle-of-the-characters.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\obj\Debug\net9.0\508-Battle-of-the-characters.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\obj\Debug\net9.0\508-Battle-of-the-characters.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\508-Battle-of-the-characters\obj\Debug\net9.0\ref\508-Battle-of-the-characters.dll
