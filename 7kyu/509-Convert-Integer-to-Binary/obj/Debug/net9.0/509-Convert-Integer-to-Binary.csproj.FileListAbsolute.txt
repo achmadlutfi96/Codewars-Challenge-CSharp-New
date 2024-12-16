@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\bin\Debug\net9.0\509-Convert-Integer-to-Binary.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\bin\Debug\net9.0\509-Convert-Integer-to-Binary.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\bin\Debug\net9.0\509-Convert-Integer-to-Binary.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\bin\Debug\net9.0\509-Convert-Integer-to-Binary.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\bin\Debug\net9.0\509-Convert-Integer-to-Binary.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\obj\Debug\net9.0\509-Convert-Integer-to-Binary.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\obj\Debug\net9.0\509-Convert-Integer-to-Binary.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\obj\Debug\net9.0\509-Convert-Integer-to-Binary.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\obj\Debug\net9.0\509-Convert-Integer-to-Binary.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\obj\Debug\net9.0\509-Convert-Integer-to-Binary.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\obj\Debug\net9.0\509-Convert-Integer-to-Binary.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\obj\Debug\net9.0\refint\509-Convert-Integer-to-Binary.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\obj\Debug\net9.0\509-Convert-Integer-to-Binary.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\obj\Debug\net9.0\509-Convert-Integer-to-Binary.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\509-Convert-Integer-to-Binary\obj\Debug\net9.0\ref\509-Convert-Integer-to-Binary.dll
