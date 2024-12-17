@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\bin\Debug\net9.0\512-Simple-Fun-88-Sort-By-Height.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\bin\Debug\net9.0\512-Simple-Fun-88-Sort-By-Height.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\bin\Debug\net9.0\512-Simple-Fun-88-Sort-By-Height.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\bin\Debug\net9.0\512-Simple-Fun-88-Sort-By-Height.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\bin\Debug\net9.0\512-Simple-Fun-88-Sort-By-Height.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\obj\Debug\net9.0\512-Simple-Fun-88-Sort-By-Height.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\obj\Debug\net9.0\512-Simple-Fun-88-Sort-By-Height.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\obj\Debug\net9.0\512-Simple-Fun-88-Sort-By-Height.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\obj\Debug\net9.0\512-Simple-Fun-88-Sort-By-Height.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\obj\Debug\net9.0\512-Simple-Fun-88-Sort-By-Height.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\obj\Debug\net9.0\512-Simple-Fun-88-Sort-By-Height.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\obj\Debug\net9.0\refint\512-Simple-Fun-88-Sort-By-Height.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\obj\Debug\net9.0\512-Simple-Fun-88-Sort-By-Height.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\obj\Debug\net9.0\512-Simple-Fun-88-Sort-By-Height.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\512-Simple-Fun-88-Sort-By-Height\obj\Debug\net9.0\ref\512-Simple-Fun-88-Sort-By-Height.dll
