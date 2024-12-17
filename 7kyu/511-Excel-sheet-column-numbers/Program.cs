@@ -13,5 +13,6 @@ public class ExcelToNumber {
         Console.WriteLine(TitleToNumber("AA"));
         Console.WriteLine(TitleToNumber("AZ"));
         Console.WriteLine(TitleToNumber("BA"));
+        Console.WriteLine(TitleToNumber("CODEWARS"));
     }
 }
