@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "510-Survive-the-attack/1.0.0": {
+        "runtime": {
+          "510-Survive-the-attack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "510-Survive-the-attack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

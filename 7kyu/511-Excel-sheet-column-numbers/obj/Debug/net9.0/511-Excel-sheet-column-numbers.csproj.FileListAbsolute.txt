@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\obj\Debug\net9.0\511-Excel-sheet-column-numbers.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\obj\Debug\net9.0\511-Excel-sheet-column-numbers.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\obj\Debug\net9.0\511-Excel-sheet-column-numbers.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\obj\Debug\net9.0\511-Excel-sheet-column-numbers.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\obj\Debug\net9.0\511-Excel-sheet-column-numbers.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\bin\Debug\net9.0\511-Excel-sheet-column-numbers.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\bin\Debug\net9.0\511-Excel-sheet-column-numbers.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\bin\Debug\net9.0\511-Excel-sheet-column-numbers.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\bin\Debug\net9.0\511-Excel-sheet-column-numbers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\bin\Debug\net9.0\511-Excel-sheet-column-numbers.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\obj\Debug\net9.0\511-Excel-sheet-column-numbers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\obj\Debug\net9.0\refint\511-Excel-sheet-column-numbers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\obj\Debug\net9.0\511-Excel-sheet-column-numbers.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\obj\Debug\net9.0\511-Excel-sheet-column-numbers.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\511-Excel-sheet-column-numbers\obj\Debug\net9.0\ref\511-Excel-sheet-column-numbers.dll

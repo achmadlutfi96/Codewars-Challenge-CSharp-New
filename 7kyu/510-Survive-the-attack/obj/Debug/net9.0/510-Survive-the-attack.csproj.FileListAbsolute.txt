@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\bin\Debug\net9.0\510-Survive-the-attack.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\bin\Debug\net9.0\510-Survive-the-attack.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\bin\Debug\net9.0\510-Survive-the-attack.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\bin\Debug\net9.0\510-Survive-the-attack.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\bin\Debug\net9.0\510-Survive-the-attack.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\obj\Debug\net9.0\510-Survive-the-attack.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\obj\Debug\net9.0\510-Survive-the-attack.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\obj\Debug\net9.0\510-Survive-the-attack.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\obj\Debug\net9.0\510-Survive-the-attack.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\obj\Debug\net9.0\510-Survive-the-attack.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\obj\Debug\net9.0\510-Survive-the-attack.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\obj\Debug\net9.0\refint\510-Survive-the-attack.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\obj\Debug\net9.0\510-Survive-the-attack.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\obj\Debug\net9.0\510-Survive-the-attack.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\510-Survive-the-attack\obj\Debug\net9.0\ref\510-Survive-the-attack.dll
