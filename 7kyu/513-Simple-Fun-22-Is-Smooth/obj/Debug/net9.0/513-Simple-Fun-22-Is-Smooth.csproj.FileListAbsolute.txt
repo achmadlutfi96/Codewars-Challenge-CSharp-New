@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\bin\Debug\net9.0\513-Simple-Fun-22-Is-Smooth.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\bin\Debug\net9.0\513-Simple-Fun-22-Is-Smooth.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\bin\Debug\net9.0\513-Simple-Fun-22-Is-Smooth.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\bin\Debug\net9.0\513-Simple-Fun-22-Is-Smooth.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\bin\Debug\net9.0\513-Simple-Fun-22-Is-Smooth.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\obj\Debug\net9.0\513-Simple-Fun-22-Is-Smooth.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\obj\Debug\net9.0\513-Simple-Fun-22-Is-Smooth.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\obj\Debug\net9.0\513-Simple-Fun-22-Is-Smooth.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\obj\Debug\net9.0\513-Simple-Fun-22-Is-Smooth.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\obj\Debug\net9.0\513-Simple-Fun-22-Is-Smooth.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\obj\Debug\net9.0\513-Simple-Fun-22-Is-Smooth.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\obj\Debug\net9.0\refint\513-Simple-Fun-22-Is-Smooth.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\obj\Debug\net9.0\513-Simple-Fun-22-Is-Smooth.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\obj\Debug\net9.0\513-Simple-Fun-22-Is-Smooth.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\513-Simple-Fun-22-Is-Smooth\obj\Debug\net9.0\ref\513-Simple-Fun-22-Is-Smooth.dll

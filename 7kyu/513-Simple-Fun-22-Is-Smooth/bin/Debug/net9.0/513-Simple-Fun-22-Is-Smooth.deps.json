@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "513-Simple-Fun-22-Is-Smooth/1.0.0": {
+        "runtime": {
+          "513-Simple-Fun-22-Is-Smooth.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "513-Simple-Fun-22-Is-Smooth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
