@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "514-Friday-the-13th-Part-1/1.0.0": {
+        "runtime": {
+          "514-Friday-the-13th-Part-1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "514-Friday-the-13th-Part-1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
