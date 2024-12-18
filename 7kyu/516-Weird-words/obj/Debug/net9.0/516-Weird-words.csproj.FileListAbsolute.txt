@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\bin\Debug\net9.0\516-Weird-words.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\bin\Debug\net9.0\516-Weird-words.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\bin\Debug\net9.0\516-Weird-words.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\bin\Debug\net9.0\516-Weird-words.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\bin\Debug\net9.0\516-Weird-words.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\obj\Debug\net9.0\516-Weird-words.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\obj\Debug\net9.0\516-Weird-words.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\obj\Debug\net9.0\516-Weird-words.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\obj\Debug\net9.0\516-Weird-words.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\obj\Debug\net9.0\516-Weird-words.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\obj\Debug\net9.0\516-Weird-words.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\obj\Debug\net9.0\refint\516-Weird-words.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\obj\Debug\net9.0\516-Weird-words.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\obj\Debug\net9.0\516-Weird-words.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\516-Weird-words\obj\Debug\net9.0\ref\516-Weird-words.dll
