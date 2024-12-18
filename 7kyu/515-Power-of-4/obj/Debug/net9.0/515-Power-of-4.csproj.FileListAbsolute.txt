@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\bin\Debug\net9.0\515-Power-of-4.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\bin\Debug\net9.0\515-Power-of-4.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\bin\Debug\net9.0\515-Power-of-4.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\bin\Debug\net9.0\515-Power-of-4.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\bin\Debug\net9.0\515-Power-of-4.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\obj\Debug\net9.0\515-Power-of-4.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\obj\Debug\net9.0\515-Power-of-4.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\obj\Debug\net9.0\515-Power-of-4.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\obj\Debug\net9.0\515-Power-of-4.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\obj\Debug\net9.0\515-Power-of-4.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\obj\Debug\net9.0\515-Power-of-4.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\obj\Debug\net9.0\refint\515-Power-of-4.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\obj\Debug\net9.0\515-Power-of-4.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\obj\Debug\net9.0\515-Power-of-4.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\515-Power-of-4\obj\Debug\net9.0\ref\515-Power-of-4.dll
