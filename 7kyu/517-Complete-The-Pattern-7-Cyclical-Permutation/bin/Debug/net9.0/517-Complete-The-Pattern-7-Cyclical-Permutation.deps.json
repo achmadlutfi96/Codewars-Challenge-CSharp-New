@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "517-Complete-The-Pattern-7-Cyclical-Permutation/1.0.0": {
+        "runtime": {
+          "517-Complete-The-Pattern-7-Cyclical-Permutation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "517-Complete-The-Pattern-7-Cyclical-Permutation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

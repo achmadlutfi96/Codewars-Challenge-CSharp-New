@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\bin\Debug\net9.0\517-Complete-The-Pattern-7-Cyclical-Permutation.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\bin\Debug\net9.0\517-Complete-The-Pattern-7-Cyclical-Permutation.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\bin\Debug\net9.0\517-Complete-The-Pattern-7-Cyclical-Permutation.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\bin\Debug\net9.0\517-Complete-The-Pattern-7-Cyclical-Permutation.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\bin\Debug\net9.0\517-Complete-The-Pattern-7-Cyclical-Permutation.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\obj\Debug\net9.0\517-Complete-The-Pattern-7-Cyclical-Permutation.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\obj\Debug\net9.0\517-Complete-The-Pattern-7-Cyclical-Permutation.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\obj\Debug\net9.0\517-Complete-The-Pattern-7-Cyclical-Permutation.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\obj\Debug\net9.0\517-Complete-The-Pattern-7-Cyclical-Permutation.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\obj\Debug\net9.0\517-Complete-The-Pattern-7-Cyclical-Permutation.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\obj\Debug\net9.0\517-Complete-The-Pattern-7-Cyclical-Permutation.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\obj\Debug\net9.0\refint\517-Complete-The-Pattern-7-Cyclical-Permutation.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\obj\Debug\net9.0\517-Complete-The-Pattern-7-Cyclical-Permutation.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\obj\Debug\net9.0\517-Complete-The-Pattern-7-Cyclical-Permutation.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\517-Complete-The-Pattern-7-Cyclical-Permutation\obj\Debug\net9.0\ref\517-Complete-The-Pattern-7-Cyclical-Permutation.dll
