@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\bin\Debug\net9.0\520-EAN-Validation.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\bin\Debug\net9.0\520-EAN-Validation.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\bin\Debug\net9.0\520-EAN-Validation.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\bin\Debug\net9.0\520-EAN-Validation.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\bin\Debug\net9.0\520-EAN-Validation.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\obj\Debug\net9.0\520-EAN-Validation.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\obj\Debug\net9.0\520-EAN-Validation.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\obj\Debug\net9.0\520-EAN-Validation.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\obj\Debug\net9.0\520-EAN-Validation.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\obj\Debug\net9.0\520-EAN-Validation.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\obj\Debug\net9.0\520-EAN-Validation.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\obj\Debug\net9.0\refint\520-EAN-Validation.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\obj\Debug\net9.0\520-EAN-Validation.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\obj\Debug\net9.0\520-EAN-Validation.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\520-EAN-Validation\obj\Debug\net9.0\ref\520-EAN-Validation.dll
