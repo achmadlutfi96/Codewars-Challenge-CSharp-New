@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\bin\Debug\net9.0\521-Deutschstunde.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\bin\Debug\net9.0\521-Deutschstunde.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\bin\Debug\net9.0\521-Deutschstunde.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\bin\Debug\net9.0\521-Deutschstunde.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\bin\Debug\net9.0\521-Deutschstunde.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\obj\Debug\net9.0\521-Deutschstunde.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\obj\Debug\net9.0\521-Deutschstunde.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\obj\Debug\net9.0\521-Deutschstunde.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\obj\Debug\net9.0\521-Deutschstunde.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\obj\Debug\net9.0\521-Deutschstunde.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\obj\Debug\net9.0\521-Deutschstunde.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\obj\Debug\net9.0\refint\521-Deutschstunde.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\obj\Debug\net9.0\521-Deutschstunde.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\obj\Debug\net9.0\521-Deutschstunde.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\521-Deutschstunde\obj\Debug\net9.0\ref\521-Deutschstunde.dll
