@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\bin\Debug\net9.0\522-Simple-Maths-Test.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\bin\Debug\net9.0\522-Simple-Maths-Test.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\bin\Debug\net9.0\522-Simple-Maths-Test.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\bin\Debug\net9.0\522-Simple-Maths-Test.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\bin\Debug\net9.0\522-Simple-Maths-Test.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\obj\Debug\net9.0\522-Simple-Maths-Test.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\obj\Debug\net9.0\522-Simple-Maths-Test.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\obj\Debug\net9.0\522-Simple-Maths-Test.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\obj\Debug\net9.0\522-Simple-Maths-Test.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\obj\Debug\net9.0\522-Simple-Maths-Test.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\obj\Debug\net9.0\522-Simple-Maths-Test.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\obj\Debug\net9.0\refint\522-Simple-Maths-Test.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\obj\Debug\net9.0\522-Simple-Maths-Test.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\obj\Debug\net9.0\522-Simple-Maths-Test.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\522-Simple-Maths-Test\obj\Debug\net9.0\ref\522-Simple-Maths-Test.dll
