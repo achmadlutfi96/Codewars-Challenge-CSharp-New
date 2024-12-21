@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "525-Simple-Fun-384-Is-Turings-Equation", "525-Simple-Fun-384-Is-Turings-Equation.csproj", "{44136C05-49BA-41BA-B4A7-252317A10513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44136C05-49BA-41BA-B4A7-252317A10513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44136C05-49BA-41BA-B4A7-252317A10513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44136C05-49BA-41BA-B4A7-252317A10513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44136C05-49BA-41BA-B4A7-252317A10513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4E4F296-E3E3-4ADC-BFF6-23A0F328568E}
+	EndGlobalSection
+EndGlobal

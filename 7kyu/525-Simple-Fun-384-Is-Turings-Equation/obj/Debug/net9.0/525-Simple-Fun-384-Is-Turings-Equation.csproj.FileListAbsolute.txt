@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\bin\Debug\net9.0\525-Simple-Fun-384-Is-Turings-Equation.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\bin\Debug\net9.0\525-Simple-Fun-384-Is-Turings-Equation.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\bin\Debug\net9.0\525-Simple-Fun-384-Is-Turings-Equation.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\bin\Debug\net9.0\525-Simple-Fun-384-Is-Turings-Equation.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\bin\Debug\net9.0\525-Simple-Fun-384-Is-Turings-Equation.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\obj\Debug\net9.0\525-Simple-Fun-384-Is-Turings-Equation.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\obj\Debug\net9.0\525-Simple-Fun-384-Is-Turings-Equation.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\obj\Debug\net9.0\525-Simple-Fun-384-Is-Turings-Equation.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\obj\Debug\net9.0\525-Simple-Fun-384-Is-Turings-Equation.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\obj\Debug\net9.0\525-Simple-Fun-384-Is-Turings-Equation.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\obj\Debug\net9.0\525-Simple-Fun-384-Is-Turings-Equation.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\obj\Debug\net9.0\refint\525-Simple-Fun-384-Is-Turings-Equation.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\obj\Debug\net9.0\525-Simple-Fun-384-Is-Turings-Equation.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\obj\Debug\net9.0\525-Simple-Fun-384-Is-Turings-Equation.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\525-Simple-Fun-384-Is-Turings-Equation\obj\Debug\net9.0\ref\525-Simple-Fun-384-Is-Turings-Equation.dll
