@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\bin\Debug\net9.0\526-Simple-directions-reversal.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\bin\Debug\net9.0\526-Simple-directions-reversal.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\bin\Debug\net9.0\526-Simple-directions-reversal.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\bin\Debug\net9.0\526-Simple-directions-reversal.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\bin\Debug\net9.0\526-Simple-directions-reversal.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\obj\Debug\net9.0\526-Simple-directions-reversal.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\obj\Debug\net9.0\526-Simple-directions-reversal.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\obj\Debug\net9.0\526-Simple-directions-reversal.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\obj\Debug\net9.0\526-Simple-directions-reversal.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\obj\Debug\net9.0\526-Simple-directions-reversal.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\obj\Debug\net9.0\526-Simple-directions-reversal.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\obj\Debug\net9.0\refint\526-Simple-directions-reversal.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\obj\Debug\net9.0\526-Simple-directions-reversal.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\obj\Debug\net9.0\526-Simple-directions-reversal.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\526-Simple-directions-reversal\obj\Debug\net9.0\ref\526-Simple-directions-reversal.dll
