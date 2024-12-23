@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\bin\Debug\net9.0\531-Progressive-Spiral-Number-Position.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\bin\Debug\net9.0\531-Progressive-Spiral-Number-Position.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\bin\Debug\net9.0\531-Progressive-Spiral-Number-Position.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\bin\Debug\net9.0\531-Progressive-Spiral-Number-Position.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\bin\Debug\net9.0\531-Progressive-Spiral-Number-Position.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\obj\Debug\net9.0\531-Progressive-Spiral-Number-Position.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\obj\Debug\net9.0\531-Progressive-Spiral-Number-Position.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\obj\Debug\net9.0\531-Progressive-Spiral-Number-Position.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\obj\Debug\net9.0\531-Progressive-Spiral-Number-Position.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\obj\Debug\net9.0\531-Progressive-Spiral-Number-Position.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\obj\Debug\net9.0\531-Progressive-Spiral-Number-Position.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\obj\Debug\net9.0\refint\531-Progressive-Spiral-Number-Position.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\obj\Debug\net9.0\531-Progressive-Spiral-Number-Position.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\obj\Debug\net9.0\531-Progressive-Spiral-Number-Position.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\531-Progressive-Spiral-Number-Position\obj\Debug\net9.0\ref\531-Progressive-Spiral-Number-Position.dll
