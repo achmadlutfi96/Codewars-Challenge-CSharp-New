@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\bin\Debug\net9.0\530-Sorted-Union.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\bin\Debug\net9.0\530-Sorted-Union.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\bin\Debug\net9.0\530-Sorted-Union.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\bin\Debug\net9.0\530-Sorted-Union.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\bin\Debug\net9.0\530-Sorted-Union.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\obj\Debug\net9.0\530-Sorted-Union.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\obj\Debug\net9.0\530-Sorted-Union.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\obj\Debug\net9.0\530-Sorted-Union.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\obj\Debug\net9.0\530-Sorted-Union.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\obj\Debug\net9.0\530-Sorted-Union.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\obj\Debug\net9.0\530-Sorted-Union.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\obj\Debug\net9.0\refint\530-Sorted-Union.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\obj\Debug\net9.0\530-Sorted-Union.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\obj\Debug\net9.0\530-Sorted-Union.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\530-Sorted-Union\obj\Debug\net9.0\ref\530-Sorted-Union.dll
