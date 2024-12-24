@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\bin\Debug\net9.0\534-Simple-Fun-320-Scratch-lottery-I.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\bin\Debug\net9.0\534-Simple-Fun-320-Scratch-lottery-I.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\bin\Debug\net9.0\534-Simple-Fun-320-Scratch-lottery-I.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\bin\Debug\net9.0\534-Simple-Fun-320-Scratch-lottery-I.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\bin\Debug\net9.0\534-Simple-Fun-320-Scratch-lottery-I.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\obj\Debug\net9.0\534-Simple-Fun-320-Scratch-lottery-I.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\obj\Debug\net9.0\534-Simple-Fun-320-Scratch-lottery-I.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\obj\Debug\net9.0\534-Simple-Fun-320-Scratch-lottery-I.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\obj\Debug\net9.0\534-Simple-Fun-320-Scratch-lottery-I.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\obj\Debug\net9.0\534-Simple-Fun-320-Scratch-lottery-I.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\obj\Debug\net9.0\534-Simple-Fun-320-Scratch-lottery-I.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\obj\Debug\net9.0\refint\534-Simple-Fun-320-Scratch-lottery-I.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\obj\Debug\net9.0\534-Simple-Fun-320-Scratch-lottery-I.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\obj\Debug\net9.0\534-Simple-Fun-320-Scratch-lottery-I.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\534-Simple-Fun-320-Scratch-lottery-I\obj\Debug\net9.0\ref\534-Simple-Fun-320-Scratch-lottery-I.dll

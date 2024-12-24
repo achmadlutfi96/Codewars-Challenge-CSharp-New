@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "534-Simple-Fun-320-Scratch-lottery-I/1.0.0": {
+        "runtime": {
+          "534-Simple-Fun-320-Scratch-lottery-I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "534-Simple-Fun-320-Scratch-lottery-I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
