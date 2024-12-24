@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "533-Queue-time-counter/1.0.0": {
+        "runtime": {
+          "533-Queue-time-counter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "533-Queue-time-counter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

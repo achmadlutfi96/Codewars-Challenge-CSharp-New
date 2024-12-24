@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\bin\Debug\net9.0\533-Queue-time-counter.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\bin\Debug\net9.0\533-Queue-time-counter.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\bin\Debug\net9.0\533-Queue-time-counter.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\bin\Debug\net9.0\533-Queue-time-counter.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\bin\Debug\net9.0\533-Queue-time-counter.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\obj\Debug\net9.0\533-Queue-time-counter.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\obj\Debug\net9.0\533-Queue-time-counter.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\obj\Debug\net9.0\533-Queue-time-counter.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\obj\Debug\net9.0\533-Queue-time-counter.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\obj\Debug\net9.0\533-Queue-time-counter.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\obj\Debug\net9.0\533-Queue-time-counter.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\obj\Debug\net9.0\refint\533-Queue-time-counter.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\obj\Debug\net9.0\533-Queue-time-counter.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\obj\Debug\net9.0\533-Queue-time-counter.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\533-Queue-time-counter\obj\Debug\net9.0\ref\533-Queue-time-counter.dll
