@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\bin\Debug\net9.0\535-Cogs.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\bin\Debug\net9.0\535-Cogs.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\bin\Debug\net9.0\535-Cogs.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\bin\Debug\net9.0\535-Cogs.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\bin\Debug\net9.0\535-Cogs.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\obj\Debug\net9.0\535-Cogs.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\obj\Debug\net9.0\535-Cogs.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\obj\Debug\net9.0\535-Cogs.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\obj\Debug\net9.0\535-Cogs.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\obj\Debug\net9.0\535-Cogs.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\obj\Debug\net9.0\535-Cogs.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\obj\Debug\net9.0\refint\535-Cogs.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\obj\Debug\net9.0\535-Cogs.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\obj\Debug\net9.0\535-Cogs.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\535-Cogs\obj\Debug\net9.0\ref\535-Cogs.dll
