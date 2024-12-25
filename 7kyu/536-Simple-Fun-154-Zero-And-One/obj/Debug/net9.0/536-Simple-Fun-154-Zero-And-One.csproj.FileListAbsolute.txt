@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\bin\Debug\net9.0\536-Simple-Fun-154-Zero-And-One.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\bin\Debug\net9.0\536-Simple-Fun-154-Zero-And-One.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\bin\Debug\net9.0\536-Simple-Fun-154-Zero-And-One.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\bin\Debug\net9.0\536-Simple-Fun-154-Zero-And-One.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\bin\Debug\net9.0\536-Simple-Fun-154-Zero-And-One.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\obj\Debug\net9.0\536-Simple-Fun-154-Zero-And-One.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\obj\Debug\net9.0\536-Simple-Fun-154-Zero-And-One.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\obj\Debug\net9.0\536-Simple-Fun-154-Zero-And-One.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\obj\Debug\net9.0\536-Simple-Fun-154-Zero-And-One.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\obj\Debug\net9.0\536-Simple-Fun-154-Zero-And-One.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\obj\Debug\net9.0\536-Simple-Fun-154-Zero-And-One.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\obj\Debug\net9.0\refint\536-Simple-Fun-154-Zero-And-One.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\obj\Debug\net9.0\536-Simple-Fun-154-Zero-And-One.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\obj\Debug\net9.0\536-Simple-Fun-154-Zero-And-One.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\536-Simple-Fun-154-Zero-And-One\obj\Debug\net9.0\ref\536-Simple-Fun-154-Zero-And-One.dll
