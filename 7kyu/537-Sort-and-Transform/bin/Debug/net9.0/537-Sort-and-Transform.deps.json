@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "537-Sort-and-Transform/1.0.0": {
+        "runtime": {
+          "537-Sort-and-Transform.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "537-Sort-and-Transform/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

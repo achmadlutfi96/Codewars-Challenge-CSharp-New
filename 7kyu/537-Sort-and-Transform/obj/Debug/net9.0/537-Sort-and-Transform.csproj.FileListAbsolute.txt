@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\bin\Debug\net9.0\537-Sort-and-Transform.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\bin\Debug\net9.0\537-Sort-and-Transform.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\bin\Debug\net9.0\537-Sort-and-Transform.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\bin\Debug\net9.0\537-Sort-and-Transform.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\bin\Debug\net9.0\537-Sort-and-Transform.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\obj\Debug\net9.0\537-Sort-and-Transform.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\obj\Debug\net9.0\537-Sort-and-Transform.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\obj\Debug\net9.0\537-Sort-and-Transform.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\obj\Debug\net9.0\537-Sort-and-Transform.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\obj\Debug\net9.0\537-Sort-and-Transform.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\obj\Debug\net9.0\537-Sort-and-Transform.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\obj\Debug\net9.0\refint\537-Sort-and-Transform.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\obj\Debug\net9.0\537-Sort-and-Transform.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\obj\Debug\net9.0\537-Sort-and-Transform.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\537-Sort-and-Transform\obj\Debug\net9.0\ref\537-Sort-and-Transform.dll
