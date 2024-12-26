@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\bin\Debug\net9.0\539-Sums-of-consecutive-integers.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\bin\Debug\net9.0\539-Sums-of-consecutive-integers.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\bin\Debug\net9.0\539-Sums-of-consecutive-integers.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\bin\Debug\net9.0\539-Sums-of-consecutive-integers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\bin\Debug\net9.0\539-Sums-of-consecutive-integers.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\obj\Debug\net9.0\539-Sums-of-consecutive-integers.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\obj\Debug\net9.0\539-Sums-of-consecutive-integers.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\obj\Debug\net9.0\539-Sums-of-consecutive-integers.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\obj\Debug\net9.0\539-Sums-of-consecutive-integers.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\obj\Debug\net9.0\539-Sums-of-consecutive-integers.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\obj\Debug\net9.0\539-Sums-of-consecutive-integers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\obj\Debug\net9.0\refint\539-Sums-of-consecutive-integers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\obj\Debug\net9.0\539-Sums-of-consecutive-integers.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\obj\Debug\net9.0\539-Sums-of-consecutive-integers.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\539-Sums-of-consecutive-integers\obj\Debug\net9.0\ref\539-Sums-of-consecutive-integers.dll
