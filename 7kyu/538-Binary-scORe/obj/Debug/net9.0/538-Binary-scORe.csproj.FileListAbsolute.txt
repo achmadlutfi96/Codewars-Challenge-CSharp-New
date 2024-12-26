@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\bin\Debug\net9.0\538-Binary-scORe.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\bin\Debug\net9.0\538-Binary-scORe.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\bin\Debug\net9.0\538-Binary-scORe.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\bin\Debug\net9.0\538-Binary-scORe.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\bin\Debug\net9.0\538-Binary-scORe.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\obj\Debug\net9.0\538-Binary-scORe.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\obj\Debug\net9.0\538-Binary-scORe.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\obj\Debug\net9.0\538-Binary-scORe.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\obj\Debug\net9.0\538-Binary-scORe.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\obj\Debug\net9.0\538-Binary-scORe.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\obj\Debug\net9.0\538-Binary-scORe.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\obj\Debug\net9.0\refint\538-Binary-scORe.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\obj\Debug\net9.0\538-Binary-scORe.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\obj\Debug\net9.0\538-Binary-scORe.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\538-Binary-scORe\obj\Debug\net9.0\ref\538-Binary-scORe.dll
