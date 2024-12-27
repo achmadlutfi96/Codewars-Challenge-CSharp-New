@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "542-Stacked-Balls-2D/1.0.0": {
+        "runtime": {
+          "542-Stacked-Balls-2D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "542-Stacked-Balls-2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

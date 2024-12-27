@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\bin\Debug\net9.0\542-Stacked-Balls-2D.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\bin\Debug\net9.0\542-Stacked-Balls-2D.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\bin\Debug\net9.0\542-Stacked-Balls-2D.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\bin\Debug\net9.0\542-Stacked-Balls-2D.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\bin\Debug\net9.0\542-Stacked-Balls-2D.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\obj\Debug\net9.0\542-Stacked-Balls-2D.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\obj\Debug\net9.0\542-Stacked-Balls-2D.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\obj\Debug\net9.0\542-Stacked-Balls-2D.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\obj\Debug\net9.0\542-Stacked-Balls-2D.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\obj\Debug\net9.0\542-Stacked-Balls-2D.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\obj\Debug\net9.0\542-Stacked-Balls-2D.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\obj\Debug\net9.0\refint\542-Stacked-Balls-2D.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\obj\Debug\net9.0\542-Stacked-Balls-2D.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\obj\Debug\net9.0\542-Stacked-Balls-2D.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\542-Stacked-Balls-2D\obj\Debug\net9.0\ref\542-Stacked-Balls-2D.dll
