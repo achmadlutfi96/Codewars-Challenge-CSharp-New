@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\bin\Debug\net9.0\540-Every-nth-array-element.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\bin\Debug\net9.0\540-Every-nth-array-element.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\bin\Debug\net9.0\540-Every-nth-array-element.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\bin\Debug\net9.0\540-Every-nth-array-element.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\bin\Debug\net9.0\540-Every-nth-array-element.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\obj\Debug\net9.0\540-Every-nth-array-element.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\obj\Debug\net9.0\540-Every-nth-array-element.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\obj\Debug\net9.0\540-Every-nth-array-element.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\obj\Debug\net9.0\540-Every-nth-array-element.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\obj\Debug\net9.0\540-Every-nth-array-element.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\obj\Debug\net9.0\540-Every-nth-array-element.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\obj\Debug\net9.0\refint\540-Every-nth-array-element.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\obj\Debug\net9.0\540-Every-nth-array-element.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\obj\Debug\net9.0\540-Every-nth-array-element.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\540-Every-nth-array-element\obj\Debug\net9.0\ref\540-Every-nth-array-element.dll

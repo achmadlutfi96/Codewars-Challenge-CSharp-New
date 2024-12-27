@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\bin\Debug\net9.0\541-ORing-arrays.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\bin\Debug\net9.0\541-ORing-arrays.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\bin\Debug\net9.0\541-ORing-arrays.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\bin\Debug\net9.0\541-ORing-arrays.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\bin\Debug\net9.0\541-ORing-arrays.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\obj\Debug\net9.0\541-ORing-arrays.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\obj\Debug\net9.0\541-ORing-arrays.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\obj\Debug\net9.0\541-ORing-arrays.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\obj\Debug\net9.0\541-ORing-arrays.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\obj\Debug\net9.0\541-ORing-arrays.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\obj\Debug\net9.0\541-ORing-arrays.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\obj\Debug\net9.0\refint\541-ORing-arrays.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\obj\Debug\net9.0\541-ORing-arrays.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\obj\Debug\net9.0\541-ORing-arrays.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\541-ORing-arrays\obj\Debug\net9.0\ref\541-ORing-arrays.dll
