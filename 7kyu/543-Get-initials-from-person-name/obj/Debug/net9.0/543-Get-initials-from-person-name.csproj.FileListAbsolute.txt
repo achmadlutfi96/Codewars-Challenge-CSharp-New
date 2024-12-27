@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\bin\Debug\net9.0\543-Get-initials-from-person-name.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\bin\Debug\net9.0\543-Get-initials-from-person-name.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\bin\Debug\net9.0\543-Get-initials-from-person-name.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\bin\Debug\net9.0\543-Get-initials-from-person-name.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\bin\Debug\net9.0\543-Get-initials-from-person-name.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\obj\Debug\net9.0\543-Get-initials-from-person-name.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\obj\Debug\net9.0\543-Get-initials-from-person-name.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\obj\Debug\net9.0\543-Get-initials-from-person-name.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\obj\Debug\net9.0\543-Get-initials-from-person-name.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\obj\Debug\net9.0\543-Get-initials-from-person-name.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\obj\Debug\net9.0\543-Get-initials-from-person-name.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\obj\Debug\net9.0\refint\543-Get-initials-from-person-name.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\obj\Debug\net9.0\543-Get-initials-from-person-name.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\obj\Debug\net9.0\543-Get-initials-from-person-name.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\543-Get-initials-from-person-name\obj\Debug\net9.0\ref\543-Get-initials-from-person-name.dll
