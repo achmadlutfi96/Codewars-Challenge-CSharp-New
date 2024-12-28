@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\bin\Debug\net9.0\545-Not-all-but-sometimes-all.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\bin\Debug\net9.0\545-Not-all-but-sometimes-all.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\bin\Debug\net9.0\545-Not-all-but-sometimes-all.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\bin\Debug\net9.0\545-Not-all-but-sometimes-all.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\bin\Debug\net9.0\545-Not-all-but-sometimes-all.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\obj\Debug\net9.0\545-Not-all-but-sometimes-all.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\obj\Debug\net9.0\545-Not-all-but-sometimes-all.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\obj\Debug\net9.0\545-Not-all-but-sometimes-all.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\obj\Debug\net9.0\545-Not-all-but-sometimes-all.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\obj\Debug\net9.0\545-Not-all-but-sometimes-all.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\obj\Debug\net9.0\545-Not-all-but-sometimes-all.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\obj\Debug\net9.0\refint\545-Not-all-but-sometimes-all.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\obj\Debug\net9.0\545-Not-all-but-sometimes-all.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\obj\Debug\net9.0\545-Not-all-but-sometimes-all.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\545-Not-all-but-sometimes-all\obj\Debug\net9.0\ref\545-Not-all-but-sometimes-all.dll
