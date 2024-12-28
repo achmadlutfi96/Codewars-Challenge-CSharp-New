@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\bin\Debug\net9.0\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\bin\Debug\net9.0\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\bin\Debug\net9.0\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\bin\Debug\net9.0\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\bin\Debug\net9.0\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\obj\Debug\net9.0\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\obj\Debug\net9.0\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\obj\Debug\net9.0\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\obj\Debug\net9.0\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\obj\Debug\net9.0\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\obj\Debug\net9.0\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\obj\Debug\net9.0\refint\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\obj\Debug\net9.0\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\obj\Debug\net9.0\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number\obj\Debug\net9.0\ref\544-Regexp-Basics-is-it-a-eight-bit-unsigned-number.dll
