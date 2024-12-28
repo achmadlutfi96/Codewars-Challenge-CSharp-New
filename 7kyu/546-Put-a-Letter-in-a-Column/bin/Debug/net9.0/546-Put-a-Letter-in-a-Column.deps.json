@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "546-Put-a-Letter-in-a-Column/1.0.0": {
+        "runtime": {
+          "546-Put-a-Letter-in-a-Column.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "546-Put-a-Letter-in-a-Column/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\bin\Debug\net9.0\546-Put-a-Letter-in-a-Column.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\bin\Debug\net9.0\546-Put-a-Letter-in-a-Column.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\bin\Debug\net9.0\546-Put-a-Letter-in-a-Column.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\bin\Debug\net9.0\546-Put-a-Letter-in-a-Column.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\bin\Debug\net9.0\546-Put-a-Letter-in-a-Column.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\obj\Debug\net9.0\546-Put-a-Letter-in-a-Column.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\obj\Debug\net9.0\546-Put-a-Letter-in-a-Column.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\obj\Debug\net9.0\546-Put-a-Letter-in-a-Column.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\obj\Debug\net9.0\546-Put-a-Letter-in-a-Column.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\obj\Debug\net9.0\546-Put-a-Letter-in-a-Column.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\obj\Debug\net9.0\546-Put-a-Letter-in-a-Column.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\obj\Debug\net9.0\refint\546-Put-a-Letter-in-a-Column.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\obj\Debug\net9.0\546-Put-a-Letter-in-a-Column.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\obj\Debug\net9.0\546-Put-a-Letter-in-a-Column.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\546-Put-a-Letter-in-a-Column\obj\Debug\net9.0\ref\546-Put-a-Letter-in-a-Column.dll
