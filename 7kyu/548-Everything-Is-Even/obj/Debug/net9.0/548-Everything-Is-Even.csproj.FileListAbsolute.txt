@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\bin\Debug\net9.0\548-Everything-Is-Even.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\bin\Debug\net9.0\548-Everything-Is-Even.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\bin\Debug\net9.0\548-Everything-Is-Even.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\bin\Debug\net9.0\548-Everything-Is-Even.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\bin\Debug\net9.0\548-Everything-Is-Even.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\obj\Debug\net9.0\548-Everything-Is-Even.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\obj\Debug\net9.0\548-Everything-Is-Even.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\obj\Debug\net9.0\548-Everything-Is-Even.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\obj\Debug\net9.0\548-Everything-Is-Even.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\obj\Debug\net9.0\548-Everything-Is-Even.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\obj\Debug\net9.0\548-Everything-Is-Even.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\obj\Debug\net9.0\refint\548-Everything-Is-Even.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\obj\Debug\net9.0\548-Everything-Is-Even.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\obj\Debug\net9.0\548-Everything-Is-Even.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\548-Everything-Is-Even\obj\Debug\net9.0\ref\548-Everything-Is-Even.dll
