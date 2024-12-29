@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "549-Find-factors-of-a-number/1.0.0": {
+        "runtime": {
+          "549-Find-factors-of-a-number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "549-Find-factors-of-a-number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

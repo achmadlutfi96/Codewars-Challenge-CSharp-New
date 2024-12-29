@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\bin\Debug\net9.0\549-Find-factors-of-a-number.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\bin\Debug\net9.0\549-Find-factors-of-a-number.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\bin\Debug\net9.0\549-Find-factors-of-a-number.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\bin\Debug\net9.0\549-Find-factors-of-a-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\bin\Debug\net9.0\549-Find-factors-of-a-number.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\obj\Debug\net9.0\549-Find-factors-of-a-number.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\obj\Debug\net9.0\549-Find-factors-of-a-number.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\obj\Debug\net9.0\549-Find-factors-of-a-number.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\obj\Debug\net9.0\549-Find-factors-of-a-number.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\obj\Debug\net9.0\549-Find-factors-of-a-number.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\obj\Debug\net9.0\549-Find-factors-of-a-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\obj\Debug\net9.0\refint\549-Find-factors-of-a-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\obj\Debug\net9.0\549-Find-factors-of-a-number.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\obj\Debug\net9.0\549-Find-factors-of-a-number.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\549-Find-factors-of-a-number\obj\Debug\net9.0\ref\549-Find-factors-of-a-number.dll
