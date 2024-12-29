@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\bin\Debug\net9.0\547-Sum-of-powers-of-2.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\bin\Debug\net9.0\547-Sum-of-powers-of-2.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\bin\Debug\net9.0\547-Sum-of-powers-of-2.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\bin\Debug\net9.0\547-Sum-of-powers-of-2.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\bin\Debug\net9.0\547-Sum-of-powers-of-2.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\obj\Debug\net9.0\547-Sum-of-powers-of-2.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\obj\Debug\net9.0\547-Sum-of-powers-of-2.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\obj\Debug\net9.0\547-Sum-of-powers-of-2.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\obj\Debug\net9.0\547-Sum-of-powers-of-2.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\obj\Debug\net9.0\547-Sum-of-powers-of-2.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\obj\Debug\net9.0\547-Sum-of-powers-of-2.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\obj\Debug\net9.0\refint\547-Sum-of-powers-of-2.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\obj\Debug\net9.0\547-Sum-of-powers-of-2.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\obj\Debug\net9.0\547-Sum-of-powers-of-2.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\547-Sum-of-powers-of-2\obj\Debug\net9.0\ref\547-Sum-of-powers-of-2.dll
