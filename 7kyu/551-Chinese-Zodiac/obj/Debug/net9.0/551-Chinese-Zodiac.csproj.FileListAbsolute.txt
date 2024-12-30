@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\bin\Debug\net9.0\551-Chinese-Zodiac.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\bin\Debug\net9.0\551-Chinese-Zodiac.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\bin\Debug\net9.0\551-Chinese-Zodiac.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\bin\Debug\net9.0\551-Chinese-Zodiac.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\bin\Debug\net9.0\551-Chinese-Zodiac.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\obj\Debug\net9.0\551-Chinese-Zodiac.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\obj\Debug\net9.0\551-Chinese-Zodiac.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\obj\Debug\net9.0\551-Chinese-Zodiac.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\obj\Debug\net9.0\551-Chinese-Zodiac.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\obj\Debug\net9.0\551-Chinese-Zodiac.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\obj\Debug\net9.0\551-Chinese-Zodiac.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\obj\Debug\net9.0\refint\551-Chinese-Zodiac.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\obj\Debug\net9.0\551-Chinese-Zodiac.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\obj\Debug\net9.0\551-Chinese-Zodiac.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\551-Chinese-Zodiac\obj\Debug\net9.0\ref\551-Chinese-Zodiac.dll
