@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "553-Odd-March-Bits-8-bits/1.0.0": {
+        "runtime": {
+          "553-Odd-March-Bits-8-bits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "553-Odd-March-Bits-8-bits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

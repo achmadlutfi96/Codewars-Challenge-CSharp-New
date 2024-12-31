@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\bin\Debug\net9.0\553-Odd-March-Bits-8-bits.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\bin\Debug\net9.0\553-Odd-March-Bits-8-bits.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\bin\Debug\net9.0\553-Odd-March-Bits-8-bits.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\bin\Debug\net9.0\553-Odd-March-Bits-8-bits.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\bin\Debug\net9.0\553-Odd-March-Bits-8-bits.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\obj\Debug\net9.0\553-Odd-March-Bits-8-bits.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\obj\Debug\net9.0\553-Odd-March-Bits-8-bits.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\obj\Debug\net9.0\553-Odd-March-Bits-8-bits.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\obj\Debug\net9.0\553-Odd-March-Bits-8-bits.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\obj\Debug\net9.0\553-Odd-March-Bits-8-bits.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\obj\Debug\net9.0\553-Odd-March-Bits-8-bits.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\obj\Debug\net9.0\refint\553-Odd-March-Bits-8-bits.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\obj\Debug\net9.0\553-Odd-March-Bits-8-bits.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\obj\Debug\net9.0\553-Odd-March-Bits-8-bits.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\553-Odd-March-Bits-8-bits\obj\Debug\net9.0\ref\553-Odd-March-Bits-8-bits.dll
