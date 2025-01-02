@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\bin\Debug\net9.0\560-Simple-array-product.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\bin\Debug\net9.0\560-Simple-array-product.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\bin\Debug\net9.0\560-Simple-array-product.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\bin\Debug\net9.0\560-Simple-array-product.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\bin\Debug\net9.0\560-Simple-array-product.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\obj\Debug\net9.0\560-Simple-array-product.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\obj\Debug\net9.0\560-Simple-array-product.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\obj\Debug\net9.0\560-Simple-array-product.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\obj\Debug\net9.0\560-Simple-array-product.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\obj\Debug\net9.0\560-Simple-array-product.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\obj\Debug\net9.0\560-Simple-array-product.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\obj\Debug\net9.0\refint\560-Simple-array-product.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\obj\Debug\net9.0\560-Simple-array-product.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\obj\Debug\net9.0\560-Simple-array-product.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\560-Simple-array-product\obj\Debug\net9.0\ref\560-Simple-array-product.dll
