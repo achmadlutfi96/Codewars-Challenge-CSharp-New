@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "559-Basics-04-Rotate-Matrix/1.0.0": {
+        "runtime": {
+          "559-Basics-04-Rotate-Matrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "559-Basics-04-Rotate-Matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

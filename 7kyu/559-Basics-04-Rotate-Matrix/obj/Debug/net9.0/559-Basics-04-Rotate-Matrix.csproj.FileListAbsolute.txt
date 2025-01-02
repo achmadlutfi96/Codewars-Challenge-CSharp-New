@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\bin\Debug\net9.0\559-Basics-04-Rotate-Matrix.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\bin\Debug\net9.0\559-Basics-04-Rotate-Matrix.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\bin\Debug\net9.0\559-Basics-04-Rotate-Matrix.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\bin\Debug\net9.0\559-Basics-04-Rotate-Matrix.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\bin\Debug\net9.0\559-Basics-04-Rotate-Matrix.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\obj\Debug\net9.0\559-Basics-04-Rotate-Matrix.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\obj\Debug\net9.0\559-Basics-04-Rotate-Matrix.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\obj\Debug\net9.0\559-Basics-04-Rotate-Matrix.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\obj\Debug\net9.0\559-Basics-04-Rotate-Matrix.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\obj\Debug\net9.0\559-Basics-04-Rotate-Matrix.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\obj\Debug\net9.0\559-Basics-04-Rotate-Matrix.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\obj\Debug\net9.0\refint\559-Basics-04-Rotate-Matrix.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\obj\Debug\net9.0\559-Basics-04-Rotate-Matrix.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\obj\Debug\net9.0\559-Basics-04-Rotate-Matrix.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\559-Basics-04-Rotate-Matrix\obj\Debug\net9.0\ref\559-Basics-04-Rotate-Matrix.dll
