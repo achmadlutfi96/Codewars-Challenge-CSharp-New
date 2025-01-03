@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\bin\Debug\net9.0\561-Sum-Times-Tables.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\bin\Debug\net9.0\561-Sum-Times-Tables.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\bin\Debug\net9.0\561-Sum-Times-Tables.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\bin\Debug\net9.0\561-Sum-Times-Tables.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\bin\Debug\net9.0\561-Sum-Times-Tables.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\obj\Debug\net9.0\561-Sum-Times-Tables.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\obj\Debug\net9.0\561-Sum-Times-Tables.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\obj\Debug\net9.0\561-Sum-Times-Tables.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\obj\Debug\net9.0\561-Sum-Times-Tables.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\obj\Debug\net9.0\561-Sum-Times-Tables.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\obj\Debug\net9.0\561-Sum-Times-Tables.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\obj\Debug\net9.0\refint\561-Sum-Times-Tables.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\obj\Debug\net9.0\561-Sum-Times-Tables.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\obj\Debug\net9.0\561-Sum-Times-Tables.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\561-Sum-Times-Tables\obj\Debug\net9.0\ref\561-Sum-Times-Tables.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "561-Sum-Times-Tables/1.0.0": {
+        "runtime": {
+          "561-Sum-Times-Tables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "561-Sum-Times-Tables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
