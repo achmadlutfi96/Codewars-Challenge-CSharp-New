@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "562-Sexy-Primes/1.0.0": {
+        "runtime": {
+          "562-Sexy-Primes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "562-Sexy-Primes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

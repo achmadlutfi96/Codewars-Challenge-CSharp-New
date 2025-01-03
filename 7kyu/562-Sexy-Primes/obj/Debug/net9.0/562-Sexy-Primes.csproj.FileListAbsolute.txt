@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\bin\Debug\net9.0\562-Sexy-Primes.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\bin\Debug\net9.0\562-Sexy-Primes.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\bin\Debug\net9.0\562-Sexy-Primes.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\bin\Debug\net9.0\562-Sexy-Primes.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\bin\Debug\net9.0\562-Sexy-Primes.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\obj\Debug\net9.0\562-Sexy-Primes.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\obj\Debug\net9.0\562-Sexy-Primes.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\obj\Debug\net9.0\562-Sexy-Primes.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\obj\Debug\net9.0\562-Sexy-Primes.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\obj\Debug\net9.0\562-Sexy-Primes.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\obj\Debug\net9.0\562-Sexy-Primes.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\obj\Debug\net9.0\refint\562-Sexy-Primes.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\obj\Debug\net9.0\562-Sexy-Primes.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\obj\Debug\net9.0\562-Sexy-Primes.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\562-Sexy-Primes\obj\Debug\net9.0\ref\562-Sexy-Primes.dll
