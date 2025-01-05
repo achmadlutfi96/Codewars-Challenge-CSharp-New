@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\bin\Debug\net9.0\569-Smooth-numbers.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\bin\Debug\net9.0\569-Smooth-numbers.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\bin\Debug\net9.0\569-Smooth-numbers.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\bin\Debug\net9.0\569-Smooth-numbers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\bin\Debug\net9.0\569-Smooth-numbers.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\obj\Debug\net9.0\569-Smooth-numbers.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\obj\Debug\net9.0\569-Smooth-numbers.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\obj\Debug\net9.0\569-Smooth-numbers.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\obj\Debug\net9.0\569-Smooth-numbers.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\obj\Debug\net9.0\569-Smooth-numbers.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\obj\Debug\net9.0\569-Smooth-numbers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\obj\Debug\net9.0\refint\569-Smooth-numbers.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\obj\Debug\net9.0\569-Smooth-numbers.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\obj\Debug\net9.0\569-Smooth-numbers.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\569-Smooth-numbers\obj\Debug\net9.0\ref\569-Smooth-numbers.dll
