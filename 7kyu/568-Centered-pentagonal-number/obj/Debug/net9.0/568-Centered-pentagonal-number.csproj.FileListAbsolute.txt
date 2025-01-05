@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\bin\Debug\net9.0\568-Centered-pentagonal-number.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\bin\Debug\net9.0\568-Centered-pentagonal-number.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\bin\Debug\net9.0\568-Centered-pentagonal-number.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\bin\Debug\net9.0\568-Centered-pentagonal-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\bin\Debug\net9.0\568-Centered-pentagonal-number.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\obj\Debug\net9.0\568-Centered-pentagonal-number.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\obj\Debug\net9.0\568-Centered-pentagonal-number.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\obj\Debug\net9.0\568-Centered-pentagonal-number.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\obj\Debug\net9.0\568-Centered-pentagonal-number.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\obj\Debug\net9.0\568-Centered-pentagonal-number.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\obj\Debug\net9.0\568-Centered-pentagonal-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\obj\Debug\net9.0\refint\568-Centered-pentagonal-number.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\obj\Debug\net9.0\568-Centered-pentagonal-number.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\obj\Debug\net9.0\568-Centered-pentagonal-number.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\568-Centered-pentagonal-number\obj\Debug\net9.0\ref\568-Centered-pentagonal-number.dll
