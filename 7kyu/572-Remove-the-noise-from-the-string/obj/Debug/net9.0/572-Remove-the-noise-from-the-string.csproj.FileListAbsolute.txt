@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\bin\Debug\net9.0\572-Remove-the-noise-from-the-string.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\bin\Debug\net9.0\572-Remove-the-noise-from-the-string.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\bin\Debug\net9.0\572-Remove-the-noise-from-the-string.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\bin\Debug\net9.0\572-Remove-the-noise-from-the-string.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\bin\Debug\net9.0\572-Remove-the-noise-from-the-string.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\obj\Debug\net9.0\572-Remove-the-noise-from-the-string.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\obj\Debug\net9.0\572-Remove-the-noise-from-the-string.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\obj\Debug\net9.0\572-Remove-the-noise-from-the-string.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\obj\Debug\net9.0\572-Remove-the-noise-from-the-string.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\obj\Debug\net9.0\572-Remove-the-noise-from-the-string.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\obj\Debug\net9.0\572-Remove-the-noise-from-the-string.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\obj\Debug\net9.0\refint\572-Remove-the-noise-from-the-string.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\obj\Debug\net9.0\572-Remove-the-noise-from-the-string.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\obj\Debug\net9.0\572-Remove-the-noise-from-the-string.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\572-Remove-the-noise-from-the-string\obj\Debug\net9.0\ref\572-Remove-the-noise-from-the-string.dll
