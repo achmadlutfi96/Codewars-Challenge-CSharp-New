@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "575-Send-in-the-Clones/1.0.0": {
+        "runtime": {
+          "575-Send-in-the-Clones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "575-Send-in-the-Clones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

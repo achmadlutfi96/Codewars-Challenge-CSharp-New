@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\bin\Debug\net9.0\575-Send-in-the-Clones.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\bin\Debug\net9.0\575-Send-in-the-Clones.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\bin\Debug\net9.0\575-Send-in-the-Clones.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\bin\Debug\net9.0\575-Send-in-the-Clones.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\bin\Debug\net9.0\575-Send-in-the-Clones.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\obj\Debug\net9.0\575-Send-in-the-Clones.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\obj\Debug\net9.0\575-Send-in-the-Clones.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\obj\Debug\net9.0\575-Send-in-the-Clones.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\obj\Debug\net9.0\575-Send-in-the-Clones.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\obj\Debug\net9.0\575-Send-in-the-Clones.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\obj\Debug\net9.0\575-Send-in-the-Clones.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\obj\Debug\net9.0\refint\575-Send-in-the-Clones.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\obj\Debug\net9.0\575-Send-in-the-Clones.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\obj\Debug\net9.0\575-Send-in-the-Clones.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\575-Send-in-the-Clones\obj\Debug\net9.0\ref\575-Send-in-the-Clones.dll
