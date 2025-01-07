@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "576-Simple-Fun-11-Swap-Adjacent-Bits/1.0.0": {
+        "runtime": {
+          "576-Simple-Fun-11-Swap-Adjacent-Bits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "576-Simple-Fun-11-Swap-Adjacent-Bits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

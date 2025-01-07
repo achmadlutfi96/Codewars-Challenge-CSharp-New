@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\bin\Debug\net9.0\576-Simple-Fun-11-Swap-Adjacent-Bits.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\bin\Debug\net9.0\576-Simple-Fun-11-Swap-Adjacent-Bits.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\bin\Debug\net9.0\576-Simple-Fun-11-Swap-Adjacent-Bits.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\bin\Debug\net9.0\576-Simple-Fun-11-Swap-Adjacent-Bits.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\bin\Debug\net9.0\576-Simple-Fun-11-Swap-Adjacent-Bits.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\obj\Debug\net9.0\576-Simple-Fun-11-Swap-Adjacent-Bits.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\obj\Debug\net9.0\576-Simple-Fun-11-Swap-Adjacent-Bits.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\obj\Debug\net9.0\576-Simple-Fun-11-Swap-Adjacent-Bits.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\obj\Debug\net9.0\576-Simple-Fun-11-Swap-Adjacent-Bits.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\obj\Debug\net9.0\576-Simple-Fun-11-Swap-Adjacent-Bits.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\obj\Debug\net9.0\576-Simple-Fun-11-Swap-Adjacent-Bits.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\obj\Debug\net9.0\refint\576-Simple-Fun-11-Swap-Adjacent-Bits.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\obj\Debug\net9.0\576-Simple-Fun-11-Swap-Adjacent-Bits.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\obj\Debug\net9.0\576-Simple-Fun-11-Swap-Adjacent-Bits.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\576-Simple-Fun-11-Swap-Adjacent-Bits\obj\Debug\net9.0\ref\576-Simple-Fun-11-Swap-Adjacent-Bits.dll
