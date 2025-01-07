@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\bin\Debug\net9.0\574-Sub-array-elements-sum.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\bin\Debug\net9.0\574-Sub-array-elements-sum.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\bin\Debug\net9.0\574-Sub-array-elements-sum.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\bin\Debug\net9.0\574-Sub-array-elements-sum.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\bin\Debug\net9.0\574-Sub-array-elements-sum.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\obj\Debug\net9.0\574-Sub-array-elements-sum.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\obj\Debug\net9.0\574-Sub-array-elements-sum.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\obj\Debug\net9.0\574-Sub-array-elements-sum.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\obj\Debug\net9.0\574-Sub-array-elements-sum.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\obj\Debug\net9.0\574-Sub-array-elements-sum.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\obj\Debug\net9.0\574-Sub-array-elements-sum.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\obj\Debug\net9.0\refint\574-Sub-array-elements-sum.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\obj\Debug\net9.0\574-Sub-array-elements-sum.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\obj\Debug\net9.0\574-Sub-array-elements-sum.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\574-Sub-array-elements-sum\obj\Debug\net9.0\ref\574-Sub-array-elements-sum.dll
