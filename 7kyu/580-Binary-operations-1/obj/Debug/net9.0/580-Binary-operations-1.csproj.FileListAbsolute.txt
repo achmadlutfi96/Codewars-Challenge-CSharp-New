@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\bin\Debug\net9.0\580-Binary-operations-1.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\bin\Debug\net9.0\580-Binary-operations-1.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\bin\Debug\net9.0\580-Binary-operations-1.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\bin\Debug\net9.0\580-Binary-operations-1.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\bin\Debug\net9.0\580-Binary-operations-1.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\obj\Debug\net9.0\580-Binary-operations-1.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\obj\Debug\net9.0\580-Binary-operations-1.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\obj\Debug\net9.0\580-Binary-operations-1.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\obj\Debug\net9.0\580-Binary-operations-1.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\obj\Debug\net9.0\580-Binary-operations-1.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\obj\Debug\net9.0\580-Binary-operations-1.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\obj\Debug\net9.0\refint\580-Binary-operations-1.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\obj\Debug\net9.0\580-Binary-operations-1.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\obj\Debug\net9.0\580-Binary-operations-1.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\580-Binary-operations-1\obj\Debug\net9.0\ref\580-Binary-operations-1.dll
