@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "581-The-spiraling-box/1.0.0": {
+        "runtime": {
+          "581-The-spiraling-box.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "581-The-spiraling-box/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

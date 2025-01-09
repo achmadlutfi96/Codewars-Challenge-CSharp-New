@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\bin\Debug\net9.0\581-The-spiraling-box.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\bin\Debug\net9.0\581-The-spiraling-box.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\bin\Debug\net9.0\581-The-spiraling-box.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\bin\Debug\net9.0\581-The-spiraling-box.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\bin\Debug\net9.0\581-The-spiraling-box.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\obj\Debug\net9.0\581-The-spiraling-box.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\obj\Debug\net9.0\581-The-spiraling-box.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\obj\Debug\net9.0\581-The-spiraling-box.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\obj\Debug\net9.0\581-The-spiraling-box.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\obj\Debug\net9.0\581-The-spiraling-box.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\obj\Debug\net9.0\581-The-spiraling-box.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\obj\Debug\net9.0\refint\581-The-spiraling-box.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\obj\Debug\net9.0\581-The-spiraling-box.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\obj\Debug\net9.0\581-The-spiraling-box.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\581-The-spiraling-box\obj\Debug\net9.0\ref\581-The-spiraling-box.dll
