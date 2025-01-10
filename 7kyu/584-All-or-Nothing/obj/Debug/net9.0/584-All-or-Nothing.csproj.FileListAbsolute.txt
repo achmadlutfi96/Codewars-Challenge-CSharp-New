@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\bin\Debug\net9.0\584-All-or-Nothing.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\bin\Debug\net9.0\584-All-or-Nothing.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\bin\Debug\net9.0\584-All-or-Nothing.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\bin\Debug\net9.0\584-All-or-Nothing.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\bin\Debug\net9.0\584-All-or-Nothing.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\obj\Debug\net9.0\584-All-or-Nothing.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\obj\Debug\net9.0\584-All-or-Nothing.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\obj\Debug\net9.0\584-All-or-Nothing.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\obj\Debug\net9.0\584-All-or-Nothing.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\obj\Debug\net9.0\584-All-or-Nothing.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\obj\Debug\net9.0\584-All-or-Nothing.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\obj\Debug\net9.0\refint\584-All-or-Nothing.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\obj\Debug\net9.0\584-All-or-Nothing.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\obj\Debug\net9.0\584-All-or-Nothing.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\584-All-or-Nothing\obj\Debug\net9.0\ref\584-All-or-Nothing.dll

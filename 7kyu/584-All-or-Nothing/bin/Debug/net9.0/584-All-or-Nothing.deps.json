@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "584-All-or-Nothing/1.0.0": {
+        "runtime": {
+          "584-All-or-Nothing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "584-All-or-Nothing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
