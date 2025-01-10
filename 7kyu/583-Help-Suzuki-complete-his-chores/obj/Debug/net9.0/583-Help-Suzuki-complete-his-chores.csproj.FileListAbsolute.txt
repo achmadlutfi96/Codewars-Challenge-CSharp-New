@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\bin\Debug\net9.0\583-Help-Suzuki-complete-his-chores.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\bin\Debug\net9.0\583-Help-Suzuki-complete-his-chores.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\bin\Debug\net9.0\583-Help-Suzuki-complete-his-chores.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\bin\Debug\net9.0\583-Help-Suzuki-complete-his-chores.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\bin\Debug\net9.0\583-Help-Suzuki-complete-his-chores.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\obj\Debug\net9.0\583-Help-Suzuki-complete-his-chores.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\obj\Debug\net9.0\583-Help-Suzuki-complete-his-chores.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\obj\Debug\net9.0\583-Help-Suzuki-complete-his-chores.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\obj\Debug\net9.0\583-Help-Suzuki-complete-his-chores.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\obj\Debug\net9.0\583-Help-Suzuki-complete-his-chores.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\obj\Debug\net9.0\583-Help-Suzuki-complete-his-chores.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\obj\Debug\net9.0\refint\583-Help-Suzuki-complete-his-chores.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\obj\Debug\net9.0\583-Help-Suzuki-complete-his-chores.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\obj\Debug\net9.0\583-Help-Suzuki-complete-his-chores.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\583-Help-Suzuki-complete-his-chores\obj\Debug\net9.0\ref\583-Help-Suzuki-complete-his-chores.dll
