@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\bin\Debug\net9.0\591-Simple-Fun-17-Rounders.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\bin\Debug\net9.0\591-Simple-Fun-17-Rounders.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\bin\Debug\net9.0\591-Simple-Fun-17-Rounders.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\bin\Debug\net9.0\591-Simple-Fun-17-Rounders.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\bin\Debug\net9.0\591-Simple-Fun-17-Rounders.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\obj\Debug\net9.0\591-Simple-Fun-17-Rounders.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\obj\Debug\net9.0\591-Simple-Fun-17-Rounders.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\obj\Debug\net9.0\591-Simple-Fun-17-Rounders.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\obj\Debug\net9.0\591-Simple-Fun-17-Rounders.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\obj\Debug\net9.0\591-Simple-Fun-17-Rounders.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\obj\Debug\net9.0\591-Simple-Fun-17-Rounders.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\obj\Debug\net9.0\refint\591-Simple-Fun-17-Rounders.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\obj\Debug\net9.0\591-Simple-Fun-17-Rounders.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\obj\Debug\net9.0\591-Simple-Fun-17-Rounders.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\591-Simple-Fun-17-Rounders\obj\Debug\net9.0\ref\591-Simple-Fun-17-Rounders.dll
