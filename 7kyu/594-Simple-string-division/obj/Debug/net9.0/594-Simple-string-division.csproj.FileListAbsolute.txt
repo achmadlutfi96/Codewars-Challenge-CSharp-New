@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\bin\Debug\net9.0\594-Simple-string-division.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\bin\Debug\net9.0\594-Simple-string-division.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\bin\Debug\net9.0\594-Simple-string-division.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\bin\Debug\net9.0\594-Simple-string-division.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\bin\Debug\net9.0\594-Simple-string-division.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\obj\Debug\net9.0\594-Simple-string-division.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\obj\Debug\net9.0\594-Simple-string-division.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\obj\Debug\net9.0\594-Simple-string-division.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\obj\Debug\net9.0\594-Simple-string-division.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\obj\Debug\net9.0\594-Simple-string-division.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\obj\Debug\net9.0\594-Simple-string-division.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\obj\Debug\net9.0\refint\594-Simple-string-division.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\obj\Debug\net9.0\594-Simple-string-division.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\obj\Debug\net9.0\594-Simple-string-division.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\594-Simple-string-division\obj\Debug\net9.0\ref\594-Simple-string-division.dll
