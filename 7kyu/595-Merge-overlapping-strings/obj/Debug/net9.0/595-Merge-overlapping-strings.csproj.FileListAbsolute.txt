@@ -1,0 +1,15 @@
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\bin\Debug\net9.0\595-Merge-overlapping-strings.exe
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\bin\Debug\net9.0\595-Merge-overlapping-strings.deps.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\bin\Debug\net9.0\595-Merge-overlapping-strings.runtimeconfig.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\bin\Debug\net9.0\595-Merge-overlapping-strings.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\bin\Debug\net9.0\595-Merge-overlapping-strings.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\obj\Debug\net9.0\595-Merge-overlapping-strings.GeneratedMSBuildEditorConfig.editorconfig
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\obj\Debug\net9.0\595-Merge-overlapping-strings.AssemblyInfoInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\obj\Debug\net9.0\595-Merge-overlapping-strings.AssemblyInfo.cs
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\obj\Debug\net9.0\595-Merge-overlapping-strings.csproj.CoreCompileInputs.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\obj\Debug\net9.0\595-Merge-overlapping-strings.sourcelink.json
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\obj\Debug\net9.0\595-Merge-overlapping-strings.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\obj\Debug\net9.0\refint\595-Merge-overlapping-strings.dll
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\obj\Debug\net9.0\595-Merge-overlapping-strings.pdb
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\obj\Debug\net9.0\595-Merge-overlapping-strings.genruntimeconfig.cache
+f:\CODING-CHALLENGE\Codewars-Challenge-CSharp-New\7kyu\595-Merge-overlapping-strings\obj\Debug\net9.0\ref\595-Merge-overlapping-strings.dll
